@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/son/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Duu Firefox kokorantaa"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox kokorantaa goo ne!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Taagandiri cahãnte, faala nda forba</a>"
+
+msgid "Fresh new look"
+msgstr "Ndum taaga"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Ka cahã nda Firefox 3.6 sãy"
+
+msgid "More awesomeness than ever"
+msgstr "Ga leebe nda ibisantey kul"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Firefox dumi taaga foo goo no kaŋ ga war jejebu Interneti zanba alhiilawey "
+"ga."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Taaganidiri zaa</a> cahãnte nda forba!"
+
+msgid "get the latest in security"
+msgstr "duu saajaw kokorantaa"
+
+msgid "experience faster performance"
+msgstr "dii goyyan cahãnte fondo da"
+
+msgid "enjoy greater customization"
+msgstr "boŋše hanseyan ma kan ka tonton"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "War Firefox dumooo ga yaalaafu kayna da Interneti zanbakey še."
+
+msgid "Stay safe online"
+msgstr "Saajaw gaabu Interneti ra"
+
+msgid "Enjoy new features"
+msgstr "Alhaali taagey taba"
+
+msgid "URGENT!"
+msgstr "ŠÙGULLA!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "War Firefox dumoo ši yee ka bara nda jejebu Interneti zanbakey ga."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Woo ti šaawar koraa kaŋ bandaa ga taagandiroo ka dumi kokorantaa zaa nga boŋ "
+"še"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox ši yee ka war goyandi dabariɲaa dumoo kanbe nd'a ga yaalaafu "
+"Interneti zanbakey še."
+
+msgid "We recommend:"
+msgstr "Ir ga yaamar:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "War <a %s>goyandi dabariɲaŋoo</a> taagandi"
+
+msgid "Downloading a compatible browser"
+msgstr "Ceecikaw cerekanbante goo ma zunbu"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Taagandiri forba sinji war <a %s>goyandi dabariɲaŋoo</a> ga"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "War ga šaawarandi koyne jina hala taagandiroo ka tee nga boŋ še."

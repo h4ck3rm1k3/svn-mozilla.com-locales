@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lt/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Navigacija"
+
+msgid "Press area"
+msgstr "Žiniasklaidai"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Store"
+msgstr "Parduotuvė"
+
+msgid "Donate"
+msgstr "Paaukokite"
+
+msgid "Support"
+msgstr "Palaikymas"
+
+msgid "Products"
+msgstr "Programos"
+
+msgid "Add-ons"
+msgstr "Priedai"
+
+msgid "About Us"
+msgstr "Apie mus"
+
+msgid "Developers"
+msgstr "Programuotojams"
+
+msgid "Labs"
+msgstr "Laboratorija"
+
+msgid "skip to Navigation"
+msgstr "šokti į navigaciją"
+
+msgid "switch language"
+msgstr "pakeisti kalbą"
+
+msgid "Back to home page"
+msgstr "Grįžti į pradžios tinklalapį"
+
+msgid "About Mozilla"
+msgstr "Apie „Mozillą“"
+
+msgid "Get Involved"
+msgstr "Prisijunkite prie mūsų"
+
+msgid "Licensing"
+msgstr "Licencijavimas"
+
+msgid "Careers"
+msgstr "Karjeros galimybės"
+
+msgid "Press Center"
+msgstr "Spaudos centras"
+
+msgid "Contact Us"
+msgstr "Susisiekite su mumis"
+
+msgid "Site contact"
+msgstr "Svetainės kontaktai"
+
+msgid "Other languages:"
+msgstr "Kitos kalbos:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d {ok}"
+
+msgid "All rights reserved."
+msgstr "Visos teisės priklauso autoriams."
+
+msgid "Legal Notices"
+msgstr "Teisinė informacija"
+
+msgid "Privacy Policy"
+msgstr "Privatumo nuostatai"
+
+msgid "Visit Mozilla.com"
+msgstr "Aplankyti Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Aplankyti Mozilla.com (anglų kalba)"
+
+msgid "Download Firefox - Free"
+msgstr "Parsisiųskite „Firefox“ nemokamai"
+
+msgid "Release Notes"
+msgstr "Laidos apžvalga"
+
+msgid "Other Systems and Languages"
+msgstr "Kitos sistemos ir kalbos"
+
+msgid "Get Firefox"
+msgstr "Parsisiųskite „Firefox“"
+
+msgid "Free Download"
+msgstr "Parsisiųskite"
+
+msgid "Help us make Firefox even better!"
+msgstr "Padėkite pagerinti „Firefox“!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Atsakykite į nedidelės anketos klausimus ir pasidalinkite su mumis savo "
+"mintimis."
+
+msgid "Close"
+msgstr "Užverti"
+
+msgid "(in English)"
+msgstr "(anglų kalba)"
+
+msgid "Download Now - Free"
+msgstr "Parsisiųskite nemokamai"
+
+msgid "Return to top"
+msgstr "Grįžti į pradžią"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Patariame kuo skubiau <a href=\"http://get.adobe.com/flashplayer/\">atnaujinti "
+"„Adobe Flash Player“</a> papildinį."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Jūsų naudojama „Firefox“ laida yra šviežia, tačiau pasenęs „Flash Player“ "
+"papildinys gali sukelti tiek saugumo, tiek stabilumo problemų. Patariame jį "
+"<a href=\"http://get.adobe.com/flashplayer/\">nedelsiant atnaujinti</a>."
+
+msgid "Features"
+msgstr "Savybės"
+
+msgid "Customize"
+msgstr "Individualizavimas"
+
+msgid "Synchronize"
+msgstr "Sinchronizavimas"
+
+msgid "Develop for Mobile"
+msgstr "Kurkite mobiliesiems"
+
+msgid "Other Supported Platforms"
+msgstr "Kitos palaikomos platformos"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Kitos platformos ir kalbos"
+
+msgid "Choose your location"
+msgstr "Pasirinkite šalį"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Parsisiųskite „Firefox“ tiesiai į savo telefoną"
+
+msgid "Download"
+msgstr "Parsisiųsti"
+
+msgid "Next"
+msgstr "Toliau"
+
+msgid "MB"
+msgstr "&nbsp;MB"
+
+msgid "MegaBytes"
+msgstr "megabaito"
+
+msgid "FAQ"
+msgstr "Klausimai ir atsakymai"
+
+msgid "Videos"
+msgstr "Vaizdo įrašai"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Apie ką nėra <a href=\"%s\">nurodyta kitaip</a>, visas šios svetainės turinys "
+"yra pateikiamas pagal<br /><a href=\"%s\">„Creative Commons Attribution Share-"
+"Alike 3.0“</a> arba vėlesnės versijos licenciją."
+
+msgid "Report Trademark Abuse"
+msgstr "Pranešti apie neleistiną prekės ženklo naudojimą"
+
+msgid "Free Upgrade"
+msgstr "Atnaujinkite nemokamai"
+
+msgid "Follow us on:"
+msgstr "Sekite mus:"
+
+msgid "Customize with Add-ons"
+msgstr "Papildykite priedais"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sinchronizuokite kompiuterį su savo mobiliuoju"
+
+msgid "Learn More"
+msgstr "Išsamiau"
+
+msgid "Watch the video"
+msgstr "Žiūrėti filmuką"
+
+msgid "WebM format"
+msgstr "„WebM“ formatu"
+
+msgid "Ogg Theora format"
+msgstr "„Ogg Theora“ formatu"
+
+msgid "MPEG-4 format"
+msgstr "„MPEG-4“ formatu"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Oi! Įsitikinkite, kad įvedėte tikrą el. pašto adresą."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Prašom susipažinti su „Mozillos“ privatumo nuostatais ir išreikšti savo "
+"sutikimą su jais, pažymint laukelį."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Prašom įvesti savo el. pašto adresą ir susipažinti su „Mozillos“ privatumo "
+"nuostatais."
+
+msgid "Mobile"
+msgstr "Mobiliesiems"
+
+msgid "Firefox Updated"
+msgstr "„Firefox“ naršyklė buvo atnaujinta"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Pažvelkite į rytojaus saityną"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Kelionė į ateitį su „Firefox“"
+
+msgid "Join the Beta Program"
+msgstr "Tapkite Beta programos dalimi"
+
+msgid "Experience Firefox"
+msgstr "Išbandykite „Firefox“"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Ateities saitynas laukia Jūsų!"
+
+msgid "The future of the Web starts now."
+msgstr "Saityno ateitis prasideda šiandien."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Išbandykite naująją „Firefox“ išvaizdą."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Pamatykite rytojaus saityną jau dabar."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Išbandykite naująją „Firefox“ išvaizdą."
+
+msgid "Browse the future of the Web."
+msgstr "Naršykite rytojaus saityne."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Išbandykite naująją „Firefox“ išvaizdą."
+
+msgid "Download Beta Now."
+msgstr "Parsisiųskite betą."
+
+msgid "All Systems & Languages"
+msgstr "Visos sistemos ir kalbos"
+
+msgid "View Full Site"
+msgstr "Į pilnos apimties svetainę"
+
+msgid "Get Firefox for Android"
+msgstr "Parsisiųskite „Firefox“"
+
+msgid "Download for <span>Android</span>"
+msgstr "Parsisiųskite į <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "nemokamai iš „Android“ turgaus"
+
+msgid "Desktop"
+msgstr "Kompiuteriams"
+
+msgid "Firefox Beta for mobile"
+msgstr "„Firefox“ beta mobiliesiems"
+
+msgid "Firefox for mobile"
+msgstr "„Firefox“ mobiliesiems"
+
+msgid "Email"
+msgstr "El. paštas"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "„Mozilla Firefox“. Šiuolaikinis saitynas „Windows XP“ kompiuteriuose."
+
+msgid "Super speed"
+msgstr "Ypatinga sparta"
+
+msgid "Stunning graphics"
+msgstr "Naujos kartos grafika"
+
+msgid "The latest technologies"
+msgstr "Naujausios technologijos"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Jūs naudojatės pasenusia „Firefox“ laida. Kad išliktumėte saugūs, privalote "
+"atsinaujinti! <br /> <a href=\"%s\">Parsisiųskite nemokamą naujinimą</a> – "
+"sugaišę vos minutę, gausite naršyklę, pasižyminčią naujausiomis savybėmis, "
+"didesne sparta ir saugumu."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Jūsų naršyklę būtina atnaujinti! Tapkite saugūs vos per minutę. <br /> "
+"Pradėkite naudotis naująja „Firefox“ ir mėgaukitės patogiausiu naršymu ir "
+"išsamiausiu individualizavimu. <br /> Naujovinimas greitas ir nemokamas!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Jūs naudojatės senesne „Firefox“ laida. Kad išliktumėte saugūs, <a href=\"%"
+"s\">parsisiųskite atnaujinimą</a>! <br /> Mėgaukitės naujausios „Firefox“ "
+"galimybėmis, saugumu ir sparta. Parsisiųskite nemokamą naujovinimą – "
+"užtruksite vos minutę!"
+
+msgid "Upgrade now"
+msgstr "Naujovinti dabar"
+
+msgid "Update now"
+msgstr "Atnaujinti dabar"
+
+msgid "Supported Devices"
+msgstr "Palaikomi įrenginiai"
+
+msgid "What’s New"
+msgstr "Naujovės"
+
+msgid "Privacy"
+msgstr "Privatumas"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

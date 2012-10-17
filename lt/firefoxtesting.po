@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lt/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Parsisiųskite „Firefox“ betą „Android“ įrenginiams nemokamai"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Parsisiųskite „Firefox“ betą kompiuteriams nemokamai"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Parsisiųskite ir išbandykite „Firefox“ ateities laidas. Susipažinkite su "
+"šviežiausiomis naujovėmis, patenkančiomis į aurorą ir betą."
+
+msgid "Firefox Beta"
+msgstr "„Firefox“ beta"
+
+msgid "Firefox Beta for:"
+msgstr "Išsirinkite „Firefox“ betą:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "„Firefox“ beta mobiliesiems"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr ""
+"Parsisiųskite betą ir prisidėkite prie būsimosios „Firefox“ laidos "
+"tobulinimo."
+
+msgid "1. Test Features"
+msgstr "1. Ištestuokite naujoves"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Išbandykite naujausius našumo, individualizavimo ir saugumo patobulinimus, "
+"jau beveik paruoštus viešumai."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Padėkite „blizginti“"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Registruokite klaidas ir padėkite pašalinti paskutines problemėles, "
+"užtemdančias našumo ir funkcionalumo naujoves."
+
+msgid "3. Do Your Part"
+msgstr "3. Tapkite proceso dalimi"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Įtakokite būsimosios „Firefox“ laidos kokybę, tuo padėdami 450 milijonų jos "
+"kasdienių naudotojų."
+
+msgid "Supported devices"
+msgstr "Palaikomi įrenginiai"

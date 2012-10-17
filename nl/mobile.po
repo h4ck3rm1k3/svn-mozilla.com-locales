@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/nl/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Download Firefox voor Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Download voor <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Gratis via de Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Of bezoek <a %s>Firefox.com/m</a> op uw telefoon."
+
+msgid "Supported Devices"
+msgstr "Ondersteunde apparaten"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Download via iTunes - Gratis"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home voor <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Benader uw geschiedenis, bladwijzers, wachtwoorden en open tabbladen van "
+"Firefox op uw iPhone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Download Firefox naar <span>uw mobiel</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Wilt u de nieuwste functies testen?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Download Firefox Home voor iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Download Bèta voor Android"
+
+msgid "Download"
+msgstr "Download {ok}"
+
+msgid "for"
+msgstr "voor"
+
+msgid "Free from iTunes"
+msgstr "Gratis via iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Beleef de allernieuwste functionaliteiten en geef feedback om te helpen bij "
+"het verfijnen en bijschaven van nieuwe zaken in de definitieve uitgave."
+
+msgid "Developer Tools"
+msgstr "Ontwikkelaarshulpmiddelen"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"U kunt de mobiele versie van Firefox installeren op uw desktop, zodat u kunt "
+"testen, feedback kunt geven en add-ons kunt maken."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Verbind met Firefox voor mobiel:"
+
+msgid "Monthly newsletter"
+msgstr "Maandelijkse nieuwsbrief"
+
+msgid "Follow us"
+msgstr "Volg ons"
+
+msgid "Become a fan"
+msgstr "Word een fan"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox zit vol met innovaties die u minder laten typen, meer laten browsen "
+"en u snel en eenvoudig op het internet helpen."
+
+msgid "Freedom from typing"
+msgstr "Vrijheid van typewerk"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Het Awesome Screen leert uw favoriete websites, zodat u met minder of zonder "
+"typewerk kunt browsen."
+
+msgid "Best of both worlds"
+msgstr "Het beste van twee werelden"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox voor Android is nu opnieuw ontworpen en geoptimaliseerd voor uw "
+"manier van browsen op telefoons en tablets."
+
+msgid "Browse quick and easy"
+msgstr "Snel en eenvoudig browsen"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Met functies als Sync, navigeren met tabbladen en bladwijzers maken met één "
+"klik hebt u alles wat u wilt bij de hand."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Hulp nodig?</a> Bezoek onze Firefox voor Android-"
+"ondersteuningswebsite."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Download en test de versie die bij u past."
+
+msgid "See all our channels for mobile »"
+msgstr "Al onze kanalen voor mobiel bekijken »"
+
+msgid "Free from the Google Play Store"
+msgstr "Gratis vanaf de Google Play Store"

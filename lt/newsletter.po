@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lt/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Gaukite mėnesio naujienas"
+
+msgid "Your Email Address"
+msgstr "Jūsų el. pašto adresas"
+
+msgid "Text"
+msgstr "Tekstas"
+
+msgid "Available Languages"
+msgstr "Galimos kalbos"
+
+msgid "Select country"
+msgstr "Pasirinkite šalį"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Oi! Įsitikinkite, jog įvedėte galiojantį el. pašto adresą."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Prašom susipažinti su „Mozillos“ Privatumo nuostatais ir čia pažymėti, jog "
+"su jais sutinkate."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Aš sutinku su <a href=\"%s\">Privatumo nuostatais</a>"
+
+msgid "Sign me up!"
+msgstr "Prenumeruoti!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Mes Jums siųsime tik su „Mozilla“ susijusią informaciją."
+
+msgid "Thanks for Subscribing!"
+msgstr "Dėkojame už prenumeratą!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Netrukus mes pradėsime su Jumis dalintis paprastais patarimais ir "
+"gudrybėmis, padėsiančiais iš „Firefox“ „išspausti“ kiek įmanoma daugiau, o "
+"taip pat – „Mozillos“ naujienomis ir įdomybėmis."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Prenumeruokite mėnesinį naujienlaiškį ir neatsilikite nuo „Mozillos“ "
+"naujienų, tuo pačiu gaudami aktualių „Firefox“ naudojimosi patarimų. Tai – "
+"puikus būdas palaikyti tarp mūsų ryšį!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Jums ką tik el. paštu išsiųstas patvirtinimo laiškas. Jį gavę, spustelėkite "
+"ant jame esančio patvirtinimo saito, kad naujienlaiškio prenumerata "
+"įsigaliotų."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Skaitykite viską apie tai mūsų <span>naujienlaiškyje</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Naujienlaiškio prenumerata Jums patvirtinta."
+
+msgid "Format"
+msgstr "Formatas"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Viskas atlikta! <span>Bet luktelkite, yra dar kai kas</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Norite gauti labiausiai dominančią informaciją? Prisistatykite šiek tiek "
+"išsamiau, o tuo pačiu užsiprenumeruokite kitas Jus dominančias „Mozillos“ "
+"naujienas."
+
+msgid "Firefox & You"
+msgstr "„Firefox“ ir Tu"
+
+msgid "Our Other Newsletters:"
+msgstr "Kiti mūsų naujienlaiškiai:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Reguliarūs patarimai, padėsiantys iš Jūsų mėgstamos naršyklės „išspausti“ "
+"kuo daugiau."
+
+msgid "Firefox Mobile"
+msgstr "Mobilioji „Firefox“"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Sužinokite apie naujausius mobiliosios „Firefox“ priedus ir galimybes."
+
+msgid "Beta News"
+msgstr "Betos naujienos"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Susipažinkite su naujausiomis „Firefox“ naršyklių savybėmis prieš joms "
+"patenkant į galutinę laidą."
+
+msgid "Let’s Be Friends!"
+msgstr "Draugaukime!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"„Firefox“ galite rasti ir savo mėgstamame socialiniame tinkle. Bendraukime!"
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Tvarkykite savo <span>naujienlaiškių prenumeratas</span>"
+
+msgid "Subscribe"
+msgstr "Prenumeruoti"
+
+msgid "Unsubscribe"
+msgstr "Atsisakyti prenumeratos"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Pažymėkite, jeigu norite atsisakyti visų „Mozillos“ laiškų"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Pašalinti mane iš visų „Mozillos“ laiškų gavėjų"
+
+msgid "Save Preferences"
+msgstr "Įrašyti nuostatas"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Jūsų el. pašto gavimo nuostatos įrašytos."
+
+msgid "You've been unsubscribed."
+msgstr "Jūsų prenumeratų atsisakyta."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Apgailestaujame, jog tenka atsisveikinti. Gal pasakytumėte, kodėl "
+"nusprendėte mus palikti?"
+
+msgid "You send too many emails."
+msgstr "Gaunate per daug laiškų."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Gaunamų laiškų turinys Jums neaktualus."
+
+msgid "Your email design was too hard to read."
+msgstr "Laiškų išvaizda apsunkina skaitymą."
+
+msgid "I didn't sign up for this."
+msgstr "Laiškų neprenumeravote."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr ""
+"Su „Mozilla“ palaikote ryšį kitais būdais - per „Facebook“ ar „Twitter“."
+
+msgid "Submit"
+msgstr "Pateikti"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Dėkojame už Jūsų atsakymą."
+
+msgid "Mozilla Newsletters"
+msgstr "„Mozillos“ naujienlaiškiai"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti "
+"prenumeratą."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Netrukus iš mozilla@e.mozilla.org gausite laišką, prašantį patvirtinti "
+"prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad gautumėte "
+"naujienlaiškį, privalote patvirtinti prenumeratą."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Patariame įtraukti mūsų naujienlaiškių siuntimo adresą – "
+"mozilla@e.mozilla.org – į adresų knygą. Taip užtikrinsite, jog mūsų laiškai "
+"Jus visuomet pasieks."

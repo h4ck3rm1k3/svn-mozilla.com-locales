@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lt/mozorg/contribute-form.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Please tell us more about your interests."
+msgstr "Please tell us more about your interests."
+
+msgid "Thank you for getting in touch! You will hear from us soon."
+msgstr "Thank you for getting in touch! You will hear from us soon."
+
+msgid "Want to help?"
+msgstr "Want to help?"
+
+msgid "Please select an area of interest."
+msgstr "Please select an area of interest."
+
+msgid ""
+"Someone from Mozilla will get back to you soon with information about how to "
+"get involved. While you’re waiting, browse through some of the volunteer "
+"opportunities available below."
+msgstr ""
+"Someone from Mozilla will get back to you soon with information about how to "
+"get involved. While you’re waiting, browse through some of the volunteer "
+"opportunities available below."
+
+msgid "Submitting data, please wait..."
+msgstr "Submitting data, please wait..."
+
+msgid "I’d like to receive regular contribution news by email"
+msgstr "I’d like to receive regular contribution news by email"
+
+msgid "Hi, I’m interested in…"
+msgstr "Hi, I’m interested in…"
+
+msgid "Submit&nbsp;»"
+msgstr "Submit&nbsp;»"
+
+msgid "Send us a note and we can get you started right away."
+msgstr "Send us a note and we can get you started right away."
+
+msgid "Your CAPTCHA response did not match. Please try again."
+msgstr "Your CAPTCHA response did not match. Please try again."
+
+msgid "Thank you for getting in touch."
+msgstr "Thank you for getting in touch."

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/nl/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "De status van Mozilla <span>Jaarverslag</span>"
+
+msgid "Welcome"
+msgstr "Welkom"
+
+msgid "Opportunities"
+msgstr "Kansen"
+
+msgid "People"
+msgstr "Mensen"
+
+msgid "Ahead"
+msgstr "Toekomst"
+
+msgid "Download this video:"
+msgstr "Download deze video:"
+
+msgid "A Different Kind of Browser"
+msgstr "Een ander soort browser"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "Waar gaat Mozilla over? Waarom doen we dit? Blij dat u het vraagt."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Vooruitkijken <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, voorzitter, bespreekt de status van Mozilla."
+
+msgid "Getting Involved"
+msgstr "Meedoen"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr ""
+"Mozilla is een prettige, diverse gemeenschap van mensen van over de hele "
+"wereld."
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Mozilla Firefox-reclame, San Francisco"
+
+msgid "Download PDF"
+msgstr "PDF downloaden"
+
+msgid "2010 Audited Financial Statement"
+msgstr "Gecontroleerd financieel jaarverslag 2010"
+
+msgid "2010 Form 990"
+msgstr "Form 990, 2010"
+
+msgid "Celebrating Firefox"
+msgstr "Firefox vieren"
+
+msgid "ReMo Work Week in Paris"
+msgstr "ReMo-werkweek in Parijs"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Mozilla-bijeenkomst, Brazilië"
+
+msgid "Arabic Mozilla"
+msgstr "Mozilla Arabië"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Kenia"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Indonesië"
+
+msgid "Other languages & sharing"
+msgstr "Andere talen & delen"

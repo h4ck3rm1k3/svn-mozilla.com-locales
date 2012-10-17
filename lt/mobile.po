@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lt/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Parsisiųskite „Firefox“ <span>„A&zwnj;ndroid’ui“</spam>"
+
+msgid "Download for <span>Android</span>"
+msgstr "Parsisiųsti į <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Nemokamai iš „Android“ krautuvės"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Arba atverkite <a %s>Firefox.com/m</a> savo telefone."
+
+msgid "Supported Devices"
+msgstr "Palaikomi įrenginiai"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Gaukite iš „iTunes“ – DYKAI"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "„Firefox Home“ <span>iPhone’ui</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Pasiekite „Firefox“ žurnalą, adresyną ir atvertas korteles savo „iPhone“ "
+"telefone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Parsisiųskite „Firefox“ į <span>savo mobilųjį</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Norite išbandyti šviežiausias naujoves?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Parsisiųskite „Firefox Home“ „iPhone’ui“"
+
+msgid "Download Beta for Android"
+msgstr "Parsisiųskite betą „Andoid’ui“"
+
+msgid "Download"
+msgstr "Parsisiųsti"
+
+msgid "for"
+msgstr "skirtą"
+
+msgid "Free from iTunes"
+msgstr "Nemokamai iš „iTunes“"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Galėsite susipažinti su šviežiausiomis naujovėmis ir pateikti atsiliepimų – "
+"tuo mums padėsite išblizginti ir nupoliruoti tai, kas pateks į galutinę "
+"laidą."
+
+msgid "Developer Tools"
+msgstr "Įrankiai kūrėjams"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Mobiliąją „Firefox“ atmainą galite įdiegti į savo kompiuterį – taip galėsite "
+"ją testuoti, palikti atsiliepimų ir kurti jai priedus."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Palaikykite su mumis ryšį:"
+
+msgid "Monthly newsletter"
+msgstr "Mėnesinis naujienlaiškis"
+
+msgid "Follow us"
+msgstr "Sekite mus"
+
+msgid "Become a fan"
+msgstr "Tapkite gerbėju"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"„Firefox“ yra pilna naujovių, kurių dėka rinkti tekstą reikės mažiau, o "
+"naršyti galėsite daugiau, sparčiau ir paprasčiau."
+
+msgid "Freedom from typing"
+msgstr "Laisvė nuo teksto rinkimo"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Pradžios ekranas įsimena Jūsų mėgiamas svetaines, tad naršant teksto rinkti "
+"beveik nereikės."
+
+msgid "Best of both worlds"
+msgstr "Geriausia iš abiejų pasaulių"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Mobilioji „Firefox“ dabar atnaujinta ir dar labiau pritaikyta naršymui "
+"telefonuose ir planšetėse."
+
+msgid "Browse quick and easy"
+msgstr "Spartus ir paprastas naršymas"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Viskas, ko reikia – sinchronizavimas, kortelės ir įrašymas į adresyną vienu "
+"spragtelėjimu – ranka pasiekiama."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Reikia pagalbos?</a> Aplankykite mobiliosios „Firefox“ palaikymo "
+"svetainę."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Parsisiųskite ir išbandykite labiausiai Jums tinkančią versiją."
+
+msgid "See all our channels for mobile »"
+msgstr "Visi mobiliosios „Firefox“ kanalai »"
+
+msgid "Free from the Google Play Store"
+msgstr "Nemokamai iš „Google Play“ krautuvės"

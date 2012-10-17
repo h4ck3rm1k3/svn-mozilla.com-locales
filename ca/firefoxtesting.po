@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ca/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Baixeu-vos el Firefox Beta per a l'Android de franc"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Baixeu-vos el Firefox Beta per a l'escriptori de franc"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Baixeu i proveu les properes versions del Firefox. Experimenteu les darreres "
+"innovacions amb les construccions de l'Aurora o la Beta."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta per a:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta per a mòbils"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Baixeu la Beta i sigueu part de la propera versió del Firefox."
+
+msgid "1. Test Features"
+msgstr "1. Proveu funcions"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Proveu les últimes millores en rendiment, personalització i seguretat quasi "
+"a punt per mostrar-se al món."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Refineu i poliu"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Empleneu informes d'error per ajudar-nos a fer els darrers ajustaments en "
+"rendiment i funcions en un entorn estable."
+
+msgid "3. Do Your Part"
+msgstr "3. Feu la vostra part"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Deixeu la vostra emprempta en la propera versió del Firefox o els 450 "
+"milions de persones que el fan servir cada dia."
+
+msgid "Supported devices"
+msgstr "Dispositius compatibles"

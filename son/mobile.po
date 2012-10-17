@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/son/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Firefox zaa Android še"
+
+msgid "Download for <span>Android</span>"
+msgstr "Zumandiyan <span>Android</span> še"
+
+msgid "Free from the Android Market"
+msgstr "Forba jinay Android Market ra"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Wala <a %s>Firefox.com/m</a> naaru war talfonoo ga."
+
+msgid "Supported Devices"
+msgstr "Jinay gaakašinantey"
+
+msgid "Get it from iTunes - FREE"
+msgstr "A zaa iTunes ra - FORBA"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Homme <span>iPhone</span> še"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Wa duu war Firefox taarikoo, doo-šilbawey nda nor loku feerantey iPhone ga."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Firefox zumandi <span>War kanbe talfonoo</span> ga"
+
+msgid "Want to test the latest features?"
+msgstr "War ga baa ka goyfondo korawey šii?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Firefox Home zaa iPhone še"
+
+msgid "Download Beta for Android"
+msgstr "Beta zumandi Android še"
+
+msgid "Download"
+msgstr "Zumandi"
+
+msgid "for"
+msgstr "ne"
+
+msgid "Free from iTunes"
+msgstr "Forba iTunes ra"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"War ga hin ka duu alhaali kul-šifanteyaŋ nda laasaabu willandi ka gaa ka "
+"haya kaŋ ga kokor ka fatta hennandi nd'i yuttandi."
+
+msgid "Developer Tools"
+msgstr "Cinakey goyjinawey"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"War ga hin ka Firefox kanbe-jinay dumoo sinji ir ordinateroo g'a ka šii, "
+"laasaabu nda tontoniyaŋ cin da."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Firefox kange-jinay-še cee:"
+
+msgid "Monthly newsletter"
+msgstr "Handu alhabar bataga"
+
+msgid "Follow us"
+msgstr "Ir gana"
+
+msgid "Become a fan"
+msgstr "Tee hangakaw"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox ga too nda taagandir ka žabu hantumyan ra, ka Interneti naarumi "
+"tonton nda cahãri nda faala."
+
+msgid "Freedom from typing"
+msgstr "Goy bila nda hantumyan"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Diji kayfantaa kaŋ ga war nungey bay nga boŋ še hala war ma hin ka naaru nda "
+"hantum kayna wala bila nd'a. "
+
+msgid "Best of both worlds"
+msgstr "Koy hinka kaanoo"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefoy Android še hanse n' ka fasal taaga sohõ nd'a sahãndi takaa kaŋ nda "
+"war ga dii Internet talfon nda walhayze ga še. "
+
+msgid "Browse quick and easy"
+msgstr "Naaru cahã nda faala"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Alhaaliyaŋ sanda Sync, nor loku naarumi nda mooru-foo doo-šilbayyan maanaa "
+"ti haya kaŋ war ga baa kul man kanbe."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr "<a %s>Ga baa faaba?</a> Koy ir Firefox Android še gaakašinay nungoo do."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Cinaroo kaŋ ga tee war še zumandi k'a šii."
+
+msgid "See all our channels for mobile »"
+msgstr "Dii kaanawey kul kaŋ goo kanbehaya še »"

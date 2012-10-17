@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ta-LK/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "புதிய Firefox இனைப் பெற்றுக்கொள்ளுங்கள்"
+
+msgid "The Newest Firefox is Here!"
+msgstr "புதிய Firefox இங்கே!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>விரைவான, இலகுவான, இலவச இற்றைப்படுத்தல்</a>"
+
+msgid "Fresh new look"
+msgstr "புதிய கவர்ச்சிகரமான தோற்றம்"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Firefox 3.6 விட மிக வேகமானது"
+
+msgid "More awesomeness than ever"
+msgstr "எப்போதும் இல்லாத புதிய அனுபவம்"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>புதிய பதிப்பினைப் பெறுக!</a> - இது வேகமானது-இலவசமானது!"
+
+msgid "get the latest in security"
+msgstr "get the latest in security"
+
+msgid "experience faster performance"
+msgstr "வேகமான செயல்திறன்"
+
+msgid "enjoy greater customization"
+msgstr "enjoy greater customization"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Your version of Firefox will soon be vulnerable to online attacks."
+
+msgid "Stay safe online"
+msgstr "இணையத்தில் பாதுகாப்பாக உலாவரல்"
+
+msgid "Enjoy new features"
+msgstr "புதிய அம்சங்கள்"
+
+msgid "URGENT!"
+msgstr "அறிவித்தல்!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"உங்களுடைய Firefox பதிப்பானது இணையத்தினூடான தாக்குதல்களிலிருந்து இனிமேல் "
+"பாதுகாக்கப்படாது."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+
+msgid "We recommend:"
+msgstr "We recommend:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Upgrading your <a %s>operating system</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Downloading a compatible browser"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Installing a free upgrade to your <a %s>operating system</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "You will be prompted once more before being automatically updated."

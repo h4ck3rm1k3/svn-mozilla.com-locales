@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/en-ZA/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Download Firefox Beta for Android - Free {ok}"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Download Firefox Beta for Desktop - Free {ok}"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds. {ok}"
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta for: {ok}"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta for Mobile {ok}"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Download Beta and be part of the next version of Firefox. {ok}"
+
+msgid "1. Test Features"
+msgstr "1. Test Features {ok}"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Try out the latest performance, customisation and security enhancements "
+"almost ready for prime time."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Refine &amp; Polish {ok}"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment. {ok}"
+
+msgid "3. Do Your Part"
+msgstr "3. Do Your Part {ok}"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day. {ok}"
+
+msgid "Supported devices"
+msgstr "Supported devices {ok}"

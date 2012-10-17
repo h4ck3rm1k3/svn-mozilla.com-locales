@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/son/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Hoy-hoy! War Firefox-oo n' ka taagandi."
+
+msgid "Your Firefox is out of date."
+msgstr "War Firefox-oo n' ka taagandi."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Saajaw dalil še, ir ga war yaamar ka taagandi nda <a href=\"{url}\">dumi kul "
+"kokorante nda bešere</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "War goo ma goy nda Firefox dumi šibayante."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Saajaw dalil še, ir ga war yaamar ka <a href=\"{url}\">dumi kul kokorante nda "
+"bešere</a> zumandi ne."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Tee war hiino goyoo<br/>ma cahã ka tonton  "
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Dii taka kaŋ nda Firefox alhaali taagey ga war naarumoo ma cahã nda nafa ka "
+"tonton."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Bay ka tonton <a href=\"{url}\">Nor loku taaga alhaali »</a> ga"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Bay ka tonton ir <a href=\"{url}\">šintin moo fasalri taagaa »</a> ga"
+
+msgid "Keep in touch"
+msgstr "Duu alhabar"
+
+msgid "Keep it moving"
+msgstr "A ma koy nda jine"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Duu Firefox » <b>Android še</b>"
+
+msgid "Keep it going"
+msgstr "A ma gaabandi"
+
+msgid "Join Mozilla"
+msgstr "Huru Mozilla ra"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android Robot n' ka teendi nda goy ašsil goy kaŋ <a href=\"%s\">Google n'a "
+"žemna</a> nda ga goyandi nda duɲe kaddasu <a href=\"%s\">Creative Commons 3.0 "
+"Attribution License</a> ra."
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Now get the mobile browser that’s got your back"
+
+msgid "Firefox Features"
+msgstr "Firefox Features"
+
+msgid "Welcome to Firefox"
+msgstr "Welcome to Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox Help"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox for Android artwork"

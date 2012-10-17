@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/en-ZA/videos/video_teambox.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Your apps on all your devices"
+msgstr "Your apps on all your devices {ok}"
+
+msgid ""
+"Teambox is an online collaboration software that can be hosted in the cloud "
+"or onsite"
+msgstr ""
+"Teambox is an online collaboration software that can be hosted in the cloud "
+"or onsite {ok}"
+
+msgid "that allows teams of any size to collaborate more efficiently,"
+msgstr "that allows teams of any size to collaborate more efficiently, {ok}"
+
+msgid "communicate with each other, share files and manage tasks."
+msgstr "communicate with each other, share files and manage tasks. {ok}"
+
+msgid "We’re fortunate enough to have customers all over the world"
+msgstr "We’re fortunate enough to have customers all over the world {ok}"
+
+msgid ""
+"and using HTML5 we know that we can deliver a consistent user experience"
+msgstr ""
+"and using HTML5 we know that we can deliver a consistent user experience "
+"{ok}"
+
+msgid ""
+"to those customers anywhere they are, no matter what device they are using."
+msgstr ""
+"to those customers anywhere they are, no matter what device they are using. "
+"{ok}"
+
+msgid "There is actually one customer that’s coming to mind called iBolt"
+msgstr "There is actually one customer that’s coming to mind called iBolt {ok}"
+
+msgid "and they manufacture wireless accessories all over the world."
+msgstr "and they manufacture wireless accessories all over the world. {ok}"
+
+msgid "All of them are on different devices, some of them are using phones"
+msgstr ""
+"All of them are on different devices, some of them are using phones {ok}"
+
+msgid "some are on tablets, some are on the desktop,"
+msgstr "some are on tablets, some are on the desktop, {ok}"
+
+msgid ""
+"but we know that all of them have a consistent and great user experience "
+"using HTML5"
+msgstr ""
+"but we know that all of them have a consistent and great user experience "
+"using HTML5 {ok}"
+
+msgid "and that gives us a lot of assurance as a software developer."
+msgstr "and that gives us a lot of assurance as a software developer. {ok}"
+
+msgid "Obviously we could build native applications, but doing so,"
+msgstr "Obviously we could build native applications, but doing so, {ok}"
+
+msgid "for a small fast-growing company like us,"
+msgstr "for a small fast-growing company like us, {ok}"
+
+msgid "takes a lot of time, a lot of extra money and"
+msgstr "takes a lot of time, a lot of extra money and {ok}"
+
+msgid "it impacts our ability to deliver a great app to market sooner."
+msgstr "it impacts our ability to deliver a great app to market sooner. {ok}"
+
+msgid "So we made the decision not to build native apps"
+msgstr "So we made the decision not to build native apps {ok}"
+
+msgid "and we’re using technologies like HTML5 to get to market faster"
+msgstr "and we’re using technologies like HTML5 to get to market faster {ok}"
+
+msgid ""
+"with better products and ultimately to deliver a better user experience for "
+"our customers."
+msgstr ""
+"with better products and ultimately to deliver a better user experience for "
+"our customers. {ok}"
+
+msgid "Quite frankly we see it as a terrific onramp for our business"
+msgstr "Quite frankly we see it as a terrific onramp for our business {ok}"
+
+msgid ""
+"Already today we see almost 1,000 signups a day without the Mozilla "
+"Marketplace"
+msgstr ""
+"Already today we see almost 1,000 signups a day without the Mozilla "
+"Marketplace {ok}"
+
+msgid ""
+"and we can’t even imagine how many we can possibly get through that "
+"Marketplace."
+msgstr ""
+"and we can’t even imagine how many we can possibly get through that "
+"Marketplace. {ok}"
+
+msgid "So we see it as a tremendous opportunity."
+msgstr "So we see it as a tremendous opportunity. {ok}"
+
+msgid "Something that gives us more visibility, more cachet in the market"
+msgstr "Something that gives us more visibility, more cachet in the market {ok}"
+
+msgid "and we’re really excited about it, we’re looking forward to it."
+msgstr "and we’re really excited about it, we’re looking forward to it. {ok}"

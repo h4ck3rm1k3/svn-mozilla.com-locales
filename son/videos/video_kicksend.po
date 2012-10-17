@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/son/videos/video_kicksend.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The problem with file sharing right now is that not one solution"
+msgstr "Sohõda tuku žemnayan šendaa ti kaŋ manti dabari foo de"
+
+msgid "provides a really, really good experience for non technical users."
+msgstr "bara kaŋ ga hansa, hansa ka kaanandi goykey kaŋ manti goni še."
+
+msgid "With Kicksend you can send files to any of your friends,"
+msgstr "Nda Kicksend war ma hin ka tukey sanba war cerey še,"
+
+msgid "of any size, just by dragging and dropping onto the web"
+msgstr "adadu kul, war mm'i gongu de k'i zumandi Interneti ra"
+
+msgid "and you can put in an email address"
+msgstr "nda war ma haya dam bataga ra"
+
+msgid "and that file gets delivered directly to your friends."
+msgstr "de tukoo ma šerre ka koy hala war cerey do."
+
+msgid "We decided to go the native route because we want to provide"
+msgstr "Ir hanga lasal fondaa nd'anniya zama ir n' ka baa ka"
+
+msgid "a really good experience that people are used to on iPhone and Android"
+msgstr "goyoo kaanandi nda takaa kaŋ nda borey doona iPhone nda Android ga"
+
+msgid "but at the same time, we still want to provide"
+msgstr "amma waati follokaa da ra, ir ga boona da"
+
+msgid "the same great experience on the mobile web."
+msgstr "goy kaani follokaa da kanbeyan Interneti ra."
+
+msgid "HTML5 allows us to be on multiple platforms"
+msgstr "HTML5 ga too war ma goy maršin booboyaŋ ga"
+
+msgid "without having to worry about dependencies on each of these platforms."
+msgstr "bila nda war ma joote nda maršiney din ma kate doonay futu."
+
+msgid "Developing in HTML5 really helps us provide the features that"
+msgstr "Cinayan nda HTML5 g'ir gaa nda cimi k'alhaaley kaataray kaŋ"
+
+msgid "our users need to be able to send files really easily through the web."
+msgstr "ir goykey ga boon'ey ka hin ka tukey sanba nda faala cimi Interneti ra."
+
+msgid "We try to be on every single mobile platform"
+msgstr "Ir ga ceeci ka bara kanbe jinay foo kul ga"
+
+msgid "We do have native applications on iPhone and Android"
+msgstr "Ir ši nda lasal porogaramyaŋ iPhone nda Android ga"
+
+msgid "but we do realize that the rest of the world"
+msgstr "amma ir ga bay kaŋ adduɲɲaa jeroo kul"
+
+msgid "can use HTML5 to access Kicksend wherever they are."
+msgstr "ga hin ka HTML5 ka huru Kicksend ra nungu kul kaŋ i goo."
+
+msgid ""
+"The Mozilla Marketplace, I mean, first off it gives you massive distribution"
+msgstr "Mozilla Marketplace, maana ti, ijinaa a ga žemna war jamaa še"
+
+msgid "because everybody who is using Firefox will essentially be using it."
+msgstr "zama boro kul kaŋ ga goy nda Firefox kul da mma kaa ka goy nd'a."
+
+msgid "And there is also a mobile aspect to it that"
+msgstr "Nda kanbeyan alhaali foo da goo no kaŋ"
+
+msgid "is going to push our mobile HTML5 app to many, many millions of users"
+msgstr "ga too ir kanbe HTML5 porogaramey ma too goykaw miliyoŋ booboyaŋ do"
+
+msgid "and that’s a no-brainer at that point."
+msgstr "nda woo manti sungay-nda-herreyan."
+
+msgid "The fact that we can update very easily"
+msgstr "Kaŋ ir ga hin ga taagandi nda faala bibi"
+
+msgid "and actually provide services through the browser"
+msgstr "nda cimi nafaw goyyaŋ kate ceecikaa woo bande"
+
+msgid ""
+"that gives our app special permissions is something that is also a no-"
+"brainer"
+msgstr "kaŋ ga too ir porogaramey ma duɲe nda cerecere bila nda šenday dumi kul"
+
+msgid "It took us may 15 minutes to bundle our app up and publish it"
+msgstr "A too ir ga miniti 15 hala ir m'ir porogaramoo haw k'a wallafi"
+
+msgid "to the Marketplace and ever since then we pushed out"
+msgstr "Marketplace ra nda za ir fatta nda"
+
+msgid "a few releases already and it was a very smooth smooth experience."
+msgstr "kaataray dumi fooyaŋ ka ben nda woo goyoo tee ibaana-baana foo."
+
+msgid "distribute your apps"
+msgstr "war porogaramey žemna"

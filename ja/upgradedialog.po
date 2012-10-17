@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ja/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Firefox の最新版を入手"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox の最新版が完成！"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>短時間で簡単無料アップグレード</a>"
+
+msgid "Fresh new look"
+msgstr "刷新されたユーザインタフェース"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Firefox 3.6 よりはるかに高速"
+
+msgid "More awesomeness than ever"
+msgstr "魅力的な新機能"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr "インターネット上の脅威からあなたを守る Firefox の新バージョンがあります"
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>今すぐアップグレード</a> — 高速・無料です"
+
+msgid "get the latest in security"
+msgstr "最新のセキュリティ更新を自動で入手"
+
+msgid "experience faster performance"
+msgstr "ページの読み込みがより高速に"
+
+msgid "enjoy greater customization"
+msgstr "カスタマイズの柔軟性も向上"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "あなたが今お使いの Firefox は古く、今後 Web 上で攻撃を受ける恐れがあります。"
+
+msgid "Stay safe online"
+msgstr "ネット環境をより安全に"
+
+msgid "Enjoy new features"
+msgstr "新機能も満載"
+
+msgid "URGENT!"
+msgstr "緊急告知"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "あなたが今お使いの Firefox は古く、Web 上での攻撃から保護されていません。"
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr "これが、最新版への自動更新が行われる前の最後の通知となります。"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr "あなたが今お使いの Firefox は古く、今後 Web 上で攻撃を受ける恐れがあります。"
+
+msgid "We recommend:"
+msgstr "以下のいずれかを推奨します。"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "<a %s>OS</a> を更新する"
+
+msgid "Downloading a compatible browser"
+msgstr "対応している他のブラウザへ移行する"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "お使いの <a %s>OS</a> に無料アップグレードをインストール"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "最新版への自動更新が行われる前に、再度このような通知が表示されます。"
