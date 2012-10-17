@@ -1,0 +1,1871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 10:59-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#: apps/firefox/forms.py:22
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+
+#: apps/firefox/views.py:30
+msgid "An error occurred in our system. Please try again later."
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:21
+#: apps/firefoxos/templates/firefoxos/firefoxos-base.html:19
+#: templates/base-resp.html:39
+msgid "Menu"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:23
+#: apps/firefox/templates/firefox/base.html:22
+#: apps/firefox/templates/firefox/fx.html:16
+#: apps/firefox/templates/firefox/new.html:39
+msgid "Desktop"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:25
+#: apps/firefox/templates/firefox/base-resp.html:34
+#: apps/firefox/templates/firefox/base.html:24
+#: apps/firefox/templates/firefox/mobile/faq.html:126
+#: apps/firefox/templates/firefox/mobile/features.html:14
+msgid "Features"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:26
+#: apps/firefox/templates/firefox/base-resp.html:35
+#: apps/firefox/templates/firefox/base.html:25
+msgid "Customize"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:27
+#: apps/firefox/templates/firefox/base.html:26
+msgid "Performance"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:28
+#: apps/firefox/templates/firefox/base.html:27
+msgid "Technology"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:29
+#: apps/firefox/templates/firefox/base.html:28
+msgid "Privacy &amp; Security"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:32
+#: apps/firefox/templates/firefox/fx.html:15
+#: apps/firefox/templates/firefox/new.html:40
+#: apps/firefox/templates/firefox/mobile/faq.html:13
+#: apps/firefox/templates/firefox/mobile/features.html:13
+#: apps/firefox/templates/firefox/mobile/platforms.html:13
+msgid "Mobile"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:36
+#: apps/firefox/templates/firefox/mobile/faq.html:14
+msgid "FAQ"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:39
+#: apps/firefox/templates/firefox/base.html:38
+msgid "Releases"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:41
+#: apps/firefox/templates/firefox/base.html:40
+msgid "Overview"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:42
+#: apps/firefox/templates/firefox/base.html:41
+msgid "Firefox Aurora"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:43
+#: apps/firefox/templates/firefox/base.html:42
+msgid "Firefox Beta"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:44
+#: apps/firefox/templates/firefox/base.html:43
+#: apps/mozorg/templates/mozorg/products.html:33
+msgid "Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:45
+#: apps/firefox/templates/firefox/base.html:44
+msgid "Firefox for Organizations"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:48
+#: apps/firefox/templates/firefox/base.html:47
+#: apps/firefox/templates/firefox/new.html:41
+#: apps/mozorg/email_contribute.py:45
+#: apps/mozorg/templates/mozorg/contribute.html:128
+msgid "Add-ons"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:50
+#: apps/firefox/templates/firefox/base.html:49
+msgid "Desktop Add-ons"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:51
+#: apps/firefox/templates/firefox/base.html:50
+msgid "Mobile Add-ons"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:52
+#: apps/firefox/templates/firefox/base.html:51
+msgid "Personas"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:55
+#: apps/firefox/templates/firefox/base.html:54
+#: apps/firefox/templates/firefox/new.html:42
+msgid "Support"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:57
+#: apps/firefox/templates/firefox/base.html:56
+msgid "Desktop Support"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:58
+#: apps/firefox/templates/firefox/base.html:57
+msgid "Mobile Support"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:61
+#: apps/firefox/templates/firefox/base.html:60
+#: apps/firefox/templates/firefox/new.html:43
+#: templates/base-resp.html:42
+#: templates/base.html:41
+msgid "About"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:63
+#: apps/firefox/templates/firefox/base.html:62
+msgid "Blog"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:64
+#: apps/firefox/templates/firefox/base.html:63
+msgid "About Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:65
+#: apps/firefox/templates/firefox/base.html:64
+msgid "Join Mozilla"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:66
+#: apps/firefox/templates/firefox/base.html:65
+msgid "Participate"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:67
+#: apps/firefox/templates/firefox/base.html:66
+msgid "Press Center"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:68
+#: apps/firefox/templates/firefox/base.html:67
+msgid "Brand Toolkit"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:69
+#: apps/firefox/templates/firefox/base.html:68
+msgid "Careers"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:70
+#: apps/firefox/templates/firefox/base.html:69
+msgid "Partnerships"
+msgstr ""
+
+#: apps/firefox/templates/firefox/base-resp.html:71
+#: apps/firefox/templates/firefox/base.html:70
+#: templates/base-resp.html:146
+#: templates/base.html:138
+msgid "Contact Us"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:3
+#: apps/firefox/templates/firefox/devices.html:22
+msgid "Firefox is Made for Your Devices"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:27
+#: apps/firefox/templates/firefox/devices.html:171
+msgid "Desktops &amp; Laptops"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:28
+#: apps/firefox/templates/firefox/devices.html:172
+msgid "Smartphones"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:29
+#: apps/firefox/templates/firefox/devices.html:173
+msgid "Tablets"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:30
+#: apps/firefox/templates/firefox/devices.html:174
+msgid "Favorite Add-ons"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:31
+#: apps/firefox/templates/firefox/devices.html:175
+msgid "Sync Your Gadgets"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:38
+msgid "Previous"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:39
+msgid "Next"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:48
+msgid "New Firefox is up to 7 times faster."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:49
+msgid "Upgrade your Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:50
+msgid "More Features"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:51
+msgid "Download Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:56
+msgid "Old Firefox = Sadface"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:57
+msgid "New Firefox = Yay!"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:77
+msgid "Type less, browse more, and get to the Web quickly and easily."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:87
+#: apps/firefox/templates/firefox/devices.html:110
+#: apps/firefox/templates/firefox/new.html:46
+#: apps/firefox/templates/firefox/whatsnew.html:122
+#: templates/base-resp.html:147
+#: templates/base.html:139
+msgid "Privacy Policy"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:88
+#: apps/firefox/templates/firefox/devices.html:111
+#: apps/mozorg/templates/mozorg/download_button_mobile_base.html:7
+msgid "Supported Devices"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:89
+#: apps/firefox/templates/firefox/devices.html:112
+#: apps/firefox/templates/firefox/whatsnew.html:117
+msgid "Release Notes"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:123
+msgid "Customize your browsing on both desktop and mobile."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:124
+msgid "Browse Add-ons"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:128
+msgid "AdBlock Plus"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:129
+msgid "Regain control and change the way that you view the Web."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:131
+#: apps/firefox/templates/firefox/devices.html:139
+#: apps/firefox/templates/firefox/devices.html:147
+msgid "Add to Desktop"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:132
+#: apps/firefox/templates/firefox/devices.html:140
+#: apps/firefox/templates/firefox/devices.html:148
+msgid "Add to Mobile"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:136
+msgid "No Script"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:137
+msgid "Allow active content to run only from sites you trust."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:144
+msgid "Speed Dial"
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:145
+msgid "Direct access to your most visited websites."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:159
+msgid "Your Web, <br>anywhere you go."
+msgstr ""
+
+#: apps/firefox/templates/firefox/devices.html:160
+msgid "Get in Sync"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:28
+msgid "Firefox for Android"
+msgstr ""
+
+#. Firefox for Android tagline.
+#: apps/firefox/templates/firefox/fx.html:29
+#: apps/firefox/templates/firefox/whatsnew.html:48
+#: apps/firefox/templates/firefox/mobile/sms-send.html:8
+#: apps/mozorg/templates/mozorg/home.html:56
+msgid "Fast. Smart. Safe."
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:35
+msgid "Firefox on Android"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:39
+msgid "Find out if your device is supported&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:42
+msgid "Learn more about Firefox for Android&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:45
+#: apps/firefox/templates/firefox/fx.html:104
+msgid "Get Firefox for Android free from the Google Play Store&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:57
+#: apps/firefox/templates/firefox/whatsnew.html:25
+msgid "Hooray! Your Firefox is up to date."
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:58
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:71
+msgid "Need a fresh copy?"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:72
+msgid "You’ve come to the right place!"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:76
+msgid "Try Firefox Beta"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:77
+msgid ""
+"Get a sneak peek at the latest features and innovations coming soon to "
+"Firefox."
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:78
+msgid "Download now&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:81
+#: apps/firefox/templates/firefox/whatsnew.html:50
+#: apps/firefox/templates/firefox/mobile/sms-base.html:3
+#: apps/firefox/templates/firefox/mobile/sms-base.html:11
+#: apps/firefox/templates/firefox/mobile/sms-base.html:15
+#: apps/firefox/templates/firefox/mobile/sms-send.html:7
+#: apps/mozorg/templates/mozorg/download_button_large_mobile.html:13
+#: apps/mozorg/templates/mozorg/download_button_mobile_small.html:14
+#: apps/mozorg/templates/mozorg/home.html:58
+msgid "Get Firefox for Android"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:82
+msgid "Get the mobile browser that’s got your back free from the"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:83
+msgid "Google Play Store&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:89
+#: apps/firefox/templates/firefox/new.html:16
+msgid "Different by Design"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:90
+msgid "Get the latest version of Firefox. It’s fast, flexible and secure."
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:98
+msgid "Learn more about the latest Firefox features&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/fx.html:101
+msgid "Customize your Firefox with add-ons&nbsp;»"
+msgstr ""
+
+#: apps/firefox/templates/firefox/new.html:18
+msgid "Proudly <span>non-profit</span>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/new.html:19
+msgid "Innovating <span>for you</span>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/new.html:20
+msgid "Fast, flexible, <span>secure</span>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/new.html:25
+msgid "Get Firefox for Android free!"
+msgstr ""
+
+#: apps/firefox/templates/firefox/new.html:38
+msgid "Tour"
+msgstr ""
+
+#: apps/firefox/templates/firefox/new.html:47
+#: apps/firefox/templates/firefox/whatsnew.html:123
+#: templates/base-resp.html:148
+#: templates/base.html:140
+msgid "Legal Notices"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:5
+#: apps/firefox/templates/firefox/unsupported-details.html:5
+#: apps/firefox/templates/firefox/unsupported-mac.html:5
+#: apps/firefox/templates/firefox/unsupported-warning.html:5
+#: apps/firefox/templates/firefox/unsupported-win2k.html:5
+#: apps/firefox/templates/firefox/unsupported-winxp.html:5
+msgid "Get the Newest Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:15
+#: apps/firefox/templates/firefox/unsupported-details.html:15
+#: apps/firefox/templates/firefox/unsupported-mac.html:15
+#: apps/firefox/templates/firefox/unsupported-warning.html:15
+#: apps/firefox/templates/firefox/unsupported-win2k.html:15
+#: apps/firefox/templates/firefox/unsupported-winxp.html:15
+msgid "URGENT!"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:16
+#: apps/firefox/templates/firefox/unsupported-details.html:16
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:20
+#: apps/firefox/templates/firefox/unsupported-details.html:20
+#: apps/firefox/templates/firefox/unsupported-warning.html:20
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:22
+#: apps/firefox/templates/firefox/unsupported-details.html:22
+#: apps/firefox/templates/firefox/unsupported-warning.html:22
+msgid "Stay safe online"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:23
+#: apps/firefox/templates/firefox/unsupported-details.html:23
+#: apps/firefox/templates/firefox/unsupported-warning.html:23
+msgid "experience faster performance"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:24
+#: apps/firefox/templates/firefox/unsupported-details.html:24
+#: apps/firefox/templates/firefox/unsupported-warning.html:24
+msgid "Enjoy new features"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-EOL.html:26
+#: apps/firefox/templates/firefox/unsupported-details.html:26
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-mac.html:16
+#: apps/firefox/templates/firefox/unsupported-win2k.html:16
+#: apps/firefox/templates/firefox/unsupported-winxp.html:16
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-mac.html:18
+#: apps/firefox/templates/firefox/unsupported-win2k.html:25
+#: apps/firefox/templates/firefox/unsupported-winxp.html:25
+#: apps/mozorg/templates/mozorg/home.html:72
+msgid "Learn More"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-warning.html:16
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-warning.html:26
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-win2k.html:20
+#: apps/firefox/templates/firefox/unsupported-winxp.html:20
+msgid "We recommend:"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-win2k.html:22
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-win2k.html:23
+#: apps/firefox/templates/firefox/unsupported-winxp.html:23
+msgid "Downloading a compatible browser"
+msgstr ""
+
+#: apps/firefox/templates/firefox/unsupported-winxp.html:22
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:6
+msgid "Welcome to Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:39
+msgid "Now get the mobile browser that’s got your back"
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:46
+msgid "Firefox for Android artwork"
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:49
+#: apps/mozorg/templates/mozorg/home.html:57
+msgid "Get the mobile browser that’s got your back."
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:118
+msgid "Firefox Features"
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:119
+msgid "Firefox Help"
+msgstr ""
+
+#: apps/firefox/templates/firefox/whatsnew.html:127
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:12
+#: apps/firefox/templates/firefox/mobile/features.html:12
+#: apps/firefox/templates/firefox/mobile/platforms.html:12
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:13
+msgid "Home"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:23
+msgid "Mobile FAQ"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:31
+msgid "About Firefox for Android"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:35
+msgid ""
+"<dt>Who makes Firefox?</dt> <dd>Mozilla is a global, nonprofit organization "
+"dedicated to making the Web better. We emphasize principle over profit, and "
+"believe that the Web is a shared public resource to be cared for, not a "
+"commodity to be sold. We work with a worldwide community to create open "
+"source products like Mozilla Firefox, and to innovate for the benefit of the "
+"individual and the betterment of the Web. The result is great products "
+"built by passionate people and better choices for everyone.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:47
+msgid ""
+"<dt>How is Firefox for Android different from other mobile browsers?</dt> "
+"<dd>Firefox for Android is built on the same technology platform as Firefox "
+"for the desktop, making it fast, easy to use and secure. Firefox also uses "
+"Sync technology to bring your desktop history, bookmarks, passwords and form "
+"data to your mobile devices. Firefox for Android is the only mobile browser "
+"that offers user-centric, innovative features while still fiercely "
+"safeguarding your privacy and data, for instance with <a "
+"href=\"http://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature-"
+"mobile\">Do Not Track</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:58
+msgid ""
+"<dt>Is Firefox available for my platform or device?</dt> <dd>Firefox for "
+"Android works with Android phones version 2.2 (Froyo) and above. <a "
+"href=\"/firefox/mobile/platforms\">Visit our list of supported platforms and "
+"devices</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:64
+msgid ""
+"<dt>Is Firefox available in my language?</dt> <dd>Firefox is currently "
+"available in more than 10 languages and we're working on adding more. Check "
+"the <a href=\"https://play.google.com/store/apps/details?id=org.mozilla.firef"
+"ox\">Google Play Store</a> to see if yours is supported.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:71
+msgid ""
+"<dt>Does Firefox for Android support Flash content?</dt> <dd>Yes, Firefox "
+"for Android supports Flash on phones with Android version 2.2 and "
+"above.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:80
+msgid "Downloading Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:83
+msgid ""
+"<dt>Where can I download Firefox for Android?</dt> <dd>In the <a href=\"https"
+"://play.google.com/store/apps/details?id=org.mozilla.firefox\">Google Play "
+"Store</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:88
+msgid ""
+"<dt>What are the permissions that Firefox requests access to?</dt> <dd>Learn "
+"how Firefox uses <a href=\"http://mzl.la/FirefoxPermissions\">the permissions "
+"it requests</a> while respecting your privacy and personal data.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:96
+msgid "Using Firefox"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:99
+msgid ""
+"<dt>How do I&hellip;</dt> <dd> <ul> <li>&hellip;<a "
+"href=\"http://support.mozilla.org/kb/getting-started-firefox-mobile\">start "
+"browsing the Web?</a></li> <li>&hellip;<a "
+"href=\"http://support.mozilla.org/kb/use-bookmarks-firefox-android\">bookmark "
+"a website?</a></li> <li>&hellip;<a href=\"http://support.mozilla.org/kb/tabs-"
+"quickly-switch-websites-firefox-mobile\">use tabs?</a></li> <li>&hellip;<a "
+"href=\"http://support.mozilla.org/kb/how-do-i-watch-flash-videos-firefox-"
+"android\">play Flash content?</a></li> </ul> </dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:111
+msgid ""
+"<dt>Why do some websites not display properly?</dt> <dd>While we continue to "
+"make small modifications to improve the browser experience, our team and "
+"thousands of volunteer contributors around the world are working to help "
+"sites make the small adjustments necessary to support our implementation of "
+"open standards so that all Web pages render beautifully. We are confident "
+"these efforts will be successful, just as they were when Firefox Desktop "
+"initially entered the market.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:129
+msgid ""
+"<dt>How do I use the start page?</dt> <dd>Your personalized start page helps "
+"you get to your favorite parts of the Web effortlessly with easily "
+"accessible thumbnail links to your top sites and tabs from your last "
+"browsing session.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:136
+msgid ""
+"<dt>What does the Awesome Screen do? <dd>The Awesome Screen gets you to "
+"where you want to go quickly with less typing by giving you a list of your "
+"most often visited sites along with the ability to browse through your "
+"bookmarks, history and open tabs from across your devices. <a "
+"href=\"http://support.mozilla.org/kb/use-awesome-screen-search-firefox-"
+"android\">Learn more</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:145
+msgid ""
+"<dt>What is Firefox Sync?</dt> <dd>Firefox Sync brings your desktop data to "
+"all your devices so you can securely access your history, bookmarks, tabs "
+"and passwords from anywhere. <a href=\"http://support.mozilla.org/kb/how-do-i"
+"-set-up-firefox-sync\">Learn how to set up Sync</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:152
+msgid ""
+"<dt>What are add-ons and how can I get them?</dt> <dd>Add-ons let you "
+"customize the look, features and functionality of Firefox. <a "
+"href=\"https://support.mozilla.org/kb/getting-started-firefox-mobile#w_how-"
+"do-i-find-and-install-add-ons\">Find out how to add them to your "
+"Firefox</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:162
+msgid "Privacy and Security"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:166
+msgid ""
+"<dt>How will Firefox keep me safe while I browse?</dt> <dd>Mozilla was the "
+"first to implement the Do No Track privacy feature. Firefox also features "
+"customizable security settings to manage passwords, history, private data, "
+"cookies, site options and add-ons. <a href=\"https://support.mozilla.org/kb"
+"/configure-mobile-privacy-and-security-settings\">Learn more</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:174
+msgid ""
+"<dt>What is Do Not Track?</dt> <dd>Firefox for Android is the first mobile "
+"browser to offer the Do Not Track privacy feature to give you more control "
+"over the way your online behavior is tracked and used. Do Not Track lets you "
+"tell websites that you want to opt out of behavioral tracking. Learn how to "
+"turn it on <a href=\"https://support.mozilla.org/kb/how-do-i-turn-do-not-"
+"track-feature\">for desktop</a> and <a href=\"https://support.mozilla.org/kb"
+"/how-do-i-turn-do-not-track-feature-mobile\">for mobile</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:184
+msgid ""
+"<dt>What is Master Password and how do I use it?</dt> <dd>The Master "
+"Password protects usernames and passwords that you save in Firefox. <a "
+"href=\"https://support.mozilla.org/kb/use-master-password-protect-passwords-"
+"firefox-andr\">Learn how to enable this feature</a>.</dd>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:194
+msgid "Developer Questions"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/faq.html:196
+msgid ""
+"<p>Are you a developer with questions? <a "
+"href=\"https://developer.mozilla.org/en/Mozilla/Firefox_for_Android\">Learn "
+"more on Mozilla's Developer Network</a></p>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:23
+msgid "Mobile features"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:24
+msgid "All the awesomeness of Firefox, packed into a mobile device."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:31
+msgid "Fast"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:32
+msgid "Get to the Web quickly with speedy start up and page load times."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:33
+msgid ""
+"The <a href=\"http://support.mozilla.org/kb/use-awesome-screen-search-"
+"firefox-android\">Awesome Screen</a> gets to know you as you browse so you "
+"can search easier and get to your destination faster."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:37
+msgid "Safe"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:38
+msgid ""
+"Control your privacy and how much data you share on the Web with features "
+"like Do Not Track. <a class=\"more\" href=\"http://support.mozilla.org/kb"
+"/configure-mobile-privacy-and-security-settings\">Learn more</a>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:39
+msgid ""
+"Enjoy the latest in security preferences to easily customize the settings "
+"for your passwords, private data, cookies, images and add-ons."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:45
+msgid "Smart"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:46
+msgid ""
+"Experience the unlimited possibilities of the mobile Web with full support "
+"for HTML5 and Web APIs. <a class=\"more\" "
+"href=\"https://developer.mozilla.org/en/Mobile\">Learn more</a>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:47
+msgid ""
+"<a href=\"http://support.mozilla.org/kb/how-do-i-set-up-firefox-"
+"sync\">Sync</a> your desktop history, bookmarks and passwords to all your "
+"devices for a painless browsing experience on mobile."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:48
+msgid ""
+"Personalize features and functionality with add-ons. <a class=\"more\" "
+"href=\"http://addons.mozilla.org/mobile/\">Get add-ons</a>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:49
+msgid ""
+"Effortlessly switch between <a href=\"http://support.mozilla.org/kb/tabs-"
+"quickly-switch-websites-firefox-mobile\">tabs</a> with live thumbnail images "
+"that show you updated snapshots of your sites."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/features.html:53
+msgid "Get Firefox for Android free from the Google Play Store"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:14
+msgid "Requirements"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:23
+msgid "Firefox on your mobile device"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:24
+msgid ""
+"To find out if Firefox works on your phone, choose your manufacturer from "
+"the list below."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:53
+msgid "Android"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:54
+msgid "Firefox is compatible with Android 2.2 and above devices."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:55
+msgid "Installation requires about 16 MB internal storage and 512 MB of RAM"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:58
+msgid "Give Feedback or Get Help"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:60
+msgid ""
+"<p>Although your device may support Firefox, we have not tested Firefox on "
+"every Android device. Tell us about your experience using Firefox on your "
+"device. Ask questions or give feedback on the <a "
+"href=\"http://support.mozilla.org/kb/Mobile+Help+and+Tutorials\">Firefox "
+"Mobile Support Forum</a>.</p>"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/platforms.html:71
+msgid ""
+"See a full list of supported and unsupported devices by visiting our <a href"
+"=\"https://wiki.mozilla.org/Mobile/Platforms/Android#System_Requirements\">Sys"
+"tem Requirements wiki</a>."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-base.html:16
+msgid ""
+"Send yourself a text message to download Firefox for Android from Google "
+"Play."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-base.html:29
+msgid "Find out if your device is supported"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-base.html:30
+msgid "Learn more about Firefox for Android"
+msgstr ""
+
+#. The line break in this headline is for visual formatting only
+#: apps/firefox/templates/firefox/mobile/sms-send.html:16
+msgid "Send yourself a text message <br>to download it from Google Play."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-send.html:20
+msgid "SMS service available in the U.S. only"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-send.html:26
+#: apps/firefox/templates/firefox/mobile/sms-send.html:31
+msgid "Enter your 10-digit phone number"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-send.html:36
+msgid "Send me the link"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-send.html:42
+msgid ""
+"I'd like to receive SMS updates about Firefox for Android and other Mozilla "
+"products."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-send.html:44
+msgid ""
+"Message and data rates may apply. Text FFSTOP to 36698 to stop (a "
+"confirmation message will be sent)."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-send.html:47
+msgid "Also available as a free download from Google Play"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:7
+msgid "Your link has been sent!"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:8
+msgid "Check your phone to start downloading."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:39
+#: templates/base-resp.html:71
+#: templates/base.html:68
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:47
+#: templates/base-resp.html:79
+#: templates/base.html:72
+msgid "You must agree to the privacy policy"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:60
+#: templates/base-resp.html:92
+#: templates/base.html:85
+msgid "Get Firefox news"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:64
+#: apps/mozorg/templates/mozorg/contribute-form.html:50
+#: apps/mozorg/templates/mozorg/contribute.html:268
+#: templates/base-resp.html:96
+#: templates/base.html:89
+msgid "YOUR EMAIL HERE"
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:79
+#: apps/mozorg/templates/mozorg/contribute.html:273
+#: templates/base-resp.html:111
+#: templates/base.html:104
+msgid "We will only send you Mozilla-related information."
+msgstr ""
+
+#: apps/firefox/templates/firefox/mobile/sms-thankyou.html:85
+#: templates/base-resp.html:117
+#: templates/base.html:110
+msgid "Thank you for signing up!"
+msgstr ""
+
+#: apps/firefoxos/templates/firefoxos/firefoxos-base.html:15
+#: apps/privacy/templates/privacy/facebook.html:13
+#: apps/styleguide/templates/styleguide/base.html:26
+#: templates/base-resp.html:35
+#: templates/base.html:35
+msgid "Mozilla"
+msgstr ""
+
+#: apps/firefoxos/templates/firefoxos/firefoxos-base.html:24
+#: apps/mozorg/templates/mozorg/products.html:47
+msgid "Marketplace"
+msgstr ""
+
+#: apps/firefoxos/templates/firefoxos/firefoxos-base.html:25
+msgid "Developers"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/marketplace.html:73
+msgid "Sign up for more news about the Mozilla Marketplace."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:5
+msgid "Mozilla Marketplace Partners"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:9
+#: apps/marketplace/templates/marketplace/partners.html:34
+#: apps/mozorg/templates/mozorg/home.html:133
+msgid "Mozilla Marketplace"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:27
+msgid "Launch your app on the Web"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:28
+msgid ""
+"Mozilla is bringing its core values — openness, freedom, user choice — to "
+"the world of apps."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:33
+#: apps/marketplace/templates/marketplace/partners.html:43
+msgid "The Mozilla apps platform"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:35
+msgid "Submit your app&nbsp;»"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:44
+msgid ""
+"Building apps for the Web provides developers with full control over "
+"content, functionality and how apps are distributed, including access to "
+"hundreds of millions of Firefox users through the Mozilla Marketplace."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:45
+msgid ""
+"Using open Web standards and Mozilla-designed APIs, great app experiences "
+"can be delivered across multiple platforms, devices and operating systems — "
+"closing the gap between Web and native apps for the first time."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:46
+msgid ""
+"Learn all about creating HTML5 apps at the Mozilla Developer Network&nbsp;»"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:69
+#: apps/marketplace/templates/marketplace/partners.html:95
+#: apps/marketplace/templates/marketplace/partners.html:121
+#: apps/marketplace/templates/marketplace/partners.html:147
+#: apps/mozorg/templates/mozorg/contribute.html:35
+msgid ""
+"This video requires a browser with support for open video or the <a "
+"href=\"http://www.adobe.com/go/getflashplayer\">Adobe Flash Player</a>."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:75
+#: apps/marketplace/templates/marketplace/partners.html:101
+#: apps/marketplace/templates/marketplace/partners.html:127
+#: apps/marketplace/templates/marketplace/partners.html:153
+#: apps/marketplace/templates/marketplace/partners.html:180
+msgid "View with subtitles"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:223
+msgid "Mozilla Marketplace — <em>Opening Soon</em>"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:224
+msgid ""
+"Before the public launch later this year, Mozilla will be opening the "
+"Marketplace for user testing. Take advantage of this by being one of the "
+"first app developers to build a user base. Submit your app to:"
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:226
+msgid "Test your app with a committed group of early adopters."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:227
+msgid "Build an early fan base and gain popularity."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:228
+msgid "Target tech savvy consumers with your app."
+msgstr ""
+
+#: apps/marketplace/templates/marketplace/partners.html:234
+msgid "Opening Soon"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:15
+#: apps/mozorg/templates/mozorg/contribute.html:73
+msgid "Helping Users"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:20
+msgid "Testing and QA"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:25
+#: apps/mozorg/templates/mozorg/contribute.html:95
+msgid "Coding"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:30
+msgid "Marketing"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:35
+msgid "Localization and Translation"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:40
+msgid "Web Development"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:50
+#: apps/mozorg/templates/mozorg/contribute.html:139
+msgid "Visual Design"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:55
+#: apps/mozorg/templates/mozorg/contribute.html:150
+msgid "Developer Documentation"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:60
+#: apps/mozorg/templates/mozorg/contribute.html:161
+msgid "Accessibility"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:65
+msgid "Systems Administration"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:70
+#: apps/mozorg/templates/mozorg/contribute.html:172
+msgid "User Research"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:75
+#: apps/mozorg/templates/mozorg/contribute.html:183
+msgid "Education"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:85
+msgid "Other"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:90
+msgid "I have a suggestion for Firefox"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:95
+msgid "I need help with a Firefox issue"
+msgstr ""
+
+#: apps/mozorg/email_contribute.py:101
+msgid "Area of interest?"
+msgstr ""
+
+#: apps/mozorg/forms.py:32
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+
+#: apps/mozorg/middleware.py:56
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/book.html:59
+msgid "The Book of Mozilla"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:8
+msgid "Thank you for getting in touch! You will hear from us soon."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:13
+msgid "Submitting data, please wait..."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:21
+#: apps/mozorg/templates/mozorg/contribute.html:259
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:25
+#: apps/mozorg/templates/mozorg/contribute.html:263
+msgid "You must agree to the privacy policy."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:29
+msgid "Please select an area of interest."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:33
+msgid "Please tell us more about your interests."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:37
+msgid "Your CAPTCHA response did not match. Please try again."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:46
+msgid "Want to help?"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:62
+msgid "Send us a note and we can get you started right away."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:66
+msgid "Hi, I’m interested in…"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:77
+msgid "I’d like to receive regular contribution news by email"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:88
+msgid "Submit&nbsp;»"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:94
+msgid "Thank you for getting in touch."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-form.html:95
+msgid ""
+"Someone from Mozilla will get back to you soon with information about how to "
+"get involved. While you’re waiting, browse through some of the volunteer "
+"opportunities available below."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-page.html:3
+#: apps/mozorg/templates/mozorg/contribute-page.html:17
+msgid "Contribute to our sites"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-page.html:21
+msgid ""
+"Mozilla websites are run as open projects that you can help us build and "
+"edit."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-page.html:22
+msgid ""
+"If you’re interested in <a "
+"href=\"https://wiki.mozilla.org/Webdev/GetInvolved\">web development</a>, <a "
+"href=\"https://wiki.mozilla.org/L10n\">translating</a>, <a "
+"href=\"http://wiki.mozilla.org/Design\">designing</a>, <a "
+"href=\"https://developer.mozilla.org/Project:en/How_to_Help\">writing</a> or "
+"<a href=\"https://quality.mozilla.org/teams/web-qa/\">testing</a>, we’d love "
+"for you to get involved."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute-page.html:23
+msgid ""
+"Have any questions? Take a look at the links above or use the form below to "
+"let us know what you’re interested in doing."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:3
+msgid "Get Involved: Volunteer Opportunities at Mozilla"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:16
+#: templates/base-resp.html:44
+#: templates/base.html:43
+msgid "Get Involved"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:41
+msgid ""
+"You don’t have to be a C++ guru (or even know what that means!) to get "
+"involved.<br><b>You just have to love the Web.</b>"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:49
+msgid "Find an opportunity"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:54
+msgid "Sort By:"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:56
+msgid "Interest"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:57
+msgid "Location"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:58
+msgid "Newsletter"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:76
+msgid ""
+"Interested in helping others get the most out of using Firefox and other "
+"Mozilla projects? Our support process relies on enthusiastic contributors "
+"like you. Find out more about <a href=\"%(fx_support_url)s\">supporting "
+"Firefox</a> and <a href=\"%(tb_support_url)s\">Thunderbird</a> users. You can "
+"also join our <a href=\"%(army_url)s\">Army of Awesome</a> by helping users on "
+"Twitter."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:84
+msgid "Quality Assurance"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:87
+msgid ""
+"Quality assurance testing is one of the easiest ways to get started with "
+"Mozilla and is a great way to get familiar with our code and tools. Help us "
+"<a href=\"%(qa_bugs_url)s\">hunt down bugs</a> in Firefox, <a href=\"%"
+"(qa_web_url)s\">test Mozilla web sites</a> or learn more about <a "
+"href=\"http://quality.mozilla.org/\">other testing opportunities</a>."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:98
+msgid ""
+"<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
+"features, making our technology smaller and faster and making development "
+"easier for others. You can find many developers on <a href=\"%"
+"(irc_url)s\">IRC</a> so stop by and ask questions to learn more. Our web "
+"sites are <a href=\"%(webdev_blog)s\">open for web ninjas</a> to hack on too."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:106
+msgid "Spread the Word"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:109
+msgid ""
+"Help us spread the word about how Firefox and other Mozilla projects are "
+"building a better Internet. Share Firefox with the world by <a href=\"%"
+"(affiliates_url)s\">becoming an Affiliate</a> and then check out our <a "
+"href=\"%(marketing_url)s\">Marketing Guide</a> for more ways to get involved."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:117
+msgid "Localization"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:120
+msgid ""
+"Get involved with Mozilla by making Firefox, Thunderbird and other projects "
+"<a href=\"%(l10n_url)s\">available in your language</a>. Also help us tell the "
+"world about how Mozilla is building a better Internet by <a href=\"%"
+"(l10n_web_url)s\">translating content</a> on our web sites."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:131
+msgid ""
+"Firefox and other Mozilla-based applications have a powerful extension "
+"system that allow you to make small tweaks or make major additions to your "
+"programs. If you’re new to this technology, learn how to <a href=\"%"
+"(addons_url)s\">build an add-on</a>. For experienced developers, find out how "
+"to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:142
+msgid ""
+"We believe in the power of well-made and widely distributed art, and want to "
+"make it possible for artists to cover the web and people with designs "
+"inspired by Mozilla. Take part in a <a href=\"%(creative_url)s\">Creative "
+"Collective challenge</a> or <a href=\"%(zazzle_url)s\">add a t-shirt "
+"design</a> to our Community Store."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:153
+msgid ""
+"The Mozilla Developer Network is the hub for information about Mozilla "
+"technologies. Help <a href=\"%(dev_url)s\">make our documentation better</a> "
+"by writing new content, correcting existing material or translating content "
+"into new languages."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:164
+msgid ""
+"Accessibility is about making things work for everyone. Help <a href=\"%"
+"(access_url)s\">create tools and resources for Firefox end users with "
+"disabilities</a> and help <a href=\"%(access_wiki)s\">make web content "
+"available to non visual agents</a> such as screen readers."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:175
+msgid ""
+"Be part of the research team&mdash;whether you want to be a <a href=\"%"
+"(survey_url)s\">participant in an upcoming study</a>, <a href=\"%"
+"(test_email)s\">conduct usability tests</a> on your own or <a href=\"%"
+"(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you join "
+"us!"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:186
+msgid ""
+"Help build a generation of webmakers&mdash;moving people from using the web "
+"making the web&mdash;by teaching others how to code and how the web works. "
+"<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is all "
+"about</a> or get started teaching others by <a href=\"%(webmaker)s\">setting "
+"up an event in your community today</a>."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:205
+msgid "US and Canada"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:211
+msgid "Europe"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:217
+msgid "Latin America"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:223
+msgid "Africa and the Middle East"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:229
+msgid "Asia and the South Pacific"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:235
+msgid "Antarctica"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:253
+msgid ""
+"Sign up for a weekly newsletter that is full of community news and "
+"contribution opportunities."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:272
+msgid "Subscribe"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/contribute.html:276
+msgid "Thank you!"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/download_button_base.html:43
+msgid "Systems & Languages"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/download_button_base.html:44
+#: apps/mozorg/templates/mozorg/download_button_mobile_base.html:8
+msgid "What’s New"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/download_button_base.html:45
+#: apps/mozorg/templates/mozorg/download_button_mobile_base.html:9
+msgid "Privacy"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/download_button_large_mobile.html:15
+msgid "Free from the Google Play Store"
+msgstr ""
+
+#. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla". The alt text should not be translated.
+#: apps/mozorg/templates/mozorg/home.html:21
+msgid "We are <img src=\"%(img)s\" alt=\"Mozilla\" height=\"92\" width=\"348\">"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:22
+msgid "Doing good is part of our code"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:26
+msgid "Different by&nbsp;Design"
+msgstr ""
+
+#. Small piece of text that appears to the side of the download button on the homepage.
+#: apps/mozorg/templates/mozorg/home.html:34
+msgid "Proudly <br> non-profit"
+msgstr ""
+
+#. Small piece of text that appears to the side of the download button on the homepage.
+#: apps/mozorg/templates/mozorg/home.html:36
+msgid "Innovating <br> for&nbsp;you"
+msgstr ""
+
+#. Small piece of text that appears to the side of the download button on the homepage.
+#: apps/mozorg/templates/mozorg/home.html:38
+msgid "Fast,&nbsp;flexible, <br> secure"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:70
+msgid "Firefox OS is coming"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:71
+msgid "We’re bringing the Open Web to mobile devices."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:84
+msgid "The best of Firefox Flicks"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:85
+msgid "See the amazing videos created by our amazing community."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:86
+msgid "Watch them now"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:125
+#: apps/mozorg/templates/mozorg/products.html:40
+msgid "Firefox OS"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:126
+msgid "See what’s next for the mobile Web."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:129
+msgid "Become an Affiliate"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:130
+msgid "Help us share Firefox with the world!"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:134
+msgid "Launch your app on the web"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:143
+msgid "Volunteer with us"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:144
+msgid "Get involved in any area of the Mozilla Project."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:147
+msgid "Work with us"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:148
+msgid "Apply today and love the Web for a living."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:151
+msgid "Find us"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:152
+msgid "Contact one of our global Mozilla Spaces."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:155
+msgid "Join us"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:156
+msgid "Show your support and help us build a better Web."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:159
+msgid "Learn more"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/home.html:160
+msgid "Get to know Mozilla a little bit better."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/mobile.html:17
+msgid "Big ideals. Small screen."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:4
+msgid "Mozilla Products — Built by us, for the Web"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:14
+msgid "Built for the Web"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:15
+msgid ""
+"Our dedication to driving the Web forward and keeping it open to everyone "
+"extends through everything we do."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:20
+#: apps/mozorg/templates/mozorg/products.html:28
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:14
+#: templates/base-resp.html:43
+#: templates/base.html:42
+msgid "Products"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:21
+#: apps/mozorg/templates/mozorg/products.html:76
+msgid "Innovations"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:22
+#: apps/mozorg/templates/mozorg/products.html:103
+msgid "Tools"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:23
+#: apps/mozorg/templates/mozorg/products.html:130
+msgid "Platforms"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:34
+msgid "The free, non-profit browser for desktop and mobile."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:41
+msgid "An open operating system for mobile devices."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:48
+msgid "A creation and distribution platform for apps."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:54
+msgid "Persona"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:55
+msgid "A better way to sign in to websites."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:61
+msgid "Thunderbird"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:62
+msgid "Safe, fast and easy email."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:68
+msgid "Webmaker"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:69
+msgid "Make something amazing with the Web."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:81
+msgid "WebFWD"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:82
+msgid "Our community-driven innovation accelerator."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:88
+msgid "Labs"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:89
+msgid "New ways to explore, experiment and innovate."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:95
+msgid "Pancake"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:96
+msgid "An experimental mobile browser."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:108
+msgid "Firefox Developer Tools"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:109
+msgid "A collection of tools built in to Firefox."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:115
+msgid "Bugzilla"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:116
+msgid "A bug tracking system to help manage software development."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:122
+msgid "Firebug"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:123
+msgid "Inspect, debug, analyze and more inside your browser."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:135
+msgid "Gecko"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:136
+msgid "The layout engine that drives Firefox."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:142
+msgid "XUL Runner"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:143
+msgid "An environment for XUL-based applications."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/products.html:148
+msgid "Reserved&nbsp;for future&nbsp;products."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:4
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:22
+msgid "Featured Mozilla-Based Applications"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:15
+msgid "Mozilla-Based Applications"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:23
+msgid ""
+"<p>These are some of the applications being built by individuals and "
+"organizations using <a "
+"href=\"http://www.mozilla.org/projects/technologies.html\">Mozilla "
+"technologies</a>. If you would like to suggest other applications to feature "
+"here, please <a href=\"http://www.mozilla.org/contact/\">let us know</a>."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:28
+msgid "SeaMonkey"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:29
+msgid ""
+"The all-in-one application formerly known as the “Mozilla Application "
+"Suite”, containing a web browser, a mail and newsgroups client, an HTML "
+"editor, web development tools, and an IRC chat client."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:32
+msgid "Lightning/Sunbird"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:33
+msgid ""
+"Lightning is a popular calendaring, scheduling and task management "
+"extension. Sunbird® is a cross-platform application that brings Mozilla-"
+"style ease-of-use to your calendar."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:36
+msgid "Camino"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:37
+msgid ""
+"Camino® is a Web browser optimized for Mac OS X with a Cocoa user interface, "
+"and powerful Gecko layout engine. It’s the simple, secure, and fast browser "
+"for Mac OS X."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:397
+msgid "Find Out More"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:398
+msgid ""
+"If you’d like to find more applications that are being built using Mozilla "
+"technologies, see the full list of <a href=\"https://developer.mozilla.org/En"
+"/List_of_Mozilla-Based_Applications\">all known Mozilla-based "
+"applications</a>."
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:400
+msgid ""
+"If you have any questions about how to use Mozilla techologies, take a look "
+"at:"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:402
+msgid "Using Mozilla code in other projects"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:403
+msgid "Mozilla and Firefox books"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:404
+msgid "Mozilla consultants"
+msgstr ""
+
+#: apps/mozorg/templates/mozorg/projects/mozilla-based.html:407
+msgid "Powered by Mozilla"
+msgstr ""
+
+#: templates/base-resp.html:41
+#: templates/base.html:40
+msgid "Mission"
+msgstr ""
+
+#: templates/base-resp.html:135
+#: templates/base.html:127
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+
+#: templates/base-resp.html:142
+#: templates/base.html:134
+msgid "Contribute to this page"
+msgstr ""
+
+#: templates/base-resp.html:149
+#: templates/base.html:141
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: templates/base-resp.html:154
+#: templates/base.html:146
+msgid "Twitter"
+msgstr ""
+
+#: templates/base-resp.html:155
+#: templates/base.html:147
+msgid "Facebook"
+msgstr ""
+
+#: templates/base-resp.html:156
+#: templates/base.html:148
+msgid "Firefox Affiliates"
+msgstr ""
+
+#: templates/includes/lang_switcher.html:2
+msgid "Other languages:"
+msgstr ""
+
+#: templates/includes/lang_switcher.html:11
+msgid "Go"
+msgstr ""
