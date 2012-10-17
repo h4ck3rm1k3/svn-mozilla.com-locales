@@ -1,4 +1,4 @@
-{# Version: 20120731 #}
+{# Version: 20121017 #}
 
 {% extends "mozorg/emails/education.txt" %}
 
@@ -25,4 +25,3 @@ X-Ray Goggles: https://github.com/toolness/webxray/issues
 
 Thanks so much for getting involved. If you have any questions, feel free to write us at joinmozilla@mozilla.org
 {% endl10n %}
-

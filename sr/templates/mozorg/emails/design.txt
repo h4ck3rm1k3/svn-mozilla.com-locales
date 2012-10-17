@@ -1,4 +1,4 @@
-{# Version: 20120731 #}
+{# Version: 20121017 #}
 
 {% extends "mozorg/emails/design.txt" %}
 
@@ -30,4 +30,3 @@ back.
 
 — The Creative Team
 {% endl10n %}
-

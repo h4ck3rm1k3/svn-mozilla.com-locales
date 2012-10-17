@@ -1,4 +1,4 @@
-{# Version: 20120731 #}
+{# Version: 20121017 #}
 
 {% extends "mozorg/emails/other.txt" %}
 
@@ -17,4 +17,3 @@ If there's a type of activity you're interested in, please feel free to write me
 
 David
 {% endl10n %}
-

@@ -1,4 +1,4 @@
-{# Version: 20120731 #}
+{# Version: 20121017 #}
 
 {% extends "mozorg/emails/webdev.txt" %}
 
@@ -18,4 +18,3 @@ This is a lot of information, so let me know if you have any questions as you ge
 Regards,
 Luke
 {% endl10n %}
-

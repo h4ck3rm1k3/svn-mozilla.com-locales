@@ -1,4 +1,4 @@
-{# Version: 20120731 #}
+{# Version: 20121017 #}
 
 {% extends "mozorg/emails/documentation.txt" %}
 
@@ -18,4 +18,3 @@ http://developer.mozilla.org/Project:en/How_to_Help
 
 Џеј(Jay)
 {% endl10n %}
-

@@ -1,4 +1,4 @@
-{# Version: 20120731 #}
+{# Version: 20121017 #}
 
 {% extends "mozorg/emails/marketing.txt" %}
 
@@ -14,4 +14,3 @@ If you'd like to learn more about other ways to help us with marketing, please f
 Thanks,
 Chelsea
 {% endl10n %}
-
