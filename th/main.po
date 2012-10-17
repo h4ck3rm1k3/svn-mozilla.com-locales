@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/th/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "การนำทาง"
+
+msgid "Press area"
+msgstr "พื้นที่สื่อ"
+
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+msgid "Store"
+msgstr "ร้านค้า"
+
+msgid "Donate"
+msgstr "บริจาค"
+
+msgid "Support"
+msgstr "สนับสนุน"
+
+msgid "Products"
+msgstr "ผลิตภัณฑ์"
+
+msgid "Add-ons"
+msgstr "ส่วนเสริม"
+
+msgid "About Us"
+msgstr "เกี่ยวกับเรา"
+
+msgid "Developers"
+msgstr "นักพัฒนา"
+
+msgid "Labs"
+msgstr "ห้องทดลอง"
+
+msgid "skip to Navigation"
+msgstr "ข้ามไปยังการนำทาง"
+
+msgid "switch language"
+msgstr "เปลี่ยนภาษา"
+
+msgid "Back to home page"
+msgstr "กลับไปยังหน้าหลัก"
+
+msgid "About Mozilla"
+msgstr "เกี่ยวกับ Mozilla"
+
+msgid "Get Involved"
+msgstr "มีส่วนร่วม"
+
+msgid "Licensing"
+msgstr "สัญญาอนุญาต"
+
+msgid "Careers"
+msgstr "ตำแหน่งงาน"
+
+msgid "Press Center"
+msgstr "ศูนย์ข่าว"
+
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
+
+msgid "Site contact"
+msgstr "ติดต่อเว็บไซต์"
+
+msgid "Other languages:"
+msgstr "ภาษาอื่น ๆ :"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "สงวนลิขสิทธิ์."
+
+msgid "Legal Notices"
+msgstr "ข้อกฎหมาย"
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "Visit Mozilla.com"
+msgstr "เยี่ยมชม Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Visit Mozilla.com (US site)"
+
+msgid "Download Firefox - Free"
+msgstr "ดาวน์โหลด Firefox - ฟรี"
+
+msgid "Release Notes"
+msgstr "บันทึกประจำรุ่น"
+
+msgid "Other Systems and Languages"
+msgstr "ระบบและภาษาอื่น ๆ"
+
+msgid "Get Firefox"
+msgstr "ดาวน์โหลด Firefox"
+
+msgid "Free Download"
+msgstr "ดาวน์โหลดฟรี"
+
+msgid "Help us make Firefox even better!"
+msgstr "ช่วยเราปรับปรุง Firefox ให้ดียิ่งขึ้น!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr "ช่วยสละเวลาสักน้อยตอบแบบสอบถามว่าคุณคิดอย่างไรกับ Firefox"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "(in English)"
+msgstr "(in English)"
+
+msgid "Download Now - Free"
+msgstr "ดาวน์โหลดเลย - ฟรี"
+
+msgid "Return to top"
+msgstr "ย้อนกลับข้างบน"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"คุณควรจะ <a href=\"http://get.adobe.com/flashplayer/\">ปรับรุ่น Adobe Flash "
+"Player</a> เดี๋ยวนี้"
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox ของคุณทันสมัยแล้ว แต่ Flash Player "
+"รุ่นปัจจุบันของคุณอาจจะสร้างปัญหาเรื่องความปลอดภัยและเสถียรภาพ โปรด <a "
+"href=\"http://get.adobe.com/flashplayer/\">ติดตั้งตัวปรับรุ่นฟรี</a> "
+"โดยเร็วที่สุด"
+
+msgid "Features"
+msgstr "ความสามารถ"
+
+msgid "Customize"
+msgstr "การปรับแต่ง"
+
+msgid "Synchronize"
+msgstr "ซิงโครไนซ์"
+
+msgid "Develop for Mobile"
+msgstr "พัฒนาสำหรับอุปกรณ์เคลื่อนที่"
+
+msgid "Other Supported Platforms"
+msgstr "ระบบอื่น ๆ ที่รองรับ"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "ระบบและภาษาอื่น ๆ"
+
+msgid "Choose your location"
+msgstr "เลือกตำแหน่งของคุณ"
+
+msgid "Download Firefox directly from your phone"
+msgstr "ดาวน์โหลด Firefox จากโทรศัพท์ของคุณโดยตรง"
+
+msgid "Download"
+msgstr "ดาวน์โหลดDownload"
+
+msgid "Next"
+msgstr "ถัดไป"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MegaBytes"
+msgstr "เมกกะไบต์"
+
+msgid "FAQ"
+msgstr "คำถามที่พบบ่อย"
+
+msgid "Videos"
+msgstr "วิดีโอ"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"เนื้อหาในเว็บนี้อยู่ภายใต้<br /><a href=\"%s\">สัญญาอนุญาตครีเอทีฟคอมมอนส์ "
+"แสดงที่มา อนุญาตแบบเดียวกัน 3.0</a> หรือรุ่นใหม่กว่า "
+"ยกเว้นจะถูกระบุเป็นอย่างอื่น"
+
+msgid "Report Trademark Abuse"
+msgstr "รายการการใช้เครื่องหมายการค้าที่ผิดวัตถุประสงค์"
+
+msgid "Free Upgrade"
+msgstr "ปรับรุ่นฟรี"
+
+msgid "Follow us on:"
+msgstr "ติดตามเราที่:"
+
+msgid "Customize with Add-ons"
+msgstr "ปรับแต่งด้วยส่วนขยาย"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sync กับคอมพิวเตอร์ตั้งโต๊ะและอุปกรณ์เคลื่อนที่"
+
+msgid "Learn More"
+msgstr "เรียนรู้เพิ่ม"
+
+msgid "Watch the video"
+msgstr "ดูวิดีโอ"
+
+msgid "WebM format"
+msgstr "รูปแบบ WebM"
+
+msgid "Ogg Theora format"
+msgstr "รูปแบบ Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "รูปแปบบ MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "อุ๊ย! ทำให้แน่ใจว่าคุณใส่ที่อยู่อีเมลถูกต้องแล้ว"
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "โปรดอ่าน Mozilla Privacy Policy และยอมรับด้วยการทำเครื่องหมายที่กล่อง"
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr "โปรดใส่ที่อยู่อีเมลของคุณและพิจารณา Mozilla Privacy Policy"
+
+msgid "Mobile"
+msgstr "อุปกรณ์พกพา"
+
+msgid "Firefox Updated"
+msgstr "Firefox ปรับรุ่นแล้ว"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "เข้าดูเว็บแห่งอนาคต"
+
+msgid "Journey to the Future with Firefox"
+msgstr "ท่องไปสู่อนาคตกับ Firefox"
+
+msgid "Join the Beta Program"
+msgstr "เข้าร่วม Beta Program"
+
+msgid "Experience Firefox"
+msgstr "สัมผัสประสบการณ์ Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "อนาคตของเว็บกำลังรอคุณอยู่"
+
+msgid "The future of the Web starts now."
+msgstr "อนาคตของเว็บเริ่มแล้ววันนี้"
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "ทดลอง Firefox โฉมใหม่"
+
+msgid "Experience tomorrow's Web today."
+msgstr "สัมผัสประสบการณ์การณ์เว็บแห่งอนาคตวันนี้"
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "ลอง Firefox โฉมใหม่"
+
+msgid "Browse the future of the Web."
+msgstr "ท่องไปยังอนาคตของเว็บ"
+
+msgid "See Firefox with a new look and feel."
+msgstr "พบ Firefox โฉมใหม่"
+
+msgid "Download Beta Now."
+msgstr "ดาวน์โหลดรุ่นทดสอบ"
+
+msgid "All Systems & Languages"
+msgstr "ภาษาและระบบทั้งหมด"
+
+msgid "View Full Site"
+msgstr "ดูเต็มรูปแบบ"
+
+msgid "Get Firefox for Android"
+msgstr "ติดตั้ง Firefox สำหรับ Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Download สำหรับ <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "ติดตั้งฟรีจาก Android Market"
+
+msgid "Desktop"
+msgstr "คอมพิวเตอร์ตั้งโต๊ะ"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta สำหรับอุปกรณ์เคลื่อนที่"
+
+msgid "Firefox for mobile"
+msgstr "Firefox สำหรับอุปกรณ์เคลื่อนที่"
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox นำเว็บรุ่นใหม่มาสู่ Windows XP"
+
+msgid "Super speed"
+msgstr "เร็วสุดยอด"
+
+msgid "Stunning graphics"
+msgstr "กราฟฟิคตระการตา"
+
+msgid "The latest technologies"
+msgstr "เทคโนโลยีล่าสุด"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"คุณกำลังใช้งาน Firefox รุ่นเก่า ปรับรุ่นเพื่อให้มั่นใจว่าปลอดภัยอยู่เสมอ! "
+"<br /> <a href=\"%s\">ปรับรุ่นฟรี</a> "
+"ภายในเวลาไม่กี่นาทีเพื่อรับความสามารถใหม่ล่าสุด "
+"การแก้ไขความเร็วและความปลอดภัย"
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"คุณจำเป็นต้องปรับรุ่น! มั่นใจว่าปลอดภัยอยู่เสมอภายในเวลาไม่กี่นาที <br /> "
+"เริ่มใช้งาน Firefox เพื่อการท่องเว็บและการปรับแต่งที่ดีที่สุด <br /> "
+"เร็วและฟรี!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"คุณกำลังใช้งาน Firefox รุ่นเก่า <a href=\"%s\">ปรับรุ่น</a> "
+"เพื่อรักษาความปลอดภัย! ลองประสบการณ์กับความสามารถล่าสุด, ความปลอดภัยที่ดีและ "
+"Firefox ที่เร็วที่สุด ดาวน์โหลดการปรับรุ่นฟรีภายในไม่กี่นาที"
+
+msgid "Upgrade now"
+msgstr "ปรับรุ่นทันที"
+
+msgid "Update now"
+msgstr "ปรับปรุงทันที"
+
+msgid "Supported Devices"
+msgstr "อุปกรณ์ที่รองรับ"
+
+msgid "What’s New"
+msgstr "What’s New"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

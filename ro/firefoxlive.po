@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ro/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Live"
+msgstr "Firefox Live {ok}"
+
+msgid "Tweet"
+msgstr "Ciripește pe Twitter"
+
+msgid "Follow @cubcaretaker"
+msgstr "Urmărește @cubcaretaker"
+
+msgid "Cameras"
+msgstr "Camere"
+
+msgid "360° view"
+msgstr "Vedere la 360°"
+
+msgid "Camera 1"
+msgstr "Camera 1 {ok}"
+
+msgid "Camera 2"
+msgstr "Camera 2 {ok}"
+
+msgid "Video help"
+msgstr "Ajutor"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"Vă plac puii de animale? Mozilla Firefox transmite în direct cei 3 pui de "
+"panda roșu adoptați. Dați de veste și „împărtășiți” cu prietenii "
+"dumneavoastră."
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"Ce este mai adorabil? Misiunea nonprofit a Firefox sau transmisia în direct "
+"cu mascota sa? Descoperiți accesând http://mzl.la/sPo5yu"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Ajutați Firefox, ajutați la protejarea mascotei sale rare și a Web-ului "
+"vizionând puii de panda! http://mozilla.org/firefoxlive"
+
+msgid "Share on Twitter »"
+msgstr "Împărtășiți pe Twitter »"
+
+msgid "Share on Facebook »"
+msgstr "Împărtășiți pe Facebook »"

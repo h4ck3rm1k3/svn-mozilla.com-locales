@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/mn/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Өөрийн болгох"
+
+msgid "One size doesn’t fit all."
+msgstr "Нэг хэмжээ нь бүгдэд таарахгүй."
+
+msgid "Go Fast"
+msgstr "Хурдлах"
+
+msgid "Accelerate the way you use the web."
+msgstr "Вэб хэрэглэдэг хурдаа нэмэх."
+
+msgid "Stay Safe"
+msgstr "Аюулгүй байх"
+
+msgid "We’ve got your back."
+msgstr "Бид таны арыг тань хариуцах болно."
+
+msgid "Get Firefox on your phone!"
+msgstr "Гар утсандаа Firefox-г татан авна уу!"
+
+msgid "Made for sharing."
+msgstr "Хуваалцах"
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Үүнд <br/> зориулсан <br/> тэйб цонх нээх"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Илүү хурдан <br/> болгохын тулд <br/> өөр тохируулан өөрчлөнө үү."
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Нэмэгдэл чадварыг <br/> татан авч <br/> илүү хялбар болгоно уу"
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Сайн ажилладаг учир <br/> та хийх шаардлагагүй."
+
+msgid "Increased <br/> speed"
+msgstr "Өсөлттөй <br/> хурд"
+
+msgid "Easy to <br/> access tabs"
+msgstr "Тэйб цонх <br/> нээхэд хялбар"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Бүтээмжтэй <br/> нэмэгдэл чадвар"
+
+msgid "Made for <br/> the way you play."
+msgstr "Тоглоход тань <br/> тав тухтай"
+
+msgid "3D <br/> graphics"
+msgstr "3D <br/> график"
+
+msgid "Even more <br/> reliable"
+msgstr "Илүү <br/> найдвартай"
+
+msgid "Effortless <br/> customization"
+msgstr "Өөрт тохируулан <br/> өөрчлөхөд хялбар"
+
+msgid "Advanced <br/> securiyty"
+msgstr "Дээд зэргийн <br/> хамгаалалт"
+
+msgid "Advanced <br/> graphics"
+msgstr "Дээд зэргийн <br/> график"
+
+msgid "Improved <br/> reliability"
+msgstr "Илүү найдвартай"
+
+msgid "Advanced <br/> security"
+msgstr "Advanced <br/> security"

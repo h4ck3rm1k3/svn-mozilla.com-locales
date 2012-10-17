@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.9.1-pre\n"
 
-#. extracted from ../locales/sq/channelsposter.lang
+#. extracted from ../locales/th/channelsposter.lang
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"

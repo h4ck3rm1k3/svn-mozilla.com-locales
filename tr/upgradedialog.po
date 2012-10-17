@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/tr/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "En yeni Firefox'u edinin"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox yenilendi!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Çabuk, kolay ve ücretsiz güncelleme</a>"
+
+msgid "Fresh new look"
+msgstr "Yepyeni bir görünüm"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Firefox 3.6'dan çok daha hızlı"
+
+msgid "More awesomeness than ever"
+msgstr "Her zamankinden daha da şahane"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Sizi çevrimiçi saldırılara karşı daha iyi koruyabilecek daha yeni bir "
+"Firefox sürümü var."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Şimdi yükseltin</a>: Hızlı ve bedava!"
+
+msgid "get the latest in security"
+msgstr "en yeni güvenlik güncellemelerini alın"
+
+msgid "experience faster performance"
+msgstr "daha yüksek performans elde edin"
+
+msgid "enjoy greater customization"
+msgstr "daha fazla kişiselleştirmenin keyfini sürün"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Kullandığınız Firefox sürümü yakında çevrimiçi saldırılara açık kalacaktır."
+
+msgid "Stay safe online"
+msgstr "internette güvende kalın"
+
+msgid "Enjoy new features"
+msgstr "yeni özelliklerin tadını çıkarın"
+
+msgid "URGENT!"
+msgstr "ACİL!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Kullandığınız Firefox sürümü artık çevrimiçi saldırılara karşı korunmuyor."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Bu, otomatik olarak son sürüme güncelleme yapılmadan önce yapılan son "
+"hatırlatmadır"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox artık işletim sistemi sürümünüzü desteklemiyor ve çevrimiçi "
+"saldırılara açık kalacaktır."
+
+msgid "We recommend:"
+msgstr "Önerilerimiz:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "<a %s>İşletim sisteminizi</a> yükseltin"
+
+msgid "Downloading a compatible browser"
+msgstr "Uyumlu bir tarayıcı indirin"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "<a %s>İşletim sisteminizin</a> ücretsiz yükseltmesini yükleyin"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Otomatik güncellemeden önce bir kez daha uyarılacaksınız."

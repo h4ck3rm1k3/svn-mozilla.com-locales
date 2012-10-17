@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Heɓ Firefox Ɓurɗo Hesɗude"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox ɓurɗo ɓesɗude ena ɗoo!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Jaawɗum, beeɓɗum, e kesɗitine caɗtaani</a>"
+
+msgid "Fresh new look"
+msgstr "Mbaydi kesiri kecciri"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Ɓuri Firefox 3.6 yaawde ɗo woɗɗi"
+
+msgid "More awesomeness than ever"
+msgstr "Ɓuri lobbiɗde haa wooroo"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Ena woodi yamre hesere Firefox ɓurnde waawde hisnude-ma e njanguuji ceŋol."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Heɓ kesɗitinal ngal</a> — jaawɗum & ko dokkal!"
+
+msgid "get the latest in security"
+msgstr "heɓ ko sakkitii e kisnal"
+
+msgid "experience faster performance"
+msgstr "yiyru gite maa njaaweeki mawki"
+
+msgid "enjoy greater customization"
+msgstr "weltoro keertingol ɓurgol timmude"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Yamre maa Firefox ena waawi yaneede bonanndeeji ceŋol."
+
+msgid "Stay safe online"
+msgstr "Ɓeydu kisal maa e ceŋol"
+
+msgid "Enjoy new features"
+msgstr "Welto e fannuuji kesi"
+
+msgid "URGENT!"
+msgstr "URGENT! {ok}"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "Yamre maa Firefox nattii hisde e njanguuji ceŋol."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Ɗum ko laawol baɗtanol min ciiftintu-maa hade maa hesɗitineede e jaajol "
+"fayde yamre sakkitiinde"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox nattii tammbitaade yamre yuɓɓo huumnungo maa tee maa nattu hisde e "
+"njanguuji geese."
+
+msgid "We recommend:"
+msgstr "Amin mbasiyoo:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Kesɗitinal <a %s>yuɓɓo huumnungo</a> maa"
+
+msgid "Downloading a compatible browser"
+msgstr "Aawtaade wanngorde jaaɓdunde"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Loowde kesɗitinal <a %s>yuɓɓo huumnungo</a> maa"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Maa a siiftine laawol goɗngol hade maa hesɗitineede e jaagol."

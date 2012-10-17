@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/videos/video_kicksend.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The problem with file sharing right now is that not one solution"
+msgstr "Caɗeele gonɗe e gostondiral piille oo sahaa ko alaa feere wootere"
+
+msgid "provides a really, really good experience for non technical users."
+msgstr "walloore ɓe ngonaa haralleeɓe huutoraade ɗum no ɓuri yuɓɓirde."
+
+msgid "With Kicksend you can send files to any of your friends,"
+msgstr "Huutoro Kicksend ngam neldude musidɓe maa kala piille,"
+
+msgid "of any size, just by dragging and dropping onto the web"
+msgstr "mawɗe walla tokoose, so daasde tan e yortinde e geese"
+
+msgid "and you can put in an email address"
+msgstr "tee aɗa waawi waɗde ɗum e ñiiɓirde iimeel"
+
+msgid "and that file gets delivered directly to your friends."
+msgstr "kisa ndeen fiilde yettoyoo bec to musidɓe maa."
+
+msgid "We decided to go the native route because we want to provide"
+msgstr "Min pelliti rewde e laabi ɗigguɗi ɗii sabu min njiɗi ko addude"
+
+msgid "a really good experience that people are used to on iPhone and Android"
+msgstr "dawtol moƴƴol tigi ngol yimɓe ɓe ngoowi e iPhone e Android"
+
+msgid "but at the same time, we still want to provide"
+msgstr "kono kadi amin njiɗi addude"
+
+msgid "the same great experience on the mobile web."
+msgstr "kuutoragol bayngol hono noon e geese cinndel."
+
+msgid "HTML5 allows us to be on multiple platforms"
+msgstr "HTML5 ena addani min wonde e juɓɓe keewɗe"
+
+msgid "without having to worry about dependencies on each of these platforms."
+msgstr "tawa min payanaani keɓgol timmitooje e wooto kala e ɗiin yuɓɓooji."
+
+msgid "Developing in HTML5 really helps us provide the features that"
+msgstr "Topaade e HTML5 ena walla min tigi addude fannuuji ɗi"
+
+msgid "our users need to be able to send files really easily through the web."
+msgstr ""
+"huutorɓe amen cokli ngam waawde neldude piille no ɓuri weeɓrude e nder "
+"geese."
+
+msgid "We try to be on every single mobile platform"
+msgstr "Amin etoo naatde e kala yuɓɓo cinndel woodngo"
+
+msgid "We do have native applications on iPhone and Android"
+msgstr "Amin njogii jaaɓnirɗe ɗaɗiije e iPhone e Android"
+
+msgid "but we do realize that the rest of the world"
+msgstr "kono min paamii wonde aduna oo kala"
+
+msgid "can use HTML5 to access Kicksend wherever they are."
+msgstr ""
+"ena waawi huutoraade HTML5 ngam naatde e Kicksend ɗo ɓe maawi wonde fof."
+
+msgid ""
+"The Mozilla Marketplace, I mean, first off it gives you massive distribution"
+msgstr ""
+"Marketplace mo Mozilla, tigi, ko adii kala ena hokku-maa saakgol molanaangol"
+
+msgid "because everybody who is using Firefox will essentially be using it."
+msgstr "sabu kala kuutortooɗo Firefox maa huutoro ɗum e mbaydi teeŋtundi."
+
+msgid "And there is also a mobile aspect to it that"
+msgstr "Kadi ena waɗi fannu cinndel e majjum jogorɗo"
+
+msgid "is going to push our mobile HTML5 app to many, many millions of users"
+msgstr ""
+"yettinde jaaɓngal amen cinndel HTML5 to huutorɓe miliyoŋaaji, miliyoŋaaji "
+"keewɗi"
+
+msgid "and that’s a no-brainer at that point."
+msgstr "tee alaa ko ɓuri ɗum-ɗoon weeɓde sanne."
+
+msgid "The fact that we can update very easily"
+msgstr "Nde wonnoo amin mbaawi hesɗitinirde no weeɓiri"
+
+msgid "and actually provide services through the browser"
+msgstr "e rewnude carwe e wanngorde ndee e jaati"
+
+msgid ""
+"that gives our app special permissions is something that is also a no-"
+"brainer"
+msgstr "dokkooje jaaɓɗe amen jamirooje keeriiɗe ena weeɓiri kadi no alaa"
+
+msgid "It took us may 15 minutes to bundle our app up and publish it"
+msgstr "Ko hojomaaji 15 tan min ɓami ngam tirde jaaɓgal amen min mbayyina ngal"
+
+msgid "to the Marketplace and ever since then we pushed out"
+msgstr "to Marketplace tee gila tuma mo min naatnoyi toon"
+
+msgid "a few releases already and it was a very smooth smooth experience."
+msgstr "bayyine seeɗa huunde ndee ɓeydi tan ko weeɓde."
+
+msgid "distribute your apps"
+msgstr "saak jaaɓɗe maa"

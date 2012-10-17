@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/da/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Hurra! Din Firefox er opdateret."
+
+msgid "Your Firefox is out of date."
+msgstr "Din Firefox er forældet."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Af sikkerhedsmæssige årsager anbefaler vi, at du opdaterer til den <a "
+"href=\"{url}\">nyeste og bedste version</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Du bruger en ukendt version af Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Af sikkerhedsmæssige årsager anbefaler vi, at du henter den <a "
+"href=\"{url}\">nyeste og bedste version</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Gå til din næste opgave<br/>hurtigere end nogensinde"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Se, hvordan de nyeste funktioner i Firefox hjælper dig med at surfe "
+"hurtigere og mere effektivt."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Lær mere om <a href=\"{url}\">den nye fanebladsfunktion »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Lær mere om vores <a href=\"{url}\">nydesignede startside »</a>"
+
+msgid "Keep in touch"
+msgstr "Hold kontakten"
+
+msgid "Keep it moving"
+msgstr "Hold den i bevægelse"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Hent Firefox » <b>til Android</b>"
+
+msgid "Keep it going"
+msgstr "Hold den i gang"
+
+msgid "Join Mozilla"
+msgstr "Vær med i Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android-robotten er lavet ud fra arbejde skabt og <a href=\"%s\">delt af "
+"Google</a> og anvendt i overensstemmelse med betingelser beskrevet i <a "
+"href=\"%s\">Creative Commons 3.0 Attribution License</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Hent Firefox til Android</a>, så du får mest muligt ud af "
+"internettet. Den er hurtig, smart og sikker!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Hent den mobil-browser, der beskytter dig på nettet"
+
+msgid "Firefox Features"
+msgstr "Funktioner i Firefox"
+
+msgid "Welcome to Firefox"
+msgstr "Velkommen til Firefox"
+
+msgid "Firefox Help"
+msgstr "Hjælp til Firefox"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox til Android-illustration"
+
+msgid "Fast. Smart. Safe."
+msgstr "Hurtig. Smart. Sikker."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Hent den mobil-browser, der beskytter dig på nettet."

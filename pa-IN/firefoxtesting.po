@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pa-IN/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "ਐਡਰਾਇਡ ਲਈ ਫਾਇਰਫਾਕਸ ਬੀਟਾ ਡਾਊਨਲੋਡ ਕਰੋ - ਮੁਫ਼ਤ"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "ਡੈਸਕਟਾਪ ਲਈ ਫਾਇਰਫਾਕਸ ਬੀਟਾ ਡਾਊਨਲੋਡ ਕਰੋ - ਮੁਫ਼ਤ"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"ਫਾਇਰਫਾਕਸ ਦੇ ਆਉਣ ਵਾਲੇ ਰੀਲਿਜ਼ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਟੈਸਟ ਕਰੋ। ਓਰੋਰਾ ਜਾਂ ਬੀਟਾ ਬਿਲਡ "
+"ਨਾਲ ਨਵੀਆਂ ਖੋਜਾਂ ਨੂੰ ਮਹਿਸੂਸ ਕਰੋ।"
+
+msgid "Firefox Beta"
+msgstr "ਫਾਇਰਫਾਕਸ ਬੀਟਾ"
+
+msgid "Firefox Beta for:"
+msgstr "ਫਾਇਰਫਾਕਸ ਬੀਟਾ ਇਸ ਲਈ:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "ਮੋਬਾਇਲ ਲਈ ਫਾਇਰਫਾਕਸ ਬੀਟਾ"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "ਬੀਟਾ ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਫਾਇਰਫਾਕਸ ਦੇ ਨਵੇਂ ਵਰਜਨ ਦਾ ਹਿੱਸਾ ਬਣੋ।"
+
+msgid "1. Test Features"
+msgstr "1. ਫੀਚਰ ਟੈਸਟ ਕਰੋ"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr "ਨਵੀਂ ਕਾਰਗੁਜ਼ਾਰੀ, ਕਸਟਮਾਈਜੇਸ਼ਨ ਅਤੇ ਸੁਰੱਖਿਆ ਸੁਧਾਰ ਤੁਰੰਤ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹਨ।"
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. ਸੁਧਾਰ &amp; ਚਮਕਦਾਰ"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"ਸਥਿਰ ਵਾਤਾਵਰਤਨ ਵਿੱਚ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕੰਮ-ਕਾਜ ਸਬੰਧੀ ਅੰਤਿਮ ਸੁਧਾਰ ਕਰਨ ਲਈ ਮੱਦਦ "
+"ਵਾਸਤੇ ਬੱਗ ਫਾਇਲ ਕਰੋ।"
+
+msgid "3. Do Your Part"
+msgstr "3. ਆਪਣਾ ਹਿੱਸਾ ਪਾਉ"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"ਫਾਇਰਫਾਕਸ ਦੇ ਅਗਲੇ ਵਰਜਨ ਅਤੇ 45 ਕਰੋੜ ਲੋਕਾਂ, ਜੋ ਰੋਜ਼ ਇਸ ਨੂੰ ਵਰਤਦੇ ਹਨ,  ਉੱਤੇ "
+"ਪ੍ਰਭਾਵ ਪਾਉ।"
+
+msgid "Supported devices"
+msgstr "ਸਹਾਇਕ ਜੰਤਰ"

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sq/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Shkarkoni Firefox Beta për Android - Falas"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Shkarkoni Firefox Beta për Desktop - Falas"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Shkarkoni dhe vini në provë versionet e ardhshme të Firefox-it. Provoni "
+"risitë më të reja me montimet Aurora ose Beta."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta për:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta për Celular"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr ""
+"Shkarkoni Beta-n dhe bëhuni kështu pjesë e versionit të ardhshëm të Firefox-"
+"it."
+
+msgid "1. Test Features"
+msgstr "1. Testoni Veçoritë"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Provoni zgjerimet më të reja të funksionimit, personalizimit dhe sigurisë "
+"thuajse gati për t'u hedhur në qarkullim."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Përimtësojeni &amp; Lëmojeni"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Depozitoni njoftime të metash që të na ndihmoni t'i sendërtojmë në një "
+"mjedis të qëndrueshëm përimtësimet përfundimtare lidhur me funksionimin."
+
+msgid "3. Do Your Part"
+msgstr "3. Bëni Tuajën"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Kini edhe ju pak ndikim mbi versionin e ardhshëm të Firefox-it dhe mbi 450 "
+"milionë njerëzit që e përdorin përditë."
+
+msgid "Supported devices"
+msgstr "Pajisje të mbuluara"

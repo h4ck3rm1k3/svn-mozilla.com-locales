@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gu-IN/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "માસિક સમાચાર મેળવો"
+
+msgid "Your Email Address"
+msgstr "તમારું ઇમેઇલ સરનામું"
+
+msgid "Text"
+msgstr "લખાણ"
+
+msgid "Available Languages"
+msgstr "ઉપલબ્ધ ભાષાઓ"
+
+msgid "Select country"
+msgstr "દેશ પસંદ કરો"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "અરર! માન્ય ઇમેલ સરનામું દાખલ કરવાની ખાતરી કરો."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"મહેરબાની કરીને Mozilla ખાનગીપણાની નીતિ વાંચો અને ચકાસણી બોક્સ પર ક્લિક કરીને "
+"સંમત થાવ."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "હું <a href=\"%s\">ખાનગીપણાની નીતિ</a> સાથે સંમત છું"
+
+msgid "Sign me up!"
+msgstr "મને જોડી દો!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "અમે તમને ફક્ત Mozilla-સંબંધિત માહીતિ મોકલીશું."
+
+msgid "Thanks for Subscribing!"
+msgstr "ઉમેદવારી નોંધાવવા બદલ આભાર!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"અમે આગળ જતાં ખૂબ જલદી Firefox લગતી યુક્તિઓ અને તરકીબોનું આદાનપ્રદાન કરવાની "
+"અને, સાથે સાથે Mozilla વિશે ઉત્તેજક સમાચાર આપવાની પણ અને અમે કેવી રીતે ભેગા "
+"મળીને વેબને વધુ સારું બનાવીએ છીએ એ જણાવવાની પણ ઇચ્છા રાખીએ છીએ."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"દર મહિને આવતા સુધારામાં ઉમેદવાર બનો અને Mozilla સમાચારો સાથે તાજા રહો, "
+"મોટાભાગનાં તમારા Firefox બ્રાઉઝરને મેળવવા માટે તાજેતરની મદદો અને યુક્તિઓને "
+"સમાવી રહ્યા છે. આ સંપર્કમાં રહેવાનો સારામાં સારો રસ્તો છે!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"અમે હમણાં ઇમેઇલ દ્દારા ખાતરી સંદેળો મોકલ્યો. આ મેઇલીંગ યાદીમાં તમારી "
+"ઉમેદવારીની ચકાસણી કરવા માટે આ ઇમેઇલમાં ખાતરી કડી પર ક્લિક કરો."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "અમારાં  <span>સૂચનાપત્ર</span> માં તેના વિશે બધુ વાંચો"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "તમારી સૂચનાપત્ર ઉમેદવારીની ખાતરી કરી દેવામાં આવી છે."
+
+msgid "Format"
+msgstr "બંધારણ"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "તમે બધા સુયોજિત છો! <span>પરંતુ રાહ જુઓ, વધારે ત્યાં છે</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"શું તમે સૌથી વધુ સંબંધિત માહિતી મેળવવા માંગો છો? તમારાં વિશે થોડુ વધારે અમને "
+"કહો. અને તમે જ્યારે અહિંયો હોય, ત્યારે બીજા Mozilla સમાચારો માટે સાઇન અપ "
+"કરો."
+
+msgid "Firefox & You"
+msgstr "Firefox અને તમે"
+
+msgid "Our Other Newsletters:"
+msgstr "અમારા બીજા સૂચનાપત્રો:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr "વધારે પસંદીદા બ્રાઉઝર મેળવવા માટે તાજેતરની મદદ અને યુક્તિઓ મેળવો."
+
+msgid "Firefox Mobile"
+msgstr "Firefox મોબાઇલ"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Firefox મોબાઇલ માટે નવાં તાજેતરનાં ઍડ-ઓન અને લક્ષણો વિશે શીખો."
+
+msgid "Beta News"
+msgstr "Beta સમાચારો"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"છેલ્લા પ્રકાશન પહેલાં  Firefox ડેસ્કટોપ અને મોબાઇલ માટે તાજેતરનાં લક્ષણો "
+"વિશે વાંચો."
+
+msgid "Let’s Be Friends!"
+msgstr "ચાલો મિત્રો બનાવો!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox પણ તમારી પસંદીદા સામાજિક નેટવર્કિંગ સાઇટ પર છે. અમારી સાથે જોડાવો "
+"અને વાર્તાલાપમાં જોડાવો."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "તમારી <span>સૂચનાપત્ર ઉમેદવારીઓ</span> ને સંચાલિક કરો"
+
+msgid "Subscribe"
+msgstr "ઉમેદવાર બનો"
+
+msgid "Unsubscribe"
+msgstr "ઉમેદવારી હટાવી દો"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "અહિંયા ચકાસો જો તમને બધા Mozilla ઇમેઇલમાંથી દૂર થવાનુ ગમે તો"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "બધા Mozilla ઇમેઇલમાંથી મને દૂર કરો"
+
+msgid "Save Preferences"
+msgstr "પસંદગીઓ સંગ્રહો"
+
+msgid "Thanks for updating your email preferences."
+msgstr "તમારાં ઇમેઇલ પસંદગીઓને સુધારવા માટે તમારો આભાર."
+
+msgid "You've been unsubscribed."
+msgstr "તમને ઉમેદવારીમાંથી હટાવી દેવામાં આવ્યા છે."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"તમને જતા જોઇને અમે દિલગીર છીએ. શું તમે અમને કહી શકો છો કે તમે શા માટે જઇ "
+"રહ્યા છો?"
+
+msgid "You send too many emails."
+msgstr "તમે ઘણાં ઇમેઇલ મોકલ્યા છે."
+
+msgid "Your content wasn't relevant to me."
+msgstr "તમારુ સમાવિષ્ટ મને સંબંધિત ન હતુ."
+
+msgid "Your email design was too hard to read."
+msgstr "તમારી ઇમેઇલ રચના વાંચવા માટે ઘણી મુશ્કેલ હતી."
+
+msgid "I didn't sign up for this."
+msgstr "આની માટે મેં સાઇન અપ કર્યુ નથી."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "હું તેને બદલે Facebook અને Twitter પર Mozilla સાથે સંપર્ક રાખી રહી છુ."
+
+msgid "Submit"
+msgstr "ઉમેરો"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "અમને કહેવા બદલ તમારો આભાર શામાટે તમે જઇ રહ્યા છો."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla સૂચનાપત્રો"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"તમારો આભાર! મહેરબાની કરીને તમારી ઉમેદવારીની ખાતરી કરવા માટે તમારાં ઇનબોક્સને "
+"ચકાસો."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"તમને તમારી ઉમેદવારીની ખાતરી કરવા માટે mozilla@e.mozilla.org માંથી ઇમેઇલ "
+"મળશે. જો તમે તેને ન જુઓ તો, તમારાં સ્પામ ફિલ્ટરને ચકાસો. તમને અમારા "
+"સૂચનાપત્રોને મેળવવા માટે તમારી ઉમેદવારીની ખાતરી કરવી જ જોઇએ."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"અમારાં સરનામાંને ઉમેરવા મહેરબાની કરીને ખાતરી કરો: ખાતરી કરવા માટે તમારુ  "
+"ઇમેઇલ સરનામુ  mozilla@e.mozilla.org અમે હંમેશા તમારા ઇનબોક્સ સુધી પહોંચીશુ."

@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/tr/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Android için Firefox'u edinin"
+
+msgid "Download for <span>Android</span>"
+msgstr "<span>Android</span> için indir"
+
+msgid "Free from the Android Market"
+msgstr "Android Market'te ücretsiz"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "veya teleofunuzdan <a %s>Firefox.com/m</a> adresine girin."
+
+msgid "Supported Devices"
+msgstr "Desteklenen Aygıtlar"
+
+msgid "Get it from iTunes - FREE"
+msgstr "iTunes'dan edinin - ÜCRETSİZ"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "<span>iPhone</span> için Firefox Home"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Firefox geçmişinize, yer imlerinize ve açık sekmelerinize iPhone'unuzdan "
+"erişin."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Firefox'u <span>mobil aygıtınıza</span> indirin"
+
+msgid "Want to test the latest features?"
+msgstr "En son özellikleri test etmek ister misiniz?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "iPhone için Firefox Home'u edinin"
+
+msgid "Download Beta for Android"
+msgstr "Android'in için Beta'yı indirin"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "for"
+msgstr "-"
+
+msgid "Free from iTunes"
+msgstr "iTunes'da ücretsiz"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"En yeni özellikleri deneyerek, final sürümüne eklenecekleri düzeltip "
+"güzelleştirmemiz için geri bildirimde bulunabileceksiniz."
+
+msgid "Developer Tools"
+msgstr "Geliştirici Araçları"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Test etmek, geri bildirimde bulunmak ve eklenti geliştirmek amacıyla "
+"Firefox'un mobil sürümünü masaüstü bilgisayarınıza yükleyebilirsiniz."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Mobil Firefox ile Bağlanın:"
+
+msgid "Monthly newsletter"
+msgstr "Aylık bülten"
+
+msgid "Follow us"
+msgstr "Bizi takip edin"
+
+msgid "Become a fan"
+msgstr "Hayranımız olun"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox, daha az yazmanızı, daha fazla sörf yapmanızı ve Web'e hızla ve "
+"kolayca ulaşmanızı sağlayacak yeniliklerle dolu."
+
+msgid "Freedom from typing"
+msgstr "Daha az yazın"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Şahane Ekran en sevdiğiniz siteleri öğrenir, böylece hiç yazmadan ve çok az "
+"yazarak sörf yapabilirsiniz."
+
+msgid "Best of both worlds"
+msgstr "İki dünyanın da en iyisi"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Android için Firefox, hem telefonlar hem de tabletler için yeniden "
+"tasarlandı ve optimize edildi."
+
+msgid "Browse quick and easy"
+msgstr "Hızlı ve kolay sörf"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Sync, sekmeli tarama ve tek dokunuşla yer imlerine ekleme gibi özellikler "
+"sayesinde istediğiniz her şey elinizin altında."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Yardım mı lazım?</a> Android için Firefox Destek sitemizi ziyaret "
+"edin."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Sizin için en uygun sürümü indirin ve test edin."
+
+msgid "See all our channels for mobile »"
+msgstr "Tüm mobil kanallarımızı görün »"
+
+msgid "Free from the Google Play Store"
+msgstr "Google Play Store'da ücretsiz"

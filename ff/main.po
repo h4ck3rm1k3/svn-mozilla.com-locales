@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Banngagol"
+
+msgid "Press area"
+msgstr "Nokku jaaynde"
+
+msgid "About"
+msgstr "Baɗte"
+
+msgid "Store"
+msgstr "Yeeyirdu"
+
+msgid "Donate"
+msgstr "Addu dokkal"
+
+msgid "Support"
+msgstr "Wallitorde"
+
+msgid "Products"
+msgstr "Topirɗe"
+
+msgid "Add-ons"
+msgstr "Ɓeyditte"
+
+msgid "About Us"
+msgstr "Baɗte amen"
+
+msgid "Developers"
+msgstr "Topayɓe"
+
+msgid "Labs"
+msgstr "Mbayla"
+
+msgid "skip to Navigation"
+msgstr "diw to Peeragol"
+
+msgid "switch language"
+msgstr "waylu ɗemngal"
+
+msgid "Back to home page"
+msgstr "Rutto to jaɓɓorgo"
+
+msgid "About Mozilla"
+msgstr "Baɗte Mozilla"
+
+msgid "Get Involved"
+msgstr "Addu ballal maa"
+
+msgid "Licensing"
+msgstr "Jamirooje"
+
+msgid "Careers"
+msgstr "Golluuje"
+
+msgid "Press Center"
+msgstr "Nokku Jaaynde"
+
+msgid "Contact Us"
+msgstr "Jokkondir e amen"
+
+msgid "Site contact"
+msgstr "Jokkondiral lowre"
+
+msgid "Other languages:"
+msgstr "Ɗemɗe goɗɗe:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Hakkeeji fof ko curaaɗi."
+
+msgid "Legal Notices"
+msgstr "Tintine laawol"
+
+msgid "Privacy Policy"
+msgstr "Dawirgol Suturo"
+
+msgid "Visit Mozilla.com"
+msgstr "Yillo Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Yillo Mozilla.com (Lowre US)"
+
+msgid "Download Firefox - Free"
+msgstr "Aawto Firefox - Yoɓetaake"
+
+msgid "Release Notes"
+msgstr "Konngol bayyinol"
+
+msgid "Other Systems and Languages"
+msgstr "Juɓɓe e ɗemɗe goɗɗe"
+
+msgid "Get Firefox"
+msgstr "Heɓ Firefox"
+
+msgid "Free Download"
+msgstr "Gaawte Alla meho"
+
+msgid "Help us make Firefox even better!"
+msgstr "Addu ballal ngam ɓeydude moƴƴinde Firefox!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Ɓam hojomaaji seeɗa ngam jaabaade naamnde seeɗa ngam wostondirde miijooji "
+"maa e amen."
+
+msgid "Close"
+msgstr "Uddu"
+
+msgid "(in English)"
+msgstr "(e ɗemngal Pulaar-Fulfulde)"
+
+msgid "Download Now - Free"
+msgstr "Aaawto jooni - Yoɓetaake"
+
+msgid "Return to top"
+msgstr "Rutto dow"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Aɗa foti <a href=\"http://get.adobe.com/flashplayer/\">hesɗitinde Adobe Flash "
+"Player</a> jooni."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox ena hesɗiti, kono yamre Flash Player nde njogi-ɗaa ndee ena waawi "
+"addude caɗe kisal e jamɗugol.  Tiiɗndo <a "
+"href=\"http://get.adobe.com/flashplayer/\">loow kesɗitinal ngal yoɓetaake</a> "
+"ko yaajtii."
+
+msgid "Features"
+msgstr "Fannuuji"
+
+msgid "Customize"
+msgstr "Heertin"
+
+msgid "Synchronize"
+msgstr "Sanngoɗin"
+
+msgid "Develop for Mobile"
+msgstr "Topano cinnde"
+
+msgid "Other Supported Platforms"
+msgstr "Juɓɓe goɗɗe jaaɓduɗe"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Juɓɓe goɗɗe &amp; Ɗemɗe"
+
+msgid "Choose your location"
+msgstr "Suɓo nokku maa"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Aawto Firefox bec e cinndel maa"
+
+msgid "Download"
+msgstr "Aawto"
+
+msgid "Next"
+msgstr "Yeeso"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "Megaabite"
+
+msgid "FAQ"
+msgstr "Gerngal Naamne Duumiiɗe (GND)"
+
+msgid "Videos"
+msgstr "Widewooji"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"So wonaa ɗo <a href=\"%s\">sifaa</a> nokku goɗɗo, loowdi ndee lowre ko "
+"keeroraandi tugnaade e jamirol <br /><a href=\"%s\">Creative Commons "
+"Attribution Share-Alike License v3.0</a> walla kala yamre sakkitiinde ɗum."
+
+msgid "Report Trademark Abuse"
+msgstr "Jaŋto Nguyka Marke"
+
+msgid "Free Upgrade"
+msgstr "Kesɗitainal ngal yoɓetaake"
+
+msgid "Follow us on:"
+msgstr "Rewindo-min e:"
+
+msgid "Customize with Add-ons"
+msgstr "Huutoro ɓeyditte ngam heertinde"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sanngoɗin ordinateer & cinndel maa"
+
+msgid "Learn More"
+msgstr "Ɓeydu humpito"
+
+msgid "Watch the video"
+msgstr "Yeeɓ widewoo oo"
+
+msgid "WebM format"
+msgstr "Mbayka WebM"
+
+msgid "Ogg Theora format"
+msgstr "Mbayka Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Mbayka MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Ndo! Ƴeew so a naatnii ñiiɓirde iimeel moƴƴere."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Tiiɗno tar Dawirgol Suturo Mozilla ngol tee maanto-ɗaa laborde ndee ngam "
+"jaɓde."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Tiiɗno naatnu ñiiɓirde iimeel maa tee ƴeewto-ɗaa Dawirgol Suturo Mozilla "
+"ngol."
+
+msgid "Mobile"
+msgstr "Cinndel"
+
+msgid "Firefox Updated"
+msgstr "Firefox Hesɗitii"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Ƴeew no Geese Janngo no wayata"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Ɗannodo e Firefox fayde Janngo"
+
+msgid "Join the Beta Program"
+msgstr "Yantu e njuɓɓudi Betaa"
+
+msgid "Experience Firefox"
+msgstr "Humpito Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Janngo geese nana fad-maa!"
+
+msgid "The future of the Web starts now."
+msgstr "Janngo gGese fuɗɗiima jooni."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Ƴeewndo Firefox e mbaydi mum kecciri e dakamme mum."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Humpito Geese Janngo hannde."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Ar humpito mbaydi e dakamme kese Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Wanngo e Janngo Geese."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Ƴeew Firefox e mbaydi mum e dakamme mum kese."
+
+msgid "Download Beta Now."
+msgstr "Aawto Beta jooni."
+
+msgid "All Systems & Languages"
+msgstr "Juɓɓe & Ɗemɗe fof"
+
+msgid "View Full Site"
+msgstr "Hollu lowre ndee fof"
+
+msgid "Get Firefox for Android"
+msgstr "Heɓ Firefox mo Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Aaawto mo <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Dokkal ummoraade Android Market"
+
+msgid "Desktop"
+msgstr "Ordinateer"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta mo cinndel"
+
+msgid "Firefox for mobile"
+msgstr "Firefox mo cinndel"
+
+msgid "Email"
+msgstr "Iimeel"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Addude Geese kese e XP."
+
+msgid "Super speed"
+msgstr "Njaaweeki moolanaaki"
+
+msgid "Stunning graphics"
+msgstr "Jaytine kulɓiniiɗe"
+
+msgid "The latest technologies"
+msgstr "Karallaagal cakkitiingal"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Ngon-ɗaa ko e huutoraade yamre Firefox ɓooynde. Heɓ kesɗitinal ngam ɓeudude "
+"kisal! <br/> <a href=\"%s\">Aawto kesɗitinal dokkal</a> e ko jaasi hojom ngam "
+"heɓde fannuuji kesi, peewnitte njaaweeki e kisal."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Aɗa soki kesɗitinal! Ɓeydu kisal e ko jaasi hojom. <br/> Fuɗɗo huuroraade "
+"Firefox maa keso ngam heɓde wanngorde ɓurnde yuɓɓude e heertinaade. <br/>   "
+"Ena yaawi tee yoɓetaake!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Ngon-ɗaa ko e huutoraade yamre Firefox ɓooynde. Heɓ <a href=\"%s\">kesɗitinal "
+"maa</a> ngam ɓeudude kisal! <br/> Humpito fannuuji kesi, peewnitte kisal e "
+"Firefox ɓurɗo yaawde tawo. Aawto kesɗitinal ngal yoɓetaake e ko jaasi hojom."
+
+msgid "Upgrade now"
+msgstr "Hesɗitin jooni"
+
+msgid "Update now"
+msgstr "Hesɗitin jooni"
+
+msgid "Supported Devices"
+msgstr "Kaɓirɗi Tambitaaɗi"
+
+msgid "What’s New"
+msgstr "Ko Hesɗi e Firefox"
+
+msgid "Privacy"
+msgstr "Suturo"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

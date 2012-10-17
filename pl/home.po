@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pl/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Personalizacja"
+
+msgid "One size doesn’t fit all."
+msgstr "Nie wszystkim pasuje ten sam rozmiar."
+
+msgid "Go Fast"
+msgstr "Szybkość"
+
+msgid "Accelerate the way you use the web."
+msgstr "Przyspiesz korzystanie z sieci."
+
+msgid "Stay Safe"
+msgstr "Bezpieczeństwo"
+
+msgid "We’ve got your back."
+msgstr "Zapewniamy Ci ochronę."
+
+msgid "Get Firefox on your phone!"
+msgstr "Pobierz Firefoksa na swój telefon!"
+
+msgid "Made for sharing."
+msgstr "Z myślą o udostępnianiu."
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Stwórz <br/> karty tylko do <br/> udostępniania"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Zmień ustawienia <br/> i udostępniaj <br/> szybciej"
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Pobierz dodatki <br/> ułatwiające <br/> udostępnianie"
+
+msgid "Works harder so you don't have to."
+msgstr "Nie pracuj ciężej, zostaw to swojej przeglądarce."
+
+msgid "Increased <br/> speed"
+msgstr "Większa <br/> szybkość"
+
+msgid "Easy to <br/> access tabs"
+msgstr "Łatwy dostęp <br/> do kart"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Dodatki <br/> usprawniające pracę"
+
+msgid "Made for the way you play."
+msgstr "Z myślą o graczach."
+
+msgid "3D <br/> graphics"
+msgstr "Grafika <br/> 3D"
+
+msgid "Even more <br/> reliable"
+msgstr "Jeszcze większa <br/> niezawodność"
+
+msgid "Staying in touch is easier than ever."
+msgstr "Pozostanie w kontakcie nigdy nie było tak proste."
+
+msgid "Effortless <br/> customization"
+msgstr "Łatwa zmiana <br/> ustawień"
+
+msgid "Advanced <br/> security"
+msgstr "Większe <br/> bezpieczeństwo"
+
+msgid "The future of music & video today."
+msgstr "Przyszłość muzyki i filmu – już dziś."
+
+msgid "Advanced <br/> graphics"
+msgstr "Ulepszona <br/> grafika"
+
+msgid "Improved <br/> reliability"
+msgstr "Większa <br/> niezawodność"
+
+msgid "Made for <br/> the way you play."
+msgstr "Made for <br/> the way you play."
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Works harder so <br /> you don't have to."

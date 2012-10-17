@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pa-IN/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "ਸਭ ਤੋਂ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਲਵੋ"
+
+msgid "The Newest Firefox is Here!"
+msgstr "ਸਭ ਤੋਂ ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਇੱੱਥੇ ਹੈ!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>ਤੁਰੰਤ, ਸੌਖਾ ਅਤੇ ਮੁਫ਼ਤ ਅੱਪਡੇਟ</a>"
+
+msgid "Fresh new look"
+msgstr "ਤਾਜਾ ਨਵਾਂ ਸਰੂਪ"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "ਫਾਇਰਫਾਕਸ 3.6 ਨਾਲੋਂ ਕਿਤੇ ਵੱਧ ਤੇਜ਼"
+
+msgid "More awesomeness than ever"
+msgstr "ਪਹਿਲਾਂ ਨਾਲੋਂ ਕਿਤੇ ਵੱਧ ਬੇਨਜ਼ੀਰ"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"ਫਾਇਰਫਾਕਸ ਦਾ ਨਵਾਂ ਵਰਜਨ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਹਮਲਿਆਂ ਤੋਂ ਵਧੀਆ ਸੁਰੱਖਿਆ ਦੇ "
+"ਸਕਦਾ ਹੈ।"
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>ਅੱਪਗਰੇਡ ਲਵੋ ਜੀ</a> - ਇਹ ਤੇਜ਼ ਅਤੇ ਮੁਫ਼ਤ ਹੈ!"
+
+msgid "get the latest in security"
+msgstr "ਸੁਰੱਖਿਆ ਵਿੱਚ ਸਭ ਤੋਂ ਨਵਾਂ ਲਵੋ"
+
+msgid "experience faster performance"
+msgstr "ਹੋਰ ਵੀ ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਪਾਓ"
+
+msgid "enjoy greater customization"
+msgstr "ਸਭ ਤੋਂ ਵੱਧ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਉਣ ਦਾ ਆਨੰਦ ਲਵੋ"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"ਫਾਇਰਫਾਕਸ ਦਾ ਤੁਹਾਡਾ ਵਰਜਨ ਛੇਤੀ ਹੀ ਆਨਲਾਈਨ ਹਮਲਿਆਂ ਲਈ ਕਮਜ਼ੋਰ (ਅਸੁਰੱਖਿਅਤ) ਹੋਵੇਗਾ।"
+
+msgid "Stay safe online"
+msgstr "ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਰਹੋ"
+
+msgid "Enjoy new features"
+msgstr "ਨਵੇਂ ਫੀਚਰ ਲਵੋ"
+
+msgid "URGENT!"
+msgstr "ਲਾਜ਼ਮੀ!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "ਤੁਹਾਡੇ ਫਾਇਰਫਾਕਸ ਦਾ ਵਰਜਨ ਹੁਣ ਆਨਲਾਈਨ ਹਮਲਿਆਂ ਲਈ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਰਿਹਾ।"
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"ਇਹ ਤੁਹਾਡੇ ਲਈ ਆਖਰੀ ਵਾਰ ਸੂਚਨਾ ਹੈ, ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਨਵੇਂ "
+"ਵਰਜਨ ਲਈ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇ"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"ਫਾਇਰਫਾਕਸ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਰਜਨ ਥਈ ਹੁਣ ਸਹਾਇਕ ਨਹੀਂ ਰਿਹਾ ਹੈ ਅਤੇ ਆਨਲਾਈਨ "
+"ਹਮਲਿਆਂ ਲਈ ਕਮਜ਼ੋਰ (ਅਸੁਰੱਖਿਅਤ) ਹੋਵੇਗਾ।"
+
+msgid "We recommend:"
+msgstr "ਅਸੀਂ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "ਆਪਣੇ  <a %s>ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ</a> ਨੂੰ ਅੱਪਗਰੇਡ ਕਰੋ"
+
+msgid "Downloading a compatible browser"
+msgstr "ਅਨੁਕੂਲ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "ਤੁਹਾਡੇ <a %s>ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ</a> ਲਈ ਮੁਫ਼ਤ ਅੱਪਗਰੇਡ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਇੱਕ ਵਾਰ ਫੇਰ ਪੁੱਛਿਆ ਜਾਵੇਗਾ।"

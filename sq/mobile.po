@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sq/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Merrni Firefox-in për Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Shkarkojeni për <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Falas nga Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Ose vizitoni <a %s>Firefox.com/m</a> me telefonin tuaj."
+
+msgid "Supported Devices"
+msgstr "Pajisje të Mbuluara"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Merreni prej iTunes - FALAS"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home për <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Hyni në historikun tuaj të Firefox-it, faqerojtësit dhe skedat e hapura, te "
+"iPhone-i juaj."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Shkarkojeni Firefox-in te <span>Celulari Juaj</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Doni të provoni veçoritë më të reja?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Merrni Firefox Home për iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Shkarkoni Beta-n për Android"
+
+msgid "Download"
+msgstr "Shkarkoje"
+
+msgid "for"
+msgstr "për"
+
+msgid "Free from iTunes"
+msgstr "Falas nga iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Do të keni rastin kështu të provoni veçoritë më të reja dhe të jepni "
+"përshtypjet tuaja, me qëllim përmirësimin dhe përimtësimin e atij që do të "
+"jetë produkti përfundimtar."
+
+msgid "Developer Tools"
+msgstr "Mjete Zhvilluesish"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Versionin për celular të Firefox-it mund ta instaloni te kompjuteri juaj "
+"desktop me qëllim që ta provoni, të jepni përshtypjet tuaja, dhe të krijoni "
+"shtesa."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Lidhuni me Firefox-in për Celular:"
+
+msgid "Monthly newsletter"
+msgstr "Buletini  mujor"
+
+msgid "Follow us"
+msgstr "Na ndiqni"
+
+msgid "Become a fan"
+msgstr "Bëhuni fan"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox-i përmban plot risi që ju lejojnë të shtypni më pak në tastierë, të "
+"shfletoni më tepër dhe të përdorni Web-in më shpejt dhe më lehtë."
+
+msgid "Freedom from typing"
+msgstr "Çlirim nga të shkruajturit"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Ekrani Mahnitës i mban mend site-et tuaj të parapëlqyer që kështu të "
+"shfletoni vetëm me pak ose aspak shkrim në tastierë."
+
+msgid "Best of both worlds"
+msgstr "Më të mirën e të dy botëve"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox-i për Android tani është rihartuar dhe optimizuar që të mund të "
+"shfletoni nga telefonë dhe tablete."
+
+msgid "Browse quick and easy"
+msgstr "Shfletoni shpejt dhe lehtë"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Veçori të tilla si Sync, shfletimi me skeda dhe faqeruajtjet me një prekje "
+"do të thotë që gjithçka që ju duhet, e keni në pëllëmbë të dorës."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Ju duhet ndihmë?</a> Vizitoni site-in tonë të Asistencës për Firefox "
+"për Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Shkarkoni dhe provoni montimin e përshtatshëm për ju."
+
+msgid "See all our channels for mobile »"
+msgstr "Shihni krejt kanalet tanë për celularë »"
+
+msgid "Free from the Google Play Store"
+msgstr "Falas te Shitorja Google Play"

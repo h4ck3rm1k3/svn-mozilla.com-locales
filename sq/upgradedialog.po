@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sq/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Merrni Firefox-in Më të Ri"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox-i Më i Ri Mbërriti!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Përditësim i shpejtë, i lehtë dhe falas</a>"
+
+msgid "Fresh new look"
+msgstr "Pamje e re e freskët"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Shumë më i shpejtë se sa Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Më i mahnitshëm se kurrë"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Ka një version të ri të Firefox-it që mund t'ju mbrojë më mirë kundër "
+"sulmeve online."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Merrni përmirësimin</a> - është falas dhe shkarkohet shpejt!"
+
+msgid "get the latest in security"
+msgstr "merrni fjalën e fundit në siguri"
+
+msgid "experience faster performance"
+msgstr "Përfitoni punim më të shpejtë"
+
+msgid "enjoy greater customization"
+msgstr "shijoni personalizim më të fuqishëm"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Versioni juaj i Firefox-it së shpejti do të jetë objekt sulmesh online."
+
+msgid "Stay safe online"
+msgstr "Jini i sigurt kur jeni online"
+
+msgid "Enjoy new features"
+msgstr "Shijoni veçori të reja"
+
+msgid "URGENT!"
+msgstr "URGJENTE!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "Versioni juaj i Firefox-it nuk është më i mbrojtur nga sulmet online."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Ky është shënimi i fundit për t'jua kujtuar, përpara se të bëhet përditësimi "
+"i vetvetishëm me versionin më të ri"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox-i nuk e mbulon më versionin tuaj të sistemit operativ dhe do të jeni "
+"i zbuluar përballë sulmeve online."
+
+msgid "We recommend:"
+msgstr "Këshillojmë:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Përmirësimin e <a %s>sistemit tuaj operativ</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Shkarkimin e një shfletuesi të përputhshëm me të"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr ""
+"Instalimin te <a %s>sistemi juaj operativ</a> të një përmirësimi të lirë"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Do të njoftoni edhe një herë të fundit përpara se të kryhet përditësimi "
+"vetvetiu."

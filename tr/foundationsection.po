@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/tr/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "Mozilla Durumu <span>Yıllık Rapor</span>"
+
+msgid "Welcome"
+msgstr "Hoş geldiniz"
+
+msgid "Opportunities"
+msgstr "Olanaklar"
+
+msgid "People"
+msgstr "İnsanoğlu"
+
+msgid "Ahead"
+msgstr "Gelecek"
+
+msgid "Download this video:"
+msgstr "Bu videoyu indirin:"
+
+msgid "A Different Kind of Browser"
+msgstr "Başka Türlü Bir Tarayıcı"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "Mozilla neyin nesidir? Bunu neden yapıyoruz? İyi ki sordunuz."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "İleriye Bakış <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr ""
+"Mozilla Yönetim Kurulu Başkanı Mitchell Baker, Mozilla'nın durumundan "
+"bahsediyor."
+
+msgid "Getting Involved"
+msgstr "Aramıza Katılın"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr ""
+"Mozilla, dünyanın her yanındaki insanlardan oluşan eğlenceli, çeşitliliği "
+"açık bir topluluktur."
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Mozilla Firefox afişi, San Francisco"
+
+msgid "Download PDF"
+msgstr "PDF'i indirin"
+
+msgid "2010 Audited Financial Statement"
+msgstr "Denetimden Geçmiş 2010 Mali Tabloları"
+
+msgid "2010 Form 990"
+msgstr "2010 Form 990 {ok}"
+
+msgid "Celebrating Firefox"
+msgstr "Firefox kutlaması"
+
+msgid "ReMo Work Week, Paris"
+msgstr "ReMo Çalıştayı, Paris"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Mozilla Buluşması, Brezilya"
+
+msgid "Arabic Mozilla"
+msgstr "Arabic Mozilla {ok}"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Kenya {ok}"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Endonezya"
+
+msgid "Other languages & sharing"
+msgstr "Diğer diller ve paylaşım"
+
+msgid "ReMo Work Week in Paris"
+msgstr "Paris'teki ReMo Çalışma Haftası"

@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/da/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Download Firefox beta til Android - Gratis"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Download Firefox beta til computer - Gratis"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Download og test Firefox' fremtidige udgivelser. Få de nyeste funktioner med "
+"Aurora- eller beta-versionerne."
+
+msgid "Firefox Beta"
+msgstr "Firefox beta"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox beta til:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox beta til Mobilen"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr ""
+"Download Firefox beta, og få et smugkig på den næste version af Firefox."
+
+msgid "1. Test Features"
+msgstr "1. Test funktioner"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Prøv de seneste ydelses-, tilpasnings- og sikkerheds&shy;forbedringer, der "
+"næsten er klar til den færdige udgave af Firefox."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Finpudsning"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Rapportér fejl, og hjælp os med at lave de endelige finjusteringer af ydelse "
+"og funktionalitet i et stabilt miljø."
+
+msgid "3. Do Your Part"
+msgstr "3. Hjælp med"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Sæt dit aftryk på den næste generation af Firefox, og hjælp de 450 millioner "
+"mennesker, der bruger programmet dagligt."
+
+msgid "Supported devices"
+msgstr "Understøttede enheder"

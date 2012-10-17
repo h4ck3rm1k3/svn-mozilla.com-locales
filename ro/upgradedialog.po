@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ro/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Ia-ți cel mai nou Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Noul Firefox este aici!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Actualizare rapidă, ușoară și gratuită</a>"
+
+msgid "Fresh new look"
+msgstr "Un aspect nou"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Mult mai rapid decât Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Mai multe lucruri extraordinare"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Există o versiune mai nouă de Firefox care te poate proteja mai bine "
+"împotriva atacurilor online."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Obține actualizarea</a> - rapid și gratuit!"
+
+msgid "get the latest in security"
+msgstr "obține ultimele noutăți în materie de securitate"
+
+msgid "experience faster performance"
+msgstr "obține performanță mai bună"
+
+msgid "enjoy greater customization"
+msgstr "bucură-te de mai multă personalizare"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Versiunea ta de Firefox va fi în curând vulnerabilă atacurilor online."
+
+msgid "Stay safe online"
+msgstr "Rămâi în siguranță și când ești online"
+
+msgid "Enjoy new features"
+msgstr "Bucură-te de noile funcționalități"
+
+msgid "URGENT!"
+msgstr "URGENT!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Versiunea ta de Firefox nu mai este protejată împotriva atacurilor online."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Acesta este ultimul mesaj de aducere aminte înainte de a se aplica automat "
+"actualizarea la ultima versiune"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox nu mai suportă sistemul tău de operare și va fi vulnerabil "
+"atacurilor online."
+
+msgid "We recommend:"
+msgstr "Îți recomandăm:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "să-ți actualizezi <a %s>sistemul de operare</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "să descarci un navigator compatibil"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr ""
+"Instalarea unei actualizări gratuite <a %s>a sistemului tău de operare</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Nu vei mai fi avertizat, iar actualizarea va fi aplicată automat."

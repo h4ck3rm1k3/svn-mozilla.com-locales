@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Heertin"
+
+msgid "One size doesn’t fit all."
+msgstr "Ɓetol gootol heƴataa fof."
+
+msgid "Go Fast"
+msgstr "Ɓeydo Yaawde"
+
+msgid "Accelerate the way you use the web."
+msgstr "Ɓeydu njaaweeki kuutorgol maa geese."
+
+msgid "Stay Safe"
+msgstr "Ɓeydu Kisal"
+
+msgid "We’ve got your back."
+msgstr "Amin ndeeni kisal maa."
+
+msgid "Get Firefox on your phone!"
+msgstr "Heɓ Firefox e cinndel maa!"
+
+msgid "Made for sharing."
+msgstr "Waɗiraa ko gostondiral."
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Sosan mo tabbe <br/> keeriiɗe <br/>"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Heertin <br/> ngam ɓeydude <br/> ɗum yaawde"
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Heɓ ɓeyditte <br/> ngam ɓeydude <br/> ɗum weeɓde"
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Maa gollane kisa <br /> tawa a tampaani."
+
+msgid "Increased <br/> speed"
+msgstr "Njaaweeki <br/> ɓeydiima"
+
+msgid "Easy to <br/> access tabs"
+msgstr "Naatde e <br/> tabbe weeɓtii"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Ɓeyditte <br/> ittinal"
+
+msgid "Made for <br/> the way you play."
+msgstr "Waɗiraa ko <br/> yo a fijir."
+
+msgid "3D <br/> graphics"
+msgstr "Jaytinooje <br/> 3D"
+
+msgid "Even more <br/> reliable"
+msgstr "Ɓuri kadi <br/> hoolnaade"
+
+msgid "Effortless <br/> customization"
+msgstr "Keertingol <br/> alaa tampere"
+
+msgid "Advanced <br/> security"
+msgstr "Kisal <br/> ceeɓtorngal"
+
+msgid "Advanced <br/> graphics"
+msgstr "Jaytinooje <br/> ceeɓtorɗe"
+
+msgid "Improved <br/> reliability"
+msgstr "Hoolaare <br/> ɓeydiima"

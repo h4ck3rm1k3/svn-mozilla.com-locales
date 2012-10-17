@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/press.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Press Center"
+msgstr "Nokku Jaande"
+
+msgid "Latest Press Releases"
+msgstr "Bayyine Jaaynde Cakkitiiɗe"
+
+msgid "Mozilla News, Announcements and More"
+msgstr "Kabaruuji Mozilla, Tintinde e Ko wonaa ɗum"
+
+msgid "Connect <span>with Us</span>"
+msgstr "Jokkondir <span>e amen</span>"
+
+msgid "Subscribe to RSS feed »"
+msgstr "Lulno e ɓoggi RSS ɗee »"
+
+msgid "For interview requests or any other media inquiries, please contact:"
+msgstr ""
+"Ɗaɓɓooɓe jeewtitte walla ɗaɓɓanɗe jaaynde goɗɗe, tiiɗno-ɗee njokkindiree e:"
+
+msgid "press at mozilla dot com"
+msgstr "press at mozilla dot com {ok}"

@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Heɓ Firefox mo Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Aawto mo <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Ena heɓoo Alla meho e Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Walla yillo <a %s>Firefox.com/m</a> e cinndel maa."
+
+msgid "Supported Devices"
+msgstr "Kaɓirɗi Jaaɓduɗe"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Heɓ iwde e iTunes - FREE"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Jaɓɓorgo Firefox mo <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr "Heɓ aslol Firefox, maantore e tabbe maa udditiiɗe e iPhone maa."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Aawto Firefox e <span>Cinndel Maa</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Aɗa yiɗi ƴeewtaade fannuu kesi?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Heɓ Jaɓɓorgo Firefox mo iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Aawto Betaa mo Android"
+
+msgid "Download"
+msgstr "Aawto"
+
+msgid "for"
+msgstr "mo"
+
+msgid "Free from iTunes"
+msgstr "Jarataa hay baɗte e iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Maa yiyru gite maa fannuuji ɓurɗi seeɓde tee ndokkaa miijooji maa ngam "
+"wallude min feewtinde ko jogori yaltude e jame battindiiɗe."
+
+msgid "Developer Tools"
+msgstr "Kuutorɗe Toporo"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Aɗa waawi aafde yamre cinndel Firefox e ordianteer biro maa ngam ƴeewndaade, "
+"hokkude duttine, e tafde ɓeyditte."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Seŋo e Firefox mo Cinndel:"
+
+msgid "Monthly newsletter"
+msgstr "Ɓataake habrirde lewriijo"
+
+msgid "Follow us"
+msgstr "Rewindo-min"
+
+msgid "Become a fan"
+msgstr "Yantu e fansɓe amen"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox ena heewi fannuuji ustooji tappugol maa, ɓeyda banngagol maa ngam "
+"keɓaa Geese ko yaawi e ko weeɓi."
+
+msgid "Freedom from typing"
+msgstr "A tappataa"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Ndee Yaynirde Moolanaade teskoto lowe maa ɓurɗaa yiɗde ngam mbaawaa "
+"wanngaade tawa tappataa binndi ko seeɗa."
+
+msgid "Best of both worlds"
+msgstr "Ɓural taable walla cinndel"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox mo Android ko ko ŋeñtaa tee moƴƴitinaa ngam banngagol maa e cinnde e "
+"taable kala."
+
+msgid "Browse quick and easy"
+msgstr "Wanngo jaawngol e beeɓngol"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Fannuuji wano Sync, banngagol tabbe e maantoragol tappu-gootol firti ko kala "
+"ko coklu-ɗaa ena ɓadii."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr "<a %s>Aɗa sokli ballal?</a> Yillo lowre Wallitorde Firefox mo Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Aawto ngam ƴeewndaade mahngo ngo labana-ɗaa."
+
+msgid "See all our channels for mobile »"
+msgstr "Yillo cali cinndel goɗɗi ɗii fof »"
+
+msgid "Free from the Google Play Store"
+msgstr "Alla meho e jeere Googole Play Store"

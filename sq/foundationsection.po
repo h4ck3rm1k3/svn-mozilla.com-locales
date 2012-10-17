@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sq/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "<span>Raporti Vjetor</span> Mbi Gjendjen e Mozilla-s "
+
+msgid "Welcome"
+msgstr "Mirë se vini"
+
+msgid "Opportunities"
+msgstr "Mundësi"
+
+msgid "People"
+msgstr "Persona"
+
+msgid "Ahead"
+msgstr "Në Pararojë"
+
+msgid "Download this video:"
+msgstr "Shkarkojeni këtë video:"
+
+msgid "A Different Kind of Browser"
+msgstr "Një Lloj i Ndryshëm Shfletuesi"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "Ç'është kjo Mozilla? Pse e bëjmë gjithë këtë? Na vjen mirë që pyesni."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Me Sytë Në Pararojë <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, presidentja, diskuton mbi Gjendjen e Mozilla-s."
+
+msgid "Getting Involved"
+msgstr "Si të Përfshiheni"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr ""
+"Mozilla është një bashkësi e larmishme dhe zbavitëse njerëzish nga e gjithë "
+"bota."
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Tabelë për Mozilla Firefox-in, San Francisco"
+
+msgid "Download PDF"
+msgstr "Shkarkoni PDF-në"
+
+msgid "2010 Audited Financial Statement"
+msgstr "Gjendja Financiare e 2010, e Audituar"
+
+msgid "2010 Form 990"
+msgstr "Formulari 990 për 2010"
+
+msgid "Celebrating Firefox"
+msgstr "Festimi i Firefox-it"
+
+msgid "ReMo Work Week in Paris"
+msgstr "Java e Punës ReMo në Paris"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Takim i Mozilla-s, Brazil"
+
+msgid "Arabic Mozilla"
+msgstr "Mozilla Arabe"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Kenia"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Indonezia"
+
+msgid "Other languages & sharing"
+msgstr "Gjuhë të tjera & përhapje"

@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/eo/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Ricevi monatajn novaĵojn"
+
+msgid "Your Email Address"
+msgstr "Via retpoŝtadreso"
+
+msgid "Text"
+msgstr "Teksto"
+
+msgid "Available Languages"
+msgstr "Haveblaj lingvoj"
+
+msgid "Select country"
+msgstr "Elektu landon"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Atentu! Estu certa tajpi validan retpoŝtan adreson."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Bonvolu legi la Politiko pri privateco de Mozilla kaj akcepti ĝin per "
+"alklakado de la elektobutono."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Mi akceptas la <a href=\"%s\">Politikon pri privateco</a>"
+
+msgid "Sign me up!"
+msgstr "Aboni min!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Ni nur sendos al vi informon pri  Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Dankon pro la abonado!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Ni antaŭĝojas jam je la eblon baldaŭ dividi kun vi konsiletojn kaj trukojn "
+"por eltiri la maksimumon el Firefox kaj ekscitigajn novaĵojn pri Mozilla kaj "
+"pri kiel ni laboras por krei pli bonan Teksaĵon."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Abonu la monatajn ĝisdatigojn por koni la aktualaĵojn de Mozilla, kio "
+"inkluzivas la lastajn konsilojn kaj trukojn por eltiri la maksimumon el via "
+"Firefox. Estas perfekta maniero resti en kontakto!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Ni ĵus sendis konfirman mesaĝon per retpoŝto. Bonvolu alklaki la konfirman "
+"ligilon en tiu mesaĝo por validigi vian abonon al tiu ĉi dissendolisto."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Legu ĉion pri tio en nia <span>novaĵletero</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Via abono al la novaĵletero estis konfirmita."
+
+msgid "Format"
+msgstr "Formo"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Vi pretas! <span>Sed atendu, tio ne estas ĉio</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Ĉu vi volas ricevi la plej aktualajn informojn?  Rakontu al ni iomete pri "
+"vi, kaj profitu vian viziton por aboni aliajn novaĵleterojn de Mozilla."
+
+msgid "Firefox & You"
+msgstr "Firefox kaj vi"
+
+msgid "Our Other Newsletters:"
+msgstr "Niaj aliaj novaĵleteroj:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Ricevu la lastajn konsilojn kaj trukojn por eltiri la maksimumon el via plej "
+"ŝatata retesplorilo."
+
+msgid "Firefox Mobile"
+msgstr "Firefox por poŝtelefonoj"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Lerni pri la plej lastaj aldonaĵoj kaj trajtoj en Firefox por poŝtelefonoj."
+
+msgid "Beta News"
+msgstr "Novaĵoj pri Beta"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Legi pri la lastaj trajtoj de Firefoĉ por komputiloj kaj poŝtelefonoj antaŭ "
+"la fina eldono."
+
+msgid "Let’s Be Friends!"
+msgstr "Ni amikiĝu!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox troveblas ankaŭ en viaj plej ŝatataj sociaj retejoj.  Kontaktu nin "
+"kaj aliĝu al la babilado."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Administri viajn <span>abonojn al novaĵleteroj</span>"
+
+msgid "Subscribe"
+msgstr "Aboni"
+
+msgid "Unsubscribe"
+msgstr "Malaboni"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Marku tion ĉi se vi ŝatus ne ricevi mesaĝojn de Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Forigi min el la retmesaĝoj de Mozilla"
+
+msgid "Save Preferences"
+msgstr "Konservi preferojn"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Dankon pro la ĝisdatigo de viaj preferoj."
+
+msgid "You've been unsubscribed."
+msgstr "Vi estis malabonita."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Ni bedaŭras vian malabonon.  Ĉu vi ŝatus diri al ni kial vi foriras?"
+
+msgid "You send too many emails."
+msgstr "Vi sendas tro multe da retpoŝtaj mesaĝoj."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Viaj mesaĝoj ne estis gravaj por mi."
+
+msgid "Your email design was too hard to read."
+msgstr "La aranĝado de viaj mesaĝoj estis tro malfacile legebla."
+
+msgid "I didn't sign up for this."
+msgstr "Mi me abonis tion ĉi."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Mi anstataŭe sekvas Mozilla per Facebook kaj Twitter."
+
+msgid "Submit"
+msgstr "Sendi"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Dankon por respondi kial vi foriras."
+
+msgid "Mozilla Newsletters"
+msgstr "Novaĵleteroj de Mozilla"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Dankon! Bonvolu kontroli vian enirkeston por konfirmi vian abonon."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Vi ricevos retmesaĝon de mozilla@e.mozilla.org por konfirmi vian abonon. Se "
+"vi ĝin ne vidas, kontrolu vian trudmesaĝan filtrilon. Vi devas konfirmi vian "
+"abonon por ricevi nian novaĵleteron."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Bonvolu certi ke vi aldonis nian retpoŝtan adreson: mozilla@e.mozilla.org al "
+"via adresaro, por esti certa ke ni ĉiam atingos vian enirkeston."

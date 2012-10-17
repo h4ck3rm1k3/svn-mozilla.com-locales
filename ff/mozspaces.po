@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/mozspaces.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Mozilla Spaces"
+msgstr "Mozilla Spaces {ok}"
+
+msgid "Mountain View"
+msgstr "Mountain View {ok}"
+
+msgid "Address:"
+msgstr "Ñiiɓirde:"
+
+msgid "E-mail:"
+msgstr "Iimeel:"
+
+msgid "Twitter:"
+msgstr "Twitter: {ok}"
+
+msgid "IRC:"
+msgstr "IRC: {ok}"
+
+msgid "Auckland"
+msgstr "Auckland {ok}"
+
+msgid ""
+"The first of our new spaces. We opened our doors in New Zealand in July "
+"2011."
+msgstr ""
+"Ko ngadanka e Kaabaaji amen kesi. Min udditi dame amen e Nuwel Selannda ko e "
+"Morso 2011."
+
+msgid "Beijing"
+msgstr "Beyjiŋ"
+
+msgid "Paris"
+msgstr "Pari"
+
+msgid ""
+"The Paris space will be moving to a bigger location. Site visits are "
+"happening in December 2011 and we're targeting to open the new space in the "
+"second quarter of 2012."
+msgstr ""
+"Kaaba Pari oo maa eggu fayde e nokku ɓurɗo yaajde. Ko e Bowte 2011 min "
+"puɗɗii yuurnaade nokkuuji ɗii tee min toɓɓi ko udditde kaaba kasa kaa e "
+"nayaɓannde ɗiɗmere 2012."
+
+msgid "San Francisco"
+msgstr "San Francisco {ok}"
+
+msgid ""
+"We are excited to announce that our new San Francisco space was launched in "
+"September 2011 right on the Embarcadero."
+msgstr ""
+"Amin mbeltii e anndinde-on wonde kaaba amen San Francisco udditii e Siilto "
+"2011 sara Embarcadero ɗoo."
+
+msgid "Toronto"
+msgstr "Toronto {ok}"
+
+msgid ""
+"August 2011 brought the launch of our new Mozilla Space in Toronto, complete "
+"with Signature espresso machine."
+msgstr ""
+"Ko e Juko 2011 kaaba amen Moɗilla e Toronto udditaa , ena waɗi hay masiŋ "
+"kafe expresso mo Signature."
+
+msgid "Vancouver"
+msgstr "Vancouver {ok}"
+
+msgid ""
+"We are in the process of revamping our Vancouver space. We’re staying in the "
+"same building, just expanding to incorporate a new community area that will "
+"launch early in 2012. Hope to see you there!"
+msgstr ""
+"Min ngoni ko e moƴƴitinde kaaba amen e Vancouver. Ko e huɓɓere ndeen tan min "
+"keddotoo, min ɓeydat yaajnude tan ngam naatnude heen nokku kawre renndo "
+"njogorngu udditde e daraode 2012. Amin ɗaminii-on toon!"
+
+msgid "London"
+msgstr "London {ok}"
+
+msgid ""
+"This space is currently under construction and coming along nicely. We’ll be "
+"opening our doors in January 2012."
+msgstr ""
+"Kaaba kaa woni ko e maheede oo sahaa tee nana ara seeɗa seɗɗa. Min "
+"udditoyata ko e Siilo 2012."
+
+msgid "Berlin"
+msgstr "Berlin {ok}"
+
+msgid ""
+"The search is under way! Stay tuned for updates on tours, building locations "
+"and construction kick-off. We’re targeting to open our doors in the second "
+"half of 2012."
+msgstr ""
+"Min ngoni ko e ɗaɓɓude nokku. Tommbo-ɗaa kabaraaji baɗte njiilaw, nokkuuji "
+"maheteeɗi e diidngo mahdi ndii. Min toɓɓi udditde nokku oo ko e feccere "
+"ɗiɗaɓere 2012."
+
+msgid "Taipei"
+msgstr "Taipei {ok}"
+
+msgid ""
+"We’ll be launching our Taipei space in 2012. Stay tuned for more details."
+msgstr "Ma min uddit kaaba amen e Taipei e 2012. Tommbo-ɗee kabaruuji."
+
+msgid "Sign up for Mozilla Spaces updates"
+msgstr "Winndito ngam heɓde kesɗitine Kaabaaji Mozilla"
+
+msgid "We’re hiring"
+msgstr "Amen ƴetta gollotooɓe"
+
+msgid "Get involved"
+msgstr "Ar yantu e amen"

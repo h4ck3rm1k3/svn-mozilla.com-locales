@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/rm/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Retschaiva il pli nov Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Il pli nov Firefox è qua!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Actualisaziun simpla e gratuita</a>"
+
+msgid "Fresh new look"
+msgstr "Ina nova e frestga apparientscha"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Bler pli spert che Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Anc pli schenial"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"I exista ina nova versiun da Firefox che ta protegia meglier encunter "
+"attatgas ord l'internet."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Telechargiar l'actualisaziun</a> - spert e gratuit!"
+
+msgid "get the latest in security"
+msgstr "retschaiva dapli segirezza"
+
+msgid "experience faster performance"
+msgstr "senta dapli prestaziun"
+
+msgid "enjoy greater customization"
+msgstr "giauda dapli persunalisaziun"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Tia versiun da Firefox vegn prest betg pli esser protegida per attatgas ord "
+"l'internet."
+
+msgid "Stay safe online"
+msgstr "Navighescha segir en la rait"
+
+msgid "Enjoy new features"
+msgstr "Giauda las novas funcziuns"
+
+msgid "URGENT!"
+msgstr "URGENT! {ok} "
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Tia versiun da Firefox na ta protegia betg pli cunter attatgas ord "
+"l'internet."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Quai è l'ultima admoniziun avant che Firefox vegn automaticamain actualisà a "
+"la pli nova versiun"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox na sustegna betg pli tia versiun dal sistem operativ e vegn daventar "
+"attatgabel ord l'internet."
+
+msgid "We recommend:"
+msgstr "Nus recummandain:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Actualisescha tes <a %s>sistem operativ</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Telechargia in navigatur cumpatibel"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Installar ina actualisaziun gratuita per tes <a %s>sistem operativ</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Ti vegns infurmà anc ina giada avant che Firefox vegn actualisà "
+"automaticamain."

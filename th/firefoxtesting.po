@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/th/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "ดาวน์โหลด Firefox Beta สำหรับ Android - ฟรี"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "ดาวน์โหลด Firefox Beta สำหรับคอมพิวเตอร์ตั้งโต๊ะ - ฟรี"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"ดาวน์โหลดและทดสอบ Firefox รุ่นก่อนตัวจริง "
+"ทดลองประสบการณ์กับนวัตกรรมใหม่ล่าสุดกับรุ่น Aurora หรือ Beta"
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta สำหรับ:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta สำหรับอุปกรณ์เคลื่อนที่"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "ดาวน์โหลด Beta และร่วมเป็นส่วนหนึ่งของ Firefox รุ่นถัดไป"
+
+msgid "1. Test Features"
+msgstr "1. ทดลองความสามารถ"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"ทดลองประสิทธิภาพล่าสุด, "
+"การปรับแต่งและการปรับปรุงความปลอดภัยที่ใกล้จะเปิดตัวให้ใช้งานตริง"
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. ปรับแต่งและขัดเกลา"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr "แจ้งความผิดพลาดเพื่อช่วยเราปรับแต่งประสิทธิภาพและความสามารถขั้นสุดท้าย"
+
+msgid "3. Do Your Part"
+msgstr "3. คุณเป็นส่วนหนึ่ง"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"ช่วยทำให้ Firefox ดียิ่งขึ้นไปเพื่อผู้ใช้ทั้ง 450 ล้านคน ที่ใช้ Firefox "
+"อยู่ทุกวัน"
+
+msgid "Supported devices"
+msgstr "อุปกรณ์ที่รองรับ"

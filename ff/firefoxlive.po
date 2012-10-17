@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ff/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Live"
+msgstr "Firefox Tolbec"
+
+msgid "Tweet"
+msgstr "Twittere"
+
+msgid "Follow @cubcaretaker"
+msgstr "Rewindo @cubcaretaker"
+
+msgid "Cameras"
+msgstr "Kameraaji"
+
+msgid "360° view"
+msgstr "jiytol 360°"
+
+msgid "Camera 1"
+msgstr "Kameraa 1"
+
+msgid "Camera 2"
+msgstr "Kameraa 2"
+
+msgid "Video help"
+msgstr "Ballal widewoo"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"Aɗa yiɗi tigguyon kulle ladde? Mozilla Firefox ena siiɓtoroo widewoo "
+"tigguyon panndaaji mum 3 boɗeeji nehaaɗi. Sar kabaaru ooo tee 'simmin' heen "
+"bannde en."
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"Hol ko ɓuɗi ɗum yooɗde? Golle amen Alla meho walla balol tolbec kumbel "
+"kullel amen? Ƴeew to http://mzl.la/sPo5yu"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Wallu Firefox reende kumbel mum caɗtuɗo e Geese ɗee so ndaarde ɓiykon kulle! "
+"http://mozilla.org/firefoxlive"
+
+msgid "Share on Twitter »"
+msgstr "Simmin e Twitter »"
+
+msgid "Share on Facebook »"
+msgstr "Simmin e Facebook »"

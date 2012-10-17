@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ro/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Obține Firefox pentru Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Descarcă pentru <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Gratuit de la Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Sau vizitează <a %s>Firefox.com/m</a> pe telefonul tău."
+
+msgid "Supported Devices"
+msgstr "Dispozitive suportate"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Obține-l de la iTunes - GRATIS"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home pentru <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Accesează istoricul, semnele de carte și filele deschise din Firefox pe "
+"iPhone-ul tău."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Descarcă Firefox pentru <span>mobilul tău</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Vrei să testezi celel mai recente funcționalități?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Obține Firefox Home pentru iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Descarcă Beta pentru Android"
+
+msgid "Download"
+msgstr "Descarcă"
+
+msgid "for"
+msgstr "pentru"
+
+msgid "Free from iTunes"
+msgstr "Gratis de la iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Vei putea experimenta funcționalități de ultimă oră și să ne transmiți "
+"reacțiile tale pentru a ajuta la îmbunătățirea și cizelarea produsului "
+"final."
+
+msgid "Developer Tools"
+msgstr "Instrumente pentru dezvoltatori"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Poți instala versiunea mobilă pentru Firefox pe calculatorul tău pentru a-l "
+"testa, a trimite reacțiile și a construi suplimente."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Conectează-te cu Firefox pentru Mobil:"
+
+msgid "Monthly newsletter"
+msgstr "Buletin de știri lunar"
+
+msgid "Follow us"
+msgstr "Urmărește-ne"
+
+msgid "Become a fan"
+msgstr "Devino un fan"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox este plin de inovații care vă permit să tastați mai puțin, să "
+"navigați mai mult și să ajungeți la Internet mai rapid și ușor."
+
+msgid "Freedom from typing"
+msgstr "Libertate pentru scriere"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Ecranul inteligent învață care sunt siteurile dumneavoastră preferate astfel "
+"încât să puteți naviga tastând puțin sau chiar deloc."
+
+msgid "Best of both worlds"
+msgstr "Cel mai bun din ambele lumi"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox pentru Android este acum reproiectat și optimizat pentru modalitatea "
+"de navigare de pe telefoane și tablete."
+
+msgid "Browse quick and easy"
+msgstr "Navighează rapid și ușor"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Caracteristici cum ar fi sincronizarea, navigarea cu file și semnele de "
+"carte cu o apăsare sunt tot ceea ce doriți să aveți la îndemână."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Ai nevoie de ajutor?</a> Vizitează saitul nostru de suport pentru "
+"Firefox pentru Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Descarcă și testează varianta care ți se potrivește cel mai bine."
+
+msgid "See all our channels for mobile »"
+msgstr "Vezi toate canalele noastre pentru mobil »"
+
+msgid "Free from the Google Play Store"
+msgstr "Free from the Google Play Store"
