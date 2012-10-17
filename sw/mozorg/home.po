@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sw/mozorg/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Doing good is part of our code"
+msgstr "Doing good is part of our code"
+
+msgid "Apply today and love the Web for a living."
+msgstr "Apply today and love the Web for a living."
+
+msgid "Work with us"
+msgstr "Work with us"
+
+msgid "Launch your app on the web"
+msgstr "Launch your app on the web"
+
+msgid "Get involved in any area of the Mozilla Project."
+msgstr "Get involved in any area of the Mozilla Project."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Get the mobile browser that’s got your back."
+
+msgid "Learn more"
+msgstr "Learn more"
+
+msgid "Innovating <br> for&nbsp;you"
+msgstr "Innovating <br> for&nbsp;you"
+
+msgid "Volunteer with us"
+msgstr "Volunteer with us"
+
+msgid "Get to know Mozilla a little bit better."
+msgstr "Get to know Mozilla a little bit better."
+
+msgid "We are <img src=\"%(img)s\" alt=\"Mozilla\" height=\"92\" width=\"348\">"
+msgstr "We are <img src=\"%(img)s\" alt=\"Mozilla\" height=\"92\" width=\"348\">"
+
+msgid "Watch them now"
+msgstr "Watch them now"
+
+msgid "Proudly <br> non-profit"
+msgstr "Proudly <br> non-profit"
+
+msgid "See what’s next for the mobile Web."
+msgstr "See what’s next for the mobile Web."
+
+msgid "See the amazing videos created by our amazing community."
+msgstr "See the amazing videos created by our amazing community."
+
+msgid "Find us"
+msgstr "Find us"
+
+msgid "Different by&nbsp;Design"
+msgstr "Different by&nbsp;Design"
+
+msgid "Join us"
+msgstr "Join us"
+
+msgid "Mozilla Marketplace"
+msgstr "Mozilla Marketplace"
+
+msgid "Help us share Firefox with the world!"
+msgstr "Help us share Firefox with the world!"
+
+msgid "We’re bringing the Open Web to mobile devices."
+msgstr "We’re bringing the Open Web to mobile devices."
+
+msgid "Become an Affiliate"
+msgstr "Become an Affiliate"
+
+msgid "Contact one of our global Mozilla Spaces."
+msgstr "Contact one of our global Mozilla Spaces."
+
+msgid "Show your support and help us build a better Web."
+msgstr "Show your support and help us build a better Web."
+
+msgid "Fast,&nbsp;flexible, <br> secure"
+msgstr "Fast,&nbsp;flexible, <br> secure"
+
+msgid "The best of Firefox Flicks"
+msgstr "The best of Firefox Flicks"
+
+msgid "Fast. Smart. Safe."
+msgstr "Fast. Smart. Safe."
+
+msgid "Firefox OS is coming"
+msgstr "Firefox OS is coming"
