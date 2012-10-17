@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/fa/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "هورا! فایرفاکس شما بروز است."
+
+msgid "Your Firefox is out of date."
+msgstr "فایرفاکس شما قدیمی است."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"به دلایل امنیتی ما پیشنهاد میکنیم که به <a href=\"{url}\">آخرین و بهترین "
+"نسخه</a> بروزرسانی کنید."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "شما یک نسخه‌ی ناشناس از فایرفاکس را اجرا می‌کنید."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"به دلایل امنیتی ما پیشنهاد میکنیم که <a href=\"{url}\">آخرین و بهترین نسخه</a> "
+"را دریافت کنید."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "کار بعدی خود را انجام دهید<br/>سریع‌تر از همیشه"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"ببینید که چگونه امکانات جدید فایرفاکس به شما کمک می‌کند که سریع‌تر و "
+"کارآمدتر به مرور بپردازید."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "بیشتر بخوانید: <a href=\"{url}\">امکانات جدید زبانه جدید »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "بیشتر بخوانید: <a href=\"{url}\"> طراحی مجدد صفحه‌ی خانگی »</a>"
+
+msgid "Keep in touch"
+msgstr "در جریان باشید"
+
+msgid "Keep it moving"
+msgstr "در حرکت باشید"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "دریافت فایرفاکس » <b>برای اندروید</b>"
+
+msgid "Keep it going"
+msgstr "ادامه بدهید"
+
+msgid "Join Mozilla"
+msgstr "به موزیلا بپیوندید"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"ربات اندروید توسط کاری که <a href=\"%s\">گوگل به اشتراک‌گذاشته</a> است بازسازی "
+"شده و براساس مقررات مشروح در گواهینامهٔ <a href=\"%s\">Creative Commons 3.0 "
+"Attribution</a> مورد استفاده قرار گرفته است."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">فایرفاکس را برای اندروید بگیرید</a> و قدرت وب را در دستانتان "
+"داشته باشید. فایرفاکس، سریع، هوشمند و ایمن است!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "حالا مرورگر وب تلفن همراهی را بگیرید که هوای شما را دارد."
+
+msgid "Firefox Features"
+msgstr "امکانات فایرفاکس"
+
+msgid "Welcome to Firefox"
+msgstr "به فایرفاکس خوش‌آمدید"
+
+msgid "Firefox Help"
+msgstr "راهنمای فایرفاکس"
+
+msgid "Firefox for Android artwork"
+msgstr "کارهای هنری فایرفاکس برای اندروید"
+
+msgid "Fast. Smart. Safe."
+msgstr "سریع. هوشمند. ایمن."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "مرورگر وب تلفن همراهی را بگیرید که هوای شما را دارد."

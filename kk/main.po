@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/kk/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Навигация"
+
+msgid "Press area"
+msgstr "Баспасөз аймағы"
+
+msgid "About"
+msgstr "Біз туралы"
+
+msgid "Store"
+msgstr "Дүкен"
+
+msgid "Donate"
+msgstr "Қайырымдылық"
+
+msgid "Support"
+msgstr "Қолдау"
+
+msgid "Products"
+msgstr "Өнімдер"
+
+msgid "Add-ons"
+msgstr "Қосымшалар"
+
+msgid "About Us"
+msgstr "Біз туралы"
+
+msgid "Developers"
+msgstr "Өндірушілер"
+
+msgid "Labs"
+msgstr "Зертхана"
+
+msgid "skip to Navigation"
+msgstr "навигацияға өту"
+
+msgid "switch language"
+msgstr "тілді ауыстыру"
+
+msgid "Back to home page"
+msgstr "Үй парағына қайту"
+
+msgid "About Mozilla"
+msgstr "Mozilla туралы"
+
+msgid "Get Involved"
+msgstr "Бізге қосылу"
+
+msgid "Licensing"
+msgstr "Лицензиялау"
+
+msgid "Careers"
+msgstr "Карьера"
+
+msgid "Press Center"
+msgstr "Пресс центр"
+
+msgid "Contact Us"
+msgstr "Кері байланыс"
+
+msgid "Site contact"
+msgstr "Контактілер"
+
+msgid "Other languages:"
+msgstr "Басқа тілдер:"
+
+msgid "%Y-%m-%d"
+msgstr "%d.%m.%Y"
+
+msgid "All rights reserved."
+msgstr "Барлық құқықтары қорғалған."
+
+msgid "Legal Notices"
+msgstr "Заңдық ақпарат"
+
+msgid "Privacy Policy"
+msgstr "Құпиялық саясаты"
+
+msgid "Visit Mozilla.com"
+msgstr "Mozilla.com сайтын шолыңыз"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Mozilla.com сайтын (Ағылшынша) шолыңыз"
+
+msgid "Download Firefox - Free"
+msgstr "Firefox-ты жүктеп алу - Тегін"
+
+msgid "Release Notes"
+msgstr "Шығарылым ескертпесі"
+
+msgid "Other Systems and Languages"
+msgstr "Басқа жүйелер мен тілдер"
+
+msgid "Get Firefox"
+msgstr "Firefox-ты алу"
+
+msgid "Free Download"
+msgstr "Тегін жүктеп алу"
+
+msgid "Help us make Firefox even better!"
+msgstr "Firefox браузерін одан әрі жақсартуға көмектесіңіз!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr "Аздаған уақыт алатын шұғыл сауалнамаға қатысып, өз ойыңызбен бөлісіңіз."
+
+msgid "Close"
+msgstr "Жабу"
+
+msgid "(in English)"
+msgstr "(ағылшынша)"
+
+msgid "Download Now - Free"
+msgstr "Қазір жүктеп алу - Тегін"
+
+msgid "Return to top"
+msgstr "Басына оралу"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"<a href=\"http://get.adobe.com/flashplayer/\">Adobe Flash Player</a> жаңартуын "
+"қазір орнатқаныңыз жөн."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox жаңартылғанымен, ағымдағы Flash Player нұсқасы қауіпсіздік пен "
+"тұрақтылыққа қатысты қиындықтар туғызуы мүмкін. <a "
+"href=\"http://get.adobe.com/flashplayer/\">Тегін жаңартуды</a> мүмкіндігіңізше "
+"ертерек орнатыңыз."
+
+msgid "Features"
+msgstr "Мүмкіндіктері"
+
+msgid "Customize"
+msgstr "Өзіңізге лайықтау"
+
+msgid "Synchronize"
+msgstr "Синхронизация"
+
+msgid "Develop for Mobile"
+msgstr "Мобильді құрылғыға әзірлеу"
+
+msgid "Other Supported Platforms"
+msgstr "Қолдауы бар өзге платформалар"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Басқа тіл мен платформалар"
+
+msgid "Choose your location"
+msgstr "Орналасуыңызды таңдаңыз"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Ұялы телефон арқылы Firefox-ты жүктеп алу"
+
+msgid "Download"
+msgstr "Жүктеп алу"
+
+msgid "Next"
+msgstr "Келесі"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "MegaBytes"
+msgstr "Мегабайт"
+
+msgid "FAQ"
+msgstr "Жиі қойылатын сұрақтар"
+
+msgid "Videos"
+msgstr "Видеолар"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Арнайы <a href=\"%s\">көрсетілгеннен</a> басқа, бұл сайттың құрамасы <br /><a "
+"href=\"%s\">Creative Commons Attribution Share-Alike License v3.0</a> не кейін "
+"шыққан кез-келген нұсқасы аясында таратылады."
+
+msgid "Report Trademark Abuse"
+msgstr "Сауда белгісін заңсыз қолдану туралы хабарлау"
+
+msgid "Free Upgrade"
+msgstr "Тегін жаңарту"
+
+msgid "Follow us on:"
+msgstr "Біздің соңымыздан еріңіз:"
+
+msgid "Customize with Add-ons"
+msgstr "Аддондар көмегімен баптау"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Қалыпты компьютеріңіз бен мобильдіні синхрондау"
+
+msgid "Learn More"
+msgstr "Көбірек білу"
+
+msgid "Watch the video"
+msgstr "Видеоны қараңыз"
+
+msgid "WebM format"
+msgstr "WebM пішімі"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora пішімі"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 пішімі"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Дұрыс эл. пошта адресін енгізіңіз."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Mozilla жекелік саясатын оқыңыз да, өз келісіміңізді жалаушаны белгілеу "
+"арқылы білдіріңіз."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Өзіңіздің эл. пошта адресін енгізіңіз де, Mozilla-ның құпиялық саясатымен "
+"таныс болыңыз."
+
+msgid "Mobile"
+msgstr "Мобильді"
+
+msgid "Firefox Updated"
+msgstr "Firefox жаңартылды"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Ертеңгі күнгі Интернетке қараңыз"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Firefox көмегімен болашаққа саяхат"
+
+msgid "Join the Beta Program"
+msgstr "Beta бағдарламасына қатысыңыз"
+
+msgid "Experience Firefox"
+msgstr "Firefox-ты көріңіз"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Ертеңгі Интернет сізді күтуде!"
+
+msgid "The future of the Web starts now."
+msgstr "Интернеттің ертеңі бүгін-ақ басталады."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Сыртқы түрі мен сезінуі жаңарған Firefox-ты көріңіз."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Ертеңгі күнгі Интернетпен танысыңыз."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Сыртқы түрі мен сезінуі жаңарған Firefox-ты көріңіз."
+
+msgid "Browse the future of the Web."
+msgstr "Интернеттің болашағын шолыңыз."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Сыртқы түрі мен сезінуі жаңарған Firefox-ты қараңыз."
+
+msgid "Download Beta Now."
+msgstr "Beta-ны қазір жүктеп алу."
+
+msgid "All Systems & Languages"
+msgstr "Барлық жүйелер мен тілдер"
+
+msgid "View Full Site"
+msgstr "Сайтты толығымен қарау"
+
+msgid "Get Firefox for Android"
+msgstr "Android үшін Firefox-ты алу"
+
+msgid "Download for <span>Android</span>"
+msgstr "<span>Android</span> үшін жүктеп алу"
+
+msgid "Free from the Android Market"
+msgstr "Тегін, Android Market-тен"
+
+msgid "Desktop"
+msgstr "Дербес компьютер"
+
+msgid "Firefox Beta for mobile"
+msgstr "Мобильді телефондар үшін Firefox Beta"
+
+msgid "Firefox for mobile"
+msgstr "Мобильді телефондар үшін Firefox"
+
+msgid "Email"
+msgstr "Эл. пошта"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. XP үшін қазіргі замаңғы интернетке жол."
+
+msgid "Super speed"
+msgstr "Супер жылдамдық"
+
+msgid "Stunning graphics"
+msgstr "Таңқалдырарлық графика"
+
+msgid "The latest technologies"
+msgstr "Ең соңғы технологиялар"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Сіз Firefox-тың ескі нұсқасын қолданудасыз. Қауіпсіз жұмыс үшін жаңартуды "
+"алыңыз!  <br/> Соңғы мүмкіндіктер, жылдамдық пен қауіпсіздік түзетулерді алу "
+"үшін, бір минуттан кем уақытта <a href=\"%s\">тегін жаңартуды жүктеп "
+"алыңыз</a>."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Сізге жаңартылу керек! Бір минуттан кем уақытта қауіпсіздікке қол "
+"жеткізіңіз. <br/> Интернетте жақсы шолу мен баптауларға ие болу үшін жаңа "
+"Firefox-ты жүктеп алыңыз. <br/> Ол жылдам әрі тегін!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Сіз Firefox-тың ескілеу нұсқасын қолданудасыз. Қауіпсіз жұмыс үшін <a href=\""
+"%s\">жаңартуды алыңыз</a>! <br/> Соңғы мүмкіндіктер, қауіпсіздік түзетулер "
+"мен ең жаңа Firefox-ты көріңіз. Бір минуттан кем уақытта тегін жаңартуды "
+"жүктеп алыңыз."
+
+msgid "Upgrade now"
+msgstr "Қазір жаңарту"
+
+msgid "Update now"
+msgstr "Қазір жаңарту"
+
+msgid "Supported Devices"
+msgstr "Қолдаулы жабдықтар"
+
+msgid "What’s New"
+msgstr "Не жаңалық"
+
+msgid "Privacy"
+msgstr "Жекешілік"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

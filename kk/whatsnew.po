@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/kk/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Алақай! Сізде Firefox-тың соңғы нұсқасы тұр."
+
+msgid "Your Firefox is out of date."
+msgstr "Сіздің Firefox ескірген."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Қауіпсіздік мақсатында, біз <a href=\"{url}\">соңғы әрі ең жақсы нұсқасына</a> "
+"дейін жаңартуды ұсынамыз."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Сіз Firefox-тың белгісіз нұсқасын қолдап тұрсыз."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Қауіпсіздік мақсатында, біз <a href=\"{url}\">соңғы әрі ең жақсы нұсқасына</a> "
+"дейін жаңартуды ұсынамыз."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Тапсырмалардың ауысуы<br/>бір кезде жылдам болды"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Firefox-тың жаңа мүмкіндектері жұмысты қалайша жылдам және тиімді жасайтының "
+"байқаңыз."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "<a href=\"{url}\">Жаңа бет мүмкіндіктер</a> туралы көбірек біліңіз »"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr ""
+"Біздің <a href=\"{url}\">жаңартылған үй парағы</a> туралы көбірек біліңіз »"
+
+msgid "Keep in touch"
+msgstr "Байланыста болыңыз"
+
+msgid "Keep it moving"
+msgstr "Мобильді болыңыз"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Firefox-ты  <b>Android үшін</b> жүктеп алу »"
+
+msgid "Keep it going"
+msgstr "Жаңалықтарды бақылаңыз"
+
+msgid "Join Mozilla"
+msgstr "Mozilla-ға кіру"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android роботы <a href=\"%s\">Google-мен пайдалануға берілген</a> және оның "
+"негізінде өңделіп, <a href=\"%s\">Creative Commons 3.0 Attribution "
+"лицензияға</a> сай қолданылады."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Firefox-ты Android үшін жүктеп алыңыз</a>және интернеттің күші "
+"сіздің қолыңызда болады. Ол жылдам, ақылды және қауіпсіз!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Енді әрқашан сенуге болатын мобильді браузерді жүктеп алыңыз "
+
+msgid "Firefox Features"
+msgstr "Firefox-тың мүмкіндіктері"
+
+msgid "Welcome to Firefox"
+msgstr "Firefox-қа қош келдіңіз"
+
+msgid "Firefox Help"
+msgstr "Firefox мәліметі"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox-тың Android үшін бейнесі"
+
+msgid "Fast. Smart. Safe."
+msgstr "Жылдам. Ақылды. Қауіпсіз."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Әрқашан сенуге болатын мобильді браузерді жүктеп алыңыз."

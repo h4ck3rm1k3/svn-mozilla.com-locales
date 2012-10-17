@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/kk/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Ай сайынғы жаңалықтарды алу"
+
+msgid "Your Email Address"
+msgstr "Сіздің эл. пошта адресіңіз"
+
+msgid "Text"
+msgstr "Мәтін"
+
+msgid "Available Languages"
+msgstr "Қолжетерлік тілдер"
+
+msgid "Select country"
+msgstr "Елді таңдаңыз"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Дұрыс эл. пошта адресін енгізіңіз."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Mozilla жекелік саясатын оқыңыз да, өз келісіміңізді жалаушаны белгілеу "
+"арқылы білдіріңіз."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Мен <a href=\"%s\">құпиялық саясатымен</a> келісемін"
+
+msgid "Sign me up!"
+msgstr "Мені де жазыңыз!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Біз сізге тек Mozilla-мен байланысты ақпаратты жіберетін боламыз."
+
+msgid "Thanks for Subscribing!"
+msgstr "Жазылғаныңыз үшін рахмет!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Жақын арада біз Firefox-пен жұмыс жөнінде кеңестер мен қулықтарды, сонымен "
+"қатар Mozilla мен вебті жақсырақ қылу жолындағы жұмысымыз туралы "
+"жаңалықтарды жариялайтын боламыз."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Ай сайынғы жаңартуларға жазылып, сізге Firefox-ты барынша қолдануға рұқсат "
+"беретін Mozilla-ның соңғы жаңалықтары, кеңестері сонымен қатар қулықтары "
+"жайлы хабардар болыңыз. Ол сізбен байланыста қалу үшін табысты жол. "
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Біз сіздің электронды поштаға дәлелдеу хабарды жібердік. Хабардағы сілтемеге "
+"басып, бұл таратылым тізіміне сіздің жазылғаныңызды дәлелдеңіз."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr ""
+"Бұл туралы барлығын біздің <span>жаңалықтар хабарламада</span> оқып алыңыз"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Сіздің жаңалықтар таратылымына жазылғаныңыз дәлелделген."
+
+msgid "Format"
+msgstr "Пішім"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr ""
+"Сізде барлығы бапталған! <span>Бірақ, тоқтаңыз, бізде тағы да бар</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Тек керекті ақпаратты алуға қалайсыз ба? Бізге өзіңіз туралы азғана айтыңыз. "
+"Әзірше, мұнда болғанда, Mozilla-ның басқа жаңалықтарға жазылыңыз."
+
+msgid "Firefox & You"
+msgstr "Firefox және сіз"
+
+msgid "Our Other Newsletters:"
+msgstr "Біздің басқа жаңалықтар таратылымы:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Сіздің сүйекті браузерді барынша қолдауға рұқсат беретін соңғы кеңестерді "
+"мен құлықтарды алыңыз."
+
+msgid "Firefox Mobile"
+msgstr "Мобильді Firefox "
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Мобильді Firefox үшін арналған соңғы кеңейтулер мен мүмкіндіктер туралы "
+"біліңіз."
+
+msgid "Beta News"
+msgstr "Beta жаңалықтары"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Компьютер ушін және мобильді Firefox-тың жаңа мүмкіндіктері, соңғы нұсқаға "
+"қосылғанша дейін, олар туралы оқып біліңіз."
+
+msgid "Let’s Be Friends!"
+msgstr "Дос болайық!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox сіздің сүйекті әлеуметтік жүйелерінде де бар. Бізбен байланыста "
+"болып, пікірсайыстарға қосылыңыз."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Сіздің <span>жаңалықтар таратылымына жазылуды</span> басқару"
+
+msgid "Subscribe"
+msgstr "Жазылу"
+
+msgid "Unsubscribe"
+msgstr "Жазылудан бас тарту"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr ""
+"Mozilla-ның барлық хабарлардан жазылуды болдырмау үшін, мұнда белгілеңіз"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Mozilla-ның барлық хабарлардан жазылуды болдырмау "
+
+msgid "Save Preferences"
+msgstr "Баптауларды сақтау"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Сіздің пошта баптауларын жаңартылғаныңызға рахмет."
+
+msgid "You've been unsubscribed."
+msgstr "Сіз жазылудан айырылдыңыз."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Бізге кетуіңіз аянашты. Сіз жазылғаныңыздан неге айырылатынын айтуға қарсы "
+"болмайсыз ба?"
+
+msgid "You send too many emails."
+msgstr "Сіз өте көп хабарларды жібердіңіз."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Хабарлардың құрамы маған қызықты болған жоқ."
+
+msgid "Your email design was too hard to read."
+msgstr "Сіздің хабарлардың дизайыны оқуға аса қиын болған."
+
+msgid "I didn't sign up for this."
+msgstr "Мен бұған жазылған жоқпын."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Мен Mozilla-мен Facebook-та және Twitter-де байланысты сақтаймын."
+
+msgid "Submit"
+msgstr "Жіберу"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Жазылудан бас тарту туралы айтқаныңызға рахмет."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla жаңалықтар таратылымы"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Рахмет! Енді кіріс хабар мұқабатын тексеріп, өз жазылғандығыңызды "
+"дәлелдеңіз."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Сіздің жазылғаныңызды дәлелдеу үшін, сізге mozilla@e.mozilla.org хабарды "
+"жібереді. Егер сіз оны көрмесеңіз, спам-фильтрды тексеріңіз. Біздің "
+"жаңалықтардың таратылымын алу үшін, сіз оған жазылғандығыңызды дәлелдеуңіз "
+"керек."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Mozilla–дан келетін хабарлама сіздің хабар мұқабатына үнемі түсу үшін "
+"mozilla@e.mozilla.org жіберушыны адрестік кітабына қосуға ұмытпаңыз."
