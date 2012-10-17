@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gd/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "<span>An aithisg bhliadhnail</span> air adhartas Mozilla"
+
+msgid "Welcome"
+msgstr "Fàilte ort"
+
+msgid "Opportunities"
+msgstr "Cothroman"
+
+msgid "People"
+msgstr "Daoine"
+
+msgid "Ahead"
+msgstr "Na tha romhainn"
+
+msgid "Download this video:"
+msgstr "Luchdaich a-nuas a' video seo:"
+
+msgid "A Different Kind of Browser"
+msgstr "Sìol eile de bhrabhsair"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr ""
+"Gu dè Mozilla? Carson a tha sinn a' dèanamh seo? Tha sinn toilichte gun do "
+"chuir thu ceist."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Na tha romhainn le <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Tha an cathraiche Mitchell Baker a' bruidhinn mu adhartas Mozilla."
+
+msgid "Getting Involved"
+msgstr "Gabh pàirt ann"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr ""
+"'S e coimhearsnachd iomadach de dhaoine o fheadh an t-saoghail a tha ann am "
+"Mozilla."
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Sanasachd Mozilla Firefox, San Francisco"
+
+msgid "Download PDF"
+msgstr "Luchdaich a-nuas am PDF"
+
+msgid "2010 Audited Financial Statement"
+msgstr "Cunntas ionmhasail sgrùdaichte 2010"
+
+msgid "2010 Form 990"
+msgstr "Foirm 990 2010"
+
+msgid "Celebrating Firefox"
+msgstr "A' comharradh Firefox"
+
+msgid "ReMo Work Week in Paris"
+msgstr "Seachdain ReMo ann am Paras"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Coinneamh Mozilla sa Bhraisil"
+
+msgid "Arabic Mozilla"
+msgstr "Mozilla nan Arabach"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Cheinia"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla nan Innd-Innsean"
+
+msgid "Other languages & sharing"
+msgstr "Cànain eile ┐ co-roinneadh"

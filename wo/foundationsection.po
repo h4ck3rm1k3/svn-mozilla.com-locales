@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/wo/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "Nekkinu Mozilla <span>Raapooru at</span>"
+
+msgid "Welcome"
+msgstr "Dalal jamm"
+
+msgid "Opportunities"
+msgstr "Xéewal"
+
+msgid "People"
+msgstr "Askan"
+
+msgid "Ahead"
+msgstr "Ci kanam"
+
+msgid "Download this video:"
+msgstr "Yebal wideyoo bii:"
+
+msgid "A Different Kind of Browser"
+msgstr "Beneen giru joowkat"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "Lu tax yii yépp ci Mozilla? Lu tax ñu koy def? Beg nañu ci laaj bi."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Seetal ci kanam <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, Njiitu waxtaan ci nekkinu Mozilla."
+
+msgid "Getting Involved"
+msgstr "Bokk"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr "Mozilla dafa neex askan yu bari ci addina sepp."
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Pano Mozilla Firefox, San Francisco"
+
+msgid "Download PDF"
+msgstr "Yeb PDF"
+
+msgid "2010 Audited Financial Statement"
+msgstr "2010 Déclaration états financiers vérifiés"
+
+msgid "2010 Form 990"
+msgstr "2010 Formileer 990"
+
+msgid "Celebrating Firefox"
+msgstr "Sargal Firefox"
+
+msgid "ReMo Work Week in Paris"
+msgstr "ReMo ayu besu liggéey ci Paris"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Mozilla Meetup, Barasil"
+
+msgid "Arabic Mozilla"
+msgstr "Mozilla araab"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Keniya"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Indonesi"
+
+msgid "Other languages & sharing"
+msgstr "Yeneen lammiñ ak seddoo"

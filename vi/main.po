@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/vi/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Khám phá"
+
+msgid "Press area"
+msgstr "Khu vực báo chí"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "Store"
+msgstr "Cửa hàng"
+
+msgid "Donate"
+msgstr "Ủng hộ"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Products"
+msgstr "Sản phẩm"
+
+msgid "Add-ons"
+msgstr "Tiện ích"
+
+msgid "About Us"
+msgstr "Giới thiệu"
+
+msgid "Developers"
+msgstr "Nhà phát triển"
+
+msgid "Labs"
+msgstr "Phòng nghiên cứu"
+
+msgid "skip to Navigation"
+msgstr "chuyển qua Khám phá"
+
+msgid "switch language"
+msgstr "chuyển đổi ngôn ngữ"
+
+msgid "Back to home page"
+msgstr "Trở về trang chủ"
+
+msgid "About Mozilla"
+msgstr "Giới thiệu Mozilla"
+
+msgid "Get Involved"
+msgstr "Tham gia"
+
+msgid "Licensing"
+msgstr "Giấy phép"
+
+msgid "Careers"
+msgstr "Nghề nghiệp"
+
+msgid "Press Center"
+msgstr "Trung tâm Báo chí"
+
+msgid "Contact Us"
+msgstr "Liên hệ Chúng tôi"
+
+msgid "Site contact"
+msgstr "Liên hệ trang"
+
+msgid "Other languages:"
+msgstr "Ngôn ngữ khác:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Bảo lưu mọi quyền."
+
+msgid "Legal Notices"
+msgstr "Lưu ý Pháp lí"
+
+msgid "Privacy Policy"
+msgstr "Chính sách Riêng tư"
+
+msgid "Visit Mozilla.com"
+msgstr "Mở Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Mở Mozilla.com (tiếng Anh)"
+
+msgid "Download Firefox - Free"
+msgstr "Tải Firefox - Tự do & Miễn phí"
+
+msgid "Release Notes"
+msgstr "Ghi chú Phát hành"
+
+msgid "Other Systems and Languages"
+msgstr "Hệ thống và Ngôn ngữ khác"
+
+msgid "Get Firefox"
+msgstr "Tải Firefox"
+
+msgid "Free Download"
+msgstr "Tải miễn phí"
+
+msgid "Help us make Firefox even better!"
+msgstr "Hãy cùng nhau hoàn thiện Firefox!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Xin hãy dành chút thời gian tham gia một khảo sát nhanh và chia sẻ suy nghĩ "
+"của bạn với chúng tôi."
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "(in English)"
+msgstr "(tiếng Anh)"
+
+msgid "Download Now - Free"
+msgstr "Tải ngay - Tự do & Miễn phí"
+
+msgid "Return to top"
+msgstr "Trở về đầu trang"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Bạn nên <a href=\"http://get.adobe.com/flashplayer/\">cập nhật Adobe Flash "
+"Player</a> ngay."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox đã là bản mới nhất, nhưng phiên bản Flash Player hiện tại của bạn có "
+"thể có vấn đề bảo mật và tính ổn định.  Hãy <a "
+"href=\"http://get.adobe.com/flashplayer/\">cài đặt bản cập nhật miễn phí</a> "
+"càng sớm càng tốt."
+
+msgid "Features"
+msgstr "Tính năng"
+
+msgid "Customize"
+msgstr "Tùy biến"
+
+msgid "Synchronize"
+msgstr "Đồng bộ hóa"
+
+msgid "Develop for Mobile"
+msgstr "Phát triển cho Di động"
+
+msgid "Other Supported Platforms"
+msgstr "Nền tảng được hỗ trợ khác"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Nền tảng &amp; Ngôn ngữ khác"
+
+msgid "Choose your location"
+msgstr "Chọn địa điểm của bạn"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Tải Firefox trực tiếp từ điện thoại"
+
+msgid "Download"
+msgstr "Tải xuống"
+
+msgid "Next"
+msgstr "Tiếp"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MegaBytes"
+msgstr "MegaBytes"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Videos"
+msgstr "Phim"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Trừ khi <a href=\"%s\">có ghi chú</a> khác, nội dung trên trang này tuân theo "
+"<br /><a href=\"%s\">Giấy phép Chia sẻ Tương tự Tính chất Creative Commons "
+"v3.0</a> và bất kì phiên bản nào sau này của nó."
+
+msgid "Report Trademark Abuse"
+msgstr "Báo cáo Lạm dụng Thương hiệu"
+
+msgid "Free Upgrade"
+msgstr "Nâng cấp Miễn phí"
+
+msgid "Follow us on:"
+msgstr "Theo đuôi chúng tôi trên:"
+
+msgid "Customize with Add-ons"
+msgstr "Tùy biến bằng Tiện ích"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Đồng bộ Desktop & Di động"
+
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+msgid "Watch the video"
+msgstr "Xem phim"
+
+msgid "WebM format"
+msgstr "Định dạng WebM"
+
+msgid "Ogg Theora format"
+msgstr "Định dạng Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Định dạng MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Xin lỗi :) Hãy nhập đúng email."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Vui lòng đọc Chính sách Riêng tư Mozilla và nhấn vào ô đồng ý."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr "Vui lòng nhập email của bạn và xem lại Chính sách Riêng tư Mozilla."
+
+msgid "Mobile"
+msgstr "Di động"
+
+msgid "Firefox Updated"
+msgstr "Đã cập nhật Firefox"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Xem bói tương lai của Web"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Ngó thử tương lai của Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Tham gia chương trình Beta"
+
+msgid "Experience Firefox"
+msgstr "Trải nghiệm Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Tương lai của Web đang chờ đón bạn!"
+
+msgid "The future of the Web starts now."
+msgstr "Tương lai của Web đã bắt đầu."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Hãy thử Firefox với giao diện hoàn toàn mới."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Trải nghiệm ngay tương lai của Web."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Thử giao diện mới của Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Duyệt tương lai của Web."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Xem giao diện mới của Firefox."
+
+msgid "Download Beta Now."
+msgstr "Tải ngay Beta."
+
+msgid "All Systems & Languages"
+msgstr "Mọi Hệ thống & Ngôn ngữ"
+
+msgid "View Full Site"
+msgstr "Xem trang đầy đủ"
+
+msgid "Get Firefox for Android"
+msgstr "Tải Firefox cho Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Tải xuống bản <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Miễn phí trên Android Market"
+
+msgid "Desktop"
+msgstr "Máy tính"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta cho di động"
+
+msgid "Firefox for mobile"
+msgstr "Firefox cho di động"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Mang Web hiện đại tới XP."
+
+msgid "Super speed"
+msgstr "Siêu nhanh"
+
+msgid "Stunning graphics"
+msgstr "Đồ họa siêu việt"
+
+msgid "The latest technologies"
+msgstr "Công nghệ mới nhất"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Bạn đang dùng bản Firefox cũ. Hãy cập nhật để an toàn. <br/> <a href=\"%"
+"s\">Tải về bản cập nhật</a> trong chưa đầy một phút để có những tính năng mới "
+"nhất."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Bạn cần nâng cấp! Chỉ cần một phút để lướt Web an toàn. <br/> Hãy bắt đầu "
+"dùng Firefox, duyệt và tùy biến dễ nhất trên mạng. <br/> Firefox nhanh và tự "
+"do&miễn phí."
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Bạn đang dùng Firefox cũ. Tải <a href=\"%s\">bản cập nhật</a> để lướt Web an "
+"toàn! <br/> Chỉ cần một phút bạn sẽ có Firefox với các tính năng mới nhất, "
+"nhanh nhất, an toàn nhất."
+
+msgid "Upgrade now"
+msgstr "Nâng cấp ngay"
+
+msgid "Update now"
+msgstr "Cập nhật ngay"
+
+msgid "Supported Devices"
+msgstr "Thiết bị hỗ trợ"
+
+msgid "What’s New"
+msgstr "What’s New"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

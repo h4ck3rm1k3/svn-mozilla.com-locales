@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/kn/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Other languages & sharing"
+msgstr "Other languages & sharing"
+
+msgid "Download PDF"
+msgstr "Download PDF"
+
+msgid "Opportunities"
+msgstr "Opportunities"
+
+msgid "Download this video:"
+msgstr "Download this video:"
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Looking Ahead <span>Mitchell Baker</span>"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "The State of Mozilla <span>Annual Report</span>"
+
+msgid "ReMo Work Week in Paris"
+msgstr "ReMo Work Week in Paris"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Indonesia"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Mozilla Firefox billboard, San Francisco"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Kenya"
+
+msgid "Ahead"
+msgstr "Ahead"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+
+msgid "Celebrating Firefox"
+msgstr "Celebrating Firefox"
+
+msgid "2010 Form 990"
+msgstr "2010 Form 990"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, Chair discusses the state of Mozilla."
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Mozilla Meetup, Brazil"
+
+msgid "Arabic Mozilla"
+msgstr "Arabic Mozilla"
+
+msgid "People"
+msgstr "People"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr "Mozilla is a fun, diverse community of people from around the world."
+
+msgid "2010 Audited Financial Statement"
+msgstr "2010 Audited Financial Statement"
+
+msgid "Getting Involved"
+msgstr "Getting Involved"
+
+msgid "A Different Kind of Browser"
+msgstr "A Different Kind of Browser"

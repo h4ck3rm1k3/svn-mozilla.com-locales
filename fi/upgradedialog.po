@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/fi/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Lataa uusin Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Uusin Firefox on täällä!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Nopea, helppo ja ilmainen päivitys</a>"
+
+msgid "Fresh new look"
+msgstr "Upouusi ulkoasu"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Paljon nopeampi kuin Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Entistäkin mahtavampi"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Firefoxin uusi versio suojelee sinua entistä paremmin verkkohyökkäyksiltä."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Lataa päivitys</a> - se on helppoa ja maksutonta!"
+
+msgid "get the latest in security"
+msgstr "viimeisimmät turvallisuusominaisuudet"
+
+msgid "experience faster performance"
+msgstr "selaa nopeammin"
+
+msgid "enjoy greater customization"
+msgstr "laajemmat mukauttamismahdollisuudet"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Käyttämäsi Firefoxin versio on pian alttiina verkkohyökkäyksille."
+
+msgid "Stay safe online"
+msgstr "käytä verkkoa turvallisesti"
+
+msgid "Enjoy new features"
+msgstr "uusia ominaisuuksia"
+
+msgid "URGENT!"
+msgstr "TÄRKEÄÄ!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "Käyttämäsi Firefox-versio ei enää suojaa verkkohyökkäyksiltä."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Tämä on viimeinen muistutus ennen kuin selaimesi automaattisesti päivitetään "
+"uusimpaan versioon"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox ei enää tue käyttöjärjestelmäsi versiota ja on altis "
+"verkkohyökkäyksille."
+
+msgid "We recommend:"
+msgstr "Suosittelemme, että:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Päivität tietokoneesi <a %s>käyttöjärjestelmän</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Lataat yhteensopivan selaimen"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Asennat ilmaisen päivityksen tietokoneesi <a %s>käyttöjärjestelmään</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Sinua muistutetaan vielä kerran ennen kuin selaimesi päivitetään "
+"automaattisesti."

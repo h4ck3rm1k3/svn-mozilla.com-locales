@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/bn-IN/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "পরিদর্শন"
+
+msgid "Press area"
+msgstr "সংবাদ"
+
+msgid "About"
+msgstr "পরিচিতি"
+
+msgid "Store"
+msgstr "বিক্রয়কেন্দ্র"
+
+msgid "Donate"
+msgstr "আর্থিক সহায়তা"
+
+msgid "Support"
+msgstr "সমর্থন"
+
+msgid "Products"
+msgstr "উৎপাদন"
+
+msgid "Add-ons"
+msgstr "অতিরিক্ত সামগ্রী"
+
+msgid "About Us"
+msgstr "আমাদের পরিচয়"
+
+msgid "Developers"
+msgstr "ডিভেলপার"
+
+msgid "Labs"
+msgstr "ল্যাব"
+
+msgid "skip to Navigation"
+msgstr "পরিদর্শনে এগিয়ে চলুন"
+
+msgid "switch language"
+msgstr "ভাষা পরিবর্তন করুন"
+
+msgid "Back to home page"
+msgstr "হোম পেজে প্রত্যাবর্তন"
+
+msgid "About Mozilla"
+msgstr "Mozilla পরিচিতি"
+
+msgid "Get Involved"
+msgstr "যোগদান করুন"
+
+msgid "Licensing"
+msgstr "লাইসেন্স সংক্রান্ত"
+
+msgid "Careers"
+msgstr "কর্মসংস্থান"
+
+msgid "Press Center"
+msgstr "সংবাদ কেন্দ্র"
+
+msgid "Contact Us"
+msgstr "যোগাযোগ করুন"
+
+msgid "Site contact"
+msgstr "সাইট সংক্রান্ত যোগাযোগ"
+
+msgid "Other languages:"
+msgstr "অন্যান্য ভাষা:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "সর্ব স্বত্ব সংরক্ষিত।"
+
+msgid "Legal Notices"
+msgstr "আইনি বিজ্ঞপ্তি"
+
+msgid "Privacy Policy"
+msgstr "গোপনীয়তা সংক্রান্ত নিয়মাবলী"
+
+msgid "Visit Mozilla.com"
+msgstr "Mozilla.com পরিদর্শন করুন"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Mozilla.com পরিদর্শন করুন(মার্কিন যুক্তরাষ্ট্রের সাইট)"
+
+msgid "Download Firefox - Free"
+msgstr "Firefox ডাউনলোড করুন - বিনামূল্যে"
+
+msgid "Release Notes"
+msgstr "রিলিজ নোট"
+
+msgid "Other Systems and Languages"
+msgstr "অন্যান্য সিস্টেম ও ভাষা"
+
+msgid "Get Firefox"
+msgstr "Firefox প্রাপ্ত করুন"
+
+msgid "Free Download"
+msgstr "বিনামূল্যে ডাউনলোড"
+
+msgid "Help us make Firefox even better!"
+msgstr "Firefox-কে আরো উন্নত করতে আমাদের সাহায্য করুন!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr "অনুগ্রহ করে এই সার্ভের জন্য কিছু সময় ব্যয় করে আপনার মতামত আমাদের জানান।"
+
+msgid "Close"
+msgstr "বন্ধ করুন"
+
+msgid "(in English)"
+msgstr "(ইংরাজিতে)"
+
+msgid "Download Now - Free"
+msgstr "অবিলম্বে ডাউনলোড করুন - বিনামূল্যে"
+
+msgid "Return to top"
+msgstr "উপরে প্রত্যাবর্তন"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"<a href=\"http://get.adobe.com/flashplayer/\">Adobe Flash Player</a> অবিলম্বে "
+"আপডেট করা আবশ্যক।"
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"ব্যবহৃত Firefox আপডেট করা হলেও, এর সাথে ব্যবহৃত Flash Player-র সংস্করণের "
+"কারণে নিরাপত্তা ও স্থায়ীত্ব সংক্রান্ত সমস্যা দেখা দিতে পারে।  অনুগ্রহ করে "
+"বিনা বিলম্বে <a href=\"http://get.adobe.com/flashplayer/\">বিনা মূল্যের এই "
+"আপডেট ইনস্টল করুন</a>।"
+
+msgid "Features"
+msgstr "বৈশিষ্ট্য"
+
+msgid "Customize"
+msgstr "স্বনির্ধারণ"
+
+msgid "Synchronize"
+msgstr "সুসংগতি"
+
+msgid "Develop for Mobile"
+msgstr "মোবাইলের জন্য নির্মাণ করুন"
+
+msgid "Other Supported Platforms"
+msgstr "অন্যান্য সমর্থিত প্ল্যাটফর্ম"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "অন্যান্য প্ল্যাটফর্ম ও ভাষা"
+
+msgid "Choose your location"
+msgstr "নিজের অবস্থান নির্বাচন করুন"
+
+msgid "Download Firefox directly from your phone"
+msgstr "ফোন থেকে সরাসরি Firefox ডাউনলোড করুন"
+
+msgid "Download"
+msgstr "ডাউনলোড করুন"
+
+msgid "Next"
+msgstr "পরবর্তী"
+
+msgid "MB"
+msgstr "মেগাবাইট"
+
+msgid "MegaBytes"
+msgstr "মেগাবাইট"
+
+msgid "FAQ"
+msgstr "সাধারণ প্রশ্নোত্তর"
+
+msgid "Videos"
+msgstr "ভিডিও"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"<a href=\"%s\">বিশেষভাবে উল্লিখিত</a> না হলে, এই সাইঠের সকল তথ্য <br /><a "
+"href=\"%s\">Creative Commons Attribution Share-Alike License v3.0</a> অথবা "
+"ঊর্ধ্বতন সংস্করণের শর্তানুযায়ী বিতরণ করা হয়েছে।"
+
+msgid "Report Trademark Abuse"
+msgstr "ট্রেডমার্কের উলঙ্ঘন সম্পর্কে সূচিত করুন"
+
+msgid "Free Upgrade"
+msgstr "বিনামূল্যে আপগ্রেড"
+
+msgid "Follow us on:"
+msgstr "আমাদের অনুসরণ করুন:"
+
+msgid "Customize with Add-ons"
+msgstr "অতিরিক্ত সামগ্রী সহযোগে স্বয়ং নির্ধারণ করুন"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "ডেস্কটপ ও মোবাইল সুসংগত করুন"
+
+msgid "Learn More"
+msgstr "অধিক বিবরণ"
+
+msgid "Watch the video"
+msgstr "ভিডিও দেখুন"
+
+msgid "WebM format"
+msgstr "WebM বিন্যাস"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora বিন্যাস"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 বিন্যাস"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "ওহ হো! অনুগ্রহ করে বৈধ ই-মেইল ঠিকানা উল্লেখ করুন।"
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"অনুগ্রহ করে Mozilla-র গোপনীয়তা সংক্রান্ত নিয়মনীতি পড়ুন ও চেকবক্সে চিহ্ন দিয়ে "
+"নিজের সম্মতি জ্ঞাপন করুন।"
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"অনুগ্রহ করে নিজের ই-মেইল লিখুন ও Mozilla-র গোপনীয়তা সংক্রান্ত নিয়মনীতি পড়ুন।"
+
+msgid "Mobile"
+msgstr "মোবাইল"
+
+msgid "Firefox Updated"
+msgstr "Firefox আপডেট করা হয়েছে"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "আগামীদিনের ওয়েবের বৈশিষ্ট্য পরিদর্শন করুন"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Firefox-র সাথে ভবিষ্যতে পাড়ি দিন।"
+
+msgid "Join the Beta Program"
+msgstr "বিটা প্রোগ্রামে যোগদান করুন"
+
+msgid "Experience Firefox"
+msgstr "Firefox পরিদর্শন করুন"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "ওয়েবের ভবিষ্যত আপনার অপেক্ষায় রয়েছে!"
+
+msgid "The future of the Web starts now."
+msgstr "ওয়েবের পরবর্তী পর্যায় এখন আরম্ভ হবে।"
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "নতুন রূপে প্রস্তুত করা Firefox ব্যবহার করুন।"
+
+msgid "Experience tomorrow's Web today."
+msgstr "আগামীদিনের ওয়েবের বৈশিষ্ট্যগুলি আজ অনুভব করুন।"
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Firefox-র নতুন চেহারা ছবি দেখুন।"
+
+msgid "Browse the future of the Web."
+msgstr "ওয়েবের ভবিষ্যত পরিদর্শন করুন।"
+
+msgid "See Firefox with a new look and feel."
+msgstr "নতুন রূপে Firefox দেখুন।"
+
+msgid "Download Beta Now."
+msgstr "অবিলম্বে বিটা সংস্করণ ডাউনলোড করুন।"
+
+msgid "All Systems & Languages"
+msgstr "সর্বধরনের সিস্টেম ও ভাষা"
+
+msgid "View Full Site"
+msgstr "সম্পূর্ণ সাইট দেখুন"
+
+msgid "Get Firefox for Android"
+msgstr "Android-র সাথে ব্যবহারের জন্য Firefox প্রাপ্ত করুন"
+
+msgid "Download for <span>Android</span>"
+msgstr "<span>Android</span>-র জন্য ডাউনলোড করুন"
+
+msgid "Free from the Android Market"
+msgstr "Android Market থেকে বিনামূল্যে প্রাপ্ত করুন"
+
+msgid "Desktop"
+msgstr "ডেস্কটপ"
+
+msgid "Firefox Beta for mobile"
+msgstr "মোবাইলে ব্যবহারের জন্য Firefox বিটা সংস্করণ"
+
+msgid "Firefox for mobile"
+msgstr "মোবাইলে ব্যবহারের জন্য Firefox"
+
+msgid "Email"
+msgstr "ই-মেইল"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox। XP-তে আধুনিক ওয়েবের সুবিধা প্রাপ্ত করুন।"
+
+msgid "Super speed"
+msgstr "দূরন্ত গতি"
+
+msgid "Stunning graphics"
+msgstr "অসামান্য গ্রাফিক্স"
+
+msgid "The latest technologies"
+msgstr "নতুন প্রযুক্তি"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"আপনি Firefox-র একটি পুরোনো সংস্করণ ব্যবহার করছেন। আপডেট করুন এবং নিরাপদ "
+"থাকুন! <br/> নতুন বৈশিষ্ট্য, গতি ও নিরাপত্তার সংশোধনগুলি প্রাপ্ত করার জন্য "
+"এক মিনিটের কম সময় ব্যয় করে <a href=\"%s\">বিনামূল্যে আপগ্রেড ডাউনলোড করুন</a>।"
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"আপগ্রেড ডাউনলোড করা আপনার দরকার! এক মিনিটেরও কম সময় ব্যয় করে নিরাপদে থাকুন। "
+"<br/>ওয়েব ব্রাউজ করার এবং এর সাথে যুক্ত বৈশিষ্ট্য স্বনির্ধারণের জন্য আপগ্রেড "
+"করা নতুন Firefox-র ব্যবহার শুরু করুন। <br/>   এটি দ্রুত এবং বিনামূল্যে "
+"উপলব্ধ!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"আপনি Firefox-র একটি পুরোনো সংস্করণ ব্যবহার করছেন। নিরাপদে থাকার জন্য <a "
+"href=\"%s\">আপডেট করুন</a>! <br/>  নতুন বৈশিষ্ট্য, গতি ও নিরাপত্তার সংশোধনগুলি "
+"উপভোগ করার জন্য এক মিনিটের কম সময় ব্যয় করে বিনামূল্যে আপগ্রেড ডাউনলোড করুন।"
+
+msgid "Upgrade now"
+msgstr "অবিলম্বে আপগ্রেড করুন"
+
+msgid "Update now"
+msgstr "অবিলম্বে আপডেট করুন"
+
+msgid "Supported Devices"
+msgstr "সমর্থিত ডিভাইসের তালিকা"
+
+msgid "What’s New"
+msgstr "নতুন বৈশিষ্ট্য"
+
+msgid "Privacy"
+msgstr "গোপনীয়তা"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

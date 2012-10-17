@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Navigácia"
+
+msgid "Press area"
+msgstr "Info pre tlač"
+
+msgid "About"
+msgstr "O nás"
+
+msgid "Store"
+msgstr "Obchod"
+
+msgid "Donate"
+msgstr "Darujte"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Products"
+msgstr "Produkty"
+
+msgid "Add-ons"
+msgstr "Doplnky"
+
+msgid "About Us"
+msgstr "O nás"
+
+msgid "Developers"
+msgstr "Vývojári"
+
+msgid "Labs"
+msgstr "Labs {ok}"
+
+msgid "skip to Navigation"
+msgstr "preskočiť na navigáciu"
+
+msgid "switch language"
+msgstr "prepnúť jazyk"
+
+msgid "Back to home page"
+msgstr "Naspäť na domovskú stránku"
+
+msgid "About Mozilla"
+msgstr "Info o Mozille"
+
+msgid "Get Involved"
+msgstr "Zapojte sa"
+
+msgid "Licensing"
+msgstr "Licencovanie"
+
+msgid "Careers"
+msgstr "Zamestnanie"
+
+msgid "Press Center"
+msgstr "Tlačové centrum"
+
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+msgid "Site contact"
+msgstr "Kontakt na správcu webu"
+
+msgid "Other languages:"
+msgstr "Iné jazyky:"
+
+msgid "%Y-%m-%d"
+msgstr "%d.%m.%Y"
+
+msgid "All rights reserved."
+msgstr "Všetky práva vyhradené."
+
+msgid "Legal Notices"
+msgstr "Právne informácie"
+
+msgid "Privacy Policy"
+msgstr "Zásady ochrany súkromia"
+
+msgid "Visit Mozilla.com"
+msgstr "Navštívte Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Navštívte Mozilla.com (v angličtine)"
+
+msgid "Download Firefox - Free"
+msgstr "Prevziať Firefox - zadarmo"
+
+msgid "Release Notes"
+msgstr "Poznámky k vydaniu"
+
+msgid "Other Systems and Languages"
+msgstr "Ďalšie systémy a jazyky"
+
+msgid "Get Firefox"
+msgstr "Získať Firefox"
+
+msgid "Free Download"
+msgstr "Prevziať zadarmo"
+
+msgid "Help us make Firefox even better!"
+msgstr "Pomôžte nám vylepšiť Firefox!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Venujte niekoľko chvíľ krátkemu prieskumu a podeľte sa s nami s vašimi "
+"myšlienkami."
+
+msgid "Close"
+msgstr "Zavrieť"
+
+msgid "(in English)"
+msgstr "(v angličtine)"
+
+msgid "Download Now - Free"
+msgstr "Prevziať teraz - zadarmo"
+
+msgid "Return to top"
+msgstr "Naspäť hore"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Teraz by ste mali <a href=\"http://get.adobe.com/flashplayer/\">aktualizovať "
+"zásuvný modul Adobe Flash Player</a>."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox je aktualizovaný, ale aktuálne nainštalovaná verzia prehrávača Flash "
+"Player môže zapríčiniť bezpečnostné problémy a spôsobovať problémy so "
+"stabilitou programu. Prosím, čo najskôr <a "
+"href=\"http://get.adobe.com/flashplayer/\">si zadarmo nainštalujte jeho "
+"aktuálnu verziu</a>."
+
+msgid "Features"
+msgstr "Funkcie"
+
+msgid "Customize"
+msgstr "Prispôsobenie"
+
+msgid "Synchronize"
+msgstr "Synchronizácia"
+
+msgid "Develop for Mobile"
+msgstr "Vývoj pre mobilné zariadenia"
+
+msgid "Other Supported Platforms"
+msgstr "Ďalšie podporované platformy"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Ďalšie platformy a jazyky"
+
+msgid "Choose your location"
+msgstr "Zvoľte vaše umiestnenie"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Prevziať Firefox do mobilného telefónu"
+
+msgid "Download"
+msgstr "Prevziať"
+
+msgid "Next"
+msgstr "Ďalší"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "Megabajtov"
+
+msgid "FAQ"
+msgstr "Často kladené otázky"
+
+msgid "Videos"
+msgstr "Videá"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Ak nie je <a href=\"%s\">uvedené</a> inak, obsah tejto stránky je vedený pod "
+"licenciou <br /><a href=\"%s\">Creative Commons Attribution Share-Alike "
+"License v3.0</a> alebo ktorejkoľvek vyššej verzie."
+
+msgid "Report Trademark Abuse"
+msgstr "Nahlásiť porušenie ochrannej známky"
+
+msgid "Free Upgrade"
+msgstr "Aktualizovať zadarmo"
+
+msgid "Follow us on:"
+msgstr "Sledujte nás:"
+
+msgid "Customize with Add-ons"
+msgstr "Prispôsobenie pomocou doplnkov"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Synchronizujte počítač a mobilné zariadenie"
+
+msgid "Learn More"
+msgstr "Ďalšie informácie"
+
+msgid "Watch the video"
+msgstr "Pozrite si video"
+
+msgid "WebM format"
+msgstr "Formát WebM"
+
+msgid "Ogg Theora format"
+msgstr "Formát Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Formát MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Ops! Uistite sa, že zadávate platnú e-mailovú adresu."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Prečítate si Zásady ochrany súkromia spoločnosťou Mozilla a vyjadrite súhlas "
+"označením políčka."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Zadajte e-mailovú adresu a prečítajte si Zásady ochrany súkromia "
+"spoločnosťou Mozilla."
+
+msgid "Mobile"
+msgstr "Mobilné zariadenia"
+
+msgid "Firefox Updated"
+msgstr "Firefox bol aktualizovaný"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Pozrite sa na web zajtrajška"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Cesta do budúcnosti s Firefoxom"
+
+msgid "Join the Beta Program"
+msgstr "Pripojte sa k programu Beta"
+
+msgid "Experience Firefox"
+msgstr "Zažite Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Budúcnosť webu čaká práve na vás!"
+
+msgid "The future of the Web starts now."
+msgstr "Budúcnosť webu začína teraz."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Vyskúšajte Firefox s novým vzhľadom."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Zažite web zajtrajška už dnes."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Vyskúšajte nový vzhľad Firefoxu."
+
+msgid "Browse the future of the Web."
+msgstr "Pozrite si budúcnosť webu."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Pozrite si nový vzhľad Firefoxu."
+
+msgid "Download Beta Now."
+msgstr "Prevziať verziu beta"
+
+msgid "All Systems & Languages"
+msgstr "Všetky systémy a jazyky"
+
+msgid "View Full Site"
+msgstr "Zobraziť celú stránku"
+
+msgid "Get Firefox for Android"
+msgstr "Získať Firefox pre Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Prevziať pre <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Zadarmo z Android Market"
+
+msgid "Desktop"
+msgstr "Počítač"
+
+msgid "Firefox Beta for mobile"
+msgstr "Mobilný Firefox Beta"
+
+msgid "Firefox for mobile"
+msgstr "Mobilný Firefox"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Prináša moderný web pre XP."
+
+msgid "Super speed"
+msgstr "Super rýchlosť"
+
+msgid "Stunning graphics"
+msgstr "Úžasná grafika"
+
+msgid "The latest technologies"
+msgstr "Najnovšie technológie"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Používate starú verziu prehliadača Firefox. Aby ste ostali v bezpečí, mali "
+"by ste aktualizovať. <br/> <a href=\"%s\">Získajte voľne dostupnú "
+"aktualizáciu</a> za menej ako minútu a užite si najnovšie funkcie, rýchlosť "
+"a vylepšenú bezpečnosť."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Mali by ste aktualizovať! Ostaňte v bezpečí za menej ako minútu. <br/> "
+"Začnite používať nový Firefox a užite si vylepšené prehliadanie a "
+"prispôsobenie na webe. <br/> Je rýchly a zadarmo."
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Používate staršiu verziu prehliadača Firefox. <a href=\"%s\">Získajte "
+"aktualizáciu</a> a ostaňte v bezpečí. <br/> Užite si najnovšie funkcie, "
+"vylepšenú bezpečnosť a doteraz najrýchlejší Firefox. Prevezmite si voľne "
+"dostupnú aktualizáciu za menej ako minútu."
+
+msgid "Upgrade now"
+msgstr "Aktualizujte teraz"
+
+msgid "Update now"
+msgstr "Aktualizujte teraz"
+
+msgid "Supported Devices"
+msgstr "Podporované zariadenia"
+
+msgid "What’s New"
+msgstr "Čo je nové"
+
+msgid "Privacy"
+msgstr "Súkromie"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Časť tohto obsahu bola v rokoch ©1998–%(current_year)s vytvorená "
+"individuálnymi prispievateľmi mozilla.org. Obsah je dostupný pod licenciou "
+"<a href=\"%(url)s\">Creative Commons</a>."
+
+msgid "Contribute to this page"
+msgstr "Prispieť k obsahu stránky"
+
+msgid "Mission"
+msgstr "Misia"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

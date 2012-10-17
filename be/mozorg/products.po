@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/be/mozorg/products.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "An experimental mobile browser."
+msgstr "An experimental mobile browser."
+
+msgid "The layout engine that drives Firefox."
+msgstr "The layout engine that drives Firefox."
+
+msgid "A better way to sign in to websites."
+msgstr "A better way to sign in to websites."
+
+msgid "An environment for XUL-based applications."
+msgstr "An environment for XUL-based applications."
+
+msgid "Persona"
+msgstr "Persona"
+
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+msgid "Firefox Developer Tools"
+msgstr "Firefox Developer Tools"
+
+msgid "Make something amazing with the Web."
+msgstr "Make something amazing with the Web."
+
+msgid "Webmaker"
+msgstr "Webmaker"
+
+msgid "A bug tracking system to help manage software development."
+msgstr "A bug tracking system to help manage software development."
+
+msgid "Inspect, debug, analyze and more inside your browser."
+msgstr "Inspect, debug, analyze and more inside your browser."
+
+msgid "New ways to explore, experiment and innovate."
+msgstr "New ways to explore, experiment and innovate."
+
+msgid "Pancake"
+msgstr "Pancake"
+
+msgid "WebFWD"
+msgstr "WebFWD"
+
+msgid "XUL Runner"
+msgstr "XUL Runner"
+
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+msgid ""
+"Our dedication to driving the Web forward and keeping it open to everyone "
+"extends through everything we do."
+msgstr ""
+"Our dedication to driving the Web forward and keeping it open to everyone "
+"extends through everything we do."
+
+msgid "Built for the Web"
+msgstr "Built for the Web"
+
+msgid "Bugzilla"
+msgstr "Bugzilla"
+
+msgid "An open operating system for mobile devices."
+msgstr "An open operating system for mobile devices."
+
+msgid "Safe, fast and easy email."
+msgstr "Safe, fast and easy email."
+
+msgid "Mozilla Products — Built by us, for the Web"
+msgstr "Mozilla Products — Built by us, for the Web"
+
+msgid "Our community-driven innovation accelerator."
+msgstr "Our community-driven innovation accelerator."
+
+msgid "Reserved&nbsp;for future&nbsp;products."
+msgstr "Reserved&nbsp;for future&nbsp;products."
+
+msgid "Marketplace"
+msgstr "Marketplace"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Gecko"
+msgstr "Gecko"
+
+msgid "A creation and distribution platform for apps."
+msgstr "A creation and distribution platform for apps."
+
+msgid "Innovations"
+msgstr "Innovations"
+
+msgid "Platforms"
+msgstr "Platforms"
+
+msgid "Firebug"
+msgstr "Firebug"
+
+msgid "The free, non-profit browser for desktop and mobile."
+msgstr "The free, non-profit browser for desktop and mobile."
+
+msgid "A collection of tools built in to Firefox."
+msgstr "A collection of tools built in to Firefox."
+
+msgid "Tools"
+msgstr "Tools"

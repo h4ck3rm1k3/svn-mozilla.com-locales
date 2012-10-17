@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Live"
+msgstr "Živé vysielanie Firefoxu"
+
+msgid "Tweet"
+msgstr "Tweet {ok}"
+
+msgid "Follow @cubcaretaker"
+msgstr "Sledovať kanál @cubcaretaker"
+
+msgid "Cameras"
+msgstr "Kamery"
+
+msgid "360° view"
+msgstr "360° pohľad"
+
+msgid "Camera 1"
+msgstr "Kamera 1"
+
+msgid "Camera 2"
+msgstr "Kamera 2"
+
+msgid "Video help"
+msgstr "Pomocník k videu"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"Páčia sa vám mláďatá zvierat? Mozilla Firefox vysiela videozábery troch "
+"adoptovaných malých pandích mláďat. Dajte o tom vedieť aj svojim priateľom."
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"Čo je obľúbenejšie? Nezisková misia Firefoxu alebo priamy prenos ich "
+"zvieracieho maskota? Zistíte na http://mzl.la/sPo5yu"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Pomôžte Firefoxu chrániť jeho vzácneho maskota a web, sledovaním mláďat! "
+"http://mozilla.org/firefoxlive"
+
+msgid "Share on Twitter »"
+msgstr "Zdieľať na Twitteri »"
+
+msgid "Share on Facebook »"
+msgstr "Zdieľať na Facebooku »"

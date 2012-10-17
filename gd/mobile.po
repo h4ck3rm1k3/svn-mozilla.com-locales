@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gd/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Faigh Firefox airson Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Luchdaich a-nuas airson <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Saor o mhargaid Android"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "No tadhail air <a %s>Firefox.com/m</a> air an fhòn agad."
+
+msgid "Supported Devices"
+msgstr "Innealan ris a bheil taic"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Faigh o iTunes e - SAOR AN-ASGAIDH"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home airson <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Faigh cothrom air an eachdraidh, na comharran-lìn 's na tabaichean fosgailte "
+"air an iPhone agad."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Luchdaich a-nuas Firefox <span>dhan fhòn-làimhe agad</span>"
+
+msgid "Want to test the latest features?"
+msgstr "A bheil thu airson na feartan as ùire a chur fo dheuchainn?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Faigh Firefox Home airson iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Luchdaich a-nuas am beta airson Android"
+
+msgid "Download"
+msgstr "Luchdaich a-nuas"
+
+msgid "for"
+msgstr "airson"
+
+msgid "Free from iTunes"
+msgstr "Saor o iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Gheibh thu na feartan as ùire agus ma bheir thu dhuinn do bheachdan, bidh "
+"buaidh agad air na bhios san tionndadh deireannach."
+
+msgid "Developer Tools"
+msgstr "Innealan an luchd-leasachaidh"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"'S urrainn dhut tionndadh Firefox nam fònaichean-làimhe a stàladh air a' "
+"choimpiutair mhòr agad gus a chur fo dheuchainn, do bheachdan air a thoirt "
+"dhuinn agus tuilleadain a thogail."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Dèan ceangal le Firefox airson fònaichean-làimhe:"
+
+msgid "Monthly newsletter"
+msgstr "Ar cuairt-litir mhìosail"
+
+msgid "Follow us"
+msgstr "Lean rinn"
+
+msgid "Become a fan"
+msgstr "Lean rinn"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Tha Firefox loma làn de thionnsgalachdan a leigeas leat barrachd brabhsadh a "
+"dhèanamh air nas lugha de thaidhpeadh agus bheir e dhut an lìon glan, "
+"sgiobalta is luath."
+
+msgid "Freedom from typing"
+msgstr "Saoirse on taidhpeadh"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Ionnsaichidh an sàr-sgrìn dè na làraichean as fhearr leat agus leis a sin, "
+"bidh cothrom agad an ruigsinn air nas lugha de thaidhpeadh no fiù gun "
+"taidhpeadh sam bith."
+
+msgid "Best of both worlds"
+msgstr "Cuid as fhearr dhen dà shaoghal"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Chaidh Firefox airson Android ath-dhealbhadh agus chaidh piseach a chur air "
+"a chum cleachdadh air fònaichean is tablaidean."
+
+msgid "Browse quick and easy"
+msgstr "Brabhsadh luath furasta"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Leis gu bheil sioncronachadh, brabhsadh tabaichte is comharran-lìn le aon "
+"bheantainn ann, bidh a h-uile rud faisg ort."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Cobhair a dhìth ort?</a> Tadhail air an làrach taice airson Firefox "
+"air Android againn."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Luchdaich a-nuas am build a tha ceart dhutsa agus cuir fo dheuchainn e."
+
+msgid "See all our channels for mobile »"
+msgstr "Seall a h-uile seanail againn airson Firefox son innealan-làimhe »"
+
+msgid "Free from the Google Play Store"
+msgstr "Saor an-asgaidh o bhùth Google Play"

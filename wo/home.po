@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/wo/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Solal"
+
+msgid "One size doesn’t fit all."
+msgstr "Benn dayo gënul pur yépp."
+
+msgid "Go Fast"
+msgstr "Gën gaaw"
+
+msgid "Accelerate the way you use the web."
+msgstr "Gënal gaawal ni ngay jëfandikoo web bi."
+
+msgid "Stay Safe"
+msgstr "Nekal ci kaarange"
+
+msgid "We’ve got your back."
+msgstr "Nous avons votre retour."
+
+msgid "Get Firefox on your phone!"
+msgstr "Amal Firefox ci sa telefon!"
+
+msgid "Made for sharing."
+msgstr "Li ngir seddoo."
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Sos <br/> jagale <br/> koñ yi ngir"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Solal <br/> ngir mu <br/> gëna gaaw"
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Jëlal ay mottali <br/> li ngay def <br/> gëna yomb"
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Liggéey bu metti <br /> doo too ko def."
+
+msgid "Increased <br/> speed"
+msgstr "Yokk <br/> gaawaay"
+
+msgid "Easy to <br/> access tabs"
+msgstr "Yomb na <br/> agg ci koñ yi"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Meññalin <br/> add-ons"
+
+msgid "Made for <br/> the way you play."
+msgstr "Dañu ko defar <br/> mu dëppoo ni ngay defe."
+
+msgid "3D <br/> graphics"
+msgstr "3D <br/> garafik yi"
+
+msgid "Even more <br/> reliable"
+msgstr "Gëna <br/> wóor"
+
+msgid "Effortless <br/> customization"
+msgstr "Jéem <br/> solal"
+
+msgid "Advanced <br/> security"
+msgstr "Jëm kanam <br/> kaarange"
+
+msgid "Advanced <br/> graphics"
+msgstr "Jëm kanam <br/> garafik"
+
+msgid "Improved <br/> reliability"
+msgstr "Yokk <br/> wóoraay"

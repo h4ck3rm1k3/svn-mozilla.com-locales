@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lij/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Personalìzza"
+
+msgid "One size doesn’t fit all."
+msgstr "'Na gràndessa a no va pròpio bén."
+
+msgid "Go Fast"
+msgstr "Vànni velôce"
+
+msgid "Accelerate the way you use the web."
+msgstr "Acèlera o mòddo de adêuviâ a ræ."
+
+msgid "Stay Safe"
+msgstr "Stànni béllo segûo"
+
+msgid "We’ve got your back."
+msgstr "Niâtri te covrìmmo e spàlle."
+
+msgid "Get Firefox on your phone!"
+msgstr "Pìgite Firefox into teu telefonìn!"
+
+msgid "Made for sharing."
+msgstr "O l'é fæto pe-a condivixión."
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Fànni <br/> di féuggi <br/> dedicæ"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Personalìzza <br/> pe anâ <br/> ciù velôce"
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Pìgite i conponénti azónti <br/> e fànni tùtto <br/> con ciù façilitæ"
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Émmo louòu södo <br /> coscì no ti fæ fatîga ti."
+
+msgid "Increased <br/> speed"
+msgstr "Sénpre ciù <br/> velôce"
+
+msgid "Easy to <br/> access tabs"
+msgstr "L'é fàçile <br/> acéde a-i féuggi"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Conponénti azónti <br/> produtîvi"
+
+msgid "Made for <br/> the way you play."
+msgstr "O l'é fæto <br/> pe zêuga ao mòddo teu."
+
+msgid "3D <br/> graphics"
+msgstr "Gràfica <br/> 3D"
+
+msgid "Even more <br/> reliable"
+msgstr "Ancón ciù <br/> afidàbile"
+
+msgid "Effortless <br/> customization"
+msgstr "Pesonalizaçión <br/> façilitâ"
+
+msgid "Advanced <br/> security"
+msgstr "Seguéssa <br/> avansâ"
+
+msgid "Advanced <br/> graphics"
+msgstr "Gràfica <br/> avansâ"
+
+msgid "Improved <br/> reliability"
+msgstr "Afidabilitæ <br/> megiorâ"

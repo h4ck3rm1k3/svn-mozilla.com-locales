@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ga-IE/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Faigh ár Nuachtlitir Mhíosúil"
+
+msgid "Your Email Address"
+msgstr "Do Sheoladh Ríomhphoist"
+
+msgid "Text"
+msgstr "Téacs"
+
+msgid "Available Languages"
+msgstr "Teangacha"
+
+msgid "Select country"
+msgstr "Roghnaigh tír"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Úps! Bí cinnte gur chuir tú seoladh bailí ríomhphoist isteach."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Léigh Polasaí Príobháideachta Mhozilla agus glac leis trí tic a chur sa "
+"bhosca."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Glacaim leis an <a href=\"%s\">bPolasaí Príobháideachta</a>"
+
+msgid "Sign me up!"
+msgstr "Ba mhaith liom clárú!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Ní sheolfaimid duit ach eolas a bhaineann le Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Go raibh maith agat as clárú!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Tá áthas orainn go mbeimid in ann leideanna agus cleasa a thabhairt duit "
+"chun an tairbhe is mó a bhaint as Firefox, chomh maith le nuacht spreagúil "
+"faoi Mhozilla agus an obair a dhéanaimid chun feabhas a chur ar an nGréasán."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Liostáil lenár nuachtlitir mhíosúil agus faigh na leideanna agus cleasanna "
+"is déanaí chun an tairbhe is mó a bhaint as do bhrabhsálaí Firefox. Ba "
+"mhaith linn fanacht i dteagmháil leat!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Táimid tar éis ríomhphost a sheoladh chugat. Cliceáil ar an nasc sa "
+"teachtaireacht sin chun do liostáil a dhearbhú."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Léigh chuild rud inár <span>nuachtlitir</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Tá tú liostáilte leis an nuachtlitir anois."
+
+msgid "Format"
+msgstr "Formáid"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Tá an úim is an tslinn agat! <span>Ach fan - tá tuilleadh ann</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Ba mhaith linn nuacht a bhfuil suim agat inti a sheoladh chugat. Tabhair "
+"breis eolais fút féin dúinn, agus cláraigh le nuachtlitreacha eile ó "
+"Mhozilla."
+
+msgid "Firefox & You"
+msgstr "Tusa agus Firefox"
+
+msgid "Our Other Newsletters:"
+msgstr "Ár Nuachtlitreacha Eile:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Faigh na leideanna agus cleasanna is déanaí chun an tairbhe is mó a bhaint "
+"as Firefox."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Soghluaiste"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Tuilleadh eolais faoi bhreiseáin mhór-le-rá agus gnéithe nua ar Firefox "
+"Soghluaiste."
+
+msgid "Beta News"
+msgstr "Nuacht Bhéite"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Léigh faoi na gnéithe is déanaí i bhFirefox, ar do ríomhaire agus ar do "
+"ghléas soghluaiste, roimh an leagan deireanach."
+
+msgid "Let’s Be Friends!"
+msgstr "Bí cairdiúil linn!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Tá Firefox ar na suímh shóisialta is ansa leat. Ceangail linn agus glac "
+"páirt sa chomhrá."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Bainistigh do <span>Liostálacha</span>"
+
+msgid "Subscribe"
+msgstr "Liostáil"
+
+msgid "Unsubscribe"
+msgstr "Díliostáil"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Cuir tic anseo mura mian leat aon ríomhphost a fháil ó Mhozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Níor mhaith liom aon ríomhphost ó Mhozilla"
+
+msgid "Save Preferences"
+msgstr "Sábháil do Roghanna"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Go raibh maith agat as do shocruithe ríomhphoist a athrú."
+
+msgid "You've been unsubscribed."
+msgstr "Tá tú díliostáilte anois."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Tá brón orm go bhfuil tú ag imeacht. Ar mhiste leat insint dúinn cén fáth?"
+
+msgid "You send too many emails."
+msgstr "Seolann tú an iomarca ríomhphoist."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Níl suim agam san ábhar."
+
+msgid "Your email design was too hard to read."
+msgstr "Bhí sé deacair do theachtaireachtaí ríomhphoist a léamh."
+
+msgid "I didn't sign up for this."
+msgstr "Níor liostáil mé riamh."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Tá mé ceangailte le Mozilla ar Facebook agus Twitter cheana."
+
+msgid "Submit"
+msgstr "Seol"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Go raibh maith agat as insint dúinn cén fáth a bhfuil tú ag imeacht."
+
+msgid "Mozilla Newsletters"
+msgstr "Nuachtlitreacha Mozilla"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Go raibh maith agat! Féach ar do bhosca ríomhphoist chun an síntiús a chur i "
+"gcrích."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Gheobhaidh tú teachtaireacht ó mozilla@e.mozilla.org chun an síntiús a "
+"dhearbhú. Mura bhfeiceann tú é, féach ar do bhosca dramhphoist. Caithfidh tú "
+"an síntiús a dhearbhú chun an nuachtlitir a fháil."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Cuir ár seoladh ríomhphoist mozilla@e.mozilla.org i do leabhar seoltaí chun "
+"bheith cinnte go bhfaighfidh tú an nuachtlitir uainn i gcónaí."

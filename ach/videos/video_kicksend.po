@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/videos/video_kicksend.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The problem with file sharing right now is that not one solution"
+msgstr "Peko me nywako pwail kombedi tye ni pe obedo cobo acel emi ni"
+
+msgid "provides a really, really good experience for non technical users."
+msgstr ""
+"poko en kikome, diro maber atika pi jo matiyo kwede mape ngeyo tic cing."
+
+msgid "With Kicksend you can send files to any of your friends,"
+msgstr "Ki cako cwalo i twero cwalo pwail bot lawoti mo keken,"
+
+msgid "of any size, just by dragging and dropping onto the web"
+msgstr "pi dite mo keken, kun i diro ne ci i bayo ne ikom web"
+
+msgid "and you can put in an email address"
+msgstr "ci iromo keto ne i email address"
+
+msgid "and that file gets delivered directly to your friends."
+msgstr "ci pwail man biwot atir bot luwote ni."
+
+msgid "We decided to go the native route because we want to provide"
+msgstr "Wamoko tam wa me wot iyo acel pien wan wamito poko"
+
+msgid "a really good experience that people are used to on iPhone and Android"
+msgstr "diro maber atika ma lwak jo dong onaa kwede woko ikom iPhone ki Android"
+
+msgid "but at the same time, we still want to provide"
+msgstr "ento i cawa nono, wamito poko"
+
+msgid "the same great experience on the mobile web."
+msgstr "diro mamwonya marwate ikom web me cing."
+
+msgid "HTML5 allows us to be on multiple platforms"
+msgstr "HTML5 weko wa bedo kacel mapol"
+
+msgid "without having to worry about dependencies on each of these platforms."
+msgstr "labongo kit para mo keken ikom jenge ikom platforms."
+
+msgid "Developing in HTML5 really helps us provide the features that"
+msgstr "Dongo ii HTML5 konyo wa poko kit ma"
+
+msgid "our users need to be able to send files really easily through the web."
+msgstr ""
+"jo wa matiyo kwede mito bedo ki twero me cwalo pwail i yore mayot kun beo i "
+"web."
+
+msgid "We try to be on every single mobile platform"
+msgstr "Watemo bedo i platform me cing acel keken"
+
+msgid "We do have native applications on iPhone and Android"
+msgstr "Wan watye ki purugram ikom iPhone ki Android"
+
+msgid "but we do realize that the rest of the world"
+msgstr "ento waniang ada ni lobo mukene"
+
+msgid "can use HTML5 to access Kicksend wherever they are."
+msgstr "romo tic ki HTML5 pi caki donyo i cwalo ka mo keken ma gin tye ie."
+
+msgid ""
+"The Mozilla Marketplace, I mean, first off it gives you massive distribution"
+msgstr "Ka cuk me Mozilla, Akobo, me acel miyi poko"
+
+msgid "because everybody who is using Firefox will essentially be using it."
+msgstr "pien dano weng matiyo ki Firefox bi tic kwede."
+
+msgid "And there is also a mobile aspect to it that"
+msgstr "Ci tye gin me cing iyore ni"
+
+msgid "is going to push our mobile HTML5 app to many, many millions of users"
+msgstr "bi coro app wa me HTML5 i kom en mapol, jo matiyo kwede maromo million"
+
+msgid "and that’s a no-brainer at that point."
+msgstr "ci men pe ki ladam i centa nono"
+
+msgid "The fact that we can update very easily"
+msgstr "Lok ada ni watwero mino ngec con"
+
+msgid "and actually provide services through the browser"
+msgstr "ci bene poko tic kun beo ki layeny"
+
+msgid ""
+"that gives our app special permissions is something that is also a no-"
+"brainer"
+msgstr "man miyo wa twero mapire tego obedo gin mo ma pe ki ladam"
+
+msgid "It took us may 15 minutes to bundle our app up and publish it"
+msgstr "Oteri wa ka dakika 15 me boyo app wa ki yaro ne botlwak"
+
+msgid "to the Marketplace and ever since then we pushed out"
+msgstr "i ka Cuk ci wacoro ne woko anaka wa i kare ca"
+
+msgid "a few releases already and it was a very smooth smooth experience."
+msgstr "gityeko kelo woko manok ki onongo obedo diro mapwot pwot."
+
+msgid "distribute your apps"
+msgstr "pok apps mamegi"

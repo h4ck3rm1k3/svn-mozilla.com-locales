@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gd/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Faigh am Firefox as ùire"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Ràining am Firefox as ùire!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Ùrachadh a tha luath, eàsgaidh agus saor an-asgaidh</a>"
+
+msgid "Fresh new look"
+msgstr "Le dreach ùr air"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Fada nas luaithe na Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Nas taghta na bha e riamh"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Tha tionndadh nas ùire de Firefox ann a dhìonas tu nas fhearr o ionnsaighean "
+"air loidhne."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Faigh greim air an àrdachadh</a> — tha e luath ┐ saor an-asgaidh!"
+
+msgid "get the latest in security"
+msgstr "faigh an teicneolas tèarainteachd as ùire"
+
+msgid "experience faster performance"
+msgstr "gabh cothrom air dèanadas nas luaithe"
+
+msgid "enjoy greater customization"
+msgstr "gabh tlachd sa chomas ghnàthachaidh againn"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Bidh an tionndadh de Firefox a tha agad buailteach do dh'ionnsaighean air "
+"loidhne a dh'aithghearr."
+
+msgid "Stay safe online"
+msgstr "Bidh sàbhailte air loidhne"
+
+msgid "Enjoy new features"
+msgstr "Gabh tlachd sna feartan ùra"
+
+msgid "URGENT!"
+msgstr "ÈIGINNEACH!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Chan eil an tionndadh de Firefox a tha agad dìonta o ionnsaighean air "
+"loidhne tuilleadh."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Seo an cuimhneachan mu dheireadh a bheir sinn dhut mus dèid àrdachadh gun "
+"tionndadh as ùire gu fèin-obrachail"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Chan eil taic aig Firefox tuilleadh ris an t-siostam-obrachaidh agad agus "
+"bidh e buailteach do dh'ionnsaighean air loidhne."
+
+msgid "We recommend:"
+msgstr "Mholamaid dhut na leanas:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Àrdaich an <a %s>siostam-obrachaidh agad</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Luchdaich a-nuas brabhsair co-chòrdail"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr ""
+"Stàilich àrdachadh saor an-asgaidh airson <a %s>an t-siostam-obrachaidh</a> "
+"agad"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Faighnichidh sin dhìot aon turas eile mus dèid d' àrdachadh gu fèin-"
+"obrachail."

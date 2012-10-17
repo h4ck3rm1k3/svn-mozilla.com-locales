@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zh-CN/download.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid ""
+"Mozilla Firefox, free web browser, is created by a global non-profit "
+"dedicated to putting individuals in control & shaping the future of the web "
+"for the public good."
+msgstr "Mozilla Firefox, 免费的网络浏览器, 由一个致力于让每个用户掌控自己的网络体验的全球性非营利组织所开发。"
+
+msgid "Different by Design"
+msgstr "与众不同的设计"
+
+msgid "Proudly <span>non-profit</span>"
+msgstr "以 <span>非营利</span> 为荣"
+
+msgid "Innovating <span>for you</span>"
+msgstr "<span>为你</span> 创新"
+
+msgid "Fast, flexible, <span>secure</span>"
+msgstr "快速, 可扩展, <span>安全</span>"
+
+msgid "Thanks for choosing Firefox!"
+msgstr "感谢选择 Firefox !"
+
+msgid ""
+"Your download should automatically begin in a few seconds, but if not, <a "
+"href=\"%s\">click here</a>."
+msgstr "几秒钟内下载会自动开始，如果没有开始， <a href=\"%s\">点击这里</a>。"
+
+msgid ""
+"As a non-profit, we’re free to innovate on your behalf without any pressure "
+"to compromise. You’re going to love the difference."
+msgstr "由于非营利，我们完全为你的需要而创新，没有任何妥协的压力。你会爱上这种个性。"
+
+msgid "Welcome to the only browser <em>that puts you first.</em>"
+msgstr "欢迎使用唯一的 <em>以你为尊</em> 的浏览器。"
+
+msgid "Mozilla Firefox Web Browser"
+msgstr "Mozilla Firefox Web Browser"

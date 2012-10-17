@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/it/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Evviva! Il tuo Firefox è aggiornato."
+
+msgid "Your Firefox is out of date."
+msgstr "Il tuo Firefox non è aggiornato."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Per motivi di sicurezza ti consigliamo di aggiornare alla <a "
+"href=\"{url}\">versione più recente</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Stai utilizzando una versione sconosciuta di Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Per motivi di sicurezza ti consigliamo di installare la <a "
+"href=\"{url}\">versione più recente</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Passa all'attività successiva<br/>ancora più velocemente"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Scopri come le nuove funzioni di Firefox possono rendere la tua navigazione "
+"più veloce ed efficiente."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr ""
+"Ulteriori informazioni sulla <a href=\"{url}\">funzione Nuova scheda »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr ""
+"Ulteriori informazioni sulla <a href=\"{url}\">nuova pagina iniziale »</a>"
+
+msgid "Keep in touch"
+msgstr "Restiamo in contatto"
+
+msgid "Keep it moving"
+msgstr "In movimento"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Scarica Firefox » <b>per Android</b>"
+
+msgid "Keep it going"
+msgstr "Non fermarti qui"
+
+msgid "Join Mozilla"
+msgstr "Entra in Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android Robot è stato riprodotto a partire da un lavoro creato e <a href=\"%"
+"s\">condiviso da Google</a> e utilizzato rispettando i termini della <a "
+"href=\"%s\">licenza Creative Commons 3.0 Attribution</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Scarica Firefox per Android</a> e e sfrutta al massimo le "
+"potenzialità del Web in movimento. È veloce, intelligente e sicuro."
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Adesso scarica il browser mobile che si prende cura solo di te"
+
+msgid "Firefox Features"
+msgstr "Caratteristiche di Firefox"
+
+msgid "Welcome to Firefox"
+msgstr "Benvenuto in Firefox"
+
+msgid "Firefox Help"
+msgstr "Supporto"
+
+msgid "Firefox for Android artwork"
+msgstr "Immagine di Firefox per Android"
+
+msgid "Fast. Smart. Safe."
+msgstr "Veloce. Intelligente. Sicuro."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Installa il browser mobile che si prende cura solo di te."

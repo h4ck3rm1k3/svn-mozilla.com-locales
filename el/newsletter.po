@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/el/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Λάβετε το μηνιαίο δελτίο νέων μας"
+
+msgid "Your Email Address"
+msgstr "Η διεύθυνση σας"
+
+msgid "Text"
+msgstr "Απλό κείμενο"
+
+msgid "Available Languages"
+msgstr "Διαθέσιμες γλώσσες"
+
+msgid "Select country"
+msgstr "Επιλογή χώρας"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr ""
+"Βεβαιωθείτε ότι εισάγατε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Παρακαλούμε διαβάστε την πολιτική απορρήτου του Mozilla και αποδεχτείτε την "
+"κάνοντας κλικ στο πλαίσιο."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Αποδέχομαι την <a href=\"%s\">πολιτική απορρήτου</a>"
+
+msgid "Sign me up!"
+msgstr "Συνδρομή!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Θα σας στείλουμε μόνο νέα σχετιζόμενα με το έργο Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Σας ευχαριστούμε για την εγγραφή σας!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Σύντομα θα αρχίσουμε να σας στέλνουμε συμβουλές και κόλπα για το πως "
+"μπορείτε να εκμεταλλευτείτε τον Firefox στο έπακρο, καθώς και ενδιαφέροντα "
+"νέα γύρω από το έργο Mozilla και το τι κάνουμε για να φτιάξουμε έναν "
+"καλύτερο παγκόσμιο ιστό."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Γραφτείτε συνδρομητές στο μηνιαίο ενημερωτικό μας δελτίο και θα είστε πάντα "
+"ενημερωμένοι για τα νέα του Mozilla, όπως και τα για τα πιο σύγχρονα κόλπα "
+"και συμβουλές για να εκμεταλλεύεστε στο έπακρο τις δυνατότητες του Firefox. "
+"Είναι ο καλύτερος τρόπος για να είμαστε σε επικοινωνία!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Μόλις σας στείλαμε ένα μήνυμα επιβεβαίωσης στο ηλεκτρονικό σας ταχυδρομείο. "
+"Κάντε κλικ στο δεσμό επιβεβαίωσης μέσα στο μήνυμα για να επικυρώσετε τη "
+"συνδρομή σας σ' αυτή τη λίστα ηλεκτρονικού ταχυδρομείου."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Διαβάστε περισσότερα στο <span>δελτίο νέων</span> μας."
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Η συνδρομή σας επιβεβαιώθηκε."
+
+msgid "Format"
+msgstr "Μορφή"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Είστε έτοιμοι! <span>Αλλά υπάρχουν κι άλλα!</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Θέλετε να έχετε ακριβείς πληροφορίες για όσα σας ενδιαφέρουν; Πείτε μας "
+"μερικά πράγματα για εσάς. Κι αφού είστε εδώ, γραφτείτε συνδρομητές και σε "
+"άλλα δελτία νέων του Mozilla."
+
+msgid "Firefox & You"
+msgstr "Ο Firefox & εσείς"
+
+msgid "Our Other Newsletters:"
+msgstr "Τα άλλα δελτία νέων μας:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Δείτε τις πιο νέες συμβουλές και τα κόλπα για να εκμεταλλευτείτε στο έπακρο "
+"τον αγαπημένο σας περιηγητή."
+
+msgid "Firefox Mobile"
+msgstr "Firefox για κινητά"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Μάθετε για τα πιο «καυτά» νέα πρόσθετα και χαρακτηριστικά του Firefox για "
+"κινητά."
+
+msgid "Beta News"
+msgstr "Νέα για την έκδοση Beta"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Διαβάστε για τα νεότερα χαρακτηριστικά του Firefox σε υπολογιστές και κινητά "
+"πριν τη διάθεση της σταθερής έκδοσης."
+
+msgid "Let’s Be Friends!"
+msgstr "Ας γίνουμε φίλοι!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Η ομάδα του Firefox βρίσκεται και στα αγαπημένα σας κοινωνικά δίκτυα. "
+"Συνδεθείτε μαζί μας και συμμετέχετε στις συζητήσεις."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Διαχειριστείτε τις <span>συνδρομές σας σε δελτία νέων</span>"
+
+msgid "Subscribe"
+msgstr "Συνδρομή"
+
+msgid "Unsubscribe"
+msgstr "Διαγραφή"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Επιλέξτε το για να διαγραφτείτε από όλα τα μηνύματα του Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Διαγραφή από όλα τα μηνύματα Mozilla"
+
+msgid "Save Preferences"
+msgstr "Αποθήκευση προτιμήσεων"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Ευχαριστούμε που ενημερώσατε τις προτιμήσεις αλληλογραφίας σας."
+
+msgid "You've been unsubscribed."
+msgstr "Έχετε διαγραφεί."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Λυπούμαστε που αποχωρείτε. Θα σας πείραζε να μας πείτε το γιατί;"
+
+msgid "You send too many emails."
+msgstr "Στέλνετε πολλά μηνύματα."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Το περιεχόμενο δεν με ενδιέφερε."
+
+msgid "Your email design was too hard to read."
+msgstr "Η διαμόρφωση των μηνυμάτων ήταν δυσανάγνωστη."
+
+msgid "I didn't sign up for this."
+msgstr "Δεν είχα ζητήσει συνδρομή."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Ενημερώνομαι για το έργο Mozilla από το Facebook και το Twitter."
+
+msgid "Submit"
+msgstr "Υποβολή"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Σας ευχαριστούμε που μας εξηγείτε τον λόγο αποχώρησης σας."
+
+msgid "Mozilla Newsletters"
+msgstr "Δελτία ειδήσεων Mozilla"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Σας ευχαριστούμε! Παρακαλούμε ελέγξτε την αλληλογραφία σας για να "
+"επιβεβαιώσετε τη συνδρομή σας."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Θα λάβετε ένα μήνυμα από τη διεύθυνση «mozilla@e.mozilla.org» για να "
+"επιβεβαιώσετε τη συνδρομή σας. Αν δεν το βρείτε, ελέγξτε τα φίλτρα "
+"ανεπιθύμητης αλληλογραφίας. Θα πρέπει να επιβεβαιώσετε τη συνδρομή σας για "
+"να σας στέλνουμε τα δελτία νέων μας."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Σας παρακαλούμε να προσθέσετε τη διεύθυνση αποστολής: "
+"«mozilla@e.mozilla.org» στο ευρετήριο διευθύνσεων σας για να εξασφαλίσετε "
+"ότι τα μηνύματα μας θα μπαίνουν πάντα στα εισερχόμενα σας."

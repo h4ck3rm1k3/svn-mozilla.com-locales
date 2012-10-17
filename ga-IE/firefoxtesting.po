@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ga-IE/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Íosluchtaigh Firefox Béite ar Android - Saor in Aisce"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Íosluchtaigh Firefox Béite - Saor in Aisce"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Íosluchtaigh agus tástáil réamhleaganacha Firefox. Faigh na gnéithe is "
+"déanaí sna leaganacha Aurora nó Béite."
+
+msgid "Firefox Beta"
+msgstr "Firefox Béite"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Béite ar:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Béite ar Fhón Póca"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr ""
+"Íosluchtaigh an leagan béite agus féach an chéad leagan eile de Firefox."
+
+msgid "1. Test Features"
+msgstr "1. Tástáil Gnéithe"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Bain triail as feabhsúcháin nua a bhaineann le slándáil, luas, agus "
+"saincheapadh an bhrabhsálaí."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Cuir Snas Air"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Déan tuairisc ar fhadhbanna agus cabhraigh linn bailchríoch a chur ar "
+"Firefox i dtimpeallacht chobhsaí."
+
+msgid "3. Do Your Part"
+msgstr "3. Glac Páirt"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Nocht do thuairim faoin chéad leagan eile de Firefox, agus cabhraigh leis an "
+"450 milliún duine a úsáideann Firefox gach uile lá."
+
+msgid "Supported devices"
+msgstr "Gléasanna a dtacaítear leo"

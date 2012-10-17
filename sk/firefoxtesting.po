@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Prevziať Firefox Beta pre Android - zadarmo"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Prevziať Firefox Beta - zadarmo"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Nainštalujte a otestujte budúce verzie Firefoxu. Užite si najnovšie inovácie "
+"v zostaveniach Aurora alebo Beta."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta pre:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Mobilný Firefox Beta"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Nainštalujte si verziu Beta a buďte súčasťou budúcich verzií Firefoxu."
+
+msgid "1. Test Features"
+msgstr "1. Otestujte funkcie"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Vyskúšajte najnovšie vylepšenia výkonu, možnosti prispôsobenia a bezpečnosti "
+"predtým, ako ich uvoľníme vo finálnej verzii."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Pomôžte s doladením"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Zadaním bugov nám pomôžete s doladením výkonu a funkcií pre finálnu verziu."
+
+msgid "3. Do Your Part"
+msgstr "3. Buďte súčasťou"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"A budete mať vplyv na nasledujúcu verziu Firefoxu a 450 miliónov ľudí, ktorí "
+"ho používajú."
+
+msgid "Supported devices"
+msgstr "Podporované zariadenia"

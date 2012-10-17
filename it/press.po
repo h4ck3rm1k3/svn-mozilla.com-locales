@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/it/press.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Press"
+msgstr "Sala stampa"
+
+msgid "Home"
+msgstr "Pagina iniziale"
+
+msgid "Press Center"
+msgstr "Sala Stampa"
+
+msgid "Media Library"
+msgstr "Galleria multimediale"
+
+msgid "Latest Press Releases"
+msgstr "Ultime notizie pubblicate sulla stampa"
+
+msgid "Mozilla News, Announcements and More"
+msgstr "Novità, annunci e altre informazioni dal mondo Mozilla"
+
+msgid "Connect <span>with Us</span>"
+msgstr "Rimani <span>in contatto</span>"
+
+msgid "Subscribe to RSS feed »"
+msgstr "RSS feed »"
+
+msgid "Media <span>Contact</span>"
+msgstr "Contatti per <span>la stampa</span>"
+
+msgid "For interview requests or any other media inquiries, please contact:"
+msgstr ""
+"Per richieste di interviste o per qualsiasi altra informazione, si prega di "
+"contattare: "
+
+msgid "press at mozilla dot com"
+msgstr "eu-press@mozilla.org"

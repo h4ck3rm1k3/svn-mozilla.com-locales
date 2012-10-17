@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sl/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Prenesite brezplačni Firefox Beta za Android"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Prenesite brezplačni Firefox Beta za namizni računalnik"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Prenesite in preizkusite prihajajoče različice Firefoxa. Spoznajte "
+"najnovejše izboljšave v izdajah Aurora ali Beta."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta za:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta za mobilnike"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Prenesite Firefox Beta in bodite del naslednje različice Firefoxa."
+
+msgid "1. Test Features"
+msgstr "1. Preizkusite"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Preizkusite najnovejše izboljšave zmogljivosti, prilagodljivosti in "
+"varnosti, tik pred izdajo za javnost."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Predlagajte"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Sporočite nam odkrite hrošče, da bomo odpravili zadnje pomanjkljivosti na "
+"poti do zanesljivega okolja."
+
+msgid "3. Do Your Part"
+msgstr "3. Sodelujte"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Pomagajte naslednji različici Firefoxa in 450 milijonom vsakodnevnih "
+"uporabnikov. "
+
+msgid "Supported devices"
+msgstr "Podprte naprave"

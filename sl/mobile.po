@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sl/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Prenesite Firefox za Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Prenos za <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Brezplčno z Android Marketa"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Ali obiščite <a %s>Firefox.com/m</a> s svojim telefonom."
+
+msgid "Supported Devices"
+msgstr "Podprte naprave"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Prenos z iTunes - BREZPLAČEN"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home za <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Dostop do vaše zgodovine za Firefox, zaznamkov in odprtih zavihkiv na vašem "
+"iPhone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Prenesite Firefox za <span>svoj mobilnik</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Želite preskusiti najnovejše zmogljivosti?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Prenesite Firefox Home za iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Prenesite beto za Android"
+
+msgid "Download"
+msgstr "Prenesi"
+
+msgid "for"
+msgstr "za"
+
+msgid "Free from iTunes"
+msgstr "Brezplačno z iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Okusili boste vrhunske zmogljivosti, nam pa s svojo izkušnjo pomagali "
+"izboljšati in zbrusiti vsebino končne izdaje."
+
+msgid "Developer Tools"
+msgstr "Razvojna orodja"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Mobilno različico Firefoxa lahko namestite na svoj namizni računalnik, da jo "
+"preskusite, nam sporočite svoje mnenje in da si razvijate dodatke."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Spoznajte se s Firefoxom za mobilnike:"
+
+msgid "Monthly newsletter"
+msgstr "Mesečne novice"
+
+msgid "Follow us"
+msgstr "Ostanite v stiku z nami"
+
+msgid "Become a fan"
+msgstr "Postanite ljubitelj"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox vsebuje cel kup novosti, sedaj lahko manj tipkate in več brskate ter "
+"hitreje in enostavneje pridete na spletu."
+
+msgid "Freedom from typing"
+msgstr "Rešite se tipkanja"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Pametna vrstica si zapomni priljubljene strani, tako da je tipkanje komaj še "
+"potrebno."
+
+msgid "Best of both worlds"
+msgstr "Najboljše iz obeh svetov"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox za Android smo preoblikovali in optimizirali za brskanje na "
+"telefonih in tablicah."
+
+msgid "Browse quick and easy"
+msgstr "Brskajte hitro in enostavno"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Usklajevanje, brskanje z zavihki in zaznamovanje z enim klikom zagotvljajo "
+"vse, kar potrebujete, na dosegu roke."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr "<a %s>Potrebujete pomoč?</a> Obiščite pomoč za Firefox za Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Prenesite in preskusite izdajo, ki vam najbolj odgovarja."
+
+msgid "See all our channels for mobile »"
+msgstr "Oglejte si vse kanale za mobilnike »"
+
+msgid "Free from the Google Play Store"
+msgstr "Brezplačno z Google Play Stora"

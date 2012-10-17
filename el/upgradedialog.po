@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/el/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Βάλτε τον νεότερο Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Έφτασε ο πιο νέος Firefox!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Γρήγορη, εύκολη και δωρεάν αναβάθμιση.</a>"
+
+msgid "Fresh new look"
+msgstr "Φρέσκια, νέα σχεδίαση."
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Πολύ ταχύτερος από τον Firefox 3.6."
+
+msgid "More awesomeness than ever"
+msgstr "Πιο εκπληκτικός από ποτέ!"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Υπάρχει διαθέσιμη νέα έκδοση του Firefox που σας προστατεύει πιο "
+"αποτελεσματικά από επιθέσεις."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Κάντε αναβάθμιση</a> - Είναι δωρεάν και γρήγορη!"
+
+msgid "get the latest in security"
+msgstr "Βάλτε ό,τι πιο σύγχρονο στην ασφάλεια"
+
+msgid "experience faster performance"
+msgstr "Δείτε καλύτερες επιδόσεις"
+
+msgid "enjoy greater customization"
+msgstr "Απολαύστε καλύτερη προσαρμογή"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Η έκδοση του Firefox που έχετε, σύντομα θα είναι ευάλωτη σε διαδικτυακές "
+"επιθέσεις."
+
+msgid "Stay safe online"
+msgstr "Συνεχίστε να είστε ασφαλής στο διαδίκτυο."
+
+msgid "Enjoy new features"
+msgstr "Εκμεταλλευτείτε τα νέα χαρακτηριστικά."
+
+msgid "URGENT!"
+msgstr "ΕΠΕΙΓΟΝ!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Η έκδοση του Firefox που έχετε, δεν προστατεύεται πια από δικτυακές "
+"επιθέσεις."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Αυτή είναι η τελευταία υπενθύμιση πριν γίνει αυτόματη αναβάθμιση στην πιο "
+"πρόσφατη έκδοση."
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Ο Firefox δεν υποστηρίζει πια την έκδοση του λειτουργικού σας συστήματος και "
+"θα είναι ευάλωτος σε διαδικτυακές επιθέσεις."
+
+msgid "We recommend:"
+msgstr "Συνιστούμε:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Να αναβαθμίσετε το <a %s>λειτουργικό σας σύστημα</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Να κάνετε λήψη ενός συμβατού περιηγητή"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr ""
+"Να εγκαταστήσετε μια δωρεάν αναβάθμιση του <a %s>λειτουργικού σας "
+"συστήματος</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Θα ειδοποιηθείτε άλλη μια φορά πριν γίνει αυτόματη αναβάθμιση."

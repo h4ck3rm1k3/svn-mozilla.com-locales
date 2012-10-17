@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ast/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Faite colo más nuevo de Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Lo más nuevo de Firefox, ta equí!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Anovamientu rápidu, cenciellu y llibre</a>"
+
+msgid "Fresh new look"
+msgstr "Aspeutu anováu"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Más rápidu que Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Más impresionante que nunca"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Hai una versión nueva de Firefox que pue protexete meyor frente a los "
+"ataques informáticos."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Anova'l to Firefox</a>. ¡Ye rápido y de baldre!"
+
+msgid "get the latest in security"
+msgstr "consigui lo último en seguridá"
+
+msgid "experience faster performance"
+msgstr "esperimenta un rendimientu más rápidu"
+
+msgid "enjoy greater customization"
+msgstr "essfruta d'una mayor personalización"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"La to versión de Firefox pue convertise en vulnerable a ataques "
+"informáticos."
+
+msgid "Stay safe online"
+msgstr "Caltén la to seguridá n'Internet"
+
+msgid "Enjoy new features"
+msgstr "Esfruta de nueves carauterístiques"
+
+msgid "URGENT!"
+msgstr "¡URXENTE!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"La to versión de Firefox yá nun te protexe frente a ataques informáticos."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Esti ye'l caberu recordatoriu enantes de que la to versión s'anove "
+"automáticamente"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox yá nun ye compatible cola versión del to sistema operativu, polo que "
+"vas ser vulnerable a ataques informáticos."
+
+msgid "We recommend:"
+msgstr "Recomendamos:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Anovar el <a %s>sistema operativu</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Descargar un restolador web compatible"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Instalar un anovamientu gratuitu del <a %s>sistema operativu</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Va amosase otru avisu más enantes de que s'instale l'anovamientu "
+"automáticamente."

@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/channelsposter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Release Channels"
+msgstr "Yore me Kelo woko Firefox"
+
+msgid "Firefox Release Timeline"
+msgstr "Agiki kare me Kelo woko Firefox"
+
+msgid ""
+"The Mozilla release process delivers new features, performance immprovements "
+"and security upgrades to users every six weeks."
+msgstr ""
+"Yore me kelo woko Mozilla kato ki kit manyen, yubo kite me tic ki yilo malu "
+"rwom me ber bedo bot lutic kwede iyonge cabit maromo abicel kulu."
+
+msgid ""
+"This consists of four development channels producing concurrent releases of "
+"Firefox for Windows, Mac, Linux and Android."
+msgstr ""
+"Man tye ie yore me dongo angwen makelo woko karekikare pi Firefox me "
+"Windows, Mac, Linux ki Android."
+
+msgid "For:"
+msgstr "Me:"
+
+msgid "Enjoy:"
+msgstr "Jul kwo:"
+
+msgid "Expect:"
+msgstr "Gen:"
+
+msgid "Early adopters and Mozilla fans"
+msgstr "Jo ma ogwoko con ki lutuku me Mozilla"
+
+msgid "Testing the next version of Firefox with stability"
+msgstr "Temo cik malubo kore pi Firefox kwede bedo ne mot"
+
+msgid ""
+"Mostly stable builds that need fine tuning and majority add-on compatibility"
+msgstr ""
+"Tutwalere wok bedo mot gero en ma mito tero yubne odoco ki pol gi medo ikom "
+"en marwate"
+
+msgid "Everyone! Released to the more than 400 million Firefox users worldwide"
+msgstr ""
+"Dano weng! Gukelo madwong loyo lutic kwede Firefox milyon 400 i wilobo alutu"
+
+msgid ""
+"The polished and stable features of Firefox that move the Web forward with "
+"great performance and unparalleled customization"
+msgstr ""
+"Kit ma ojwane maber ki kit me bedo mot pa Firefox ma diro web wot anyim "
+"kwede tice maber ki keto megi mape ocung atir"
+
+msgid "An awesome Web experience that answers to no one but you!"
+msgstr "Cukuru cwiny ngec me Web ma pe dwoko tyen lok bot ngat mo ento in!"
+
+msgid "Web/platform developers, early adopters and adventure seekers"
+msgstr "Ludong Web/platform, adopta, kijo ma kwedo lulimo"
+
+msgid ""
+"Access to experimental new features - your feedback helps determine what "
+"makes it to Beta"
+msgstr ""
+"Donyo i kit jami me nyutu manyen-dwoko lok mamegi konyo atek me pimo ngo "
+"mamiyo ne bedo Beta"
+
+msgid "Test builds with bugs and incompatible add-ons"
+msgstr "Tem gero kwede bal ki medo ikome ma pe rwate"
+
+msgid "Platform developers and Mozilla contributors"
+msgstr "Ludong platform ki jo ma tute me kelo Mozilla"
+
+msgid "Access to cutting edge features still under active development"
+msgstr "Donyo i kit me ngolo twoke pwud gutye kadongo ne me tic kakare"
+
+msgid "Crashes, unstable test builds with bugs and incompatible add-ons"
+msgstr ""
+"Opoto atura, temo gero ma pe obedo mot kwede bal ki medo ikome ma perwate"
+
+msgid "6 weeks"
+msgstr "Cabit 6"
+
+msgid "Awesomeness lands on Firefox Nightly"
+msgstr "Cukuru cwiny opoto ikom Firefox ki I cwiny dyer wor"
+
+msgid "Stabilize on Firefox Aurora"
+msgstr "Mi Firefox Aurora Obed mot"
+
+msgid "Stabilize on Firefox Beta"
+msgstr "Mi obed mot Ikom Firefox Beta"
+
+msgid "Firefox Release!"
+msgstr "Kelo woko Firefox!"
+
+msgid "<i>More</i> awesomeness on Firefox Nightly"
+msgstr "<i>Mapol</i>Cukuru cwiny opoto ikom Firefox ki I cwiny dyer wor"
+
+msgid "<i>Even More</i> awesomeness on Firefox Nightly"
+msgstr "<i>Akadi mapol</i> Cukuru cwiny opoto ikom Firefox ki I cwiny dyer wor"
+
+msgid "Timeline"
+msgstr "Kare me Giko"
+
+msgid "Release"
+msgstr "Kel woko"

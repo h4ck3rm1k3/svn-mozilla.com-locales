@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/bs/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Preuzmite Firefox Beta za Android - Besplatno"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Preuzmite Firefox Beta za Desktop - Besplatno"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Preuzmite i testirajte buduće verzije Firefoxa. Iskusite najnovije inovacije "
+"sa Aurorom ili Beta verzijom."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta za:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta za mobitele"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Preuzmite Beta verziju i budite dio naredne verzije Firefoxa."
+
+msgid "1. Test Features"
+msgstr "1. Testirajte mogućnosti"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Isprobajte najnovija unapređenja performansi, prilagođenja i sigurnosti već "
+"spremne za finalnu verziju."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Ugladite &amp; ispolirajte"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Prijavite grešku i pomozite nam da usavršimo performanse i funkcionalnosti u "
+"stabilnoj verziji."
+
+msgid "3. Do Your Part"
+msgstr "3. Uradite svoj dio"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Imajte uticaj na narednu verziju Firefoxa i 450 miliona ljudi koji ga "
+"koriste svakog dana."
+
+msgid "Supported devices"
+msgstr "Podržani uređaji"

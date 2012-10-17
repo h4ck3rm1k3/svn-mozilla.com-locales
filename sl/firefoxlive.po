@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sl/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Live"
+msgstr "Firefox v živo"
+
+msgid "Tweet"
+msgstr "Tvit"
+
+msgid "Follow @cubcaretaker"
+msgstr "Sledite @cubcaretaker"
+
+msgid "Cameras"
+msgstr "Kamere"
+
+msgid "360° view"
+msgstr "360° pogled"
+
+msgid "Camera 1"
+msgstr "Kamera 1"
+
+msgid "Camera 2"
+msgstr "Kamera 2"
+
+msgid "Video help"
+msgstr "Video pomoč"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"So vam živalice všeč?  Mozilla Firefox oddaja video treh mladičev mačjih "
+"pand.  Ponesite to vest tudi med svoje prijatelje!"
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"Kaj je bolj simpatično? Firefoxovi neprofitni cilji ali prenos njegovih "
+"maskot v živo?  Obiščite http://mzl.la/sPo5yu"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Pomagajte Firefoxu zaščititi svojo redko maskoto in splet, oglejte si "
+"mladiče! http://mozilla.org/firefoxlive"
+
+msgid "Share on Twitter »"
+msgstr "Povejte naprej na Twittru »"
+
+msgid "Share on Facebook »"
+msgstr "Povejte naprej na Facebook »"

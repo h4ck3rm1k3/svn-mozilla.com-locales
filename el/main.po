@@ -1,0 +1,505 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/el/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Περιήγηση"
+
+msgid "Press area"
+msgstr "Περιοχή τύπου"
+
+msgid "About"
+msgstr "Σχετικά"
+
+msgid "Store"
+msgstr "Κατάστημα"
+
+msgid "Donate"
+msgstr "Δωρεές"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Products"
+msgstr "Προϊόντα"
+
+msgid "Add-ons"
+msgstr "Πρόσθετα"
+
+msgid "About Us"
+msgstr "Περί"
+
+msgid "Developers"
+msgstr "Δημιουργοί"
+
+msgid "Labs"
+msgstr "Εργαστήρια"
+
+msgid "skip to Navigation"
+msgstr "Μετάβαση στην περιήγηση"
+
+msgid "switch language"
+msgstr "Αλλαγή γλώσσας"
+
+msgid "Back to home page"
+msgstr "Πίσω στην αρχική Σελίδα"
+
+msgid "About Mozilla"
+msgstr "Περί Mozilla"
+
+msgid "Get Involved"
+msgstr "Συμμετέχετε"
+
+msgid "Licensing"
+msgstr "Αδειοδότηση"
+
+msgid "Careers"
+msgstr "Καριέρες"
+
+msgid "Press Center"
+msgstr "Γραφείο Τύπου"
+
+msgid "Contact Us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+msgid "Site contact"
+msgstr "Επικοινωνία με την ιστοσελίδα"
+
+msgid "Other languages:"
+msgstr "Άλλες γλώσσες:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Με την επιφύλαξη παντός δικαιώματος"
+
+msgid "Legal Notices"
+msgstr "Νομικές σημειώσεις"
+
+msgid "Privacy Policy"
+msgstr "Πολιτική απορρήτου"
+
+msgid "Visit Mozilla.com"
+msgstr "Επισκεφθείτε το Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Επισκεφθείτε το Mozilla.com (Αγγλικά)"
+
+msgid "Download Firefox - Free"
+msgstr "Δωρεάν λήψη - Firefox"
+
+msgid "Release Notes"
+msgstr "Σημειώσεις έκδοσης"
+
+msgid "Other Systems and Languages"
+msgstr "Άλλα συστήματα και γλώσσες"
+
+msgid "Get Firefox"
+msgstr "Κάντε λήψη του Firefox"
+
+msgid "Free Download"
+msgstr "Δωρεάν λήψη"
+
+msgid "Help us make Firefox even better!"
+msgstr "Βοηθήστε μας να κάνουμε τον Firefox ακόμα καλύτερο!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Αφιερώστε μερικά λεπτά για να απαντήσετε σε ένα σύντομο ερωτηματολόγιο και "
+"να μοιραστείτε τις σκέψεις σας μαζί μας."
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "(in English)"
+msgstr "(Αγγλικά)"
+
+msgid "Download Now - Free"
+msgstr "Δωρεάν λήψη τώρα!"
+
+msgid "Return to top"
+msgstr "Επιστροφή στην κορυφή"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Πρέπει να <a href=\"http://get.adobe.com/flashplayer/\">ενημερώσετε το Adobe "
+"Flash Player</a> άμεσα."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Ο Firefox είναι ενημερωμένος αλλά η έκδοση του Flash Player που "
+"χρησιμοποιείτε μπορεί να προκαλέσει προβλήματα ασφαλείας και σταθερότητας. "
+"Παρακαλούμε  <a href=\"http://get.adobe.com/flashplayer/\">εγκαταστήστε τη "
+"δωρεάν ενημέρωση</a> όσο πιο σύντομα γίνεται."
+
+msgid "Features"
+msgstr "Χαρακτηριστικά"
+
+msgid "Customize"
+msgstr "Προσαρμογή"
+
+msgid "Synchronize"
+msgstr "Συγχρονισμός"
+
+msgid "Develop for Mobile"
+msgstr "Ανάπτυξη για κινητά"
+
+msgid "Other Supported Platforms"
+msgstr "Άλλες υποστηριζόμενες πλατφόρμες"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Άλλες πλατφόρμες &amp; γλώσσες"
+
+msgid "Choose your location"
+msgstr "Επιλέξτε τοποθεσία"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Κάντε λήψη του Firefox από το τηλέφωνο σας"
+
+msgid "Download"
+msgstr "Κάντε λήψη"
+
+msgid "Next"
+msgstr "Επόμενο"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "MegaBytes {ok}"
+
+msgid "FAQ"
+msgstr "Συχνές ερωτήσεις"
+
+msgid "Videos"
+msgstr "Βίντεο"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Εκτός απ' όπου <a href=\"%s\">διευκρινίζεται</a> διαφορετικά, το περιεχόμενο "
+"διατίθεται σύμφωνα με την άδεια <br /><a href=\"%s\">Creative Commons Αναφορά "
+"προέλευσης-Παρόμοια διανομή 3.0</a> ή οποιαδήποτε νεότερη της."
+
+msgid "Report Trademark Abuse"
+msgstr "Αναφορά παραβίασης εμπορικών σημάτων"
+
+msgid "Free Upgrade"
+msgstr "Δωρεάν αναβάθμιση"
+
+msgid "Follow us on:"
+msgstr "Ακολουθήστε μας στο:"
+
+msgid "Customize with Add-ons"
+msgstr "Προσαρμογή με πρόσθετα"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Συγχρονίστε τον υπολογιστή & το κινητό"
+
+msgid "Learn More"
+msgstr "Μάθετε περισσότερα"
+
+msgid "Watch the video"
+msgstr "Δείτε το βίντεο"
+
+msgid "WebM format"
+msgstr "Μορφή αρχείου WebM"
+
+msgid "Ogg Theora format"
+msgstr "Μορφή αρχείου Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Μορφή αρχείου MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr ""
+"Ωπ! Βεβαιωθείτε ότι έχετε δώσει μια έγκυρη διεύθυνση ηλεκτρονικού "
+"ταχυδρομείου."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Παρακαλούμε διαβάστε την πολιτική απορρήτου του Mozilla και αποδεχτείτε την "
+"επιλέγοντας το πλαίσιο."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Παρακαλούμε εισάγετε τη διεύθυνση σας και δείτε την πολιτική απορρήτου του "
+"Mozilla."
+
+msgid "Mobile"
+msgstr "Κινητά"
+
+msgid "Firefox Updated"
+msgstr "Ενημερώθηκε ο Firefox"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Δείτε το διαδίκτυο του μέλλοντος"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Ταξιδέψτε στο μέλλον με τον Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Πάρτε μέρος στις δοκιμές"
+
+msgid "Experience Firefox"
+msgstr "Νιώστε την εμπειρία του Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Το μέλλον του διαδικτύου σας περιμένει!"
+
+msgid "The future of the Web starts now."
+msgstr "Το μέλλον του διαδικτύου ξεκινάει τώρα."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Δοκιμάστε τη νέα εμφάνιση και αίσθηση του Firefox."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Ζήστε σήμερα στο διαδίκτυο του μέλλοντος."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Δείτε τη νέα εμφάνιση και τη νέα αίσθηση που προσφέρει ο Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Περιηγηθείτε στο μέλλον του διαδικτύου."
+
+msgid "See Firefox with a new look and feel."
+msgstr ""
+"Δείτε τον Firefox με τη νέα του εμφάνιση και τη νέα αίσθηση που προσφέρει."
+
+msgid "Download Beta Now."
+msgstr "Κάντε τώρα λήψη της δοκιμαστικής έκδοσης."
+
+msgid "All Systems & Languages"
+msgstr "Όλα τα συστήματα & οι γλώσσες"
+
+msgid "View Full Site"
+msgstr "Αρχική σελίδα"
+
+msgid "Get Firefox for Android"
+msgstr "Λήψη του Firefox για Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Λήψη για <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Δωρεάν από το Android Market"
+
+msgid "Desktop"
+msgstr "Για υπολογιστές"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta για κινητά"
+
+msgid "Firefox for mobile"
+msgstr "Firefox για κινητά"
+
+msgid "Email"
+msgstr "Ηλεκτρονικό ταχυδρομείο"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Φέρνει τον σύγχρονο ιστό στα XP."
+
+msgid "Super speed"
+msgstr "Απίστευτη ταχύτητα"
+
+msgid "Stunning graphics"
+msgstr "Καταπληκτικά γραφικά"
+
+msgid "The latest technologies"
+msgstr "Όλες οι νέες τεχνολογίες"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Χρησιμοποιείτε μια παλιότερη έκδοση του Firefox. Ενημερώστε τον για να είστε "
+"ασφαλείς! <br/> <a href=\"%s\">Κάντε λήψη της δωρεάν αναβάθμισης</a> και σε "
+"λιγότερο από ένα λεπτό θα έχετε όλα τα πιο σύγχρονα χαρακτηριστικά, τις "
+"διορθώσεις ασφαλείας και τη μεγαλύτερη ταχύτητα."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Χρειάζεστε αναβάθμιση! Σε λιγότερο από ένα λεπτό, μπορείτε να αυξήσετε την "
+"ασφάλεια σας. <br/> Χρησιμοποιήστε τον νέο σας Firefox για  να έχετε τις "
+"μεγαλύτερες δυνατότητες περιήγησης και προσαρμογής στον ιστό. <br/>  Γρήγορα "
+"και δωρεάν!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Χρησιμοποιείτε μια παλιότερη έκδοση του Firefox. Κάντε λήψη της <a href=\"%"
+"s\">ενημέρωσης</a> για να είστε ασφαλείς! <br/> Απολαύστε όλα τα νέα "
+"χαρακτηριστικά, τις διορθώσεις ασφαλείας και τον ταχύτερο Firefox από ποτέ. "
+"Κάντε λήψη της δωρεάν αναβάθμισης σε λιγότερο από ένα λεπτό."
+
+msgid "Upgrade now"
+msgstr "Αναβαθμίστε τώρα"
+
+msgid "Update now"
+msgstr "Ενημερώστε τώρα"
+
+msgid "Supported Devices"
+msgstr "Υποστηριζόμενες συσκευές"
+
+msgid "What’s New"
+msgstr "Νέα"
+
+msgid "Privacy"
+msgstr "Απόρρητο"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Τμήματα του περιεχομένου ανήκουν σε μεμονωμένους συμμετέχοντες στην "
+"κοινότητα του mozilla.org ©1998–%(current_year)s. Το περιεχόμενο διατίθεται "
+"σύμφωνα με την <a href=\"%(url)s\">Άδεια Creative Commons</a>."
+
+msgid "Contribute to this page"
+msgstr "Συνεισφέρετε σ' αυτή τη σελίδα"
+
+msgid "Mission"
+msgstr "Η αποστολή μας"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

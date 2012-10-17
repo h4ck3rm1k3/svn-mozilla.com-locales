@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Live"
+msgstr "Kwo pa Firefox"
+
+msgid "Tweet"
+msgstr "Lub kor"
+
+msgid "Follow @cubcaretaker"
+msgstr "Lub @cubcaretaker"
+
+msgid "Cameras"
+msgstr "Kamera"
+
+msgid "360° view"
+msgstr "Nen 360°"
+
+msgid "Camera 1"
+msgstr "Kamera me 1"
+
+msgid "Camera 2"
+msgstr "Kamera me 2"
+
+msgid "Video help"
+msgstr "Kony me video"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"I maro lee ma lutino? Mozilla Firefox tye ka cwalo video pa lutino panda "
+"adek makwar. Lal nying lok ci inywak kwede luwote ni."
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"Ngo ma winyo giko? Firefox mape ki mita me magoba onyo keto makwo pi gum pa "
+"leyi gi? Nong ki http://mzl.la/sPo5yu"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Kony Firefox kony gwoko maber gum ma pe nonge ki web kun neno lutino leyi! "
+"http://mozilla.org/firefoxlive"
+
+msgid "Share on Twitter »"
+msgstr "Nywak ikom Lalub kore »"
+
+msgid "Share on Facebook »"
+msgstr "Nywak ikom Facebook »"

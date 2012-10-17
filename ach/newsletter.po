@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Nong Lamut Dwe ki dwe"
+
+msgid "Your Email Address"
+msgstr "Email Address Mamegi"
+
+msgid "Text"
+msgstr "Nyig coc"
+
+msgid "Available Languages"
+msgstr "Leb Matye"
+
+msgid "Select country"
+msgstr "Yer Lobo"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Whoops! Mok ada wek i ket email address matiyo."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Tim ber i kwan Cik pa dano me MOzilla ki iyee kun iroto canduk."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Ayee pi <a href=\"%s\">Cik pa Dano</a>"
+
+msgid "Sign me up!"
+msgstr "Yaba an bene!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Wan wa bicwali ka ngec makwako lok kom Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Pwoc pi Cone!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Wan watye ki neno me anyim pi cako nywako kit ryeko &amp; diro me nongo en "
+"mape i Firefox, macalo lamut ma yomo ic ilok kom Mozilla ki yore ma watye "
+"katic matek pi yubo Web maber."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Cone pi ngec me Dwe ki dwe ci i gwok lamut kare lung kwede Mozilla, medo ki "
+"ryeko ki diro me nongo maloyo ki kom layeny me Firefox mamegi. Obedo yore "
+"mamwonya pir wa wek wakube!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Kombed wa cwali kwena me moko ada i email. Dii kakube me moko i mail ma eni "
+"ni pi miyo cone mamegi oti maber bot nying jo me mail ma eni ni."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Kwan lok kome weng <span> i waraga me lamut</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Dong kimoko woko cone me waraga me lamut mamegi."
+
+msgid "Format"
+msgstr "Yub"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Wun weng dong tye atera!<span>Ento Kur, Mukene tye Mapol ata</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"I mito nongo ngec ma pire tek? Waci wa lok ikomi keni. cite kun itye kany, "
+"yab akaunti pi llamut mukene ikom Mozilla."
+
+msgid "Firefox & You"
+msgstr "Firefox & Yin"
+
+msgid "Our Other Newsletters:"
+msgstr "Waraga pa Lamut Wa Mapat:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr "Nong ryeko ki diro me nongo en mamwonya ki i layeny mamegi ma imrao."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Ma kiwoto kwede awota"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Nong ngec lok kom med ikom manyen malyet ki kit me Firefox ma kiwoto kwede "
+"awota."
+
+msgid "Beta News"
+msgstr "Lamut me Beta"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Kwan lok kom kit ma okati macokcoki pi wang Firefox ki gin ma kiwoto kwede "
+"awota mapwud pe gikelo me agiki woko."
+
+msgid "Let’s Be Friends!"
+msgstr "Wek Obed Luwote!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox bene dang tye i dyer bar me wiyamo ma imaro pi boko lok. Kube kwed "
+"wa ci idony kaboko lok."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Loo cone me <span> Waraga pa Lamut mamegi</span>"
+
+msgid "Subscribe"
+msgstr "Cone"
+
+msgid "Unsubscribe"
+msgstr "Pe I cone"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Rot kan ka ce imito kwanyo woko ki email weng me Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Kwanya woko ki email me Mozilla weng"
+
+msgid "Save Preferences"
+msgstr "Gwok en ma imaro"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Pwoc pi mino ngec i email mamegi ma imaro."
+
+msgid "You've been unsubscribed."
+msgstr "Dong kityeko kwanyi woko ki kany."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Wakwayo kica me neni wot. Onyo irom kobi wa pingo i aa woko?"
+
+msgid "You send too many emails."
+msgstr "Cwal email mapol maloyo."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Jami megi ma onongo tye ie konye bene pe bota."
+
+msgid "Your email design was too hard to read."
+msgstr "Email mamegi ma ilingo onongo kwano ne tek olu."
+
+msgid "I didn't sign up for this."
+msgstr "Pe aketo cinga pi man."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "An bene atye kakube kwede Mozilla i Facebook ki Twitter keken."
+
+msgid "Submit"
+msgstr "Cwali"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Pwoc me kobi wa pingo itye ka aa woko."
+
+msgid "Mozilla Newsletters"
+msgstr "Waraga me lok angea me Mozilla"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Pwoc! Tim ber irot ii canduk mamegi wek imok coye ni."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"I bi gamo email ki bot mozilla@e.mozilla.org wek imok coye mamegi. Ka ce pe "
+"ineno ne, rot lapik me spam. Myero imok coye mamegi wek inwong waraga me "
+"kwena wa."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Tim ber inen ada ni imedo address wa me cwalo: mozilla@e.mozilla.org ii buk "
+"me address mamegi wek ineni wan wa oo kare lung ii canduk mamegi."

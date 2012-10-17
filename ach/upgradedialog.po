@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Nong Firefox Manyen makato"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox manyen makato bene tye kany!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Oyot, yot c ngec me nono</a>"
+
+msgid "Fresh new look"
+msgstr "Neno mamwonya manyen"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Oyot maloyo Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Ada ne madwong maloyo en macon"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr "Tye Firefox me cik manyen ma gwoki maber ki imony me wiyamo."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Yil rwom ne malu</a> — en dwir & tye me nono!"
+
+msgid "get the latest in security"
+msgstr "Nong en ma okati macok ii ber bedo"
+
+msgid "experience faster performance"
+msgstr "Nong ngec me tic me oyot"
+
+msgid "enjoy greater customization"
+msgstr "Nong yom cwiny ki gin mamegi madit loyo"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Kwo me cik megi me Firefox kombedi bi bale woko ki i mony me wiyamo."
+
+msgid "Stay safe online"
+msgstr "Gwoke maber ki wiyamo"
+
+msgid "Enjoy new features"
+msgstr "Nong kit yom cwiny manyen"
+
+msgid "URGENT!"
+msgstr "TYE ME OYOT!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "Cik me Firefox mamegi pe dong twero gwoko monyo wang wiyamo."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Man obedo poyo wiyi me agiki mapwud pe ki mini ngec pire kene pi cik ma "
+"okati macok coki"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox pe cwako kit cik me operating system mamegi ci bibedo mony me wiyamo "
+"ma kwone obale."
+
+msgid "We recommend:"
+msgstr "Wa moko ada:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Yilo rwom me <a %s>operating system mamegi</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Kwanyo layeny marwate"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Keto yilo rwom me<a %s>operating system mamegi</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "In obi icel ikare macoki mapwud pe gi mino ngec manyen matime kene."

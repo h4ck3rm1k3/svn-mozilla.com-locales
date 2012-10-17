@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pt-BR/videos/video_evernote.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Evernote is a service that helps you remember everything."
+msgstr "Evernote é um serviço que ajuda você a lembrar de tudo."
+
+msgid "We have clients on every platform: mobile, desktop, web"
+msgstr "Nós temos clientes para todas as plataformas: móvel, desktop, web"
+
+msgid "and basically it helps you capture your memories"
+msgstr "e basicamente ele ajuda a capturar as suas memórias"
+
+msgid "and then find them whenever you need them."
+msgstr "e depois encontrá-las sempre que precisar delas."
+
+msgid "whether they are web pages or notes or things you need to do."
+msgstr "sejam páginas da internet ou anotações ou coisas a fazer."
+
+msgid "Pictures, audio clips; anything you want"
+msgstr "Imagens, músicas; tudo que você quiser"
+
+msgid "Evernote is basically everywhere that you need it to be."
+msgstr ""
+"O Evernote está em basicamente todos os lugares que você precisa que ele "
+"esteja."
+
+msgid "We’re on mobile, we’re on desktop, we’re on web"
+msgstr "Estamos no seu telefone, no seu computador, na internet"
+
+msgid "and all of these apps synch together."
+msgstr "e todos esse aplicativos funcionam sincronizados."
+
+msgid "The web is a big part of our offering."
+msgstr "A internet é uma grande parte da nossa oferta."
+
+msgid "Many, many users use our web clipper as a way"
+msgstr "Muitos, muitos usuários usam nosso agregador como uma forma"
+
+msgid "to capture pages that they see and then recall them later,"
+msgstr "de capturar páginas que eles veem para lê-las mais tarde,"
+
+msgid "even when they are offline and they don’t have access to the Internet."
+msgstr "mesmo que estejam off-line e não tenham acesso à internet."
+
+msgid ""
+"Using modern web technologies lets us give the best and richest experience "
+"we can for our users."
+msgstr ""
+"Usando tecnologias modernas da web, podemos oferecer a melhor e mais rica "
+"experiência possível para nossos usuários."
+
+msgid "So HTML5 gave a fast user experience."
+msgstr "Então o HTML5 nos deu experiência de uso rápida."
+
+msgid "It has all the things you expect from a desktop application"
+msgstr "Ele tem todas as coisas que você espera de uma aplicação desktop"
+
+msgid "whether its drag and drop, file manipulation, rich text editing,"
+msgstr "seja arrastar-e-soltar, manipulação de arquivos, edição de texto rica,"
+
+msgid ""
+"all of that just inside of the browser without a heavyweight application "
+"installation."
+msgstr ""
+"tudo isso dentro do navegador sem precisar instalar um aplicação pesada."
+
+msgid "So Evernote’s goal is to help you remember everything"
+msgstr "Então o objetivo do Evernote é ajudar você a se lembrar de tudo"
+
+msgid ""
+"and a big part of that is to help you remember things when you’re browsing "
+"around the web."
+msgstr ""
+"e uma grande parte disso é ajudá-lo a lembrar coisas enquanto está navegando "
+"na internet."
+
+msgid "You’re trying to find some information."
+msgstr "Você está tentando encontrar informações."
+
+msgid "Working with the Mozilla Marketplace was really easy."
+msgstr "Trabalhar com o Mozilla Marketplace foi muito fácil."
+
+msgid ""
+"Making the manifest file was a simple JSON file and then interacting with "
+"the website"
+msgstr ""
+"Criar um arquivo de manifesto foi um simples JSON e então interagir com o "
+"site"
+
+msgid "to actually get our application into the marketplace"
+msgstr "para inserir de fato nosso aplicativo no Marketplace"
+
+msgid "was straightforward and very self-explanatory."
+msgstr "foi muito prático e autoexplicativo."
+
+msgid ""
+"The advertising and access to new users from the web is great through the "
+"Mozilla Marketplace."
+msgstr ""
+"A publicidade e acesso de novos usuários da web é grande atraveś do Mozilla "
+"Marketplace."
+
+msgid "distribute your apps"
+msgstr "distribua seus aplicativos"

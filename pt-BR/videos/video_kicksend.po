@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pt-BR/videos/video_kicksend.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The problem with file sharing right now is that not one solution"
+msgstr ""
+"O problema com o compartilhamento de arquivos hoje é que nenhuma solução"
+
+msgid "provides a really, really good experience for non technical users."
+msgstr "oferece uma experiência realmente boa para usuários não técnicos."
+
+msgid "With Kicksend you can send files to any of your friends,"
+msgstr "Com o Kicksend você pode enviar arquivos para quaisquer amigos,"
+
+msgid "of any size, just by dragging and dropping onto the web"
+msgstr "de qualquer tamanho, apenas arrastando e soltando na web"
+
+msgid "and you can put in an email address"
+msgstr "e você pode inserir o seu endereço de e-mail"
+
+msgid "and that file gets delivered directly to your friends."
+msgstr "e aquele arquivo será distribuído diretamente para seus amigos."
+
+msgid "We decided to go the native route because we want to provide"
+msgstr ""
+"Nós decidimos seguir a rota de aplicativos nativos porque queríamos oferecer"
+
+msgid "a really good experience that people are used to on iPhone and Android"
+msgstr ""
+"uma experiência realmente boa para aqueles acostumados ao iPhone ou Android"
+
+msgid "but at the same time, we still want to provide"
+msgstr "mas ao mesmo tempo, nós queríamos oferecer"
+
+msgid "the same great experience on the mobile web."
+msgstr "a mesma ótima experiência na web móvel."
+
+msgid "HTML5 allows us to be on multiple platforms"
+msgstr "O HTML5 nos permite estar em múltiplas plataformas"
+
+msgid "without having to worry about dependencies on each of these platforms."
+msgstr ""
+"sem precisar se preocupar com dependências de cada umas dessas plataformas."
+
+msgid "Developing in HTML5 really helps us provide the features that"
+msgstr "Desenvolver com HTML5 realmente nos ajuda a oferecer recursos que"
+
+msgid "our users need to be able to send files really easily through the web."
+msgstr ""
+"nossos usuários precisam para poderem enviar arquivos facilmente pela web."
+
+msgid "We try to be on every single mobile platform"
+msgstr "Nós tentamos estar em toda e qualquer plataforma móvel"
+
+msgid "We do have native applications on iPhone and Android"
+msgstr "Nós criamos aplicativos nativos para iPhone e Android"
+
+msgid "but we do realize that the rest of the world"
+msgstr "mas percebemos que o resto do mundo pode usar"
+
+msgid "can use HTML5 to access Kicksend wherever they are."
+msgstr "o HTML5 para acessar o Kicksend onde estiver."
+
+msgid ""
+"The Mozilla Marketplace, I mean, first off it gives you massive distribution"
+msgstr "O Mozilla Marketplace, de cara já oferece distribuição em massa"
+
+msgid "because everybody who is using Firefox will essentially be using it."
+msgstr "porque todos usando o Firefox o estarão essencialmente usando."
+
+msgid "And there is also a mobile aspect to it that"
+msgstr "E há também o aspecto móvel, que vai impulsionar"
+
+msgid "is going to push our mobile HTML5 app to many, many millions of users"
+msgstr "nosso aplicativo móvel HTML5 para muitos, muitos milhões de usuários"
+
+msgid "and that’s a no-brainer at that point."
+msgstr "e nesse momento isso é uma certeza."
+
+msgid "The fact that we can update very easily"
+msgstr "O fato de podermos atualizar com muita facilidade"
+
+msgid "and actually provide services through the browser"
+msgstr "e de fato fornecer serviços usando o navegador que"
+
+msgid ""
+"that gives our app special permissions is something that is also a no-"
+"brainer"
+msgstr "dá ao nosso aplicativo permissões especiais é algo incrível"
+
+msgid "It took us may 15 minutes to bundle our app up and publish it"
+msgstr ""
+"Levamos em torno de 15 minutos para empacotar nosso aplicativo e publicá-lo"
+
+msgid "to the Marketplace and ever since then we pushed out"
+msgstr "no Marketplace e desde então nós publicamos algumas versões"
+
+msgid "a few releases already and it was a very smooth smooth experience."
+msgstr "e foi uma experiência muito agradável."
+
+msgid "distribute your apps"
+msgstr "distribua seus aplicativos"

@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gl/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Navegación"
+
+msgid "Press area"
+msgstr "Área de prensa"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Store"
+msgstr "Almacén"
+
+msgid "Donate"
+msgstr "Doazóns"
+
+msgid "Support"
+msgstr "Asistencia técnica"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Add-ons"
+msgstr "Complementos"
+
+msgid "About Us"
+msgstr "Sobre nós"
+
+msgid "Developers"
+msgstr "Desenvolvedores"
+
+msgid "Labs"
+msgstr "Laboratorios"
+
+msgid "skip to Navigation"
+msgstr "saltar á navegación"
+
+msgid "switch language"
+msgstr "cambiar idioma"
+
+msgid "Back to home page"
+msgstr "Volver á páxina de inicio"
+
+msgid "About Mozilla"
+msgstr "Sobre Mozilla"
+
+msgid "Get Involved"
+msgstr "Colaborar"
+
+msgid "Licensing"
+msgstr "Licenza"
+
+msgid "Careers"
+msgstr "Os nosos profesionais"
+
+msgid "Press Center"
+msgstr "Centro de prensa"
+
+msgid "Contact Us"
+msgstr "Contacta connosco"
+
+msgid "Site contact"
+msgstr "Contacto do sitio"
+
+msgid "Other languages:"
+msgstr "Outros idiomas"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Todos os dereitos reservados."
+
+msgid "Legal Notices"
+msgstr "Avisos legais"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidade"
+
+msgid "Visit Mozilla.com"
+msgstr "Visite Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Visite Mozilla.com (en inglés)"
+
+msgid "Download Firefox - Free"
+msgstr "Descargue Firefox - De balde"
+
+msgid "Release Notes"
+msgstr "Notas de publicación"
+
+msgid "Other Systems and Languages"
+msgstr "Outros sistemas e idiomas"
+
+msgid "Get Firefox"
+msgstr "Obteña Firefox"
+
+msgid "Free Download"
+msgstr "Descarga de balde"
+
+msgid "Help us make Firefox even better!"
+msgstr "Axúdenos a facer que Firefox sexa aínda mellor!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Tómese un momento para responder unha breve enquisa e comparta as súas "
+"inquedanzas connosco."
+
+msgid "Close"
+msgstr "Pechar"
+
+msgid "(in English)"
+msgstr "(en inglés)"
+
+msgid "Download Now - Free"
+msgstr "Descargue agora - De balde"
+
+msgid "Return to top"
+msgstr "Volver ao inicio"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Debería <a href=\"http://get.adobe.com/flashplayer/\">actualizar o reprodutor "
+"Adobe Flash Player</a> agora."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox está actualizado, pero a súa versión actual do reprodutor Flash "
+"Player pode ter problemas de seguridade e estabilidade.  Por favor, <a "
+"href=\"http://get.adobe.com/flashplayer/\">instale a actualización "
+"gratuíta</a> tan pronto como lle sexa posíbel."
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Customize"
+msgstr "Personalizar"
+
+msgid "Synchronize"
+msgstr "Sincronizar"
+
+msgid "Develop for Mobile"
+msgstr "Desenvolver para dispositivos móbiles"
+
+msgid "Other Supported Platforms"
+msgstr "Outras plataformas compatíbeis"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Outras plataformas e idiomas"
+
+msgid "Choose your location"
+msgstr "Escolla a súa localización"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Descargar Firefox directamente desde o seu móbil"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Next"
+msgstr "Seguinte"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "MegaBytes {ok}"
+
+msgid "FAQ"
+msgstr "FAQ {ok}"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Agás onde se <a href=\"%s\">avise</a> do contrario, o contido deste sitio está "
+"licenciado conforme a <br /><a href=\"%s\">licenza Creative Commons "
+"Atribución-CompartirIgual v3.0</a> ou superior."
+
+msgid "Report Trademark Abuse"
+msgstr "Informar de abusos da marca"
+
+msgid "Free Upgrade"
+msgstr "Anovación de balde"
+
+msgid "Follow us on:"
+msgstr "Séguenos en:"
+
+msgid "Customize with Add-ons"
+msgstr "Personalizar con complementos"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sincronizar o seu escritorio e o móbil"
+
+msgid "Learn More"
+msgstr "Aprender máis"
+
+msgid "Watch the video"
+msgstr "Ver o vídeo"
+
+msgid "WebM format"
+msgstr "Formato WebM"
+
+msgid "Ogg Theora format"
+msgstr "Formato Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Formato MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr ""
+"Vaites! Asegúrese de que introduciu un enderezo de correo electrónico "
+"correcto."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Lea a política de privacidade de Mozilla e acéptea marcándoa a caixa."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Introduza o seu enderezo de correo electrónico e revise a política de "
+"privacidade de Mozilla."
+
+msgid "Mobile"
+msgstr "Móbil"
+
+msgid "Firefox Updated"
+msgstr "Actualizouse o Firefox"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Bote unha ollada á Web do mañá"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Viaxe ao futuro co Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Únase ao programa beta"
+
+msgid "Experience Firefox"
+msgstr "Experimente o Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "O futuro da Web estáo esperando!"
+
+msgid "The future of the Web starts now."
+msgstr "O futuro da Web comeza agora."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Proba Firefox cunha aparencia renovada."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Experimente hoxe a Web do mañá."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Comprobe a nova aparencia do Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Descobre o futuro da Web"
+
+msgid "See Firefox with a new look and feel."
+msgstr "Vexa o Firefox cunha nova aparencia."
+
+msgid "Download Beta Now."
+msgstr "Descargar a beta agora."
+
+msgid "All Systems & Languages"
+msgstr "Todos os sistemas e idiomas"
+
+msgid "View Full Site"
+msgstr "Ver o sitio completo"
+
+msgid "Get Firefox for Android"
+msgstr "Obter o Firefox para Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Descargar para o <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "De balde desde o Android Market"
+
+msgid "Desktop"
+msgstr "Escritorio"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta para o móbil"
+
+msgid "Firefox for mobile"
+msgstr "Firefox para o móbil"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Traendo a web moderna ao XP."
+
+msgid "Super speed"
+msgstr "Aumento da velocidade"
+
+msgid "Stunning graphics"
+msgstr "Gráficos impresionantes"
+
+msgid "The latest technologies"
+msgstr "As últimas tecnoloxías"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Está a usar unha versión antiga de Firefox. Actualícese para permanecer "
+"seguro!</br>  <a href=\"%s\">Descargue a anovación</a>  en menos dun minuto "
+"para poder gozar das últimas características, e melloras na velocidade e na "
+"seguridade."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Precisa unha anovación! Permaneza seguro en menos dun minuto.</br>  Comece a "
+"usar o novo Firefox para gozar da mellor navegación e personalización "
+"existentes para a Web.</br>  É rápido e de balde!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Está a usar unha versión antiga de Firefox.<a href=\"%s\">Actualícese</a> para "
+"permanecer seguro! </br> Goce das últimas características, e melloras de "
+"seguridade da versión de Firefox máis rápida. Descargue a anovación de balde "
+"en menos dun minuto."
+
+msgid "Upgrade now"
+msgstr "Anove agora"
+
+msgid "Update now"
+msgstr "Actualice agora"
+
+msgid "Supported Devices"
+msgstr "Dispositivos compatíbeis"
+
+msgid "What’s New"
+msgstr "Novidades"
+
+msgid "Privacy"
+msgstr "Privacidade"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

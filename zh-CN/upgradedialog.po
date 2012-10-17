@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zh-CN/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "获取最新版本的 Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "最新版本的 Firefox 发布了!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>快速，易用且免费升级</a>"
+
+msgid "Fresh new look"
+msgstr "耳目一新的外观"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "比 Firefox 3.6 快得多的速度"
+
+msgid "More awesomeness than ever"
+msgstr "更智能"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr "现在有一个新版本的 Firefox 可以更好地保护你免受在线攻击的伤害。"
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>获取升级版本</a> - 快速且免费！"
+
+msgid "get the latest in security"
+msgstr "安全地获取最新版本"
+
+msgid "experience faster performance"
+msgstr "运行速度更快"
+
+msgid "enjoy greater customization"
+msgstr "享受更多定制能力"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "您使用的 Firefox 版本很快就会变得容易受到在线攻击。"
+
+msgid "Stay safe online"
+msgstr "确保网络安全"
+
+msgid "Enjoy new features"
+msgstr "令人欣喜的新功能"
+
+msgid "URGENT!"
+msgstr "紧急！"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "您使用的 Firefox 版本陈旧，可能会受到在线攻击。"
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr "这是自动更新到最新版本之前最后一次提示。"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr "Firefox 将不再针对你的操作系统版本提供支持，这将会使得您的系统容易受到在线攻击。"
+
+msgid "We recommend:"
+msgstr "我们建议："
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "正在升级你的 <a %s>操作系统</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "正在下载一个兼容的浏览器"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "正在为您的 <a %s>操作系统</a> 安装一个免费的升级"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "自动更新之前您将还会收到提示。"

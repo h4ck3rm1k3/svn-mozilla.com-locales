@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zh-CN/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "太好了！你的 Firefox 是最新版本。"
+
+msgid "Your Firefox is out of date."
+msgstr "你的 Firefox 版本已经过时了。"
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr "基于安全原因，我们建议升级到 <a href=\"{url}\">最新最好的版本</a>。"
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "你正在运行一个未知版本的 Firefox 。"
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr "基于安全原因，我们建议下载 <a href=\"{url}\">最新最好的版本</a>。"
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "让你的下一个任务<br/>比以往任何时候都快"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr "看看 Firefox 的新功能怎样帮助你更快更高效地浏览网络。"
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "深入了解 <a href=\"{url}\">新标签页功能 »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "深入了解我们 <a href=\"{url}\">重新设计的首页 »</a>"
+
+msgid "Keep in touch"
+msgstr "保持联络"
+
+msgid "Keep it moving"
+msgstr "移动环境中"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "下载 Firefox » <b>Android 版</b>"
+
+msgid "Keep it going"
+msgstr "保持联系"
+
+msgid "Join Mozilla"
+msgstr "加入 Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android 机器人由 <a href=\"%s\">Google 创作并分享</a>，依据 <a href=\"%s\">Creative Commons "
+"3.0 Attribution License</a> 中描述的条款使用。"
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Now get the mobile browser that’s got your back"
+
+msgid "Firefox Features"
+msgstr "Firefox Features"
+
+msgid "Welcome to Firefox"
+msgstr "Welcome to Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox Help"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox for Android artwork"
+
+msgid "Fast. Smart. Safe."
+msgstr "Fast. Smart. Safe."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Get the mobile browser that’s got your back."

@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Nainštalujte si najnovší Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Nový Firefox je tu!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Rýchla, jednoduchá a bezplatná aktualizácia</a>"
+
+msgid "Fresh new look"
+msgstr "Nový svieži vzhľad"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Oveľa rýchlejší ako Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Lepší než kedykoľvek predtým"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Na svete je nová verzia Firefoxu, ktorá vás dokáže lepšie ochrániť proti "
+"útokom online."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Aktualizujte</a> - rýchlo a zadarmo!"
+
+msgid "get the latest in security"
+msgstr "Získate najvyššiu bezpečnosť"
+
+msgid "experience faster performance"
+msgstr "Získate vyšší výkon"
+
+msgid "enjoy greater customization"
+msgstr "Užijete si lepšiu prispôsobiteľnosť"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Vaša verzia Firefoxu bude čoskoro náchylná na útoky online."
+
+msgid "Stay safe online"
+msgstr "Budete online v bezpečí"
+
+msgid "Enjoy new features"
+msgstr "Užijete si nové funkcie"
+
+msgid "URGENT!"
+msgstr "DÔLEŽITÉ!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "Vaša verzia Firefoxu už viac nie je chránená proti útokom online."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Toto je posledné upozornenie pred automatickou aktualizáciou na najnovšiu "
+"verziu."
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox už viac nepodporuje verziu vášho operačného systému a bude náchylný "
+"na útoky online."
+
+msgid "We recommend:"
+msgstr "Preto Vám odporúčame:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Aktualizovať svoj <a %s>operačný systém</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Nainštalovať si kompatibilný prehliadač"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Nainštalovať si aktualizáciu vášho <a %s>operačného systému</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Pred automatickou aktualizáciou Vás prehliadač ešte raz upozorní."

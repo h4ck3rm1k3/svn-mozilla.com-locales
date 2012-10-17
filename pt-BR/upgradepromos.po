@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pt-BR/upgradepromos.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Mozilla Firefox Web Browser — Free Download"
+msgstr "Navegador Mozilla Firefox – Download grátis"
+
+msgid "How fast is <span>your Firefox?</span>"
+msgstr "O quão rápido é <span>seu Firefox?</span>"
+
+msgid ""
+"New Firefox is up to 7 times faster. (That’s a lot!) Check the speedometer "
+"to see if yours can keep up."
+msgstr ""
+"O novo Firefox é até 7 vezes mais rápido. (Isso é muito!) Cheque o "
+"velocímetro para ver se o seu consegue alcançar."
+
+msgid "Old Firefox = <em>Sadface</em>"
+msgstr "Firefox velho = <em>:(</em>"
+
+msgid "New Firefox = <em>Yay!</em>"
+msgstr "Firefox novo = <em>:D</em>"
+
+msgid ""
+"That just isn’t going to cut it. Stop browsing in the past and <a %s>upgrade "
+"now!</a>"
+msgstr "Assim não dá. Pare de navegar no passado e <a %s>atualize agora!</a>"
+
+msgid "Now we’re talking!"
+msgstr "Agora sim!"
+
+msgid ""
+"Feels better, doesn’t it? Welcome to the future of the Web. It’s nice here."
+msgstr "Bem melhor, não é? Bem-vindo ao futuro da Web. Aqui é bem legal."
+
+msgid ""
+"Hey, looks like you’re using %BROWSER%. Why not grab Firefox and get up to "
+"speed."
+msgstr ""
+"Ei, parece que você está usando o %BROWSER%. Que tal baixar o Firefox e "
+"entrar no ritmo?"
+
+msgid ""
+"Hey, looks like you’re not using Firefox as your browser. Why not grab "
+"Firefox and get up to speed."
+msgstr ""
+"Ei, parece que você não está usando o Firefox como seu navegador. Que tal "
+"baixar o Firefox e entrar no ritmo?"
+
+msgid ""
+"New Firefox is faster, free (as always), crashes less and protects your "
+"privacy more."
+msgstr ""
+"O novo Firefox é mais rápido, grátis (como sempre), trava menos, e protege "
+"mais sua privacidade."
+
+msgid ""
+"<a %s>Upgrading</a> takes less than a minute and you won’t lose your history "
+"or bookmarks. Hooray!"
+msgstr ""
+"<a %s>Atualizar</a> leva menos de um minuto e você não perde seu histórico "
+"ou favoritos."
+
+msgid "Fewer Crashes <span>More Happiness</span>"
+msgstr "Menos travamentos <span>Mais felicidade</span>"
+
+msgid ""
+"Upgrade now and see how much happier browsing can be with the <b>newest and "
+"fastest Firefox</b>."
+msgstr ""
+"Atualize agora e veja o quão melhor sua navegação pode ser com <b>o mais "
+"novo e rápido Firefox</b>."
+
+msgid "Upgrade Firefox"
+msgstr "Atualize o Firefox"
+
+msgid "Old Firefox"
+msgstr "Firefox velho"
+
+msgid "New Firefox"
+msgstr "Firefox novo"
+
+msgid "3, 2, 1<span>Ready to Go?</span>"
+msgstr "3, 2, 1<span>Pronto?</span>"
+
+msgid ""
+"Take your bookmarks and browsing history with you on a journey to a faster "
+"Firefox."
+msgstr ""
+"Leve seus favoritos e seu histórico numa aventura para um Firefox mais "
+"rápido."
+
+msgid "Upgrade Firefox and take your bookmarks with you."
+msgstr "Atualize o Firefox e leve seus favoritos com você."

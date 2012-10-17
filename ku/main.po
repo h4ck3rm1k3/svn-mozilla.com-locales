@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ku/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Ger"
+
+msgid "Press area"
+msgstr "Qada Çapemeniyê"
+
+msgid "About"
+msgstr "Derbarê"
+
+msgid "Store"
+msgstr "Firoşgeh"
+
+msgid "Donate"
+msgstr "Bexş"
+
+msgid "Support"
+msgstr "Destek"
+
+msgid "Products"
+msgstr "Hilberîn"
+
+msgid "Add-ons"
+msgstr "Add-on"
+
+msgid "About Us"
+msgstr "Der barê me de"
+
+msgid "Developers"
+msgstr "Pêşdebir"
+
+msgid "Labs"
+msgstr "Lab"
+
+msgid "skip to Navigation"
+msgstr "derbasî qada Gerê bibe"
+
+msgid "switch language"
+msgstr "ziman biguherîne"
+
+msgid "Back to home page"
+msgstr "Vegere serûpelê"
+
+msgid "About Mozilla"
+msgstr "Der barê Mozillayê de"
+
+msgid "Get Involved"
+msgstr "Tevli me bibe"
+
+msgid "Licensing"
+msgstr "Lîsans"
+
+msgid "Careers"
+msgstr "Hevparên Kar"
+
+msgid "Press Center"
+msgstr "Navenda Çapemeniyê"
+
+msgid "Contact Us"
+msgstr "Bikeve Têkiliyê"
+
+msgid "Site contact"
+msgstr "Têkiliya Malperê"
+
+msgid "Other languages:"
+msgstr "Zimanên din:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Hemû maf parastî ne."
+
+msgid "Legal Notices"
+msgstr "Hişyarkirinên Fermî"
+
+msgid "Privacy Policy"
+msgstr "Hêmayên Nepeniyê"
+
+msgid "Visit Mozilla.com"
+msgstr "Mozilla.com'ê Veke"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Mozilla.com'ê Veke (Malpera DYA'yê)"
+
+msgid "Download Firefox - Free"
+msgstr "Firefoxê Daxe - Belaş"
+
+msgid "Release Notes"
+msgstr "Têbiniyên Guhertoyê"
+
+msgid "Other Systems and Languages"
+msgstr "Pergal û Zimanên Din"
+
+msgid "Get Firefox"
+msgstr "Firfoxê Bistîne"
+
+msgid "Free Download"
+msgstr "Belaş Daxe"
+
+msgid "Help us make Firefox even better!"
+msgstr "Ji bo pêşdebirina Firefoxê alîkariyê bide me!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Ji bo ku nêrînên xwe bi me re parve bikî, ji  bo me demeke kin veqetîne."
+
+msgid "Close"
+msgstr "Bigire"
+
+msgid "(in English)"
+msgstr "(bi înglîzî)"
+
+msgid "Download Now - Free"
+msgstr "Niha Daxe - Belaş"
+
+msgid "Return to top"
+msgstr "Here jorê"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Divê tu niha <a href=\"http://get.adobe.com/flashplayer/\">Adobe Flash Playerê "
+"rojane bikî</a>."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox rojane ye, lê dibe ku guhertoya Flash Playerê ya niha bibe sedema "
+"pirsgirêkên hevgirtin û ewlekariyê.  Ji kerema xwe re <a "
+"href=\"http://get.adobe.com/flashplayer/\">rojanekirina belaş saz bike</a> di "
+"demeke nêz de."
+
+msgid "Features"
+msgstr "Taybetî"
+
+msgid "Customize"
+msgstr "Kesane"
+
+msgid "Synchronize"
+msgstr "Senkronîze"
+
+msgid "Develop for Mobile"
+msgstr "Pêşdebirina ji bo Mobile"
+
+msgid "Other Supported Platforms"
+msgstr "Platformên din ên Destekirî"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Platform &amp; Zimanên din"
+
+msgid "Choose your location"
+msgstr "Ciyê lê dijî hilbijêre"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Firefoxê rasterast daxe ser telefona xwe"
+
+msgid "Download"
+msgstr "Daxe"
+
+msgid "Next"
+msgstr "Pêş"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "MegaByte"
+
+msgid "FAQ"
+msgstr "PPP"
+
+msgid "Videos"
+msgstr "Vîdeo"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Ji bilî ciyê <a href=\"%s\">not bû</a>, naveroka li ser vê malperê di bin "
+"lîsansa <br /><a href=\"%s\">Creative Commons Attribution Share-Alike License "
+"v3.0</a> an jî guhertoyeke nûtir de ye."
+
+msgid "Report Trademark Abuse"
+msgstr "Binpêkirina Markeyê Rapor Bike"
+
+msgid "Free Upgrade"
+msgstr "Bilindkirina Belaş"
+
+msgid "Follow us on:"
+msgstr "Me ji virê bişopînin:"
+
+msgid "Customize with Add-ons"
+msgstr "Bi Add-onsan takekes bike"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sermase û Mobîla xwe senkronîze bike"
+
+msgid "Learn More"
+msgstr "Zêdetir Agahî"
+
+msgid "Watch the video"
+msgstr "Vîdeoyê Temaşe Bike"
+
+msgid "WebM format"
+msgstr "Formata WebM"
+
+msgid "Ogg Theora format"
+msgstr "Formata Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Formata MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Niç niç niç! Gelo te navnîşana epeyamê rast nivîsandiye."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Tika ye, Peymana Takekesî ya Mozillayê bixwîne û ji bo erêkirinê qutîkê "
+"nîşan bike."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Tika ye navnîşana epeyamê binivîse û Peymana Takekesî ya Mozilalyê bibîne."
+
+msgid "Mobile"
+msgstr "Mobîl"
+
+msgid "Firefox Updated"
+msgstr "Firefox hate rojanekirin"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Çavekê li Weba Siberojê Bigerîne"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Bi Firefoxê li siberojê bigere"
+
+msgid "Join the Beta Program"
+msgstr "Beşdarî bernameya Betayê bibe"
+
+msgid "Experience Firefox"
+msgstr "Firefoxê biceribîne"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Dahatiya Webê li benda te ye!"
+
+msgid "The future of the Web starts now."
+msgstr "Siberoja Webê niha dest pê dike."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Bi xuyakirin û hesteke nû dest pê bike."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Weba siberojê îro biceribîne."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Xuyakirin û hesta nû ya Firefoxê bibîne."
+
+msgid "Browse the future of the Web."
+msgstr "Li siberoja Webê bigere."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Firefoxê bi xuyakirin û hesteke nû bibîne."
+
+msgid "Download Beta Now."
+msgstr "Betayê Niha Daxe."
+
+msgid "All Systems & Languages"
+msgstr "Hemû Pergal & Ziman"
+
+msgid "View Full Site"
+msgstr "Malperê hemû nîşan bide"
+
+msgid "Get Firefox for Android"
+msgstr "Firefoxa ji bo Androîdê bistîne"
+
+msgid "Download for <span>Android</span>"
+msgstr "Ji bo <span>Android</span>ê daxe"
+
+msgid "Free from the Android Market"
+msgstr "Di Androîd Marketê de belaş e"
+
+msgid "Desktop"
+msgstr "Sermase"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta ji bo gerekan"
+
+msgid "Firefox for mobile"
+msgstr "Firefox ji bo gerekan"
+
+msgid "Email"
+msgstr "Epeyam"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Weba hemdem bo XPê tîne."
+
+msgid "Super speed"
+msgstr "Leza super"
+
+msgid "Stunning graphics"
+msgstr "Grafîkên hişbir"
+
+msgid "The latest technologies"
+msgstr "Teknolojiyên dawî"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Tu guhertoyeke kevn a Firefoxê bi kar tînî.Ji bo ewlekariyê rojane bike! "
+"<br/> Ji bo taybetiyên herî nû, lezgînî û ewlekariyê <a href=\"%s\">di "
+"xulekekê de belaş bilind bike</a>."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Divê bilind bikî! Di xulekekê de xwe bixe ewlekariyê. <br/> Ji bo ger û "
+"takekeskirina herî baş a webê dest bi Firefoxa xwe ya nû bike. <br/>   "
+"Lezgîn û belaş e!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Guhertoya Firefoxa te kevntir e. Ji bo ewlekariyê <a href=\"%s\">rojane "
+"bike</a>! <br/> Ji niha ve kêfa Firefoxa lezgîntir û ewletir derxe. "
+"Bilindkirina belaş xulekekê jî najo."
+
+msgid "Upgrade now"
+msgstr "Niha bilind bike"
+
+msgid "Update now"
+msgstr "Niha rojane bike"
+
+msgid "Supported Devices"
+msgstr "Cîhazên piþtgiriyê"
+
+msgid "What’s New"
+msgstr "What’s New"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zh-CN/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "下载 Android 版 Firefox Beta - 免费"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "下载桌面版 Firefox Beta - 免费"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr "下载并测试将要发布的 Firefox。通过 Aurora 或者 Beta 版在第一时间体验我们的创新。"
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta 版本："
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta 移动版"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "下载 Beta 版成为 Firefox 下一个版本的用户。"
+
+msgid "1. Test Features"
+msgstr "1. 功能测试"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr "即将准备就绪的最新的性能、定制能力和安全改进，你将在第一时间体验到。"
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. 改进和雕琢"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr "提交错误报告，帮助我们在一个稳定的环境中对性能和功能进行最后的调整。"
+
+msgid "3. Do Your Part"
+msgstr "3. 尽自己的一份力量"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr "对下一个 Firefox 版本施加影响，每天有四亿五千万用户使用它。"
+
+msgid "Supported devices"
+msgstr "支持的设备"

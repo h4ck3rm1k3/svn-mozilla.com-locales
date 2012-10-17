@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gd/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Seòladh"
+
+msgid "Press area"
+msgstr "Raon an luchd-naidheachd"
+
+msgid "About"
+msgstr "Mu dhèidhinn"
+
+msgid "Store"
+msgstr "Am bùth"
+
+msgid "Donate"
+msgstr "Thoir tabhartas"
+
+msgid "Support"
+msgstr "Taic"
+
+msgid "Products"
+msgstr "Bathar"
+
+msgid "Add-ons"
+msgstr "Tuilleadain"
+
+msgid "About Us"
+msgstr "Mu ar dèidhinn"
+
+msgid "Developers"
+msgstr "Luchd-leasachaidh"
+
+msgid "Labs"
+msgstr "Na deuchainn-lannan"
+
+msgid "skip to Navigation"
+msgstr "thoir leum dhan t-seòladaireachd"
+
+msgid "switch language"
+msgstr "atharraich an cànan"
+
+msgid "Back to home page"
+msgstr "Air ais dhan duilleag mhòr"
+
+msgid "About Mozilla"
+msgstr "Mu dhèidhinn Mozilla"
+
+msgid "Get Involved"
+msgstr "Gabh pàirt ann"
+
+msgid "Licensing"
+msgstr "Ceadachasan"
+
+msgid "Careers"
+msgstr "Obair"
+
+msgid "Press Center"
+msgstr "Ionadh an luchd-naidheachd"
+
+msgid "Contact Us"
+msgstr "Leig fios thugainn"
+
+msgid "Site contact"
+msgstr "Leig fios dhan làrach"
+
+msgid "Other languages:"
+msgstr "Cànain eile:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Gach còir air a ghlèidheadh."
+
+msgid "Legal Notices"
+msgstr "Sanasan laghail"
+
+msgid "Privacy Policy"
+msgstr "Am Poileasaidh Prìobhaideachd"
+
+msgid "Visit Mozilla.com"
+msgstr "Tadhail air Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Tadhail air Mozilla.com (Làrach nan SA)"
+
+msgid "Download Firefox - Free"
+msgstr "Luchdaich a-nuas Firefox - saor an-asgaidh"
+
+msgid "Release Notes"
+msgstr "Na notaichean sgaoilidh"
+
+msgid "Other Systems and Languages"
+msgstr "Siostaman is cànain eile"
+
+msgid "Get Firefox"
+msgstr "Faigh Firefox"
+
+msgid "Free Download"
+msgstr "Luchdadh a-nuas an-asgaidh"
+
+msgid "Help us make Firefox even better!"
+msgstr "Cuidich sinn gus Firefox a dhèanamh nas fhearr fhathast!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Saoil a bheil mionaid againn gus suirbhidh bheag a lìonadh is do bheachdan a "
+"thoirt dhuinn?"
+
+msgid "Close"
+msgstr "Dùin"
+
+msgid "(in English)"
+msgstr "(ann am Beurla)"
+
+msgid "Download Now - Free"
+msgstr "Luchdaich a-nuas e an-dràsta - saor an-asgaidh"
+
+msgid "Return to top"
+msgstr "Till gu barr na duilleige"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Bu chòir dhut <a href=\"http://get.adobe.com/flashplayer/\">Adobe Flash Player "
+"ùrachadh</a> an-dràsta fhèin."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Tha Firefox cho ùr 's a ghabhas ach faodaidh an tionndadh de dh'Fhlash "
+"Player a tha agad cùisean tèarainteachd is seasmhachd adhbharachadh.  Feuch "
+"is <a href=\"http://get.adobe.com/flashplayer/\">an stàlaich thu an t-ùrachadh "
+"saor an-asgaidh</a> cho luath 's a ghabhas."
+
+msgid "Features"
+msgstr "Feartan"
+
+msgid "Customize"
+msgstr "Gnàthaich"
+
+msgid "Synchronize"
+msgstr "Sioncronaich"
+
+msgid "Develop for Mobile"
+msgstr "Leasaich airson innealan gluasadach"
+
+msgid "Other Supported Platforms"
+msgstr "Ùrlaran eile a tha taic ann air an son"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Ùrlaran ┐ cànain eile"
+
+msgid "Choose your location"
+msgstr "Tagh d' àite"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Luchdaich a-nuas Firefox dhan fhòn agad gu dìreach"
+
+msgid "Download"
+msgstr "Luchdaich a-nuas"
+
+msgid "Next"
+msgstr "Air adhart"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "MegaBytes {ok}"
+
+msgid "FAQ"
+msgstr "CÀBHA"
+
+msgid "Videos"
+msgstr "Videothan"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Ach far a bheil <a href=\"%s\">sanas</a> eile ann, tha susbaint na làraich seo "
+"fo cheadachas <br /><a href=\"%s\">Creative Commons Attribution Share-Alike "
+"License v3.0</a> no tionndadh nas ùire dheth."
+
+msgid "Report Trademark Abuse"
+msgstr "Dèan aithris air droch chleachdadh comharraidh-mhalairt"
+
+msgid "Free Upgrade"
+msgstr "Ùrachadh saor an-asgaidh"
+
+msgid "Follow us on:"
+msgstr "Cum cluas ri naidheachdan oirnn air:"
+
+msgid "Customize with Add-ons"
+msgstr "Gnàthaich le tuilleadain"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sioncronaich an deasg ┐ fòn-làimhe agad"
+
+msgid "Learn More"
+msgstr "Barrachd fiosrachaidh"
+
+msgid "Watch the video"
+msgstr "Coimhead air a' video"
+
+msgid "WebM format"
+msgstr "Fòrmat WebM"
+
+msgid "Ogg Theora format"
+msgstr "Fòrmat Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Fòrmat MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr ""
+"Oich! Dèan cinnteach gu bheil am post-dealain a chuireas thu a-steach "
+"dligheach."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Leugh am poileasaidh prìobhaideachd aig Mozilla 's aontach ris le bhith a' "
+"cur cromag sa bhogsa."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Cuir a-steach am post-dealain agad is cuir sùil air a' phoileasaidh "
+"phrìobhaideachd aig Mozilla."
+
+msgid "Mobile"
+msgstr "Gluasadach"
+
+msgid "Firefox Updated"
+msgstr "Tha Firefox air ùrachadh"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Thoir sùil air an lìon ri teachd"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Tadhail air an àm ri teachd le Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Gabh pàirt sa phrògram beta"
+
+msgid "Experience Firefox"
+msgstr "Feuch ri Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Tha àm ri teachd an lìn a' feitheamh ort!"
+
+msgid "The future of the Web starts now."
+msgstr "Tha àm ri teachd an lìn a' tòiseachadh an-dràsta fhèin."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Feuch ri Firefox is dreach ùr snasail air."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Feuch ri lìon an ama ri teachd an-diugh fhèin."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Thoir sùil air an dreach ùr snasail a tha air Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Brabhsaich àm ri teachd an lìn."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Seall air Firefox is dreach ùr snasail air."
+
+msgid "Download Beta Now."
+msgstr "Luchdaich a-nuas am beta an-dràsta."
+
+msgid "All Systems & Languages"
+msgstr "A h-uile siostam ┐ cànan"
+
+msgid "View Full Site"
+msgstr "Seall an làrach shlàn"
+
+msgid "Get Firefox for Android"
+msgstr "Faigh Firefox airson Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Luchdaich a-nuas airson <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Saor on Android Market"
+
+msgid "Desktop"
+msgstr "Deasg"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta airson innealan-làimhe"
+
+msgid "Firefox for mobile"
+msgstr "Firefox airson innealan-làimhe"
+
+msgid "Email"
+msgstr "Post-d"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. A' toirt dhut an lìon ùr air XP."
+
+msgid "Super speed"
+msgstr "Cho luath ri seabhag"
+
+msgid "Stunning graphics"
+msgstr "Grafaigean do-chreidsinneach"
+
+msgid "The latest technologies"
+msgstr "An teicneolas as ùire"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Tha thu a' cleachdadh seann-tionndadh de Firefox. Faigh ùrachadh a chum do "
+"thèarainteachd fhèin! <br/> <a href=\"%s\">Luchdaich a-nuas an t-ùrachadh "
+"saor</a> 's cha doir e ach mionaid 's bidh na feartan, an t-astar 's na "
+"gleusan tèarainteachd as ùire agad."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"B' fheairrde dhut àrdachadh! Faigh àrdachadh a chum do thèarainteachd fhèin "
+"'s cha doir e ach mionaid. <br/> Cleachd am Firefox as ùire airson am "
+"brabhsadh 's an gnàthachadh as fhearr air an lìon. <br/>   Tha e luath 's "
+"saor an-asgaidh!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Tha thu a' cleachdadh seann-tionndadh de Firefox. Faigh <a href=\"%s\">d' "
+"ùrachadh</a> a chum do thèarainteachd fhèin! <br/> Feuch na feartan 's na "
+"gleusan tèarainteachd as ùire agus am Firefox as luaithe gu ruige seo. Faigh "
+"an t-ùrachadh saor an-asgaidh 's cha doir e fiù mionaid."
+
+msgid "Upgrade now"
+msgstr "Àrdaich an-dràsta"
+
+msgid "Update now"
+msgstr "Ùraich an-dràsta"
+
+msgid "Supported Devices"
+msgstr "Uidheaman ris a bheil taic"
+
+msgid "What’s New"
+msgstr "Na tha ùr"
+
+msgid "Privacy"
+msgstr "Prìobhaideachd"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

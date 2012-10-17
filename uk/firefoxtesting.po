@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/uk/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Завантажте Бету Firefox під Android - Безплатно"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Завантажте Бету Firefox для Десктопів - Безплатно"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Завантажте та тестуйте майбутні випуски Firefox. Спробуйте останні новинки у "
+"збірках Аврора та Бета."
+
+msgid "Firefox Beta"
+msgstr "Firefox Бета"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Бета для:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Бета для мобільних"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Завантажте Бету та долучіться до розробки наступної версії Firefox."
+
+msgid "1. Test Features"
+msgstr "1. Тестуйте новинки"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Спробуйте останні покращення швидкодії, гнучкості та безпеки — майже готові "
+"до виходу в люди."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Поліпшіть Firefox"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Засилайте вади, щоб допомогти нам внести останні правки стосовно швидкодії "
+"та функціоналу стабільної версії."
+
+msgid "3. Do Your Part"
+msgstr "3. Робіть своє"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Майте вплив на наступну версію Firefox та на те, яким його побачать 450 "
+"мільйонів користувачів."
+
+msgid "Supported devices"
+msgstr "Підтримувані пристрої"

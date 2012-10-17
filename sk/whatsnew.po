@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Hurá! Váš Firefox je aktuálny."
+
+msgid "Your Firefox is out of date."
+msgstr "Váš Firefox nie je aktuálny."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Z bezpečnostných dôvodov odporúčame prejsť na <a href=\"{url}\">najnovšiu a "
+"najlepšiu verziu</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Používate nerozpoznanú verziu prehliadača Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Z bezpečnostných dôvodov odporúčame nainštalovať <a href=\"{url}\">najnovšiu a "
+"najlepšiu verziu</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "K svojej ďalšej úlohe<br/>sa dostanete ešte rýchlejšie"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Pozrite sa, ako vám nové funkcie Firefoxu môžu pracovať s webom rýchlejšie a "
+"efektívnejšie."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Ďalšie informácie o funkcii <a href=\"{url}\">Nová karta »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Ďalšie informácie o <a href=\"{url}\">novej domovskej stránke »</a>"
+
+msgid "Keep in touch"
+msgstr "Zostaňte v spojení"
+
+msgid "Keep it moving"
+msgstr "Presuňte sa na cesty"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Získať Firefox » <b>pre Android</b>"
+
+msgid "Keep it going"
+msgstr "Zostaňte s nami"
+
+msgid "Join Mozilla"
+msgstr "Pripojiť sa k Mozille"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Logo Android Robot bolo reprodukované z materiálu vytvoreného a <a href=\"%"
+"s\">zdieľaného spoločnosťou Google</a> a bolo použité za podmienok popísaných "
+"v licencii <a href=\"%s\">Creative Commons 3.0 Attribution License</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Získajte Firefox pre Android</a> a budete mať silu webu vo "
+"svojich rukách. Je rýchly, inteligentný a bezpečný!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Získajte mobilný prehliadač, ktorý vás dostane"
+
+msgid "Firefox Features"
+msgstr "Funkcie Firefoxu"
+
+msgid "Welcome to Firefox"
+msgstr "Víta vás Firefox"
+
+msgid "Firefox Help"
+msgstr "Pomocník Firefoxu"
+
+msgid "Firefox for Android artwork"
+msgstr "Logo Firefox pre Android"
+
+msgid "Fast. Smart. Safe."
+msgstr "Rýchly. Inteligentný. Bezpečný."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Získajte mobilný prehliadač, ktorý vás dostane."

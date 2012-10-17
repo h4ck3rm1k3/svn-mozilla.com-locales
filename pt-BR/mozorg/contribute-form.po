@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pt-BR/mozorg/contribute-form.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Please tell us more about your interests."
+msgstr "Por favor, conte-nos mais sobre seus interesses."
+
+msgid "Want to help?"
+msgstr "Quer ajudar?"
+
+msgid "Please select an area of interest."
+msgstr "Por favor, selecione uma área de interesse."
+
+msgid ""
+"Someone from Mozilla will get back to you soon with information about how to "
+"get involved. While you’re waiting, browse through some of the volunteer "
+"opportunities available below."
+msgstr ""
+"Alguém da Mozilla entrará em contato com informações sobre como envolver-se "
+"conosco. Enquanto aguarda, navegue por algumas oportunidades para tornar-se "
+"voluntário disponíveis abaixo."
+
+msgid "Hi, I’m interested in…"
+msgstr "Oi, estou interessado em…"
+
+msgid "I’d like to receive regular contribution news by email"
+msgstr ""
+"Eu gostaria de receber novidades por e-mail frequentes sobre colaborações"
+
+msgid "Submit&nbsp;»"
+msgstr "Enviar&nbsp;»"
+
+msgid "Send us a note and we can get you started right away."
+msgstr "Envie uma nota para nós e poderemos começar imediatamente."
+
+msgid "Your CAPTCHA response did not match. Please try again."
+msgstr "Sua resposta não corresponde ao código. Por favor, tente novamente."
+
+msgid "Thank you for getting in touch."
+msgstr "Obrigado por entrar em contato."
+
+msgid "Thank you for getting in touch! You will hear from us soon."
+msgstr "Thank you for getting in touch! You will hear from us soon."
+
+msgid "Submitting data, please wait..."
+msgstr "Submitting data, please wait..."

@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/bs/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Dobijajte mjesečne novosti"
+
+msgid "Your Email Address"
+msgstr "Vaša email adresa"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Available Languages"
+msgstr "Dostupni jezici"
+
+msgid "Select country"
+msgstr "Izaberite državu"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Ups! Pobrinite se da unesete ispravnu email adresu."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Molimo da pročitate Mozilla policu privatnosti i da je prihvatite."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Prihvatam <a href=\"%s\">policu privatnosti</a>"
+
+msgid "Sign me up!"
+msgstr "Prijavi me!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Mi ćemo vam slati samo informacije vezane za Mozillu."
+
+msgid "Thanks for Subscribing!"
+msgstr "Hvala za prijavu!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Jedva čekamo da uskoro počnemo sa vama dijeliti tajne i trikove kako da "
+"izvučete maksimum iz Firefoxa, kao i uzbudljive novosti o Mozilli i našem "
+"trudu da Web učinimo boljim."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Prijavite se na mjesečne novosti i ostanite u korak sa Mozilla novostima, "
+"uključujući najnovije trikove kako da izvučete maksimum iz svog Firefox "
+"browsera. To je savršen način da ostanemo u kontaktu!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Upravo smo Vam poslali email poruku za potvrdu. Kliknite na link za potvrdu "
+"u ovom emailu kako biste potvrdili svoju prijavu na ovu mailing listu."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Pročitajte sve o tome u našem <span>newsletteru</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Vaša prijava na newsletter je potvrđena."
+
+msgid "Format"
+msgstr "Format {ok}"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Spremni ste! <span>No sačekajte, ima još</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Želite dobijati najrelevantnije informacija? Recite nam malo više o sebi. A "
+"kad ste već ovdje, prijavite se i na druge Mozilla novosti."
+
+msgid "Firefox & You"
+msgstr "Firefox & vi"
+
+msgid "Our Other Newsletters:"
+msgstr "Ostali naši newsletteri:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Dobijajte najnovije savjete i trikove kako da izvučete maksimum iz vašeg "
+"omiljenog browsera."
+
+msgid "Firefox Mobile"
+msgstr "Mobilni Firefox"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Naučite o najboljim novim add-onima i mogućnostima za mobilni Firefox."
+
+msgid "Beta News"
+msgstr "Novosti o beti"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Čitajte o najnovijim mogućnostima Firefoxa za desktop i mobitel prije "
+"finalne verzije."
+
+msgid "Let’s Be Friends!"
+msgstr "Budimo prijatelji!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox je takođe na vašim omiljenim društvenim mrežama. Povežite se nama i "
+"pridružite se konverzaciji."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Upravljajte svojim <span>prijavama na newsletter</span>"
+
+msgid "Subscribe"
+msgstr "Prijava"
+
+msgid "Unsubscribe"
+msgstr "Odjava"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Uključite ovdje ako želite da budete uklonjeni sa svih Mozilla emailova"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Ukloni me sa svih Mozilla emailova"
+
+msgid "Save Preferences"
+msgstr "Spasi postavke"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Hvala na ažuriranju vaših email postavki."
+
+msgid "You've been unsubscribed."
+msgstr "Odjavljeni ste."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Žao nam je vidjeti vas kako odlazite? Da li biste nam rekli zašto nas "
+"napuštate?"
+
+msgid "You send too many emails."
+msgstr "Šaljete previše emailova."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Vaš sadržaj mi nije bio relevantan."
+
+msgid "Your email design was too hard to read."
+msgstr "Dizajn vašem emaila mi je bio teško čitljiv."
+
+msgid "I didn't sign up for this."
+msgstr "Ja se nisam prijavio na ovo."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Radije pratim vijesti iz Mozille na Facebooku i Twitteru."
+
+msgid "Submit"
+msgstr "Pošalji"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Hvala što ste nam rekli zašto odlazite."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla Newsletteri"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Hvala! Molimo da posjetite svoj inbox i potvrdite svoju prijavu."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Primit ćete email od mozilla@e.mozilla.org da potvrdite vašu prijavu. "
+"Ukoliko ga ne vidite, provjerite vaš spam filter. Morate potvrditi svoju "
+"prijavu da biste dobijali naš newsletter."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Molimo da dodate našu adresu: mozilla@e.mozilla.org u vaš adresar kako biste "
+"osigurali da naši emailovi uvijek dospiju u vaš inbox."

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/wo/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Jëlal Firefox bi gëna bees"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox bi gëna gaaw mi ngi fii!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Gaaw, yomb te amul fay</a>"
+
+msgid "Fresh new look"
+msgstr "Gis gis bu bees"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Gëna gaaw Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Dafa gën yéeme"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Sumbu Firefox bu bees bi moo lay gëna aar ci takke yi ñu lay takke ci rëdd."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Jëlal yeesal bi</a> — moo gëna gaaw te amul fay!"
+
+msgid "get the latest in security"
+msgstr "amal li mujj ci kaarange"
+
+msgid "experience faster performance"
+msgstr "amal jëfgis yu gëna gaaw"
+
+msgid "enjoy greater customization"
+msgstr "përëfitool ci solal bu gëna mag"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Sa sumbu Firefox leegi mu yomb song ci rëdd."
+
+msgid "Stay safe online"
+msgstr "Nekkal ci rëdd ak kaarange"
+
+msgid "Enjoy new features"
+msgstr "Përëfitool ci bees bees yi"
+
+msgid "URGENT!"
+msgstr "JAMP NA!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "Sa sumbu Firefox du la aarati lu bari ci songu yi ci kaw rëdd."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Lii mooy sa rapel bu mujj laata ñu yessal la ci ñakk ndigal ci sumb bu mujj "
+"bi"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr "Firefox nangootul sa sumbu doxalin te dina yomb song ci rëdd."
+
+msgid "We recommend:"
+msgstr "Ñi ngi lay digal:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Nga yeesal <a %s>sa doxalin wi</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Yebal joowkat bu and"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Sampal yeesal bi amul fay ci sa <a %s>doxalin</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Dina ñu la yëgal laata yeesalu ñakk ndigal bi."

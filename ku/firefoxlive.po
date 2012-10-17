@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ku/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Share on Facebook »"
+msgstr "Share on Facebook »"
+
+msgid "Camera 1"
+msgstr "Camera 1"
+
+msgid "360° view"
+msgstr "360° view"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgid "Cameras"
+msgstr "Cameras"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+
+msgid "Video help"
+msgstr "Video help"
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+
+msgid "Share on Twitter »"
+msgstr "Share on Twitter »"
+
+msgid "Follow @cubcaretaker"
+msgstr "Follow @cubcaretaker"
+
+msgid "Camera 2"
+msgstr "Camera 2"
+
+msgid "Firefox Live"
+msgstr "Firefox Live"

@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ms/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Navigasi"
+
+msgid "Press area"
+msgstr "Kawasan Media"
+
+msgid "About"
+msgstr "Tentang Kami"
+
+msgid "Store"
+msgstr "Kedai"
+
+msgid "Donate"
+msgstr "Derma"
+
+msgid "Support"
+msgstr "Sokongan"
+
+msgid "Products"
+msgstr "Produk-produk"
+
+msgid "Add-ons"
+msgstr "Add-ons {ok}"
+
+msgid "About Us"
+msgstr "Tentang kami"
+
+msgid "Developers"
+msgstr "Developers {ok}"
+
+msgid "Labs"
+msgstr "Makmal"
+
+msgid "skip to Navigation"
+msgstr "langkau kepada Navigasi"
+
+msgid "switch language"
+msgstr "tukar bahasa"
+
+msgid "Back to home page"
+msgstr "Kembali ke laman utama"
+
+msgid "About Mozilla"
+msgstr "Mengenai Mozilla"
+
+msgid "Get Involved"
+msgstr "Penglibatan diri"
+
+msgid "Licensing"
+msgstr "Perlesenan"
+
+msgid "Careers"
+msgstr "Kerjaya"
+
+msgid "Press Center"
+msgstr "Pusat Media"
+
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+msgid "Site contact"
+msgstr "Hubungi Laman"
+
+msgid "Other languages:"
+msgstr "Bahasa-bahasa lain:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d {ok}"
+
+msgid "All rights reserved."
+msgstr "Hakcipta terpelihara."
+
+msgid "Legal Notices"
+msgstr "Pemberitahuan Sah"
+
+msgid "Privacy Policy"
+msgstr "Polisi Privasi"
+
+msgid "Visit Mozilla.com"
+msgstr "Layari Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Layari Mozilla.com (laman US)"
+
+msgid "Download Firefox - Free"
+msgstr "Muat turun Firefox - Percuma"
+
+msgid "Release Notes"
+msgstr "Nota Keluaran"
+
+msgid "Other Systems and Languages"
+msgstr "Sistem dan bahasa lain"
+
+msgid "Get Firefox"
+msgstr "Dapatkan Firefox"
+
+msgid "Free Download"
+msgstr "Muat turun percuma"
+
+msgid "Help us make Firefox even better!"
+msgstr "Bantu kami menjadikan Firefox bahkan lebih baik!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Sekadar beberapa ketika untuk mengambil satu kaji selidik ringkas dan "
+"berkongsi fikiran anda dengan kami."
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "(in English)"
+msgstr "(dalam English)"
+
+msgid "Download Now - Free"
+msgstr "Muat turun sekarang - Percuma"
+
+msgid "Return to top"
+msgstr "Kembali untuk atas"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Anda perlu ada <a href=\"http://get.adobe.com/flashplayer/\">update Adobe "
+"Flash Player</a> sekarang."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox terkini, tetapi versi semasa Flash Player anda boleh menyebabkan isu "
+"keselamatan dan kestabilan. Sila <a "
+"href=\"http://get.adobe.com/flashplayer/\">memasang kemaskini percuma</a> "
+"secepat mungkin."
+
+msgid "Features"
+msgstr "Ciri-ciri"
+
+msgid "Customize"
+msgstr "Kustomisasi"
+
+msgid "Synchronize"
+msgstr "Sinkronisasi"
+
+msgid "Develop for Mobile"
+msgstr "Bina untuk \"Mobile\""
+
+msgid "Other Supported Platforms"
+msgstr "Sokongan platform yang lain"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Platform-platform lain &amp; Bahasa-bahasa"
+
+msgid "Choose your location"
+msgstr "Pilih lokasi anda"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Muat turun Firefox secara langsung daripada telefon anda"
+
+msgid "Download"
+msgstr "Muat Turun"
+
+msgid "Next"
+msgstr "Berikutnya"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "Megabait"
+
+msgid "FAQ"
+msgstr "FAQ{ok}"
+
+msgid "Videos"
+msgstr "Video-video"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Kecuali dimana sebaliknya <a href=\"%s\">secara khusus</a>, kandungan dalam "
+"laman ini adalah diperlesenkan bawah <br /><a href=\"%s\">Creative Commons "
+"Attribution Share-Alike License v3.0</a> atau sebarang versi yang "
+"sebelumnya."
+
+msgid "Report Trademark Abuse"
+msgstr "Lapor Penyalahgunaan Jenama"
+
+msgid "Free Upgrade"
+msgstr "Free Upgrade {ok}"
+
+msgid "Follow us on:"
+msgstr "Ikuti kami pada:"
+
+msgid "Customize with Add-ons"
+msgstr "Kustomisasi dengan Add-ons"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sinkronisasi Desktop & Mobile anda"
+
+msgid "Learn More"
+msgstr "Ketahui lanjut"
+
+msgid "Watch the video"
+msgstr "Tonton video ini"
+
+msgid "WebM format"
+msgstr "Format WebM"
+
+msgid "Ogg Theora format"
+msgstr "Format Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Format MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Whoops! Pastikan untuk mengisi alamat emel yang sah."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Sila baca Polisi Privasi Mozilla dan setuju dengan menandakan kotak dibawah."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr "Sila mengisi alamat emel anda dan semak Polisi Privasi Mozilla"
+
+msgid "Mobile"
+msgstr "Mobile {ok}"
+
+msgid "Firefox Updated"
+msgstr "Firefox dikemasikini"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Lihat pada masa depan Web"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Perjalanan kepada Masa Depan dengan Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Sertai Program Beta"
+
+msgid "Experience Firefox"
+msgstr "Pengalaman Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Masa depan daripada Web telah menunggu anda!"
+
+msgid "The future of the Web starts now."
+msgstr "Masa depan daripada Web bermula sekarang."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Cuba Firefox dengan dengan rupa baru dan rasainya"
+
+msgid "Experience tomorrow's Web today."
+msgstr "Pengalaman esok Web adalah hari ini."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Nikmati dengan rupa baru dan rasai daripada Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Semak seimbas masa depan daripada Web"
+
+msgid "See Firefox with a new look and feel."
+msgstr "Lihat Firefox dengan rupa baru dan rasainya."
+
+msgid "Download Beta Now."
+msgstr "Muat Turun Beta Sekarang!"
+
+msgid "All Systems & Languages"
+msgstr "Keseluruhan sistem-sistem dan bahasa lain."
+
+msgid "View Full Site"
+msgstr "Lihat laman penuh"
+
+msgid "Get Firefox for Android"
+msgstr "Dapatkan Firefox untuk Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Muat Turun tuntuk <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Percuma daripada Android Market"
+
+msgid "Desktop"
+msgstr "Desktop {ok}"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta untuk mobile"
+
+msgid "Firefox for mobile"
+msgstr "Firefox untuk mobile"
+
+msgid "Email"
+msgstr "Emel"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Membawa kepada Web Moden untuk XP."
+
+msgid "Super speed"
+msgstr "Kelajuan luar biasa"
+
+msgid "Stunning graphics"
+msgstr "Grafik-grafik yang mengagumkan"
+
+msgid "The latest technologies"
+msgstr "Teknologi-teknologi yang terbaru"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Anda telah menggunakan Firefox versi terdahulu. Dapatkan kemaskini anda "
+"untuk bertindak selamat! <br/> <a href=\"%s\">Muat turun free upgrade</a> "
+"dalam masa kurang seminit untuk ciri-ciri terkini, kelajuan dan keselamatan "
+"yg dipulihkan."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Anda perlu upgrade! Bertindak selamat dalam kurang daripada seminit. <br/> "
+"Mulakan Firefox baru anda untuk melayari dengan terbaik dan kustomisasi "
+"kepada Web. <br/>  Ia pantas dan percuma!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Anda telah menggunakan Firefox versi terdahulu. Dapatkan <a href=\"%"
+"s\">kemaskini anda</a> untuk bertindak selamat! <br/> Pengalaman dengan ciri-"
+"ciri terkini, keselamatan dipulihkan dan kepantasan Firefox menetapkan "
+"kelajuan. Muat turun \"free upgrade\" dalam masa kurang daripada seminit."
+
+msgid "Upgrade now"
+msgstr "Upgrade sekarang"
+
+msgid "Update now"
+msgstr "Kemaskini sekarang"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"
+
+msgid "Mission"
+msgstr "Mission"

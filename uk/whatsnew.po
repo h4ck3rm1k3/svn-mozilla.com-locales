@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/uk/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Ура! Маєте останню версію Firefox."
+
+msgid "Your Firefox is out of date."
+msgstr "Ваш Firefox застарів."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"З міркувань безпеки, ми радимо вам оновитись до <a href=\"{url}\">останньої та "
+"найкращої версії</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Ви користуєтесь невідомою версією Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"З міркувань безпеки, ми радимо вам завантажити <a href=\"{url}\">останню та "
+"найкращу версію</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Перехід від задачі до задачі<br/>став швидшим ніж будь-коли"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Подивіться, як нові можливості Firefox зроблять вашу роботу швидшою та "
+"ефективнішою."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Дізнайтесь про <a href=\"{url}\">можливості Нової Вкладки »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Дізнайтесь про <a href=\"{url}\">оновлену домашню сторінку »</a>"
+
+msgid "Keep in touch"
+msgstr "Лишайтесь на зв’язку"
+
+msgid "Keep it moving"
+msgstr "Будьте мобільним"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Завантажити Firefox » <b>під Android</b>"
+
+msgid "Keep it going"
+msgstr "Слідкуйте за новинами"
+
+msgid "Join Mozilla"
+msgstr "Приєднатись до Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Робота Android було відтворено з роботи, створеної та <a href=\"%s\">наданої "
+"компанією Google</a>, і використано згідно до умов викладених у ліцензії <a "
+"href=\"%s\">Creative Commons 3.0 Attribution</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Now get the mobile browser that’s got your back"
+
+msgid "Firefox Features"
+msgstr "Firefox Features"
+
+msgid "Welcome to Firefox"
+msgstr "Welcome to Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox Help"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox for Android artwork"
+
+msgid "Fast. Smart. Safe."
+msgstr "Fast. Smart. Safe."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Get the mobile browser that’s got your back."

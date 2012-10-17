@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lij/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Descàrega Firefox Beta pe l'Android - De bàdda"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Descàrega Firefox Beta pe-o Desktop - De bàdda"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Descàrega e prêuva e verscioìn d'avegnî do Firefox. Vîvi e ùrtime inovaçioìn "
+"con l'Aurora ò o Beta."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta{ok}"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta pe:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta pe Telefonìn"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Descàrega o Beta coscì ti saiæ pàrte da pròscima versción do Firefox."
+
+msgid "1. Test Features"
+msgstr "1. Prêuva Carateristìche"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Prêuva pe prìmmo e ùrtime prestaçioìn, personalizaçioìn e megioraménti de "
+"seguéssa squæxi prónti."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Rafîna e Polìsci"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Mànda di bagoìn pe agiutâne a fâ i ùrtimi megioraménti in sce prestaçioìn e "
+"fonçionalitæ inte 'n'anbiénte stàbile."
+
+msgid "3. Do Your Part"
+msgstr "3. Fànni a teu pàrte"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Dànni o teu contribûto inta pròscima versción de Firefox e-a 450 milioìn de "
+"personn-e che l'uziàn tùtti i giórni."
+
+msgid "Supported devices"
+msgstr "Aparâti soportæ"

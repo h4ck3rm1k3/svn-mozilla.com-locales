@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pt-BR/videos/video_teambox.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Your apps on all your devices"
+msgstr "Seus aplicativos em todos os seus aparelhos"
+
+msgid ""
+"Teambox is an online collaboration software that can be hosted in the cloud "
+"or onsite"
+msgstr ""
+"Teambox é um programa de colaboração on-line que pode ser hospedado na nuvem "
+"ou no seu site"
+
+msgid "that allows teams of any size to collaborate more efficiently,"
+msgstr "e que permite que equipes de qualquer tamanho trabalhem juntas melhor,"
+
+msgid "communicate with each other, share files and manage tasks."
+msgstr "comuniquem-se entre si, compartilhem arquivos e gerenciem tarefas."
+
+msgid "We’re fortunate enough to have customers all over the world"
+msgstr "Nós temos a sorte de termos clientes de todo o mundo"
+
+msgid ""
+"and using HTML5 we know that we can deliver a consistent user experience"
+msgstr ""
+"e usando HTML5 nós sabemos que podemos fornecer uma experiência consistente"
+
+msgid ""
+"to those customers anywhere they are, no matter what device they are using."
+msgstr ""
+"para clientes em qualquer lugar, indiferente do dispositivo que estiverem "
+"usando."
+
+msgid "There is actually one customer that’s coming to mind called iBolt"
+msgstr "Na verdade há um cliente que me vem à mente chamado iBolt"
+
+msgid "and they manufacture wireless accessories all over the world."
+msgstr "e eles fabricam acessórios sem fio no mundo todo."
+
+msgid "All of them are on different devices, some of them are using phones"
+msgstr "Todos eles usam dispositivos diferentes; alguns usam telefones"
+
+msgid "some are on tablets, some are on the desktop,"
+msgstr "alguns estão em tablest, outros em computadores,"
+
+msgid ""
+"but we know that all of them have a consistent and great user experience "
+"using HTML5"
+msgstr ""
+"mas nós sabemos que todos terão uma experiência ótima e consistente usando "
+"HTML5"
+
+msgid "and that gives us a lot of assurance as a software developer."
+msgstr "e isso nos dá uma grande segurança como desenvolvedores de software."
+
+msgid "Obviously we could build native applications, but doing so,"
+msgstr "Obviamente nós poderíamos criar aplicativos nativos, mas isso"
+
+msgid "for a small fast-growing company like us,"
+msgstr "para uma pequena empresa em grande crescimento como nós"
+
+msgid "takes a lot of time, a lot of extra money and"
+msgstr "leva muito tempo, muito dinheiro extra e tem impacto"
+
+msgid "it impacts our ability to deliver a great app to market sooner."
+msgstr ""
+"na nossa habilidade de entregar um ótimo aplicativo ao mercado mais cedo."
+
+msgid "So we made the decision not to build native apps"
+msgstr "Então tomamos a decisão de não criar aplicativos nativos"
+
+msgid "and we’re using technologies like HTML5 to get to market faster"
+msgstr ""
+"e estamos usando tecnologias como o HTML5 para chegar mais rápido ao mercado"
+
+msgid ""
+"with better products and ultimately to deliver a better user experience for "
+"our customers."
+msgstr ""
+"com produtos melhores e para fornecer uma experiência melhor aos nossos "
+"clientes."
+
+msgid "Quite frankly we see it as a terrific onramp for our business"
+msgstr ""
+"Francamente, nós vemos isso como uma excelente rampa de acesso para o nosso "
+"negócio"
+
+msgid ""
+"Already today we see almost 1,000 signups a day without the Mozilla "
+"Marketplace"
+msgstr "Hoje nós já temos quase 1.000 acessos por dia sem o Mozilla Marketplace"
+
+msgid ""
+"and we can’t even imagine how many we can possibly get through that "
+"Marketplace."
+msgstr ""
+"e não podemos nem imaginar quantos nós poderíamos alcançar pelo Marketplace."
+
+msgid "So we see it as a tremendous opportunity."
+msgstr "Então nós encaramos como uma grande oportunidade."
+
+msgid "Something that gives us more visibility, more cachet in the market"
+msgstr "Algo que nos dá mais visibilidade, mais prestígio no mercado"
+
+msgid "and we’re really excited about it, we’re looking forward to it."
+msgstr "e nós estamos muito empolgados e mal podemos esperar."

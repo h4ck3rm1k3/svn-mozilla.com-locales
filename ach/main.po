@@ -1,0 +1,492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Wot iwiye"
+
+msgid "Press area"
+msgstr "Dii eria"
+
+msgid "About"
+msgstr "Lok ikome"
+
+msgid "Store"
+msgstr "Gwok"
+
+msgid "Donate"
+msgstr "Jal"
+
+msgid "Support"
+msgstr "Cwak"
+
+msgid "Products"
+msgstr "Jami ma kati"
+
+msgid "Add-ons"
+msgstr "Med ikome"
+
+msgid "About Us"
+msgstr "Lok Komwa"
+
+msgid "Developers"
+msgstr "Jo ma yubo"
+
+msgid "Labs"
+msgstr "Lab"
+
+msgid "skip to Navigation"
+msgstr "Kal woko wek Wot iwiye"
+
+msgid "switch language"
+msgstr "Kob leb"
+
+msgid "Back to home page"
+msgstr "Dok cen I pot buk me acaki"
+
+msgid "About Mozilla"
+msgstr "Lok kom Mozilla"
+
+msgid "Get Involved"
+msgstr "Bed Ngat acel ie"
+
+msgid "Licensing"
+msgstr "Keto lanycec"
+
+msgid "Careers"
+msgstr "Lacuk cuny"
+
+msgid "Press Center"
+msgstr "Dii Dyere"
+
+msgid "Contact Us"
+msgstr "Kube kwed Wa"
+
+msgid "Site contact"
+msgstr "Dyer bar me kube"
+
+msgid "Other languages:"
+msgstr "Leb mapatpat:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d {ok}"
+
+msgid "All rights reserved."
+msgstr "Kigwoko ne maber."
+
+msgid "Legal Notices"
+msgstr "Ngec pa Lwak"
+
+msgid "Privacy Policy"
+msgstr "Cik pa Dano"
+
+msgid "Visit Mozilla.com"
+msgstr "Lim Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Lim Mozilla.com (Dyer bar pa US)"
+
+msgid "Download Firefox - Free"
+msgstr "Kwany woko Firefox-Me nono"
+
+msgid "Release Notes"
+msgstr "Gony Nyig lok"
+
+msgid "Other Systems and Languages"
+msgstr "Kit Mapat ki Leb"
+
+msgid "Get Firefox"
+msgstr "Gam Firefox"
+
+msgid "Free Download"
+msgstr "Kwanyo me Nono"
+
+msgid "Help us make Firefox even better!"
+msgstr "Kony wa wek omi Firefox obed maber!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr "Ter kare manok wek i be ie pe oyoto ki nywak tam megi kwed wa."
+
+msgid "Close"
+msgstr "Lor"
+
+msgid "(in English)"
+msgstr "(I leb Munu)"
+
+msgid "Download Now - Free"
+msgstr "Kwany Kombedi-Me nono"
+
+msgid "Return to top"
+msgstr "Doc cen i wiye malo"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Myero i <a href=\"http://get.adobe.com/flashplayer/\"> Ngec pa Latuku me "
+"Adober</a>kombedi."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox tye naka wa kombedi, ento cik me Latuku me Flash matye romo kelo ber "
+"bedo ki kit tic maber.Tim ber <a href=\"http://get.adobe.com/flashplayer/\">i "
+"ket ngec me nono</a>oyotoyot."
+
+msgid "Features"
+msgstr "Kit"
+
+msgid "Customize"
+msgstr "Ket megi"
+
+msgid "Synchronize"
+msgstr "Keto gin marwate kacel"
+
+msgid "Develop for Mobile"
+msgstr "Yub ne pi Cing"
+
+msgid "Other Supported Platforms"
+msgstr "Jami ma iyie Mukene ma Kicwako te"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Jami ma iyie mapat &amp;Leb"
+
+msgid "Choose your location"
+msgstr "Yer kabedo megi"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Kwany Firefox atir ni aa ki cim megi"
+
+msgid "Download"
+msgstr "Kwany"
+
+msgid "Next"
+msgstr "Mede anyim"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "MegaBayit"
+
+msgid "FAQ"
+msgstr "FAQ {ok}"
+
+msgid "Videos"
+msgstr "Video"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Nikwanyo ka kwene onyo <a href=\"%s\">noted</a>, jami ma ikom dyer bar man "
+"kityeko culo lanycec ne<br /><a href=\"%s\">Yele me Tiyo ki Nywako-Lanycec "
+"v3.0</a> onyo cik mo ma okati."
+
+msgid "Report Trademark Abuse"
+msgstr "Mi ngec me Alama me Nywaro cat"
+
+msgid "Free Upgrade"
+msgstr "Yilo me nono"
+
+msgid "Follow us on:"
+msgstr "Lub kor wa ikom:"
+
+msgid "Customize with Add-ons"
+msgstr "Ket megi ci Med ikome"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sync Wang Kompiuta &Me cing"
+
+msgid "Learn More"
+msgstr "Nong ngec Madwong"
+
+msgid "Watch the video"
+msgstr "Nen cideo"
+
+msgid "WebM format"
+msgstr "Kit WebM"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Kit Theora"
+
+msgid "MPEG-4 format"
+msgstr "Kit pa MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Whoops! Mok me keto email address matiyo."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Time ber i kwan Cik pa dano pi Mozilla ki i yee kun i roto canduk."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr "Tim ber i ket email address megi ki i nen odoco Cik pa Dano me Mozilla."
+
+msgid "Mobile"
+msgstr "Me cing"
+
+msgid "Firefox Updated"
+msgstr "Ki mino ngec me Firefox"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Nen Web me diki manok"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Weno i I anyim kwede Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Dony i Purugram Mamwonya"
+
+msgid "Experience Firefox"
+msgstr "Nong ngec me Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Anyim pa Web bene tye ka kuri!"
+
+msgid "The future of the Web starts now."
+msgstr "Anyim pa Web bicake kombedi."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Tem Firefox kwede neno manyen ki i winy."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Nong Web me diki tin."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Rot odoco neno manyen ki i winye pa Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Yeny anyim me Web."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Nen Firefox kwede lanen manyen ki i winy."
+
+msgid "Download Beta Now."
+msgstr "Kwany Mamwonya kombedi."
+
+msgid "All Systems & Languages"
+msgstr "Kit Lung & Leb"
+
+msgid "View Full Site"
+msgstr "Nen odoco Dyer Bar Lung"
+
+msgid "Get Firefox for Android"
+msgstr "Nong Firefox pi Anroid"
+
+msgid "Download for <span>Android</span>"
+msgstr "Kwany<span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Tye me nono ni aa i cuk me Anroid"
+
+msgid "Desktop"
+msgstr "Cal ma i wang kompiuta"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Mamwonya ma kiwoto kwede awota"
+
+msgid "Firefox for mobile"
+msgstr "Firefoxme ma kiwoto kwede awota"
+
+msgid "Email"
+msgstr "Email {ok}"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Kelo Web ma odongo bot XP."
+
+msgid "Super speed"
+msgstr "Dwiro kikome"
+
+msgid "Stunning graphics"
+msgstr "Miyo cal time"
+
+msgid "The latest technologies"
+msgstr "Diro ma okato macok coki"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"I tye katic ki cik me Firefox ma oti woko. Nong ngec megi wek obed maber!! "
+"<br/> <a href=\"%s\">Kwany gin yilo me nono</a> i kare mo ma pe romo acel pi "
+"kit ma okato cokcoki, dwiro ki ber bedo ne."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Rwom me yilo mite boti! Bed maber i kin kare mape oo acel. <br/> Cak tic ki "
+"Firefox megi manyen pi yenyo gin mamwonya ki megi ikom Web. <br/> dwir ci "
+"tye me nono!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"I tye katic ki cik macon me Firefox. Nong <a href=\"%s\">ngec megi</a> pi bedo "
+"maber! <br/> Nongo ngec me kit ma okati macokcoki, moko ber bedo ki Firefox "
+"ma dwir. Kwany yilo woko i dakika mape romo acel."
+
+msgid "Upgrade now"
+msgstr "Yil rwom ne kombedi"
+
+msgid "Update now"
+msgstr "Yil rwom ne kombedi"
+
+msgid "Supported Devices"
+msgstr "Jami tic ma Kicwako te"
+
+msgid "What’s New"
+msgstr "Ngo Manyen"
+
+msgid "Privacy"
+msgstr "I mung pa dano"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

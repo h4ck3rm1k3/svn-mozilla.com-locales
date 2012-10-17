@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/de/firefoxlive.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox Live"
+msgstr "Firefox Live {ok}"
+
+msgid "Tweet"
+msgstr "Twittern"
+
+msgid "Follow @cubcaretaker"
+msgstr "Folgen Sie @cubcaretaker"
+
+msgid "Cameras"
+msgstr "Kameras"
+
+msgid "360° view"
+msgstr "360°-Ansicht"
+
+msgid "Camera 1"
+msgstr "Kamera 1"
+
+msgid "Camera 2"
+msgstr "Kamera 2"
+
+msgid "Video help"
+msgstr "Hilfe zum Video"
+
+msgid ""
+"Do you like baby animals? Mozilla Firefox is streaming video of their 3 "
+"adopted red panda babies. Spread the word and 'share' with your friends."
+msgstr ""
+"Magst du Jungtiere? Mozilla Firefox zeigt ein Video in Echtzeit von seinen 3 "
+"adoptierten Jungtieren des Roten Pandas. Verbreite die Nachricht und "
+"„teile“ sie mit deinen Freunden."
+
+msgid ""
+"What is more endearing? Firefox’s non-profit mission or a live feed of their "
+"animal mascot? Find out http://mzl.la/sPo5yu"
+msgstr ""
+"Was gefällt dir mehr? Firefox’ gemeinnützige Mission oder ein Video vom Fx-"
+"Tiermaskottchen? Find’s heraus http://mzl.la/sPo5yu"
+
+msgid ""
+"Help Firefox help protect its rare mascot and the Web by watching baby "
+"animals! http://mozilla.org/firefoxlive"
+msgstr ""
+"Hilf Firefox, das Internet und sein seltenes Maskottchen zu schützen: Sieh "
+"dir Jungtiere an! http://mozilla.org/firefoxlive"
+
+msgid "Share on Twitter »"
+msgstr "Auf Twitter weitergeben »"
+
+msgid "Share on Facebook »"
+msgstr "Auf Facebook weitergeben »"

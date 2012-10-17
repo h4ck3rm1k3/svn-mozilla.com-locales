@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/bs/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Navigacija"
+
+msgid "Press area"
+msgstr "Press odjeljenje"
+
+msgid "About"
+msgstr "O"
+
+msgid "Store"
+msgstr "Prodavnica"
+
+msgid "Donate"
+msgstr "Donirajte"
+
+msgid "Support"
+msgstr "Podrška"
+
+msgid "Products"
+msgstr "Proizvodi"
+
+msgid "Add-ons"
+msgstr "Add-oni"
+
+msgid "About Us"
+msgstr "O nama"
+
+msgid "Developers"
+msgstr "Developeri"
+
+msgid "Labs"
+msgstr "Labs {ok}"
+
+msgid "skip to Navigation"
+msgstr "preskoči na Navigaciju"
+
+msgid "switch language"
+msgstr "promijeni jezik"
+
+msgid "Back to home page"
+msgstr "Nazad na početnu stranu"
+
+msgid "About Mozilla"
+msgstr "O Mozilli"
+
+msgid "Get Involved"
+msgstr "Uključite se"
+
+msgid "Licensing"
+msgstr "Licenciranje"
+
+msgid "Careers"
+msgstr "Karijera"
+
+msgid "Press Center"
+msgstr "Press Centar"
+
+msgid "Contact Us"
+msgstr "Kontakt"
+
+msgid "Site contact"
+msgstr "Site kontakt"
+
+msgid "Other languages:"
+msgstr "Ostali jezici:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "Sva prava pridržana."
+
+msgid "Legal Notices"
+msgstr "Pravne napomene"
+
+msgid "Privacy Policy"
+msgstr "Polica privatnosti"
+
+msgid "Visit Mozilla.com"
+msgstr "Posjetite Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Posjetite Mozilla.com (na engleskom)"
+
+msgid "Download Firefox - Free"
+msgstr "Preuzmite Firefox - Besplatno"
+
+msgid "Release Notes"
+msgstr "Napomene o izdanju"
+
+msgid "Other Systems and Languages"
+msgstr "Ostali sistemi i jezici"
+
+msgid "Get Firefox"
+msgstr "Preuzmite Firefox"
+
+msgid "Free Download"
+msgstr "Besplatno preuzimanje"
+
+msgid "Help us make Firefox even better!"
+msgstr "Pomozite nam da učinimo Firefox još boljim!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Odvojite par trenutaka da popunite kratku anketu i podijelite svoje "
+"mišljenje sa nama."
+
+msgid "Close"
+msgstr "Zatvori"
+
+msgid "(in English)"
+msgstr "(na engleskom)"
+
+msgid "Download Now - Free"
+msgstr "Preuzmite sada - Besplatno"
+
+msgid "Return to top"
+msgstr "Vrati se na vrh"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Trebali biste <a href=\"http://get.adobe.com/flashplayer/\">nadograditi Adobe "
+"Flash Player</a> odmah."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Imate zadnju verziju Firefoxa, ali vaša trenutna verzija Flash Playera može "
+"izazvati probleme vezane za sigurnost i stabilnost.  Molimo da <a "
+"href=\"http://get.adobe.com/flashplayer/\">instalirate besplatnu "
+"nadogradnju</a> čim prije."
+
+msgid "Features"
+msgstr "Mogućnosti"
+
+msgid "Customize"
+msgstr "Prilagođavanje"
+
+msgid "Synchronize"
+msgstr "Sinhronizacija"
+
+msgid "Develop for Mobile"
+msgstr "Razvoj za mobilni"
+
+msgid "Other Supported Platforms"
+msgstr "Ostale podržane platforme"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Ostale platforme i jezici"
+
+msgid "Choose your location"
+msgstr "Izaberite vašu lokaciju"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Preuzmite Firefox direktno sa vašeg telefona"
+
+msgid "Download"
+msgstr "Preuzmite"
+
+msgid "Next"
+msgstr "Dalje"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "Megabajta"
+
+msgid "FAQ"
+msgstr "FAQ {ok}"
+
+msgid "Videos"
+msgstr "Video"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Osim gdje je drugačije <a href=\"%s\">navedeno</a>, sadržaj na ovoj stranici "
+"je licenciran pod <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> ili bilo kojom novijom verzijom."
+
+msgid "Report Trademark Abuse"
+msgstr "Prijavite zloupotrebu zaštitnog znaka"
+
+msgid "Free Upgrade"
+msgstr "Besplatna nadogradnja"
+
+msgid "Follow us on:"
+msgstr "Pratite nas na:"
+
+msgid "Customize with Add-ons"
+msgstr "Prilagodite pomoću Add-ona"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Sinhronizujte vaš Desktop i Mobilni"
+
+msgid "Learn More"
+msgstr "Saznajte više"
+
+msgid "Watch the video"
+msgstr "Pogledajte video"
+
+msgid "WebM format"
+msgstr "WebM format {ok}"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora format {ok}"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 format {ok}"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Ups! Provjerite da li ste unijeli ispravnu email adresu."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Molimo da pročitate Mozilla Privacy Policy i da je prihvatite."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Molimo da unesete vašu email adresu i pregledate Mozilla Privacy Policy."
+
+msgid "Mobile"
+msgstr "Mobilni"
+
+msgid "Firefox Updated"
+msgstr "Firefox nadograđen"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Bacite pogled na Web sutrašnjice"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Putovanje u budućnost Firefoxa"
+
+msgid "Join the Beta Program"
+msgstr "Uključite se u Beta program"
+
+msgid "Experience Firefox"
+msgstr "Doživite Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Budućnost Weba čeka na vas!"
+
+msgid "The future of the Web starts now."
+msgstr "Budućnost Weba počinje sada."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Probajte Firefox sa novim izgledom i ugođajem."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Doživite Web sutrašnjice još danas."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Isprobajte novi izgled i ugođaj Firefoxa."
+
+msgid "Browse the future of the Web."
+msgstr "Putujte kroz budućnost Weba."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Pogledajte Firefox sa novim izgledom i ugođajem."
+
+msgid "Download Beta Now."
+msgstr "Preuzmite Betu odmah."
+
+msgid "All Systems & Languages"
+msgstr "Svi sistemi i jezici"
+
+msgid "View Full Site"
+msgstr "Prikaži cijelu stranicu"
+
+msgid "Get Firefox for Android"
+msgstr "Preuzmite Firefox za Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Preuzmite za <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Besplatno sa Android Marketa"
+
+msgid "Desktop"
+msgstr "Desktop {ok}"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta za mobilni"
+
+msgid "Firefox for mobile"
+msgstr "Firefox za mobilni"
+
+msgid "Email"
+msgstr "Email {ok}"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Donosi moderni Web na XP."
+
+msgid "Super speed"
+msgstr "Super brzina"
+
+msgid "Stunning graphics"
+msgstr "Nevjerovatna grafika"
+
+msgid "The latest technologies"
+msgstr "Najnovije tehnologije"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Koristite staru verziju Firefoxa. Izvršite update da biste ostali sigurni! "
+"<br/> <a href=\"%s\">Preuzmite besplatnu nadogradnju</a> za manje od minute "
+"kako biste se okoristili najnovijim mogućnostima, brzinom i sigurnosnim "
+"unapređenjima."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Potrebna vam je nadogradnja! Ostanite sigurni za manje od minute. <br/> "
+"Počnite koristiti svoj novi Firefox za najbolje iz svijeta surfanja i "
+"prilagođavanja na Webu. <br/>   Brzo i besplatno!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Koristite staru verziju Firefoxa. Preuzmite <a href=\"%s\">svoj update</a> da "
+"biste ostali sigurni! <br/> Iskusite najnovije mogućnosti, sigurnosna "
+"unapređenja i najbrži Firefox do sada. Preuzmite besplatnu nadogradnju za "
+"manje od minute."
+
+msgid "Upgrade now"
+msgstr "Nadogradi odmah"
+
+msgid "Update now"
+msgstr "Izvrši update odmah"
+
+msgid "Supported Devices"
+msgstr "Podržani uređaji"
+
+msgid "What’s New"
+msgstr "Šta je novo"
+
+msgid "Privacy"
+msgstr "Privatnost"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Dijelovi ovog sadržaja su ©1998–%(current_year)s od strane pojedinih "
+"mozilla.org doprinosilaca. Sadržaj je dostupan pod a <a href=\"%"
+"(url)s\">Creative Commons licencom</a>."
+
+msgid "Contribute to this page"
+msgstr "Doprinesite ovoj stranici"
+
+msgid "Mission"
+msgstr "Misija"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"

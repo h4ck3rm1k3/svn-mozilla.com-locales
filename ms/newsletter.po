@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ms/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Dapatkan Berita Bulanan"
+
+msgid "Your Email Address"
+msgstr "Alamat Emel Anda"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Available Languages"
+msgstr "Bahasa-bahasa yang tersedia"
+
+msgid "Select country"
+msgstr "Pilih negara"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Whoops! Pastikan anda meletakkan alamat emel yang sah."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Sila baca Polisi Privasi Mozilla dan bersetuju  dengan menyemak tanda kotak."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Saya bersetuju untuk <a href=\"%s\">Polisi Keselamatan</a>"
+
+msgid "Sign me up!"
+msgstr "Daftarkan saya!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Kami hanya akan menghantar maklumat yang berkaitan dengan Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Terima Kasih kerana Melanggan!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Kami memandang ke hadapan untuk begin sharing tips &amp; tricks on getting "
+"the most out of Firefox, as well as exciting news about Mozilla and how "
+"we’re working to create a better Web."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Melanggan kepada pengemaskinian bulanan dan kekal terkini dengan berita "
+"Mozilla, termasuk tip-tip terbaru dan trik untuk mendapatkan yang terbaik "
+"daripada pelayar Firefox anda. Ia adalah cara yang sempurna bagi kita untuk "
+"terus berhubung!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Kami baru sahaja menghantar email kepastian. Sila klik pada pautan ini untuk "
+"pengesahan langganan terhadap senarai mel"
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Baca semua mengenai kami dalam<span>berita<span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Langganan berita anda sudah berjaya"
+
+msgid "Format"
+msgstr "Format {ok}"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Anda telah berjaya! <span> Tetapi, masih terdapat lagi <./span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Mahu dapatkan maklumat yang paling relevan? Beritahu kami sedikit sebanyak "
+"tentang diri anda. Dan jika anda di sini, daftar untuk berita Mozilla yang "
+"lain. "
+
+msgid "Firefox & You"
+msgstr "Firefox & Anda"
+
+msgid "Our Other Newsletters:"
+msgstr "Berita kami"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Dapatkan tip-tip dan trik yang terbaru duntuk mendapatkan yang terbak "
+"daripada pelayar kegemaran anda."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Mobile {ok}"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Belajar mengenai ciri-ciri terbaru dan add-ons  yang terhangat Firefox "
+"mobile."
+
+msgid "Beta News"
+msgstr "Berita Beta"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Baca mengenai ciri-ciri terbaru untuk Firefox desktop dan mobile sebelum "
+"keluaran terakhirnya."
+
+msgid "Let’s Be Friends!"
+msgstr "Mari berkawan!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox juga adalah laman sosial rangkaian sosial kegemaran anda. Berhubung "
+"dengan kami dan sertai perbincangan kami"
+
+msgid "Manage your <span>Newsletter Subscriptions"
+msgstr "Uruskan <span> Langganan Berita anda"
+
+msgid "Subscribe"
+msgstr "Langgan"
+
+msgid "Unsubscribe"
+msgstr "Batal langganan"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails'"
+msgstr "Semak di sini jika anda mahu dikeluarkan daripada semua emel Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Singkirkan saya dari emel Mozilla"
+
+msgid "Save Preferences"
+msgstr "Simpan keutamaan"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Check here if you’d like to be removed from all Mozilla emails"
+
+msgid "You send too many emails."
+msgstr "You send too many emails."
+
+msgid "I didn't sign up for this."
+msgstr "I didn't sign up for this."
+
+msgid "Your email design was too hard to read."
+msgstr "Your email design was too hard to read."
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Thanks for telling us why you’re leaving."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Manage your <span>Newsletter Subscriptions</span>"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Thanks for updating your email preferences."
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Your content wasn't relevant to me."
+msgstr "Your content wasn't relevant to me."
+
+msgid "You've been unsubscribed."
+msgstr "You've been unsubscribed."

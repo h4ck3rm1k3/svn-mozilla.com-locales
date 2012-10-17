@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/hr/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Hura! Vaš Firefox je ažuriran."
+
+msgid "Your Firefox is out of date."
+msgstr "Vaš Firefox nije ažuriran."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Zbog sigurnosnih razloga, preporučamo da obavite nadogradnju na <a "
+"href=\"{url}\">najnoviju i najbolju inačicu</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Koristite nepoznatu inačicu Firefoxa."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Zbog sigurnosnih razloga, preporučamo da preuzmete <a href=\"{url}\">najnoviju "
+"i najbolju inačicu</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Prijeđite na svoj idući zadatak<br/>brže no ikada"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Saznajte kako vam nove mogućnosti u Firefoxu omogućuju brže i efikasnije "
+"surfanje."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Saznajte više o <a href=\"{url}\">novoj mogućnosti kartica »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr ""
+"Saznajte više o našoj <a href=\"{url}\">rededizajniranoj početnoj stranici "
+"»</a>"
+
+msgid "Keep in touch"
+msgstr "Ostanite u kontaktu"
+
+msgid "Keep it moving"
+msgstr "Budite u pokretu"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Preuzmite Firefox » <b>za Android</b>"
+
+msgid "Keep it going"
+msgstr "Samo nastavite"
+
+msgid "Join Mozilla"
+msgstr "Pridružite se Mozilli"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android Robot je reproduciran iz rada kojeg je <a href=\"%s\">Google "
+"podijelio</a>. Rad je korišten u skladu s uvjetima navedenima u <a href=\"%"
+"s\">Creative Commons 3.0 Attribution licenci</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Preuzmite Firefox za Android</a> i postavite snagu Weba u svoje "
+"ruke. Firefox za Android je brz, pametan i siguran!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "A sada nabavite preglednik za mobitele koji vam čuva leđa"
+
+msgid "Firefox Features"
+msgstr "Mogućnosti Firefoxa"
+
+msgid "Welcome to Firefox"
+msgstr "Dobrodošli u Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox pomoć"
+
+msgid "Firefox for Android artwork"
+msgstr "Ilustracije Firefoxa za Android"
+
+msgid "Fast. Smart. Safe."
+msgstr "Brz. Pametan. Siguran."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Nabavite preglednik za mobitele koji vam čuva leđa."

@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/cs/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "Výroční zpráva <span>projektu Mozilla</span>"
+
+msgid "Welcome"
+msgstr "Vítejte"
+
+msgid "Opportunities"
+msgstr "Příležitosti"
+
+msgid "People"
+msgstr "Lidé"
+
+msgid "Ahead"
+msgstr "Výhled"
+
+msgid "Download this video:"
+msgstr "Stáhnout video:"
+
+msgid "A Different Kind of Browser"
+msgstr "Odlišný prohlížeč"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "O čem všem Mozilla je? Proč to děláme? Jsme rádi, že se ptáte."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Pohled do budoucna s <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, ředitelka Mozilly"
+
+msgid "Getting Involved"
+msgstr "Zapojit se"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr "Mozilla je zábavná různorodá komunita lidí po celém světě. "
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Billboard Mozilla Firefoxu, San Francisco"
+
+msgid "Download PDF"
+msgstr "Stáhnout PDF"
+
+msgid "2010 Audited Financial Statement"
+msgstr "Auditované finanční výsledky pro rok 2010"
+
+msgid "2010 Form 990"
+msgstr "2010 Form 990 {ok}"
+
+msgid "Celebrating Firefox"
+msgstr "Oslava Firefoxu"
+
+msgid "ReMo Work Week in Paris"
+msgstr "ReMo Work Week v Paříži"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Setkání Mozilly, Brazil"
+
+msgid "Arabic Mozilla"
+msgstr "Arabic Mozilla {ok}"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Kenya {ok}"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Indonesia {ok}"
+
+msgid "Other languages & sharing"
+msgstr "Ostatní jazyky & sdílení"

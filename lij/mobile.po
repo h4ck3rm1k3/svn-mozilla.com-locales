@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lij/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Descàrega Firefox pe Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Descaregaménto pe <span>Android</span>"
+
+msgid "Download for <span>Nokia N900</span>"
+msgstr "Descaregaménto pe <span>Nokia N900</span>"
+
+msgid ""
+"Get Firefox for Maemo by visiting <a %s>Firefox.com/m</a> on your phone."
+msgstr ""
+"Descàrega Firefox pe Maemo vixitàndo <a %s>Firefox.com/m</a> dò-u teu "
+"telefonìn."
+
+msgid "Free from the Android Market"
+msgstr "De bàdda dò-u Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Ò vìxita <a %s>Firefox.com/m</a> dò-u teu telefonìn."
+
+msgid "Supported Devices"
+msgstr "Aparâti sopórtæ"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Descàreghilo da iTunes - DE BÀDDA"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home pe <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Açédi a teu stöia, segnalìbbri e féuggi avèrti de Firefox dò-u teu iphone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Descàrega Firefox into <span>teu telefonìn</span>"
+
+msgid "Want to test the latest features?"
+msgstr "T'eu provâ l'ùrtime novitæ?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Descàrega Firefox Home pe iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Descàrega Beta pe Android"
+
+msgid "Download"
+msgstr "Descàrega"
+
+msgid "for"
+msgstr "pe"
+
+msgid "Free from iTunes"
+msgstr "de bàdda da iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Ti priviæ e carateristìche a l'avangoàrdia e ti ne daiæ coménti pe agiutâne "
+"a megiorâ e rafinâ quéllo che saiâ inta versción finâle."
+
+msgid "Developer Tools"
+msgstr "Struménti do svilupatô"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Ti peu instalâ a versción pe telefonìn de Firefox into teu computer pe "
+"testâ, dâ di coménti, e fâ conponénti azónti."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Conétti con Firefox pe telefonìn:"
+
+msgid "Monthly newsletter"
+msgstr "Newsletter do méize"
+
+msgid "Follow us"
+msgstr "Segóine"
+
+msgid "Become a fan"
+msgstr "Devénta 'n fan"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox o l'é pìn de inovaçioìn che te permìttan de scrîve mêno, navegâ de "
+"ciù e acêde a-o Web inte 'n mòddo fàçile e velôce."
+
+msgid "Freedom from typing"
+msgstr "Libertæ da tastêa"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"A schermâ iniçiâ a reconósce i teu scîti preferîi e te consénte de navigâ "
+"sénsa digitâ nìnte (ò squæxi)."
+
+msgid "Best of both worlds"
+msgstr "O mêgio di doî móndi"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox pe Android o l'é otimizòu pe-a navegaçión in sci telefonìn e tablet."
+
+msgid "Browse quick and easy"
+msgstr "Navegaçión sénplice e velôce"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Fonçioìn cómme Sync, a navegaçión a féuggi e-i segnalìbbri con 'na sciacâ te "
+"permìttan de razónze a-o xêuo tùtto quéllo che te sèrve."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Bezéugno d'agiùtto?</a> Vìxita o nòstro scîto de sopòrto de Firefox pe "
+"Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Scàrega e prêuva a versción che fâ pe ti."
+
+msgid "See all our channels for mobile »"
+msgstr "Véddi tùtti i canâ de agiornaménto pe telefonìn »"

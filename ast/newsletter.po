@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ast/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Obtén noticies mensualmente"
+
+msgid "Your Email Address"
+msgstr "El to corréu-e"
+
+msgid "Text"
+msgstr "Testu"
+
+msgid "Available Languages"
+msgstr "Llingües disponibles"
+
+msgid "Select country"
+msgstr "Seleiciona país"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Eeepa! Introduz un corréu-e válidu"
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Por favor, llei la Política de Privacidá de Mozilla y aceuta conseñando la "
+"caxella."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Aceuto la <a href=\"%s\">Política de Privacidá</a>"
+
+msgid "Sign me up!"
+msgstr "Rexistráime!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Namás va unviásete información rellacionao con Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Gracies por soscribite!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Esperamos poder entamar aína a compartir conseyos y trucos pa saca-y el "
+"máximu a Firefox, asina como una bona noticia sobre Mozilla y el mou nel que "
+"tamos trabayando pa facer una Web meyor."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Soscríbite pa recibir anovamientos mensuales y tar al día de les novedaes de "
+"Firefox, incluyendo los caberos trucos y conseyos pa saca-y el máximu "
+"partíu al to restolador web. Ye'l mou perfeutu de que sigamos en contautu "
+"contigo."
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Acabamos d'unviate un mensaxe de confirmación per corréu. Fai click nel "
+"enllaz de confirmación pa validar la to soscripción a esta llista de corréu."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr ""
+"¡Llei tola información tocante a Firefox nel <span>nuesu boletín!</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Confirmóse la to soscripción al nuesu boletín."
+
+msgid "Format"
+msgstr "Formatu"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Too llisto! <span>Pero espera, entá hai más</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Quies tener más información? Cuéntanos coses tocante a ti. Y mentanto teas "
+"equí, soscríbite a otres noticies de Mozilla."
+
+msgid "Firefox & You"
+msgstr "Firefox & Tu"
+
+msgid "Our Other Newsletters:"
+msgstr "Otros boletines:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Obtén conseyos y trucos pa sacar el máximu provechu al to restolador web "
+"favoritu."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Mobile {ok}"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Conoz los caberos complementos y carauterístiques pa Firefox mobile."
+
+msgid "Beta News"
+msgstr "Noticies tocante a la Beta"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Llei tocante a les caberes funcionalidaes pa Firefox desktop y mobile "
+"enantes del llanzamientu final."
+
+msgid "Let’s Be Friends!"
+msgstr "Faite collaciu nuestru!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox tamién ta nes tos redes sociales favorites. Coneuta con nós y xúnite "
+"a la conversación."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Remanar les tos <span>soscripciones a los boletines</span>"
+
+msgid "Subscribe"
+msgstr "Soscribime"
+
+msgid "Unsubscribe"
+msgstr "Encaboxar soscripción"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Conseña equí si quies date de baxa de tolos correos de Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Esborrame de tolos correos de Mozilla"
+
+msgid "Save Preferences"
+msgstr "Guardar preferencies"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Gracies por anovar les tos preferencies de corréu."
+
+msgid "You've been unsubscribed."
+msgstr "Anulóse la to soscripción."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Llamentamos enforma que nos dexes. ¿Importaríate dicinos el motivu?"
+
+msgid "You send too many emails."
+msgstr "Recibo munchos correos."
+
+msgid "Your content wasn't relevant to me."
+msgstr "El conteníu nun yera relevante pa mí."
+
+msgid "Your email design was too hard to read."
+msgstr "El diseñu del corréu nun facilitaba la llectura."
+
+msgid "I didn't sign up for this."
+msgstr "Nun me di d'alta nesta soscripción."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Prefiero siguir en contautu con Mozilla en Facebook y Twitter."
+
+msgid "Submit"
+msgstr "Unviar"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Gracies por danos les tos razones."
+
+msgid "Mozilla Newsletters"
+msgstr "Boletín de Mozilla "
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Gracies! Mira na to bandexa d'entrada pa confirmar la to soscripción."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Vas recibir un mensaxe de corréu de mozilla@e.mozilla.org pa confirmar la to "
+"soscripción. Si nun lu ves, mira nel filtru de spam. Tienes que confirmar "
+"la soscripción pa recibir el nuesu boletín."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Asegúrate d'amestar la nuesa direición de corréu mozilla@e.mozilla.org a la "
+"to llibreta de direiciones p'asegurate que llegamos a la to bandexa "
+"d'entrada."

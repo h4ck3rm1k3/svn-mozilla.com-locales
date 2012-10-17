@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Získať mesačné reporty"
+
+msgid "Your Email Address"
+msgstr "Vaša e-mailová adresa"
+
+msgid "Text"
+msgstr "Text {ok}"
+
+msgid "Available Languages"
+msgstr "Dostupné jazyky"
+
+msgid "Select country"
+msgstr "Zvoľte krajinu"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Ops! Zadajte platnú e-mailovú adresu."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Prečítajte si Zásady ochrany súkromia Mozilla a odsúhlaste ich označením "
+"políčka."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Súhlasím so <a href=\"%s\">Zásadami ochrany súkromia</a>"
+
+msgid "Sign me up!"
+msgstr "Prihlásiť sa!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Zasielať Vám budeme len informácie týkajúce sa Mozilly."
+
+msgid "Thanks for Subscribing!"
+msgstr "Ďakujeme za prihlásenie!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Tešíme sa, že sa s Vami budeme môcť v blízkej budúcnosti podeliť s tipmi a "
+"trikmi ako získať z vášho Firefoxu čo najviac, so správami zo sveta Mozilly, "
+"ako aj o tom, ako sa nám darí robiť internet lepším miestom pre všetkých."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Prihláste sa odberu mesačných noviniek a budete informovaní o novinkách vo "
+"svete Mozilla, vrátane najnovších tipov a trikov ako získať zo svojho "
+"Firefoxu čo najviac. Je to perfektný spôsob, ako zostať s nami v spojení!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"E-mailovou správou Vám bolo odoslané potvrdenie. Kliknite na odkaz v tejto "
+"správe, čím potvrdíte vaše zaradenie do rozosielacieho zoznamu."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Viac v našom <span>magazíne</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Odber magazínu bol potvrdený."
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "A je hotovo! <span>Počkať, je toho ešte viac</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Chcete dostávať čo najrelevantnejšie informácie? Povedzte nám o sebe čosi "
+"viac. A keď už ste tu, môžete sa prihlásiť k odberu ďalších noviniek o "
+"Mozille."
+
+msgid "Firefox & You"
+msgstr "Firefox a vy"
+
+msgid "Our Other Newsletters:"
+msgstr "Naše iné magazíny:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Získate najnovšie tipy a triky, aby ste dostali zo svojho obľúbeného "
+"prehliadača čo najviac."
+
+msgid "Firefox Mobile"
+msgstr "Mobilný Firefox"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Pozrite si horúce novinky medzi doplnkami a funkciami mobilného Firefoxu."
+
+msgid "Beta News"
+msgstr "Novinky o beta verziách"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Prečítajte si o najnovších funkciách Firefoxu pre počítač aj mobilné "
+"zariadenia ešte pred finálnou verziou."
+
+msgid "Let’s Be Friends!"
+msgstr "Buďme priatelia!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox je aj na obľúbených sociálnych sieťach. Spojte sa s nami a "
+"porozprávajme sa."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Správa <span>oberaných magazínov</span>"
+
+msgid "Subscribe"
+msgstr "Prihlásiť"
+
+msgid "Unsubscribe"
+msgstr "Odhlásiť"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr ""
+"Označte, ak chcete byť odstránený zo všetkých e-mailových zoznamov na "
+"posielanie noviniek od Mozilly"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Odstrániť ma zo všetkých e-mailov od Mozilly"
+
+msgid "Save Preferences"
+msgstr "Uložiť nastavenia"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Ďakujeme za aktualizáciu vašich nastavení."
+
+msgid "You've been unsubscribed."
+msgstr "Váš odber bol zrušený."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Mrzí nás, že odchádzate. Môžete nám povedať svoje dôvody?"
+
+msgid "You send too many emails."
+msgstr "Poslali ste mi príliš veľa e-mailových správ."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Obsah nebol pre mňa relevantný."
+
+msgid "Your email design was too hard to read."
+msgstr "E-mailové správy boli ťažko čitateľné."
+
+msgid "I didn't sign up for this."
+msgstr "K tomuto odberu som sa neprihlásil."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "S Mozillou som v kontakte na Facebooku a Twitteri."
+
+msgid "Submit"
+msgstr "Odoslať"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Ďakujeme za uvedenie dôvodov, prečo odchádzate."
+
+msgid "Mozilla Newsletters"
+msgstr "Magazíny Mozilla"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Ďakujeme! Na vašu e-mailovú adresu bolo odoslané potvrdenie odberu."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Na potvrdenie odberu obdržíte správu z adresy mozilla@e.mozilla.org. Ak ju "
+"nevidíte, skontrolujte si spamový filter. Aby ste mohli magazín prijímať, "
+"musíte odber potvrdiť."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Nezabudnite si pridať adresu mozilla@e.mozilla.org do svojho adresára, aby "
+"sa správy od nás vždy dostali do vašej pošty."

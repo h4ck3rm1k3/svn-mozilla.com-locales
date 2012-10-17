@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/templates/firefox/devices.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Firefox is Made for Your Devices"
+msgstr "Firefox is Made for Your Devices"
+
+msgid "Desktops &amp; Laptops"
+msgstr "Desktops &amp; Laptops"
+
+msgid "Smartphones"
+msgstr "Smartphones"
+
+msgid "Tablets"
+msgstr "Tablets"
+
+msgid "Favorite Add-ons"
+msgstr "Favorite Add-ons"
+
+msgid "Sync Your Gadgets"
+msgstr "Sync Your Gadgets"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "New Firefox is up to 7 times faster."
+msgstr "New Firefox is up to 7 times faster."
+
+msgid "Upgrade your Firefox"
+msgstr "Upgrade your Firefox"
+
+msgid "More Features"
+msgstr "More Features"
+
+msgid "Download Firefox"
+msgstr "Download Firefox"
+
+msgid "Old Firefox = Sadface"
+msgstr "Old Firefox = Sadface"
+
+msgid "New Firefox = Yay!"
+msgstr "New Firefox = Yay!"
+
+msgid "Type less, browse more, and get to the Web quickly and easily."
+msgstr "Type less, browse more, and get to the Web quickly and easily."
+
+msgid "Customize your browsing on both desktop and mobile."
+msgstr "Customize your browsing on both desktop and mobile."
+
+msgid "Browse Add-ons"
+msgstr "Browse Add-ons"
+
+msgid "AdBlock Plus"
+msgstr "AdBlock Plus"
+
+msgid "Regain control and change the way that you view the Web."
+msgstr "Regain control and change the way that you view the Web."
+
+msgid "Add to Desktop"
+msgstr "Add to Desktop"
+
+msgid "Add to Mobile"
+msgstr "Add to Mobile"
+
+msgid "No Script"
+msgstr "No Script"
+
+msgid "Allow active content to run only from sites you trust."
+msgstr "Allow active content to run only from sites you trust."
+
+msgid "Speed Dial"
+msgstr "Speed Dial"
+
+msgid "Direct access to your most visited websites."
+msgstr "Direct access to your most visited websites."
+
+msgid "Your Web, <br>anywhere you go."
+msgstr "Your Web, <br>anywhere you go."
+
+msgid "Get in Sync"
+msgstr "Get in Sync"

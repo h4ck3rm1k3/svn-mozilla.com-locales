@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ml/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "നാവിഗേഷന്‍"
+
+msgid "Press area"
+msgstr "മാധ്യമങ്ങള്‍ക്കായുള്ള മേഖല"
+
+msgid "About"
+msgstr "ഇതിനെക്കുറിച്ച്"
+
+msgid "Store"
+msgstr "പീടിക"
+
+msgid "Donate"
+msgstr "സംഭാവന"
+
+msgid "Support"
+msgstr "സഹായം"
+
+msgid "Products"
+msgstr "ഉല്‍പ്പന്നങ്ങള്‍"
+
+msgid "Add-ons"
+msgstr "ആഡ്-ഓണുകള്‍"
+
+msgid "About Us"
+msgstr "ഞങ്ങളെക്കുറിച്ച്"
+
+msgid "Developers"
+msgstr "നിര്‍മ്മാതാക്കള്‍"
+
+msgid "Labs"
+msgstr "ലാബുകള്‍"
+
+msgid "skip to Navigation"
+msgstr "നാവിഗേഷനിലേക്ക് മാറുക"
+
+msgid "switch language"
+msgstr "ഭാഷ മാറ്റുക"
+
+msgid "Back to home page"
+msgstr "തിരികെ ആസ്ഥാന താളിലേക്ക്"
+
+msgid "About Mozilla"
+msgstr "മോസില്ലയെ കുറിച്ച്"
+
+msgid "Get Involved"
+msgstr "പങ്കെടുക്കുക"
+
+msgid "Licensing"
+msgstr "ലൈസന്‍സിങ്ങ്"
+
+msgid "Careers"
+msgstr "തൊഴിലുകള്‍"
+
+msgid "Press Center"
+msgstr "മാധ്യമ സങ്കേതം"
+
+msgid "Contact Us"
+msgstr "ഞങ്ങളെ ബന്ധപ്പെടുക"
+
+msgid "Site contact"
+msgstr "സൈറ്റ് സമ്പര്‍ക്കം"
+
+msgid "Other languages:"
+msgstr "മറ്റ് ഭാഷകള്‍:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "എല്ലാ അവകാശങ്ങളും റിസര്‍വ് ചെയ്തിരിക്കുന്നു"
+
+msgid "Legal Notices"
+msgstr "നിയമപരമായുള്ള അറിയിപ്പുകള്‍"
+
+msgid "Privacy Policy"
+msgstr "സ്വകാര്യ വ്യവസ്ഥകള്‍"
+
+msgid "Visit Mozilla.com"
+msgstr "മോസില്ല.കോം സന്ദര്‍ശിക്കുക"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "മോസില്ല.കോം സന്ദര്‍ശിക്കുക (ഇംഗ്ലീഷില്‍)"
+
+msgid "Download Firefox - Free"
+msgstr "ഫയര്‍ഫോക്സ് ഡൗണ്‍ലോഡ് ചെയ്യുക - സൌജന്യം"
+
+msgid "Release Notes"
+msgstr "പ്രകാശനക്കുറിപ്പുകള്‍"
+
+msgid "Other Systems and Languages"
+msgstr "മറ്റു ഭാഷകളും സിസ്റ്റങ്ങളും"
+
+msgid "Get Firefox"
+msgstr "ഫയര്‍ഫോക്സ് ലഭ്യമാക്കൂ"
+
+msgid "Free Download"
+msgstr "സൗജന്യ ഡൗണ്‍ലോഡ്"
+
+msgid "Help us make Firefox even better!"
+msgstr "ഫയര്‍ഫോക്സ് കൂടുതല്‍ നന്നാക്കുന്നതിനായി ഞങ്ങളെ സഹായിക്കൂ !"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"കുറച്ചു സമയം ചിലവാക്കി ഈ സര്‍‌വ്വേയില്‍ പങ്കെടുത്ത് നിങ്ങളുടെ വിലയേറിയ "
+"അഭിപ്രായങ്ങള്‍ ഞങ്ങളെ അറിയിക്കൂ."
+
+msgid "Close"
+msgstr "അടയ്ക്കുക"
+
+msgid "(in English)"
+msgstr "(ഇംഗ്ലീഷില്‍)"
+
+msgid "Download Now - Free"
+msgstr "ഉടന്‍ ഡൌണ്‍ലോഡ് ചെയ്യൂ - സൌജന്യം"
+
+msgid "Return to top"
+msgstr "മുകളിലേക്ക് തിരികെ പോവുക"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"ഇപ്പോള്‍ തന്നെ നിങ്ങളുടെ <a href=\"http://get.adobe.com/flashplayer/\">അഡോബ് "
+"ഫ്ലാഷ് പ്ലയെര്‍ പുതുക്കുക</a>."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"ഫയര്‍ഫോക്സ് കാലനുസൃതമാണ്, പക്ഷെ നിങ്ങളുടെ ഇപ്പോഴത്തെ ഫ്ലാഷ് പ്ലയെര്‍ വകഭേതം "
+"മൂലം സുരക്ഷിതമല്ലാത്ത പ്രശ്നങ്ങള്‍ വന്നേക്കാം. ദയവായി എത്രയും പെട്ടെന്ന് <a "
+"href=\"http://get.adobe.com/flashplayer/\">സൌജന്യ അപ്ഡേറ്റ് ഇന്‍സ്റ്റോള്‍ "
+"ചെയ്യുക</a>."
+
+msgid "Features"
+msgstr "സവിശേഷതകള്‍"
+
+msgid "Customize"
+msgstr "ഇശ്ചാനുസൃതം"
+
+msgid "Synchronize"
+msgstr "കാലപ്പൊരുത്തം വരുത്തുക"
+
+msgid "Develop for Mobile"
+msgstr "മൊബൈലിനായി സജ്ജമാക്കുക"
+
+msgid "Other Supported Platforms"
+msgstr "പിന്തുണയുള്ള മറ്റു വേദികള്‍"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "മറ്റു വേദികളും ഭാഷകളും"
+
+msgid "Choose your location"
+msgstr "നിങ്ങളുടെ സ്ഥലം തിരഞ്ഞെടുക്കുക"
+
+msgid "Download Firefox directly from your phone"
+msgstr "ഫയര്‍ഫോക്സ് നിങ്ങളുടെ മൊബൈലില്‍ നിന്നും നേരിട്ട് ഡൗണ്‍ലോഡ് ചെയ്യൂ"
+
+msgid "Download"
+msgstr "ഡൗണ്‍ലോഡ്"
+
+msgid "Next"
+msgstr "അടുത്ത"
+
+msgid "MB"
+msgstr "എംബി"
+
+msgid "MegaBytes"
+msgstr "മെഗാബൈറ്റ്സ്"
+
+msgid "FAQ"
+msgstr "സാധാരണ കണ്ടുവരുന്ന ചോദ്യങ്ങള്‍"
+
+msgid "Videos"
+msgstr "വീഡിയോകള്‍"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"<a href=\"%s\">പ്രത്യേകം അടയാളപ്പെടുത്തിയിട്ടില്ലാത്ത</a> സ്ഥലങ്ങള്‍ ഒഴികെ, ഈ "
+"സൈറ്റിലെ ഉള്ളടക്കം <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> അല്ലെങ്കില്‍ അതിനു ശേഷമുള്ള വകഭേതം വഴി ലൈസെന്‍സ് "
+"ചെയ്തിരിക്കുന്നു."
+
+msgid "Report Trademark Abuse"
+msgstr "വ്യാപാരമുദ്രയുടെ ദുരുപയോഗം രേഖപ്പെടുത്തുക"
+
+msgid "Free Upgrade"
+msgstr "സൌജന്യ പരിഷ്കരണം"
+
+msgid "Follow us on:"
+msgstr "ഞങ്ങളെ പിന്തുടരുക :"
+
+msgid "Customize with Add-ons"
+msgstr "ആഡ് ഓന്‍സ് ഉപയോഗിച്ച് ഇശ്ചാനുസൃതമാക്കുക"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "നിങ്ങളുടെ പണിയിടവും മൊബൈലും തമ്മില്‍ കാലപ്പൊരുത്തം വരുത്തുക"
+
+msgid "Learn More"
+msgstr "കൂടുതല്‍ അറിയുക"
+
+msgid "Watch the video"
+msgstr "വീഡിയോ കാണൂ"
+
+msgid "WebM format"
+msgstr "WebM ഫോര്‍മാറ്റ്"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora ഫോര്‍മാറ്റ്"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 ഫോര്‍മാറ്റ്"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "ശരിയായ ഈമെയില്‍ വിലാസം നല്‍കുക."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "ബോക്സ് ടിക്ക് ചെയ്തു് ദയവായി മോസില്ലാ സ്വകാര്യ പോളിസി വായിക്കുക."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"ദയവായി നിങ്ങളുടെ ഈമെയില്‍ വിലാസം നല്‍കി, മോസില്ലാ സ്വകാര്യ പോളിസി "
+"പരിശോധിയ്ക്കുക."
+
+msgid "Mobile"
+msgstr "മൊബൈല്‍"
+
+msgid "Firefox Updated"
+msgstr "ഫയര്‍ഫോക്സ് പരിഷ്കരിച്ചു"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "നാളത്തെ വെബ് ഒന്നു് കണ്ടു് നോക്കൂ"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Firefox-നൊപ്പം ഭാവിയിലേക്കു് ഒരു യാത്ര"
+
+msgid "Join the Beta Program"
+msgstr "ബീറ്റ് പ്രോഗ്രാമില്‍ പങ്കു് ചേരൂ"
+
+msgid "Experience Firefox"
+msgstr "Firefox ഉപയോഗിച്ചു് നോക്കൂ"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "ഫയര്‍ഫോക്സ് നിങ്ങളെ കാത്തിരിയ്ക്കുന്നു!"
+
+msgid "The future of the Web starts now."
+msgstr "വെബിന്റെ ഭാവി ഇതാ ഇവിടെ ആരംഭിയ്ക്കുന്നു."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "പുതിയ തൊടിപ്പും തൊങ്കുലുമുള്ള ഫയര്‍ഫോക്സ് ഉപയോഗിച്ചു് നോക്കൂ."
+
+msgid "Experience tomorrow's Web today."
+msgstr "ഭാവിയുടെ വെബ് ഇന്നു് കണ്ടു് അറിയൂ"
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Firefox-ന്റെ പുതിയ ശൈലിയും ഭാവവും തൊട്ടറിയൂ."
+
+msgid "Browse the future of the Web."
+msgstr "ഫയര്‍ഫോക്സ് ഉപയോഗിച്ചു് വെബ് തെരയൂ."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Firefox നവീന ഭാവത്തില്‍... കണ്ടറിയൂ."
+
+msgid "Download Beta Now."
+msgstr "ഉടന്‍ ബീറ്റാ ഡൌണ്‍ലോഡ് ചെയ്യൂ."
+
+msgid "All Systems & Languages"
+msgstr "എല്ലാ സിസ്റ്റങ്ങളും ഭാഷകളും"
+
+msgid "View Full Site"
+msgstr "സൈറ്റ് പൂര്‍ണ്ണമായി കാണുക"
+
+msgid "Get Firefox for Android"
+msgstr "ആന്‍ഡ്രോയിഡില്‍ നിന്നും ഫയര്‍ഫോക്സ് ലഭ്യമാക്കൂ"
+
+msgid "Download for <span>Android</span>"
+msgstr "<span>ആന്‍ഡ്രോയിഡ്</span>-നായി ഡൌണ്‍ലോഡ് ചെയ്യൂ"
+
+msgid "Free from the Android Market"
+msgstr "ആന്‍ഡ്രോയിഡ് മാര്‍ക്കറ്റില്‍ നിന്നും സൌജന്യം"
+
+msgid "Desktop"
+msgstr "പണിയിടം"
+
+msgid "Firefox Beta for mobile"
+msgstr "മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ് ബീറ്റാ"
+
+msgid "Firefox for mobile"
+msgstr "മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ്"
+
+msgid "Email"
+msgstr "ഈമെയില്‍"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "മോസില്ലാ ഫയര്‍ഫോക്സ്. ആധുനിക വെബിനെ എക്സ്പിയിലേക്കു് ലഭ്യമാക്കുന്നു."
+
+msgid "Super speed"
+msgstr "അടിപൊളി വേഗത"
+
+msgid "Stunning graphics"
+msgstr "അടിപോളി ഗ്രാഫിക്സ്"
+
+msgid "The latest technologies"
+msgstr "ഏറ്റവും പുതിയ ടെക്നോളജികള്‍"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"നിങ്ങള്‍ ഉപയോഗിയ്ക്കുന്നതു് ഫയര്‍ഫോക്സിന്റെ പഴയ പതിപ്പാകുന്നു. സുരക്ഷിതമായി "
+"നില്‍ക്കുന്നതിനായി ഏറ്റവും പുതിയതിലേക്കു് പരിഷ്കരിയ്ക്കുക! ഏറ്റവും പുതിയ "
+"വിശേഷതകള്‍ക്കും, വേഗതയ്ക്കും സുരക്ഷാ പരിഹാരങ്ങള്‍ക്കുമായി ഒരു "
+"മിനിറ്റിനുള്ളില്‍  <br/> <a href=\"%s\">സൌജന്യമായ പരിഷ്കരണം ഡൌണ്‍ലോഡ് "
+"ചെയ്യുക</a>."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"നിങ്ങള്‍ക്കൊരു പരിഷ്കരണം ആവശ്യമുണ്ടു്! ഒരു മിനിറ്റില്‍ എല്ലാം ലഭ്യമാക്കുക. "
+"<br/>ഏറ്റവും ഉത്തമമായ ബ്രൌസിങിനായി പുതിയ ഫയര്‍ഫോക്സ് ഉപയോഗിയ്ക്കുക. <br/>   "
+"ഇതു് സൌജന്യമാകുന്നു!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"ഫയര്‍ഫോക്സിന്റെ പഴയ പതിപ്പാണു് നിങ്ങളുപയോഗിയ്ക്കുന്നതു്. സുരക്ഷിതമായി "
+"നില്‍ക്കുന്നതിനായി  <a href=\"%s\">നിങ്ങളുടെ പരിഷ്കരണം</a> ലഭ്യമാക്കുക! <br/> "
+"ഏറ്റവും പുതിയ ഫയര്‍ഫോക്സ് ഉപയോഗിച്ചു് നോക്കുക. ഒരു മിനിറ്റിനുള്ളില്‍ സൌജന്യ "
+"പരിഷ്കരണം ഡൌണ്‍ലോഡ് ചെയ്യുക."
+
+msgid "Upgrade now"
+msgstr "ഉടന്‍ പരിഷ്കരിയ്ക്കുക"
+
+msgid "Update now"
+msgstr "ഉടന്‍ പുതുക്കുക"
+
+msgid "Supported Devices"
+msgstr "പിന്തുണയ്ക്കുന്ന ഡിവൈസുകള്‍"
+
+msgid "What’s New"
+msgstr "What’s New"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

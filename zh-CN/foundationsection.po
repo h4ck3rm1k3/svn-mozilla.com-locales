@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zh-CN/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "Mozilla 状况 <span>年度报告</span>"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Opportunities"
+msgstr "机遇"
+
+msgid "People"
+msgstr "用户"
+
+msgid "Ahead"
+msgstr "未来"
+
+msgid "Download this video:"
+msgstr "下载这个视频:"
+
+msgid "A Different Kind of Browser"
+msgstr "一个与众不同的浏览器"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "Mozilla 是什么？为什么我们要做这些？很高兴你们提问。"
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "未来的计划 <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, 主持 Mozilla现状的讨论。"
+
+msgid "Getting Involved"
+msgstr "参与"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr "Mozilla 是一个有趣的，多元化的社区，由来自世界各地的用户组成。"
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Mozilla Firefox 广告板, 旧金山"
+
+msgid "Download PDF"
+msgstr "下载 PDF"
+
+msgid "2010 Audited Financial Statement"
+msgstr "2010 经过审计的财务报表"
+
+msgid "2010 Form 990"
+msgstr "2010 Form 990"
+
+msgid "Celebrating Firefox"
+msgstr "庆祝 Firefox"
+
+msgid "ReMo Work Week in Paris"
+msgstr "巴黎 ReMo 工作周"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Mozilla 偶遇, 巴西"
+
+msgid "Arabic Mozilla"
+msgstr "Arabic Mozilla"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla 肯尼亚"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla 印度尼西亚"
+
+msgid "Other languages & sharing"
+msgstr "其他语言和分享"

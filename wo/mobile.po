@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/wo/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Jëlal Firefox ngir Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Yebal ngir <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Amul njëg dale ko ci Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Walla nga gane <a %s>Firefox.com/m</a> ci sa telefon."
+
+msgid "Supported Devices"
+msgstr "Ndombo yi muy andal"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Jële ko ci iTunes - Kenn jaayu ko"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home ngir <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr "Jot ci jaar jaari Firefox, mandarga xët at koñ ci sa iPhone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Yebal Firefox ci sa <span>telefon</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Ndax bëgg nga teste bees bees yu mujj yi?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Am Firefox Home ngir sa iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Yeb Beta ngir Android"
+
+msgid "Download"
+msgstr "Yeb"
+
+msgid "for"
+msgstr "ngir"
+
+msgid "Free from iTunes"
+msgstr "Amul njëg dale ko ci iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Di nga am wërsëg gis ay bees bees te mëna joxe say xalaat ndax rataxal sumb "
+"bi mujj."
+
+msgid "Developer Tools"
+msgstr "Jumtukaayi defar"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Mën nga samp sumbu Firefox bu telefon ci sa ordinatëëru biro ngir teste ko, "
+"joxe sa xalaat ak defar ay modil."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Jokkoo ak Firefox bu telefon:"
+
+msgid "Monthly newsletter"
+msgstr "Yéenekaay weer wu ne"
+
+msgid "Follow us"
+msgstr "Topp ñu"
+
+msgid "Become a fan"
+msgstr "Nekkal fan"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox dafa fees dell ay bees bees yu lay may ngay tappe lu néew, gis ak "
+"jot lu bari ci web bi."
+
+msgid "Freedom from typing"
+msgstr "Moom sa bopp ci tappe"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Seetukaay super dafay jàngal dal yi nga taanu ndax ngay joow te doo tappe lu "
+"bari."
+
+msgid "Best of both worlds"
+msgstr "Li gën ci ñaari addina yi"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox bu Android dañu ko xalaataat ci ni ngay joowe ci telefon yi ak "
+"tabalet yi."
+
+msgid "Browse quick and easy"
+msgstr "Xool bu gaaw te yomb"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr "Ay bees bees yu melni Sync, njoowum koñ ak lo bëgg mën nga ko jot."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr "<a %s>Soxla na dimmal?</a> Ganejil dalu Firefox bu Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Yebal te teste sumb bi la gënal."
+
+msgid "See all our channels for mobile »"
+msgstr "Seet yoon yi ñu jagleel telefon »"

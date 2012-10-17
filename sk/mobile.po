@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/sk/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Získajte Firefox pre Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Prevziať pre <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Zadarmo z Android Marketu"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Alebo navštívte <a %s>Firefox.com/m</a> vo svojom telefóne."
+
+msgid "Supported Devices"
+msgstr "Podporované zariadenia"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Získať z iTunes - ZADARMO"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home pre <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Pristupujte k histórii prehliadania Firefoxu, záložkám a otvoreným kartám vo "
+"svojom iPhone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Prevziať Firefox do <span>vášho mobilu</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Chcete otestovať najnovšie funkcie?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Získať Firefox Home pre iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Prevziať verziu Beta pre Android"
+
+msgid "Download"
+msgstr "Prevziať"
+
+msgid "for"
+msgstr "pre"
+
+msgid "Free from iTunes"
+msgstr "Zadarmo z iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Budete si môcť vyskúšať najnovšie funkcie a poskytnúť spätnú väzbu, ktorá "
+"pomôže pri dolaďovaní finálnej verzie prehliadača."
+
+msgid "Developer Tools"
+msgstr "Vývojárske nástroje"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Mobilnú verziu Firefoxu si môžete nainštalovať aj na svoj počítač, aby ste "
+"ho mohli otestovať, poskytnúť nám spätnú väzbu či vytvárať doplnky."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Buďte v spojení s mobilným Firefoxom:"
+
+msgid "Monthly newsletter"
+msgstr "Mesačné reporty"
+
+msgid "Follow us"
+msgstr "Sledujte nás"
+
+msgid "Become a fan"
+msgstr "Staňte sa fanúšikom"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox je plný inovácií, vďaka ktorým menej píšete, viac prehliadate a "
+"dostanete sa na web rýchlo a jednoducho."
+
+msgid "Freedom from typing"
+msgstr "Sloboda od písania"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Inteligentný prehliadač sa učí vaše obľúbené stránky, takže prehliadate len "
+"s minimálnym zadávaním textu."
+
+msgid "Best of both worlds"
+msgstr "Najlepší pre oba svety"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox pre Android bol upravený a optimalizovaný pre prehliadanie na "
+"mobiloch a tabletoch."
+
+msgid "Browse quick and easy"
+msgstr "Jednoduché a rýchle prehliadanie"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Funkcie ako synchronizácia, prehliadanie na kartách a záložky na jeden dotyk "
+"sú všetko, čo potrebujete."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Potrebujete pomoc?</a> Navštívte stránky podpory pre Firefox pre "
+"Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Nainštalujte a otestujte zostavenie, ktoré je pre vás to najvhodnejšie."
+
+msgid "See all our channels for mobile »"
+msgstr "Zobraziť všetky kanály pre mobilný Firefox »"
+
+msgid "Free from the Google Play Store"
+msgstr "Zadarmo v obchode Google Play"

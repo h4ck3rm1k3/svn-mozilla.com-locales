@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ach/videos/video_mobbase.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Your apps on all your devices"
+msgstr "apps mamegi ki kom jami tici"
+
+msgid "MobBase builds apps for bands and labels."
+msgstr "MobBase gero apps pi bands ki lebel."
+
+msgid ""
+"We make it very easy for bands to connect with their fans all across mobile "
+"devices."
+msgstr ""
+"Wamiyo ne bedo yot pi bands wek kub kwede fan gi weng kun beo i jami tic me "
+"cing."
+
+msgid "We recognize that there is a big problem that artists had."
+msgstr "Waniang ada ni tye peko madwong ma lago cal obedo kwede."
+
+msgid "They have all these fans who are using all sorts of devices"
+msgstr "Gin gutye ki fan magi weng bot jo ma tiyo ki jami tic mogo"
+
+msgid "and their websites are not going to work well on various devices."
+msgstr "ci dyer bar me Web pe bitic kakare ikom jami tic mapol."
+
+msgid ""
+"So we started off working in native environments, iPhone first, then "
+"Android,"
+msgstr "Dong wa cako tic woko i ka ma orumo wa, iPhone namba acel, eka Android,"
+
+msgid ""
+"and each has its own complexities and subtleties that make it difficult to "
+"maintain and iterate on both."
+msgstr ""
+"ci acel acel tye ki jange mapol ci en mamwonya ma miyo gwoko ne tek odoco ki "
+"woto ikom gin weng."
+
+msgid ""
+"We quickly realized that the key to getting a cross-platform solution for "
+"most artists was HTML5"
+msgstr ""
+"Wa niang woko oyot ni lagony me donyo i cobo platform pi lugo cal mapol "
+"obedo HTML5"
+
+msgid "and the reason is this:"
+msgstr "ci gin ma omiyo en aye eni ni:"
+
+msgid ""
+"To build a native iPhone App, a native Android App and a native whatever "
+"App, is time consuming"
+msgstr ""
+"Pi gero App iPhone marwate, App Android marwate ki App mo keken marwate, "
+"balo cawa"
+
+msgid ""
+"and each app is a different project and each app requires different assets"
+msgstr "ci app acel acel obedo purujek mapat pat ci mito jami mapat pat"
+
+msgid "and it becomes a real headache in terms of time and also money."
+msgstr "ci bedo twon labar wic i cik me cawa ki cente bene."
+
+msgid ""
+"What HTML5 allows our clients to do is to build the app once and distribute "
+"it everywhere."
+msgstr ""
+"Ngom ma HTML5 weko jo wa timo obedo me gero app tek ka kipoko ne kan mo "
+"keken."
+
+msgid ""
+"With the  Mozilla Marketplace we have a unique opportunity to distribute web "
+"applications."
+msgstr "Kwede  Cuk me Mozilla watye ki tic maber pi poko purugram me web."
+
+msgid "This is something that was king of a conundrum for us, you know"
+msgstr "Man obedo gin mo ma obedo laker me conundrum pir wa, in ingeo"
+
+msgid "we want to be able to distribute these and not just provide links."
+msgstr "wamito bedo ki twero me poko magi ci pok ka kakube keken."
+
+msgid "When Mozilla reached out to us and we entered a partnership with them"
+msgstr "Tek Mozilla oo bot wa kany ci wakube donyo kwedgi"
+
+msgid "it was great because it was an App store."
+msgstr "Pire tek pien obedo citowa me App."
+
+msgid ""
+"Fans can go to it, they can see the assets, they can see the description"
+msgstr "Fan romo wot ie, gin twero neno jami, gutwero neno lok ie"
+
+msgid ""
+"they can download it just like they’re used to downloading an Android or "
+"iPhone app."
+msgstr ""
+"Gitwero gamo ne calo ka kit ma gitiyo kwede pi gamo Android onyo app me "
+"iPhone."
+
+msgid ""
+"So, Mozilla provides a great, great market and a great distribution channels "
+"for our HTML5 Apps."
+msgstr ""
+"Dong, MOzilla poko maber, cuk maber ki yoo poko maber odoco pi Apps me "
+"HTML5."
+
+msgid "distribute your apps"
+msgstr "pok apps mamegi"

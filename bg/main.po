@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/bg/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Навигация"
+
+msgid "Press area"
+msgstr "Комюникета"
+
+msgid "About"
+msgstr "Относно"
+
+msgid "Store"
+msgstr "Магазин"
+
+msgid "Donate"
+msgstr "Дарения"
+
+msgid "Support"
+msgstr "Поддръжка"
+
+msgid "Products"
+msgstr "Продукти"
+
+msgid "Add-ons"
+msgstr "Добавки"
+
+msgid "About Us"
+msgstr "За нас"
+
+msgid "Developers"
+msgstr "Разработчици"
+
+msgid "Labs"
+msgstr "Лаборатории"
+
+msgid "skip to Navigation"
+msgstr "прескачане до навигацията"
+
+msgid "switch language"
+msgstr "смяна на език"
+
+msgid "Back to home page"
+msgstr "Връщане към началната страница"
+
+msgid "About Mozilla"
+msgstr "За Mozilla"
+
+msgid "Get Involved"
+msgstr "Участвайте"
+
+msgid "Licensing"
+msgstr "Лицензиране"
+
+msgid "Careers"
+msgstr "Работа"
+
+msgid "Press Center"
+msgstr "Пресцентър"
+
+msgid "Contact Us"
+msgstr "Връзка с нас"
+
+msgid "Site contact"
+msgstr "Контакт със сайта"
+
+msgid "Other languages:"
+msgstr "Други езици:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d {OK}"
+
+msgid "All rights reserved."
+msgstr "Всички права са запазени."
+
+msgid "Legal Notices"
+msgstr "Правни бележки"
+
+msgid "Privacy Policy"
+msgstr "Политика за личните данни"
+
+msgid "Visit Mozilla.com"
+msgstr "Посетете Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Посетете Mozilla.com (на английски)"
+
+msgid "Download Firefox - Free"
+msgstr "Изтеглете Firefox – свободно"
+
+msgid "Release Notes"
+msgstr "Бележки към изданието"
+
+msgid "Other Systems and Languages"
+msgstr "Други системи и езици"
+
+msgid "Get Firefox"
+msgstr "Изтеглете Firefox"
+
+msgid "Free Download"
+msgstr "Свободно изтегляне"
+
+msgid "Help us make Firefox even better!"
+msgstr "Помогнете ни да направим Firefox още по-добър!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Отделете няколко минути за бърза анкета и споделете с нас вашите мисли и "
+"впечатления."
+
+msgid "Close"
+msgstr "Затваряне"
+
+msgid "(in English)"
+msgstr "(на английски)"
+
+msgid "Download Now - Free"
+msgstr "Изтеглете сега – свободно"
+
+msgid "Return to top"
+msgstr "Връщане в началото"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Трябва да <a href=\"http://get.adobe.com/flashplayer/\">обновите Adobe Flash "
+"Player</a> сега."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox е актуална версия, но версията на вашия Flash Player може да доведе "
+"до проблеми със сигурността и стабилността.  Моля <a "
+"href=\"http://get.adobe.com/flashplayer/\">инсталирайте безплатното "
+"обновление</a> възможно най-скоро."
+
+msgid "Features"
+msgstr "Възможности"
+
+msgid "Customize"
+msgstr "Персонализиране"
+
+msgid "Synchronize"
+msgstr "Синхронизиране"
+
+msgid "Develop for Mobile"
+msgstr "Разработка за Мобилни устройства"
+
+msgid "Other Supported Platforms"
+msgstr "Други поддържани платформи"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Други платформи и езици"
+
+msgid "Choose your location"
+msgstr "Избиране на държава"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Изтеглете Firefox направо от телефона си"
+
+msgid "Download"
+msgstr "Изтегли"
+
+msgid "Next"
+msgstr "Следващ"
+
+msgid "MB"
+msgstr "MБ"
+
+msgid "MegaBytes"
+msgstr "Мегабайти"
+
+msgid "FAQ"
+msgstr "Въпроси и отговори"
+
+msgid "Videos"
+msgstr "Видеа"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Освен ако не е <a href=\"%s\">отбелязано друго</a>, съдържанието на този сайт "
+"е лицензирано според <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a>, или по-късна версия."
+
+msgid "Report Trademark Abuse"
+msgstr "Съобщаване за нарушение на търговска марка"
+
+msgid "Free Upgrade"
+msgstr "Безплатно надграждане"
+
+msgid "Follow us on:"
+msgstr "Следете ни:"
+
+msgid "Customize with Add-ons"
+msgstr "Персонализирайте чрез добавки"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Синхронизирайте десктопа и мобилния си телефон"
+
+msgid "Learn More"
+msgstr "Научете повече"
+
+msgid "Watch the video"
+msgstr "Гледайте видеото"
+
+msgid "WebM format"
+msgstr "Формат WebM"
+
+msgid "Ogg Theora format"
+msgstr "Формат Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Формат MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Внимание! Уверете се, че въвеждате валиден имейл адрес."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Моля, прочетете Политиката за опазване на личните данни на Mozilla и "
+"изразете своето съгласие с описаното в нея чрез полето за отметка."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Моля, въведете адреса на електронната си поща, за да прегледате Политиката "
+"за опазване на личните данни на Mozilla."
+
+msgid "Mobile"
+msgstr "За мобилен телефон"
+
+msgid "Firefox Updated"
+msgstr "Firefox е обновен"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Вижте как би изглеждало Интернет-пространството утре"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Пътешествие до Бъдещето с Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Включете се в нашата бета-програма"
+
+msgid "Experience Firefox"
+msgstr "Изпробвайте новия Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Бъдещето на Интернет-пространството те очаква!"
+
+msgid "The future of the Web starts now."
+msgstr "Бъдещето на Интернет-пространството започва сега."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Изпробвай новия вид и функционалност на Firefox."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Изживей утрешното Интернет-пространство още днес."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Изпробвай новия вид и функционалност на Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Впусни се в бъдещето на Интернет-пространството."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Вижте как изглежда новия Firefox."
+
+msgid "Download Beta Now."
+msgstr "Изтеглете бета-версията сега."
+
+msgid "All Systems & Languages"
+msgstr "Всички операционни системи и езици"
+
+msgid "View Full Site"
+msgstr "Вижте цялата страница"
+
+msgid "Get Firefox for Android"
+msgstr "Вземи Firefox за Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Изтегли за <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Безплатно от Android Market"
+
+msgid "Desktop"
+msgstr "Desktop {ok}"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta за мобилни телефони"
+
+msgid "Firefox for mobile"
+msgstr "Firefox за мобилни телефони"
+
+msgid "Email"
+msgstr "Електронна поща"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Въвеждане на модерния уеб в XP."
+
+msgid "Super speed"
+msgstr "Супер скорост"
+
+msgid "Stunning graphics"
+msgstr "Невероятна графика"
+
+msgid "The latest technologies"
+msgstr "Последните технологии"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Използвате остаряла версия на Firefox. Обновете я, за да се погрижите за "
+"своята сигурност! <br/> <a href=\"%s\">Изтеглете свободно актуалната "
+"версия</a> за по-малко от минута с най-новата функционалност, бързина и "
+"поправки в сигурността."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Имаш нужда от обновяване на версията! Погрижи се за своята сигурност за "
+"по-малко от минута. <br/> Започни да използваш новия Firefox за най-доброто "
+"сърфиране и персонализация в Интернет пространството. <br/> Той е бърз и "
+"свободен!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Използвате остаряла версия на Firefox. Вземете <a href=\"%s\">своята обновена "
+"версия</a>, за да се погрижите за сигурността си! <br/> Изпробвайте "
+"най-новата функционалност, поправки в сигурността и най-бързия Firefox до "
+"момента. Изтеглете свободната обновена версия за по-малко от минута."
+
+msgid "Upgrade now"
+msgstr "Обнови сега"
+
+msgid "Update now"
+msgstr "Обнови сега"
+
+msgid "Supported Devices"
+msgstr "Supported devices"
+
+msgid "What’s New"
+msgstr "What’s New"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

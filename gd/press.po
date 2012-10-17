@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/gd/press.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Press Center"
+msgstr "Aonad an luchd-naidheachd"
+
+msgid "Latest Press Releases"
+msgstr "Na grad-naidheachdan as ùire"
+
+msgid "Mozilla News, Announcements and More"
+msgstr "Naidheachdan is caismeachdan Mozilla 's mòran a bharrachd"
+
+msgid "Connect <span>with Us</span>"
+msgstr "Ceangail <span>rinn</span>"
+
+msgid "Subscribe to RSS feed »"
+msgstr "Fò-sgrìobh dhan inbhir RSS »"
+
+msgid "For interview requests or any other media inquiries, please contact:"
+msgstr ""
+"Ma tha thu airson agallamh còmhla rinn no a chum iarrtasan eile o na "
+"meadhanan, cuir fios gu:"
+
+msgid "press at mozilla dot com"
+msgstr "press at mozilla dot com {ok}"

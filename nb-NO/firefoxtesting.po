@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/nb-NO/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Last ned Firefox Beta for Android - Gratis"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Last ned Firefox Beta for Desktop - Gratis"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Last ned og test fremtidige utgaver av Firefox. Prøv ut de siste "
+"nyskapningene med Aurora eller Beta-versjonene."
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta"
+
+msgid "Firefox Beta for:"
+msgstr "Firefox Beta for: {ok}"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta for Mobil:"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "Last ned Beta, og vær en del av den neste Firefox."
+
+msgid "1. Test Features"
+msgstr "1. Test funksjoner"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr "Prøv de nyeste forbedringene som er nesten leveringsklare."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Finpuss"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Registrer bugs for å hjelpe oss å justere ytelse og funksjonalitet i et "
+"stabilt miljø."
+
+msgid "3. Do Your Part"
+msgstr "3. Gjør din del"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Gjør en forskjell for den neste versjonen av Firefox, og de 450 millionene "
+"som bruker den hver dag."
+
+msgid "Supported devices"
+msgstr "Støttede enheter"
