@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/mk/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Земете го најновиот Firefox"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Пристигна најновиот Firefox!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Брза, лесна и бесплатна надградба</a>"
+
+msgid "Fresh new look"
+msgstr "Нов свеж изглед"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Многу побрз од Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Најшизички до сега"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Има нова верзија на Firefox која подобро може да Ве заштити од напади на "
+"интернет."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Надградете</a> - брзо е и бесплатно!"
+
+msgid "get the latest in security"
+msgstr "добијте најдобра безбедност"
+
+msgid "experience faster performance"
+msgstr "искусете побрзи перформанси"
+
+msgid "enjoy greater customization"
+msgstr "уживајте со големи прилагодувања"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Вашата верзија на Firefox наскоро ќе биде ранлива од напади на интернет."
+
+msgid "Stay safe online"
+msgstr "Останете безбедни на мрежата"
+
+msgid "Enjoy new features"
+msgstr "Уживајте во новите можности"
+
+msgid "URGENT!"
+msgstr "ИТНО!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Вашата верзија на Firefox повеќе нема да биде заштитувана од нападите на "
+"интернет."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Ова е последно потсетување пред прелистувачот автоматски да се надгради до "
+"најновата верзија"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox повеќе на ја поддржува верзијата на Вашиот оперативен систем и ќе "
+"биде ранлив на напади."
+
+msgid "We recommend:"
+msgstr "Препорачуваме:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Да го надградите Вашиот <a %s>оперативен систем</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Да преземете компатибилен прелистувач"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Да го надградите Вашиот <a %s>оперативен систем</a>"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Ќе добиете уште едно известување пред да продолжи автоматскта надградба."

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ko/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Firefox 최신 버전 받기"
+
+msgid "The Newest Firefox is Here!"
+msgstr "최신 버전이 있습니다."
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>빠르고 쉬운 무료 업데이트</a>"
+
+msgid "Fresh new look"
+msgstr "신선한 외양 변경"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Firefox 3.6 보다 더 빠른 속도"
+
+msgid "More awesomeness than ever"
+msgstr "다양한 추가 기능"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr "새로운 버전의 Firefox는 온라인 보안 공격에 안전한 기능을 가지고 있습니다."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>바로 업그레이드</a> - 무료 및 신기능 제공!"
+
+msgid "get the latest in security"
+msgstr "최신 보안 업데이트 받기"
+
+msgid "experience faster performance"
+msgstr "더 빠른 성능"
+
+msgid "enjoy greater customization"
+msgstr "맞춤형 기능 즐기기"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "현재 Firefox 버전은 향후 보안 취약점에 노출될 수 있습니다."
+
+msgid "Stay safe online"
+msgstr "더 안전한 서비스"
+
+msgid "Enjoy new features"
+msgstr "다양한 신기능"
+
+msgid "URGENT!"
+msgstr "중요 공지"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr "지금 사용하시는 버전은 더 이상 보안상 안전하지 않습니다."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr "이 메시지는 최신 버전으로 자동 업데이트 되기 전에 마지막 안내문입니다."
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr "Firefox는 더 이상 현재 운영 체제를 지원하지 않습니다. 향후 온라인 보안 취약성에 노출 될 수 있습니다."
+
+msgid "We recommend:"
+msgstr "추천:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "<a %s>운영 체제</a> 업그레이드 중"
+
+msgid "Downloading a compatible browser"
+msgstr "호환 브라우저 다운로드 중"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "<a %s>운영 체제</a>에 맞는 무료 업그레이드 설치 중"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "자동 업데이트 전까지 계속 표시됩니다."

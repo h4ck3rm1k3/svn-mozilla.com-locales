@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ko/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "주요 메뉴"
+
+msgid "Press area"
+msgstr "보도자료"
+
+msgid "About"
+msgstr "소개"
+
+msgid "Store"
+msgstr "스토어"
+
+msgid "Donate"
+msgstr "기부하기"
+
+msgid "Support"
+msgstr "도움말"
+
+msgid "Products"
+msgstr "제품소개"
+
+msgid "Add-ons"
+msgstr "부가 기능"
+
+msgid "About Us"
+msgstr "소개"
+
+msgid "Developers"
+msgstr "개발자"
+
+msgid "Labs"
+msgstr "실험 프로젝트"
+
+msgid "skip to Navigation"
+msgstr "메뉴로 가기"
+
+msgid "switch language"
+msgstr "언어 변경"
+
+msgid "Back to home page"
+msgstr "홈페이지"
+
+msgid "About Mozilla"
+msgstr "Mozilla 소개"
+
+msgid "Get Involved"
+msgstr "참여하기"
+
+msgid "Licensing"
+msgstr "라이센스"
+
+msgid "Careers"
+msgstr "Careers (영문)"
+
+msgid "Press Center"
+msgstr "보도자료"
+
+msgid "Contact Us"
+msgstr "연락처"
+
+msgid "Site contact"
+msgstr "연락하기"
+
+msgid "Other languages:"
+msgstr "다른 언어:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d {ok}"
+
+msgid "All rights reserved."
+msgstr "저작권을 소유하고 있습니다."
+
+msgid "Legal Notices"
+msgstr "법적 고지 (영문)"
+
+msgid "Privacy Policy"
+msgstr "개인 정보 보호 정책 (영문)"
+
+msgid "Visit Mozilla.com"
+msgstr "Mozilla.com 방문"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Mozilla.com 방문(영문)"
+
+msgid "Download Firefox - Free"
+msgstr "Firefox 다운로드 - 무료"
+
+msgid "Release Notes"
+msgstr "제품 소개서"
+
+msgid "Other Systems and Languages"
+msgstr "다른 운영체제 및 언어"
+
+msgid "Get Firefox"
+msgstr "Firefox 이용하기"
+
+msgid "Free Download"
+msgstr "무료 다운로드"
+
+msgid "Help us make Firefox even better!"
+msgstr "Firefox 사용 의견 보내기"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr "잠깐 동안 간단한 질문에 답변함으로서 여러분의 의견을 보내 주실 수 있습니다."
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "(in English)"
+msgstr "(영문)"
+
+msgid "Download Now - Free"
+msgstr "다운로드 - 무료"
+
+msgid "Return to top"
+msgstr "상위로"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"지금 바로 <a href=\"http://get.adobe.com/flashplayer/\">Adobe 플래시 플레이어 업데이트</a>를 "
+"하셔야 합니다."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox는 최신 버전입니다만 여러분이 사용 중은 Adobe 플래시 플레이어는 보안 및 안정성 문제를 일으킬 수 있습니다. 가능한 "
+"빠르게 <a href=\"http://get.adobe.com/flashplayer/\">무료 최신 버전 업데이트</a>를 하시기 바랍니다."
+
+msgid "Features"
+msgstr "주요 기능"
+
+msgid "Customize"
+msgstr "부가 기능"
+
+msgid "Synchronize"
+msgstr "동기화"
+
+msgid "Develop for Mobile"
+msgstr "모바일 개발"
+
+msgid "Other Supported Platforms"
+msgstr "다른 운영 체제"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "다른 운영 체제 및 언어"
+
+msgid "Choose your location"
+msgstr "지역 선택"
+
+msgid "Download Firefox directly from your phone"
+msgstr "휴대폰에서 Firefox 바로 다운로드"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "메가바이트"
+
+msgid "FAQ"
+msgstr "FAQ {ok}"
+
+msgid "Videos"
+msgstr "동영상"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"별도의 <a href=\"%s\">고지</a>가 없는 한 본 웹 사이트 콘텐츠는<br /><a href=\"%s\">Creative "
+"Commons Attribution Share-Alike License v3.0</a>이상 버전에 따라 사용 가능합니다."
+
+msgid "Report Trademark Abuse"
+msgstr "상표권 침해 신고 (영문)"
+
+msgid "Free Upgrade"
+msgstr "무료 업그레이드"
+
+msgid "Follow us on:"
+msgstr "팔로우"
+
+msgid "Customize with Add-ons"
+msgstr "부가기능으로 맞춤 서비스"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "데스크톱 및 모바일 동기화"
+
+msgid "Learn More"
+msgstr "더 자세히 보기"
+
+msgid "Watch the video"
+msgstr "동영상 보기"
+
+msgid "WebM format"
+msgstr "WebM 형식"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora 형식"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 형식"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "우왓! 이메일 주소 형식이 틀렸습니다."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Mozilla 개인 정보 정책을 확인하시고 동의 확인을 하시기 바랍니다."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr "이메일 주소를 입력하시고 Mozilla 개인 정보 정책을 확인하세요."
+
+msgid "Mobile"
+msgstr "모바일"
+
+msgid "Firefox Updated"
+msgstr "Firefox 업데이트 완료"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "내일의 웹을 살펴 보기"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Firefox와 미래로의 여행"
+
+msgid "Join the Beta Program"
+msgstr "베타 프로그램 들어가기"
+
+msgid "Experience Firefox"
+msgstr "Firefox 사용하기"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "미래의 웹이 여러분을 기다립니다!"
+
+msgid "The future of the Web starts now."
+msgstr "미래의 웹이 지금 시작됩니다."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Firefox의 멋진 변화을 즐겨 보세요."
+
+msgid "Experience tomorrow's Web today."
+msgstr "미래의 웹을 오늘 경험하세요."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Firefox의 멋진 변화를 즐겨 보세요."
+
+msgid "Browse the future of the Web."
+msgstr "미래의 웹 살펴보기"
+
+msgid "See Firefox with a new look and feel."
+msgstr "Firefox의 새 모양 보기"
+
+msgid "Download Beta Now."
+msgstr "베타 버전 다운로드"
+
+msgid "All Systems & Languages"
+msgstr "모든 시스템 및 언어"
+
+msgid "View Full Site"
+msgstr "전체 사이트 보기"
+
+msgid "Get Firefox for Android"
+msgstr "Firefox 안드로이드 받기"
+
+msgid "Download for <span>Android</span>"
+msgstr "<span>안드로이드</span> 다운로드"
+
+msgid "Free from the Android Market"
+msgstr "안드로이드 마켓에서 받기"
+
+msgid "Desktop"
+msgstr "데스크탑"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox 모바일 베타"
+
+msgid "Firefox for mobile"
+msgstr "Firefox 모바일"
+
+msgid "Email"
+msgstr "이메일 주소"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. 윈도 XP에서도 최신 웹 기술을 제공합니다."
+
+msgid "Super speed"
+msgstr "빠른 속도"
+
+msgid "Stunning graphics"
+msgstr "보다 멋진 그래픽 기술"
+
+msgid "The latest technologies"
+msgstr "최신 웹 기술"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"여러분은 Firefox 예전 버전을 사용하고 있습니다. 안전하게 업데이트 하실 수 있습니다.<br/><a href=\"%s\">최신 업데이트 "
+"다운로드</a>는 금방 하실 수 있습니다."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"여러분은 업그레이드가 필요합니다. 금방 안전하게 업데이트 할 수 있습니다.<br/> 새로운 Firefox로 나 만의 맞춤형 웹 서핑을 "
+"즐겨 보세요.<br/> 더 빠르고 무료 입니다."
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"여러분은 Firefox 예전 버전을 사용하고 있습니다. <a href=\"%s\">최신 업데이트</a>를 사용해 주세요. 새로운 기능 및 "
+"보안 업데이트와 더 빠른 Firefox를 만날 수 있습니다. 무료로 금방 업데이트 가능합니다."
+
+msgid "Upgrade now"
+msgstr "지금 업그레이드하기"
+
+msgid "Update now"
+msgstr "지금 업그레이드하기"
+
+msgid "Supported Devices"
+msgstr "지원 기기"
+
+msgid "What’s New"
+msgstr "새로운 기능"
+
+msgid "Privacy"
+msgstr "개인 정보 정책"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

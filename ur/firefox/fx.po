@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ur/firefox/fx.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Need a fresh copy?"
+msgstr "Need a fresh copy?"
+
+msgid "Learn more about Firefox for Android&nbsp;»"
+msgstr "Learn more about Firefox for Android&nbsp;»"
+
+msgid "You’ve come to the right place!"
+msgstr "You’ve come to the right place!"
+
+msgid "Customize your Firefox with add-ons&nbsp;»"
+msgstr "Customize your Firefox with add-ons&nbsp;»"
+
+msgid "Download now&nbsp;»"
+msgstr "Download now&nbsp;»"
+
+msgid "Get Firefox for Android free from the Google Play Store&nbsp;»"
+msgstr "Get Firefox for Android free from the Google Play Store&nbsp;»"
+
+msgid "Firefox for Android"
+msgstr "Firefox for Android"
+
+msgid "Try Firefox Beta"
+msgstr "Try Firefox Beta"
+
+msgid "Find out if your device is supported&nbsp;»"
+msgstr "Find out if your device is supported&nbsp;»"
+
+msgid "Get the mobile browser that’s got your back free from the"
+msgstr "Get the mobile browser that’s got your back free from the"
+
+msgid "Firefox on Android"
+msgstr "Firefox on Android"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+
+msgid "Get the latest version of Firefox. It’s fast, flexible and secure."
+msgstr "Get the latest version of Firefox. It’s fast, flexible and secure."
+
+msgid ""
+"Get a sneak peek at the latest features and innovations coming soon to "
+"Firefox."
+msgstr ""
+"Get a sneak peek at the latest features and innovations coming soon to "
+"Firefox."
+
+msgid "Learn more about the latest Firefox features&nbsp;»"
+msgstr "Learn more about the latest Firefox features&nbsp;»"
+
+msgid "Google Play Store&nbsp;»"
+msgstr "Google Play Store&nbsp;»"

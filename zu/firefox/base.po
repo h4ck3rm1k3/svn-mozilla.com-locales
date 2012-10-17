@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zu/firefox/base.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Join Mozilla"
+msgstr "Join Mozilla"
+
+msgid "Mobile Support"
+msgstr "Mobile Support"
+
+msgid "Personas"
+msgstr "Personas"
+
+msgid "Releases"
+msgstr "Releases"
+
+msgid "Firefox for Organizations"
+msgstr "Firefox for Organizations"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Desktop Support"
+msgstr "Desktop Support"
+
+msgid "Desktop Add-ons"
+msgstr "Desktop Add-ons"
+
+msgid "About Firefox"
+msgstr "About Firefox"
+
+msgid "Firefox Aurora"
+msgstr "Firefox Aurora"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Mobile Add-ons"
+msgstr "Mobile Add-ons"
+
+msgid "Participate"
+msgstr "Participate"
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta"
+
+msgid "Performance"
+msgstr "Performance"
+
+msgid "Partnerships"
+msgstr "Partnerships"
+
+msgid "Technology"
+msgstr "Technology"
+
+msgid "Privacy &amp; Security"
+msgstr "Privacy &amp; Security"
+
+msgid "Brand Toolkit"
+msgstr "Brand Toolkit"

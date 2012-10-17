@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/is/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Húrra! Firefox hjá þér er í nýjustu útgáfu."
+
+msgid "Your Firefox is out of date."
+msgstr "Firefox hjá þér er úreldur."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Vegna öryggisástæðna, mælum við með að þú uppfærir í <a href=\"{url}\">nýjustu "
+"og bestu útgáfuna</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Þú ert að keyra óþekkta útgáfu af Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Vegna öryggisástæðna, mælum við með að þú niðurhalir <a href=\"{url}\">nýjustu "
+"og bestu útgáfunni</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Kláraðu þín verkefni<br/>hraðar en áður"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Sjáðu hvað er nýtt í Firefox sem hjálpar þér að vafra hraðar og skilvirkara."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Fræðast meira um <a href=\"{url}\">nýju flipana »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Fræðast meira um <a href=\"{url}\">endurbættu heimasíðuna »</a>"
+
+msgid "Keep in touch"
+msgstr "Vera í sambandi"
+
+msgid "Keep it moving"
+msgstr "Haltu áfram ferðinni"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Ná í Firefox » <b>fyrir Android</b>"
+
+msgid "Keep it going"
+msgstr "Haltu áfram"
+
+msgid "Join Mozilla"
+msgstr "Gerast aðili að Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android vélmennið var endurgert frá efni sem var búið til og <a href=\"%"
+"s\">deilt af Google</a> og notað í samræmi við skilmála <a href=\"%s\">Creative "
+"Commons 3.0 Attribution License</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Náðu í Firefox fyrir Android</a> og fáðu vefinn beint í æð. "
+"Hann er hraður, snjall og öruggur!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Náðu núna í vafrann sem hentar fyrir farsímann þinn."
+
+msgid "Firefox Features"
+msgstr "Firefox eiginleikar"
+
+msgid "Welcome to Firefox"
+msgstr "Velkomin í Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox Hjálp"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox fyrir Android mynd"
+
+msgid "Fast. Smart. Safe."
+msgstr "Hraður. Snjall. Öruggur."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Náðu í vafrann sem hentar fyrir farsímann þinn."

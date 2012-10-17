@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:24+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/pt-PT/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:24+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Obter o Firefox para Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Transferir para <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Gratuito a partir do Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Ou visite <a %s>Firefox.com/m</a> através do seu telemóvel."
+
+msgid "Supported Devices"
+msgstr "Dispositivos suportados"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Obtenha-o a partir do iTunes - GRATUITO"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home para o <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr ""
+"Aceda ao histórico, marcadores e separadores abertos do Firefox do seu "
+"iPhone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Transferir o Firefox para o seu <span>telemóvel</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Deseja testar as últimas funcionalidades?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Obtenha o Firefox Home para iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Transferir Beta para o Android"
+
+msgid "Download"
+msgstr "Transferir"
+
+msgid "for"
+msgstr "para"
+
+msgid "Free from iTunes"
+msgstr "Gratuito no iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Vai experimentar funcionalidades de ponta e fornecer feedback para ajudar a "
+"refinar e polir a versão final."
+
+msgid "Developer Tools"
+msgstr "Ferramentas do desenvolvedor"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Pode instalar a versão móvel do Firefox no seu computador de secretária para "
+"que possa testar, fornecer feedback e fazer extras."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Ligue-se com o Firefox para telemóvel:"
+
+msgid "Monthly newsletter"
+msgstr "Newsletter mensal"
+
+msgid "Follow us"
+msgstr "Siga-nos"
+
+msgid "Become a fan"
+msgstr "Torne-se um fan"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"O Firefox está cheio de inovações que fazem com que escreva menos, navegue "
+"mais e vá para a web rápida e facilmente."
+
+msgid "Freedom from typing"
+msgstr "Livre de escrever"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"O ecrã fantástico aprende os seus sítios favoritos para que possa navegar "
+"com pouca ou nenhuma escrita."
+
+msgid "Best of both worlds"
+msgstr "O melhor de dois mundos"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"O Firefox para Android foi redesenhado e otimizado para a maneira como "
+"navega em telefones e tablets."
+
+msgid "Browse quick and easy"
+msgstr "Navegação rápida e fácil"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Funcionalidades como o Sync, navegação por separadores e marcadores com "
+"apenas um toque significam que o que deseja está ao alcance da mão."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr ""
+"<a %s>Precisa de ajuda?</a> Visite o nosso sítio de ajuda do Firefox para "
+"Android."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Transfira e teste a versão certa para si."
+
+msgid "See all our channels for mobile »"
+msgstr "Veja todos os nossos canais para o mobile »"
+
+msgid "Free from the Google Play Store"
+msgstr "Free from the Google Play Store"

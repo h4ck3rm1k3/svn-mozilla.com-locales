@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/is/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Fá fréttir mánaðarlega"
+
+msgid "Your Email Address"
+msgstr "Tölvupóstfangið þitt"
+
+msgid "Text"
+msgstr "Texti"
+
+msgid "Available Languages"
+msgstr "Tiltæk tungumál"
+
+msgid "Select country"
+msgstr "Veldu land"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Úps! Vertu viss um að þú hafir slegið inn rétt póstfang."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Lestu hvernig Mozilla fer með persónuupplýsingar og samþykktu það með því að "
+"smella á boxið."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Ég samþykki <a href=\"%s\">meðferð persónuupplýsinga</a>"
+
+msgid "Sign me up!"
+msgstr "Skráðu mig!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Við sendum aðeins upplýsingar sem tengjast Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "Takk fyrir að skrá þig!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Við hlökkum til að senda þér ábendingar og ýmis konar snjallræði fyrir "
+"Firefox, og einnig merkilegar fréttir um Mozilla og hvernig við erum að "
+"vinna að því að gera vefinn betri."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Gerstu áskrifandi að mánaðarlegum uppfærslum og lestu nýjustu fréttir frá "
+"Mozilla, t.d nýjar ábendingar sem hjálpa þér að fá það mesta út úr Firefox "
+"vafranum. Þetta er besta leiðin til að fylgjast með!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Búið er að senda þér staðfestingarpóst. Smelltu á tengilinn í "
+"staðfestingarpóstinum til að staðfesta áskriftina að póstlistanum."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Lestu allt um þetta í <span>fréttablaðinu</span> okkar"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Búið er að staðfesta áskriftina að fréttabréfinu."
+
+msgid "Format"
+msgstr "Sniðmát"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Allt er tilbúið! <span>En bíddu aðeins, það er til meira</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Viltu fá áhugaverðustu fréttirnar? Segðu okkur aðeins meira frá þér. Og á "
+"meðan þú ert hérna, skráðu þig endilega fyrir öðrum Mozilla fréttum."
+
+msgid "Firefox & You"
+msgstr "Firefox og þú"
+
+msgid "Our Other Newsletters:"
+msgstr "Önnur fréttabréf:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Fáðu nýjustu ábendingarnar og snjallræðin þannig að þú fáir sem mest út úr "
+"uppáhalds vafranum þínum."
+
+msgid "Firefox Mobile"
+msgstr "Firefox fyrir farsíma"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Lestu um nýjustu viðbæturnar og eiginleikana fyrir Firefox fyrir farsíma."
+
+msgid "Beta News"
+msgstr "Beta fréttir"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Lestu um nýjustu hlutina fyrir Firefox á tölvu og farsíma áður en "
+"lokaútgáfan er gerð."
+
+msgid "Let’s Be Friends!"
+msgstr "Verum vinir!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox er einnig á félagsnetum. Kíktu á okkur og taktu þátt í samræðunum."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Breyttu <span>áskriftum að fréttabréfum</span>"
+
+msgid "Subscribe"
+msgstr "Gerast áskrifandi"
+
+msgid "Unsubscribe"
+msgstr "Hætta í áskrift"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Hakaðu við hér ef þú vilt ekki fá neinn póst frá Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Fjarlægja mig úr öllum pósti frá Mozilla"
+
+msgid "Save Preferences"
+msgstr "Vista stillingar"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Takk fyrir að uppfæra tölvupóstsstillingar."
+
+msgid "You've been unsubscribed."
+msgstr "Búði er að afskrá þig af listanum."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Okkur þykir miður að þú sért að hætta. Viltu kannski segja okkur af hverju "
+"þú ert að hætta?"
+
+msgid "You send too many emails."
+msgstr "Þið sendið of marga tölvupósta."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Innihaldið var ekki áhugavert fyrir mig."
+
+msgid "Your email design was too hard to read."
+msgstr "Hönnun tölvupóstsins var of flókinn."
+
+msgid "I didn't sign up for this."
+msgstr "Ég skráði mig ekki á listann."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Ég verð í tengslum við Mozilla á Facebook og Twitter í staðinn."
+
+msgid "Submit"
+msgstr "Senda"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Takk fyrir að láta okkur vita af hverju þú ert hættur."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla fréttabréf"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Takk! Athugaðu póst í innhólfi til að staðfesta áskriftina."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Þú færð póst frá mozilla@e.mozilla.org til að staðfesta áskriftina. Ef þú "
+"sérð ekki póstinn, athugaðu þá ruslpóst möppuna. Þú verður að staðfesta "
+"áskriftina til að fá fréttabréfið."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Passaðu að bæta póstfanginu okkar: mozilla@e.mozilla.org við nafnabókin hjá "
+"þér til að vera viss um að pósturinn lendi alltaf í innhólfinu."

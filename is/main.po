@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/is/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Flakka"
+
+msgid "Press area"
+msgstr "Fréttasvæði"
+
+msgid "About"
+msgstr "Um"
+
+msgid "Store"
+msgstr "Verslun"
+
+msgid "Donate"
+msgstr "Gefa peninga"
+
+msgid "Support"
+msgstr "Aðstoð"
+
+msgid "Products"
+msgstr "Vörur"
+
+msgid "Add-ons"
+msgstr "Viðbætur"
+
+msgid "About Us"
+msgstr "Um okkur"
+
+msgid "Developers"
+msgstr "Þróunaraðilar"
+
+msgid "Labs"
+msgstr "Vinnustofur"
+
+msgid "skip to Navigation"
+msgstr "til baka á að flakka"
+
+msgid "switch language"
+msgstr "skipta um tungumál"
+
+msgid "Back to home page"
+msgstr "Til baka á heimasíðu"
+
+msgid "About Mozilla"
+msgstr "Um Mozilla"
+
+msgid "Get Involved"
+msgstr "Taka þátt"
+
+msgid "Licensing"
+msgstr "Leyfiskaup"
+
+msgid "Careers"
+msgstr "Starfsframi"
+
+msgid "Press Center"
+msgstr "Fréttir"
+
+msgid "Contact Us"
+msgstr "Hafa samband"
+
+msgid "Site contact"
+msgstr "Samband við vefstjóra"
+
+msgid "Other languages:"
+msgstr "Önnur tungumál:"
+
+msgid "%Y-%m-%d"
+msgstr "%d.%m.%Y"
+
+msgid "All rights reserved."
+msgstr "Allur réttur áskilinn."
+
+msgid "Legal Notices"
+msgstr "Lögfræðitilkynningar"
+
+msgid "Privacy Policy"
+msgstr "Meðferð persónuupplýsinga"
+
+msgid "Visit Mozilla.com"
+msgstr "Heimsækja Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Heimsækja Mozilla.com (á ensku)"
+
+msgid "Download Firefox - Free"
+msgstr "Niðurhala Firefox - Ókeypis"
+
+msgid "Release Notes"
+msgstr "Útgáfuupplýsingar"
+
+msgid "Other Systems and Languages"
+msgstr "Önnur kerfi og tungumál"
+
+msgid "Get Firefox"
+msgstr "Ná í Firefox"
+
+msgid "Free Download"
+msgstr "Ókeypis niðurhal"
+
+msgid "Help us make Firefox even better!"
+msgstr "Hjálpaðu okkur við að gera Firefox ennþá betri!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Taktu smá tíma í að taka fljótlega könnun og deildu þínum skoðunum með "
+"okkur."
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "(in English)"
+msgstr "(á ensku)"
+
+msgid "Download Now - Free"
+msgstr "Hala niður núna - Ókeypis"
+
+msgid "Return to top"
+msgstr "Fara efst á síðu"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Þú ættir að <a href=\"http://get.adobe.com/flashplayer/\">uppfæra Adobe Flash "
+"spilarann</a> strax."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox er uppfærður, en núverandi útgáfa af Flash spilaranum getur valdið "
+"öryggisgöllum og vandræðum með stöðugleika.  Vinsamlega <a "
+"href=\"http://get.adobe.com/flashplayer/\">settu inn ókeypis uppfærsluna</a> "
+"eins fljótt og hægt er."
+
+msgid "Features"
+msgstr "Eiginleikar"
+
+msgid "Customize"
+msgstr "Sérsníða"
+
+msgid "Synchronize"
+msgstr "Samstilla"
+
+msgid "Develop for Mobile"
+msgstr "Þróa fyrir farsíma"
+
+msgid "Other Supported Platforms"
+msgstr "Stuðningur við önnur stýrikerfi"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Önnur stýrikerfi og tungumál"
+
+msgid "Choose your location"
+msgstr "Veldu staðsetningu"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Náðu í Firefox beint frá símanum þínum"
+
+msgid "Download"
+msgstr "Niðurhal"
+
+msgid "Next"
+msgstr "Næsta"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "Megabæti"
+
+msgid "FAQ"
+msgstr "Spurningar og svör"
+
+msgid "Videos"
+msgstr "Myndbönd"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Á meðan annað er ekki tekið <a href=\"%s\">fram</a>, er efni á þessu vefsvæði "
+"gefið út undir leyfi <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> eða nýrri útgáfu."
+
+msgid "Report Trademark Abuse"
+msgstr "Tilkynna misnotkun á vörumerki"
+
+msgid "Free Upgrade"
+msgstr "Ókeypis uppfærsla"
+
+msgid "Follow us on:"
+msgstr "Kíktu á okkur á:"
+
+msgid "Customize with Add-ons"
+msgstr "Sérsníða með viðbótum"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Samstilltu tölvuna og símann"
+
+msgid "Learn More"
+msgstr "Fræðast meira"
+
+msgid "Watch the video"
+msgstr "Horfa á myndbandið"
+
+msgid "WebM format"
+msgstr "WebM skráarsnið"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora skráarsnið"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 skráarsnið"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Úps! Gakktu úr skugga um að þú hafir slegið inn löglegt tölvupóstfang."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Lestu meðferð persónuupplýsinga hjá Mozilla og samþykktu með því að haka í "
+"reitinn."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Sláðu inn tölvupóstfang og skoðaðu vandlega meðferð persónuupplýsinga hjá "
+"Mozilla."
+
+msgid "Mobile"
+msgstr "Farsími"
+
+msgid "Firefox Updated"
+msgstr "Firefox uppfærður"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Kíktu á framtíð vefsins"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Ferðastu í framtíðina með Firefox"
+
+msgid "Join the Beta Program"
+msgstr "Taktu þátt í beta hópnum"
+
+msgid "Experience Firefox"
+msgstr "Upplifðu Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Vefur framtíðarinnar bíður eftir þér!"
+
+msgid "The future of the Web starts now."
+msgstr "Vefur framtíðarinnar byrjar núna."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Prófaðu Firefox með nýju útliti."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Upplifðu vef framtíðarinnar í dag."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Kíktu á nýja útlitið á Firefox."
+
+msgid "Browse the future of the Web."
+msgstr "Vafraðu á vef framtíðarinnar."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Kíktu á nýja útlitið á Firefox."
+
+msgid "Download Beta Now."
+msgstr "Niðurhala beta útgáfunni núna."
+
+msgid "All Systems & Languages"
+msgstr "Öll stýrikerfi og tungumál"
+
+msgid "View Full Site"
+msgstr "Skoða allt vefsvæðið"
+
+msgid "Get Firefox for Android"
+msgstr "Ná í Firefox fyrir Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Niðurhala fyrir <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Ókeypis frá Android Market"
+
+msgid "Desktop"
+msgstr "Tölva"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta fyrir farsíma"
+
+msgid "Firefox for mobile"
+msgstr "Firefox fyrir farsíma"
+
+msgid "Email"
+msgstr "Tölvupóstur"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Færir þér nýjasta vefinn á XP."
+
+msgid "Super speed"
+msgstr "Ofurhraði"
+
+msgid "Stunning graphics"
+msgstr "Ótrúleg grafík"
+
+msgid "The latest technologies"
+msgstr "Nýjasta tækni"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Þú ert að nota gamla útgáfu af Firefox. Náðu í uppfærslu til að vera "
+"öruggur! <br/> <a href=\"%s\">Niðurhalaðu ókeypis uppfærslu</a> á minna en "
+"mínútu til að fá nýjustu tækni, hraða og öryggisuppfærslur."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Þú þarft að uppfæra! Vertu öruggur á innan við mínútu. <br/> Byrjaðu að nota "
+"nýjustu útgáfu af Firefox til að vafra betur og fá bestu stillimöguleika á "
+"vefnum. <br/>   Hann er hraðvirkur og ókeypis!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Þú ert að nota gamla útgáfu af Firefox. Náðu í <a href=\"%s\">uppfærslu</a> "
+"til að vera öruggur! <br/> Njóttu nýjustu tækni, öryggislagfæringa og "
+"hraðasta Firefox sem til er. Niðurhalaðu ókeypis uppfærslu á minna en "
+"mínútu."
+
+msgid "Upgrade now"
+msgstr "Uppfæra núna"
+
+msgid "Update now"
+msgstr "Uppfæra núna"
+
+msgid "Supported Devices"
+msgstr "Tæki sem eru með stuðning"
+
+msgid "What’s New"
+msgstr "Hvað er nýtt"
+
+msgid "Privacy"
+msgstr "Friðhelgi"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Partur af efni er ©1998–%(current_year)s af einstökum mozilla.org "
+"þátttakendum. Efni er aðgengilegt undir <a href=\"%(url)s\">Creative Commons "
+"leyfi</a>."
+
+msgid "Contribute to this page"
+msgstr "Bæta við efni á þessa síðu"
+
+msgid "Mission"
+msgstr "Takmark"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

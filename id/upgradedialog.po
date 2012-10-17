@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/id/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Dapatkan Firefox Terbaru"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefox Terbaru Telah Hadir!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Pembaruan yang cepat, gampang, dan gratis</a>"
+
+msgid "Fresh new look"
+msgstr "Tampilan baru"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Lebih cepat daripada Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Lebih keren!"
+
+msgid ""
+"There's a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Tersedia versi baru Firefox yang dapat melindungi Anda dari serangan daring."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Dapatkan versi barunya</a> - cepat dan gratis!"
+
+msgid "get the latest in security"
+msgstr "dapatkan fitur keamanan yang terbaru"
+
+msgid "experience faster performance"
+msgstr "rasakan kinerja yang tinggi"
+
+msgid "enjoy greater customization"
+msgstr "nikmati berbagai pengubahsuaian"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr "Versi Firefox Anda akan rentan terhadap serangan daring."
+
+msgid "Stay safe online"
+msgstr "Tetap aman di Internet"
+
+msgid "Enjoy new features"
+msgstr "Nikmati fitur barunya"
+
+msgid "URGENT!"
+msgstr "PENTING!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Versi Firefox Anda tidak lagi terlindungi dari serangan daring di Internet."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Ini merupakan pemberitahuan terakhir sebelum peramban Anda diperbarui secara "
+"otomatis ke versi yang lebih baru"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefox tidak lagi mendukung versi sistem operasi Anda dan akan rentan "
+"terhadap serangan daring."
+
+msgid "We recommend:"
+msgstr "Kami sarankan untuk:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Meningkatkan versi (<i>upgrade</i>) <a %s>sistem operasi</a> Anda"
+
+msgid "Downloading a compatible browser"
+msgstr "Mengunduh peramban yang kompatibel"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr ""
+"Memasang peningkatan versi (<i>upgrade</i>) gratis untuk <a %s>sistem "
+"operasi</a> Anda"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Anda akan ditanyai sekali lagi sebelum diperbarui secara otomatis."
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."

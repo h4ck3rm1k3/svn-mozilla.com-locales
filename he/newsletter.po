@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/he/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "קבלת עדכוני חדשות חודשיים"
+
+msgid "Your Email Address"
+msgstr "כתובת הדואר האלקטרוני שלך"
+
+msgid "Text"
+msgstr "מלל"
+
+msgid "Available Languages"
+msgstr "שפות זמינות"
+
+msgid "Select country"
+msgstr "נא לבחור מדינה"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "אופס! נא לוודא שהזנת כתובת דואר אלקטרוני חוקית"
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "נא לקרוא את מדיניות הפרטיות ואשרו אותה באמצעות סימון תיבה זו."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "אני מסכים ל<a href=\"%s\">הצהרת הפרטיות</a>"
+
+msgid "Sign me up!"
+msgstr "רישמו אותי!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "אנו נשלח אליך רק מידע שקשור ל־Mozilla."
+
+msgid "Thanks for Subscribing!"
+msgstr "תודה על הרשמתך!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"אנו מעוניינים להתחיל בקרוב לשתף טיפים שיאפשרו לך להוציא את המירב מ־Firefox, "
+"כמו גם חדשות מרתקות על Mozilla וכיצד אנו עמלים לעשות את הרשת לטובה יותר."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"הירשמו לעדכונים חודשיים והישארו בעניינים עם חדשות מבית Mozilla, כולל גם "
+"הטיפים והטריקים החדשים ביותר להוצאת המירב מדפדפן Firefox שלכם. זוהי דרך "
+"מעולה עבורנו כדי לשמור על קשר!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"שלחנו אליך הודעת אישור בדואר האלקטרוני. אנא ללחוץ על קישור האישור בהודעת "
+"דואר אלקטרוני זו כדי לאמת את הרישום שלך לרשימת הדיוור."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "קראו עוד על כך ב<span>ניוזלטר</span> שלנו"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "אושר הרישום שלך לניוזלטר."
+
+msgid "Format"
+msgstr "תבנית"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "סיימנו! <span>חכו רגע, יש עוד</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"רוצים לקבל מידע רלוונטי ביותר? בבקשה ספרו לנו קצת עצמכם. ואם אתם כבר כאן, "
+"באפשרותכם להירשם לערוצי עדכונים נוספים."
+
+msgid "Firefox & You"
+msgstr "Firefox & You"
+
+msgid "Our Other Newsletters:"
+msgstr "ניוזלטרים אחרים שלנו:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr "קבלת טיפים וטריקים כדי להוציא את המירב מהדפדפן המועדף עליך."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Mobile"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "למדו עוד על התוספות החמות ותכונות עבור Firefox לנייד."
+
+msgid "Beta News"
+msgstr "חדשות בטא"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"קראו על התכונות החדשות ב־Firefox עבור המחשב והנייד לפני שהן מגיעות לגרסה "
+"הסופית."
+
+msgid "Let’s Be Friends!"
+msgstr "בואו נהיה חברים!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr "Firefox נמצא גם באתרי הרשתות החברתיות. התחברו אלינו והצטרפו לשיחה."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "ניהול <span>הרשמה לניוזלטרים</span>"
+
+msgid "Subscribe"
+msgstr "הרשמה"
+
+msgid "Unsubscribe"
+msgstr "הסרת רישום"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "נא לסמן כאן אם ברצונך להימחק מכל הודעות הדואר האלקטרוני מאת Mozilla"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "מחקו אותי מכל הודעות הדואר האלקטרוני מאת Mozilla"
+
+msgid "Save Preferences"
+msgstr "שמירת העדפות"
+
+msgid "Thanks for updating your email preferences."
+msgstr "תודה על עדכון העדפות הדואר האלקטרוני שלך."
+
+msgid "You've been unsubscribed."
+msgstr "רישומך הוסר בהצלחה."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "אנו מצטערים שבחרת לעזוב. אפשר בבקשה לדעת למה בחרת לעזוב?"
+
+msgid "You send too many emails."
+msgstr "אתם שולחים הרבה יותר מידי הודעות דואר אלקטרוני."
+
+msgid "Your content wasn't relevant to me."
+msgstr "התוכן אינו מעניין אותי."
+
+msgid "Your email design was too hard to read."
+msgstr "עיצוב ההודעות היה קשה מידי לקריאה."
+
+msgid "I didn't sign up for this."
+msgstr "לא נרשמתי לזה."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "אני במעקב אחרי Mozilla ב־Facebook ו־Twitter במקום."
+
+msgid "Submit"
+msgstr "שליחה"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "תודה שסיפרת לנו למה בחרת לעזוב."
+
+msgid "Mozilla Newsletters"
+msgstr "ניוזלטרים של Mozilla"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "תודה! בבקשה לבדוק את תיבת הדואר הנכנס כדי לאשר את הרישום."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"מיד תתקבל הודעה מאת mozilla@e.mozilla.org כדי לאשר את הרישום. אם אינך רואה "
+"הודעה זו, יש לבדוק את מסנן דואר הזבל שלך."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"כדאי להוסיף את כתובת השליחה שלנו: mozilla@e.mozilla.org לספר הכתובות שלכם "
+"כדי לוודא שאנחנו תמיד נצליח להגיע אל תיבת הדואר הנכנס שלכם."

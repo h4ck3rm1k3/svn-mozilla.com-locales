@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/hy-AM/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Ստանալ ամսական նորոթյուններ"
+
+msgid "Your Email Address"
+msgstr "Ձեր էլ-փոստ հասցեն"
+
+msgid "Text"
+msgstr "Տեքստ"
+
+msgid "Available Languages"
+msgstr "Առկա լեզուներ"
+
+msgid "Select country"
+msgstr "Ընտրել երկիրը"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Զգուշացում! Համոզվեք որ էլ-փոստ հասցեն ճիշտ է:"
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Խնդրեմ կարդացեք Մոզաիլլայի գաղտնիության քաղաքականությունը և համաձայնություն "
+"տվեք նշելով վանդակում:"
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Ես համաձայն եմ <a href=\"%s\">Գաղտնիության քաղաքականությանը</a>"
+
+msgid "Sign me up!"
+msgstr "Բաժանորդագրվել!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Մենք ձեզ կուղարկենք միայն Mozilla-ին առնչվող տեղեկատվություն:"
+
+msgid "Thanks for Subscribing!"
+msgstr "Շնորհակալություն բաժանորդագրվելու համար:"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Մենք անհամբեր սպասում ենք ձեզ հետ կիսվելու հնարքների և Firefox-ից ավելի լավ "
+"օգտվելու խորհուրդների մասին, ինչպես նաև հետաքրքիր նորություններ Mozilla-ի "
+"մասին և այն մասին թե ինչպես ենք մեք բարելավում վեբը:"
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Բաժանորդագրվեք ամսական թարմացումներին և հետ մի մնացեք Մոզիլլայի "
+"նորություններից, վերջին խորհուրդներից և փորձերից` Firefox դիտարկիչը "
+"լավագույնը դարձնելու համար: Սա գերազանց միջոց է, որպեսզի մենք կապի մեջ "
+"լինենք:"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Մենք հենց նոր Ձեզ ուղարկել ենք հաստատման հաղորդագրություն էլեկտրոնային "
+"փոստով: Սեղմեք հաստատման հասցեն այս նամակում, որպեսզի հաստատեք Ձեր "
+"բաժանորդագրումը այս փոստի ցուցակում:"
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Կարդացեք ամեն ինչ այդ մասին մեր  <span>նորություններ</span>-ում"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Բաժանորդագրությունը հաստատվել է։"
+
+msgid "Format"
+msgstr "Ձևաչափը"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Դու արդեն մեզ հետ ես! <span>Բայց սպասիր, Իմացի'ր ավելին</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Ցանկանու՞մ եք ստանալ լրացուցիչ տեղեկություններ։ Մի փոքր ավելին հաղորդեք մեզ "
+"Ձեր մասին։ Եվ քանի դեռ այստեղ եք, բաժանորդագրվեք Mozilla-ի նորություններին։"
+
+msgid "Firefox & You"
+msgstr "Firefox-ը և դուք"
+
+msgid "Our Other Newsletters:"
+msgstr "Մեր այլ նորությունների թոբաժանորդագրությունները."
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr "Իմացեք թե ինչպես ստանալ առավելագույնը ձեր սիրված դիտարկիչից։"
+
+msgid "Firefox Mobile"
+msgstr "Բջջային Firefox"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Կարդացե՛ք բջջային Firefox-ի վերջին հավելումների և հնարավորություների մասին։"
+
+msgid "Beta News"
+msgstr "Բետա նորություններ"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Կարդացեք Firefox-ի և բջջային Firefox-ի ամենավերջին հնարավորություների մասին՝ "
+"մինչ վերջնական թողարկումը։"
+
+msgid "Let’s Be Friends!"
+msgstr "Դարձե՛ք մեր ընկերը"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox-ը նաև Ձեր սիրելի սոցիալական կայքերում է։ Միացե՛ք մեզ և մասնակցեք "
+"քննարկումներին։"
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Manage your <span>Newsletter Subscriptions</span>"
+
+msgid "Subscribe"
+msgstr "Բաժանորդագրվել"
+
+msgid "Unsubscribe"
+msgstr "Ապաբաժանորդագրվել"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Check here if you’d like to be removed from all Mozilla emails"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Հեռացնել ինձ Mozilla-ի նորություններից"
+
+msgid "Save Preferences"
+msgstr "Պահպանել կարգավորումները"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Շնորհակալություն, որ թարմացրեցիք Ձեր էլ. հասցեն։"
+
+msgid "You've been unsubscribed."
+msgstr "Դուք ապաբաժանորդագրվել եք։"
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Մենք ցավում ենք, որ Դուք ապաբաժանորդագրվել եք։ Կասե՞ք մեզ, թե որն է դրա "
+"պատճառը։"
+
+msgid "You send too many emails."
+msgstr "Դուք չափից շատ նամակ եք ուղարկում։"
+
+msgid "Your content wasn't relevant to me."
+msgstr "Նամակների բովանդակությունը ինձ հետաքրքիր չէ։"
+
+msgid "Your email design was too hard to read."
+msgstr "Նամակների տեսքը դյուրընթեռնելի չէր։"
+
+msgid "I didn't sign up for this."
+msgstr "Ես չէի բաժանորդագրվել Ձեր նամակներին։"
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr ""
+"Փոխարենը ես կհետևեմ Mozilla-ի նորություններին Facebook-ում և Twitter-ում։"
+
+msgid "Submit"
+msgstr "Հաստատել"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Շնորհակալ ենք անկեղծ պատասխանի համար։"
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla Newsletters"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Thanks! Please check your inbox to confirm your subscription."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."

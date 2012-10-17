@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zu/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Ukuzula"
+
+msgid "Press area"
+msgstr "Indawo yokunyathelela"
+
+msgid "About"
+msgstr "Mayelana"
+
+msgid "Store"
+msgstr "Gcina"
+
+msgid "Donate"
+msgstr "Nikela"
+
+msgid "Support"
+msgstr "Ukuxhasa"
+
+msgid "Products"
+msgstr "Imikhiqizo"
+
+msgid "Add-ons"
+msgstr "Okungangezwa"
+
+msgid "About Us"
+msgstr "Myelana nathi"
+
+msgid "Developers"
+msgstr "Onjiniyela"
+
+msgid "Labs"
+msgstr "Amalebhu"
+
+msgid "skip to Navigation"
+msgstr "yeqa ekuzuleni"
+
+msgid "switch language"
+msgstr "shintsha ulimi"
+
+msgid "Back to home page"
+msgstr "Buyela kwikhasi eliyisiqalo"
+
+msgid "About Mozilla"
+msgstr "Mayelana ne-Mozilla"
+
+msgid "Get Involved"
+msgstr "Zibandakanye"
+
+msgid "Licensing"
+msgstr "Ukulayisensa"
+
+msgid "Careers"
+msgstr "Imisebenzi"
+
+msgid "Press Center"
+msgstr "Isizinda sokunyathelela"
+
+msgid "Contact Us"
+msgstr "Xhumana nathi"
+
+msgid "Site contact"
+msgstr "Ukuxhumana kwesayithi"
+
+msgid "Other languages:"
+msgstr "Ezinye izilimi:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d {ok}"
+
+msgid "All rights reserved."
+msgstr "Amalungelo wonke avinjelwe."
+
+msgid "Legal Notices"
+msgstr "Imibiko yezomthetho"
+
+msgid "Privacy Policy"
+msgstr "Inqubomgomo yemfihlo"
+
+msgid "Visit Mozilla.com"
+msgstr "Vakashela i-Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Vakashela i-Mozilla.com (ngesiNgisi)"
+
+msgid "Download Firefox - Free"
+msgstr "Layisha ungenise i-Firefox - Mahhala"
+
+msgid "Release Notes"
+msgstr "Amanothi akhishwayo"
+
+msgid "Other Systems and Languages"
+msgstr "Ezinye izinhlelo kanye namalimi"
+
+msgid "Get Firefox"
+msgstr "Thola i-Firefox"
+
+msgid "Free Download"
+msgstr "Ukulayisha ungenise kwamahhala"
+
+msgid "Help us make Firefox even better!"
+msgstr "Sisize ukuze senze i-Firefox ibe ngcono kakhulu!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Zinike isikhashana ukuthi uphendule imibuzo embalwa futhi wabelane nathi "
+"ngemibono yakho."
+
+msgid "Close"
+msgstr "Vala"
+
+msgid "(in English)"
+msgstr "(NgesiNgisi)"
+
+msgid "Download Now - Free"
+msgstr "Layisha ungenise manje - Mahhala"
+
+msgid "Return to top"
+msgstr "Buyela phezulu"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Kumele u<a href=\"http://get.adobe.com/flashplayer/\">vuselele isidlali sakho "
+"se-Adobe Flash</a> manje."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"I-Firefox isivuselelwe, kodwa inguquko yakho yamanje yesidlali se-Flash "
+"ingabanga izinkinga zokuvikeleka kanye nokungami kahle. Sicela <a "
+"href=\"http://get.adobe.com/flashplayer/\">ufake imvuselelo yamahhala</a> "
+"ngokushesha okukhulu ngokusemandleni."
+
+msgid "Features"
+msgstr "Izici"
+
+msgid "Customize"
+msgstr "Yenza ngokwezifiso"
+
+msgid "Synchronize"
+msgstr "Vumelanisa"
+
+msgid "Develop for Mobile"
+msgstr "Yakha kube yamaselula"
+
+msgid "Other Supported Platforms"
+msgstr "Ezinye izingxenyekazi ezixhasiwe"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Ezinye izingxenyekazi kanye nezilimi"
+
+msgid "Choose your location"
+msgstr "Khetha indawo yakho"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Layisha ungenise i-Firefox ngqo kwiselula yakho"
+
+msgid "Download"
+msgstr "Layisha ungenise"
+
+msgid "Next"
+msgstr "Okulandelayo"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "Megabytes"
+
+msgid "FAQ"
+msgstr "FAQ {ok}"
+
+msgid "Videos"
+msgstr "Amavidiyo"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Ngaphandle kokuthi <a href=\"%s\">kunothiwe</a> kwenye indawo, okuqukethwe "
+"kule ndawo kulayisensiwe ngaphansi kwe-<br /><a href=\"%s\">Creative Commons "
+"Attribution Share-Alike License v3.0</a> noma enye nenye inguquko."
+
+msgid "Report Trademark Abuse"
+msgstr "Bika ukuhlukumezwa kophawu lokubekisa"
+
+msgid "Free Upgrade"
+msgstr "Ukuthuthukisa okumahhala"
+
+msgid "Follow us on:"
+msgstr "Silandele ku:"
+
+msgid "Customize with Add-ons"
+msgstr "Yenza ngokwezifiso ngokungangezwa"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Vumelanisa ubuso bekhompuyutha yakho kanye neselula"
+
+msgid "Learn More"
+msgstr "Funda ngaphezulu"
+
+msgid "Watch the video"
+msgstr "Buka ividiyo"
+
+msgid "WebM format"
+msgstr "Ifomethi ye-WebM"
+
+msgid "Ogg Theora format"
+msgstr "Ifometho ye-Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Ifomethi ye-MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Yhoo! Qinisekisa ukufaka ikheli le-imeyili elivumelekile."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Sicela ufunde inqubomgomo yemfihlo ye-Mozilla bese uyavuma ngokufaka uphawu "
+"kwibhokisi."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Sicela ufake ikheli lakho le-imeyili bese ubuyekeza inqubomgomo yemfihlo ye-"
+"Mozilla."
+
+msgid "Mobile"
+msgstr "Iselula"
+
+msgid "Firefox Updated"
+msgstr "I-Firefox ibuyekeziwe"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Buka iwebhu yakusasa"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Journey to the Future with Firefox {ok}"
+
+msgid "Join the Beta Program"
+msgstr "Joyina uhlelo lwe-Beta"
+
+msgid "Experience Firefox"
+msgstr "Experience Firefox"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Ikusasa lewebhu limele wena!"
+
+msgid "The future of the Web starts now."
+msgstr "Ikusasa lewebhu liqala manje."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Zama i-Firefox ngokubukeka kanye nokuzwa okusha."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Zijwayeza iwebhu lakusasa manje."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Check out the new look and feel of Firefox. {ok}"
+
+msgid "Browse the future of the Web."
+msgstr "Dlulisa amehlo kwikusasa lewebhu."
+
+msgid "See Firefox with a new look and feel."
+msgstr "See Firefox with a new look and feel. {ok}"
+
+msgid "Download Beta Now."
+msgstr "Layisha ungenise i-Beta manje."
+
+msgid "All Systems & Languages"
+msgstr "Zonke izinhlelo kanye namalimi"
+
+msgid "View Full Site"
+msgstr "Buka isayithi egcwele"
+
+msgid "Get Firefox for Android"
+msgstr "Get Firefox for Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Download for <span>Android</span>"
+
+msgid "Free from the Android Market"
+msgstr "Free from the Android Market"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta for mobile"
+
+msgid "Firefox for mobile"
+msgstr "Firefox for mobile"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Bringing the modern Web to XP."
+
+msgid "Super speed"
+msgstr "Super speed"
+
+msgid "Stunning graphics"
+msgstr "Stunning graphics"
+
+msgid "The latest technologies"
+msgstr "The latest technologies"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+
+msgid "Upgrade now"
+msgstr "Upgrade now"
+
+msgid "Update now"
+msgstr "Update now"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "Contribute to this page"
+msgstr "Contribute to this page"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"
+
+msgid "Mission"
+msgstr "Mission"

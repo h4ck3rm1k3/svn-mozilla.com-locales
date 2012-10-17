@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/fr/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Personnalisation"
+
+msgid "One size doesn’t fit all."
+msgstr "À chacun son navigateur."
+
+msgid "Go Fast"
+msgstr "Vitesse grand V"
+
+msgid "Accelerate the way you use the web."
+msgstr "Donnez un coup d'accélérateur à votre navigation sur le Web."
+
+msgid "Stay Safe"
+msgstr "Sécurité"
+
+msgid "We’ve got your back."
+msgstr "Nous protégeons votre ordinateur et vos données personnelles."
+
+msgid "Get Firefox on your phone!"
+msgstr "Découvrez Firefox sur votre mobile !"
+
+msgid "Made for sharing."
+msgstr "Conçu pour le partage."
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Créez des onglets <br/> dédiés <br/> au partage"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Optimisez <br/> pour aller<br/> plus vite"
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Installez<br/>des modules <br>pour vous <br/> faciliter <br/> la vie"
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Firefox vous mâche <br/> le travail !"
+
+msgid "Increased <br/> speed"
+msgstr "Plus de <br/> rapidité"
+
+msgid "Easy to <br/> access tabs"
+msgstr "Onglets <br/> faciles d'accès"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Modules de <br/> productivité"
+
+msgid "Made for <br/> the way you play."
+msgstr "Pour jouer <br/>comme vous aimez."
+
+msgid "3D <br/> graphics"
+msgstr "Graphismes  <br/> 3D"
+
+msgid "Even more <br/> reliable"
+msgstr "Encore plus <br/> fiable"
+
+msgid "Staying in touch is easier than ever."
+msgstr "Garder le contact <br/>est bien plus facile."
+
+msgid "Effortless <br/> customization"
+msgstr "Personnalisation <br/> facile"
+
+msgid "Advanced <br/> security"
+msgstr "Sécurité <br/> renforcée"
+
+msgid "The future of music & video today."
+msgstr "Multimédia : c'est déjà demain"
+
+msgid "Advanced <br/> graphics"
+msgstr "Graphismes <br/> de pointe"
+
+msgid "Improved <br/> reliability"
+msgstr "Fiabilité <br/> améliorée"

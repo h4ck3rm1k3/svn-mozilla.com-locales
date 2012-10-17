@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/my/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Get Firefox for Android"
+
+msgid "Download for <span>Android</span>"
+msgstr "Download for <span>Android</span>"
+
+msgid "Download for <span>Nokia N900</span>"
+msgstr "Download for <span>Nokia N900</span>"
+
+msgid ""
+"Get Firefox for Maemo by visiting <a %s>Firefox.com/m</a> on your phone."
+msgstr ""
+"Get Firefox for Maemo by visiting <a %s>Firefox.com/m</a> on your phone."
+
+msgid "Free from the Android Market"
+msgstr "Free from the Android Market"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Or visit <a %s>Firefox.com/m</a> on your phone."
+
+msgid "Supported Devices"
+msgstr "Supported Devices"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Get it from iTunes - FREE"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home for <span>iPhone</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr "Access your Firefox history, bookmarks and open tabs on your iPhone."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Download Firefox to <span>Your Mobile</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Want to test the latest features?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Get Firefox Home for iPhone"
+
+msgid "Download Beta for Android"
+msgstr "Download Beta for Android"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "for"
+msgstr "for"
+
+msgid "Free from iTunes"
+msgstr "Free from iTunes"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+
+msgid "Developer Tools"
+msgstr "Developer Tools"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Connect With Firefox for Mobile:"
+
+msgid "Monthly newsletter"
+msgstr "Monthly newsletter"
+
+msgid "Follow us"
+msgstr "Follow us"
+
+msgid "Become a fan"
+msgstr "Become a fan"
+
+msgid "Freedom from typing"
+msgstr "Freedom from typing"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+
+msgid "Browse quick and easy"
+msgstr "Browse quick and easy"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+
+msgid "Best of both worlds"
+msgstr "Best of both worlds"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Download and test the build that’s right for you."
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+
+msgid "See all our channels for mobile »"
+msgstr "See all our channels for mobile »"

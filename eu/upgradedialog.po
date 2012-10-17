@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/eu/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Eskuratu Firefoxik berriena"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Firefoxik berriena hemen da!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Eguneratu bizkor, erraz eta doan</a>"
+
+msgid "Fresh new look"
+msgstr "Itxura fresko eta berria"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Firefox 3.6 baino askoz bizkorragoa"
+
+msgid "More awesomeness than ever"
+msgstr "Inoiz baino txundigarriagoa"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Eguneratu</a> - bizkor eta dohainik!"
+
+msgid "get the latest in security"
+msgstr "eskuratu segurtasunean berriena"
+
+msgid "experience faster performance"
+msgstr "hobetu errendimendua eta abiadura"
+
+msgid "enjoy greater customization"
+msgstr "gozatu pertsonalizazio gehiagorekin"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Zure Firefox bertsioa laster lineako erasoen aurrean babes gabe egongo da."
+
+msgid "Stay safe online"
+msgstr "Nabigatu sarean segurtasunez"
+
+msgid "Enjoy new features"
+msgstr "Gozatu ezaugarri berriekin"
+
+msgid "URGENT!"
+msgstr "GARRANTZITSUA!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"Zure Firefoxen bertsioak ez zaitu gaur egungo sareko erasoetatik babesten."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Honakoa duzu bertsio berrira automatikoki eguneratu aurreko azken "
+"oroitarazpena"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"Firefoxek ez du dagoeneko zure sistema eragilerako sostengurik ematen, eta "
+"lineako erasoen aurrean babes gabe egongo zara."
+
+msgid "We recommend:"
+msgstr "Gure gomendioa:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Eguneratu <a %s>sistema eragilea</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Deskargatu nabigatzaile bateragarri bat"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Instalatu <a %s>sistema eragilea</a>ren doako eguneraketa bat"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr "Automatikoki eguneratu aurretik beste behin ohartaraziko zaitugu."

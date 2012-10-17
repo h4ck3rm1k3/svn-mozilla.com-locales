@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ko/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "월간 뉴스레터 받기"
+
+msgid "Your Email Address"
+msgstr "이메일 주소"
+
+msgid "Text"
+msgstr "내용"
+
+msgid "Available Languages"
+msgstr "언어별"
+
+msgid "Select country"
+msgstr "국가 선택"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "우왓! 메일 주소가 유효하지 않습니다."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Mozilla 개인 정보 정책 읽고 동의하시면 확인하십시오."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "<a href=\"%s\">개인 정보 정책</a> 동의"
+
+msgid "Sign me up!"
+msgstr "등록하기!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Mozilla 관련 정보를 보내 드립니다."
+
+msgid "Thanks for Subscribing!"
+msgstr "구독 감사합니다!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr "앞으로 Firefox에 대한 정보와 팁을 보내드립니다. Mozilla에 대한 흥미로운 뉴스를 계속 보내 드릴 수 것입니다."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Mozilla에 관한 소식을 매월 보내 드립니다. Firefox 웹 브라우저 이용 팁이나 활용 방법 등도 포함되므로 도움이 되실 "
+"것입니다."
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr "확인 메시지를 이메일로 전달하였습니다. 메일 내 확인 링크를 선택해서 구독 인증을 해 주시기 바랍니다."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "<span>뉴스레터</span>에서 모두 읽기"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "뉴스 레터 구독이 확인되었습니다."
+
+msgid "Format"
+msgstr "형식"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "기다려주세요! <span>더 많은 것이 있습니다.</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr "가장 적당한 정보를 얻고 싶으시면 아래 Mozilla 뉴스레터를 신청하십시오. (각 메일은 영문으로 전달됨을 유의해 주십시오."
+
+msgid "Firefox & You"
+msgstr "Firefox와 여러분"
+
+msgid "Our Other Newsletters:"
+msgstr "영문 뉴스레터 목록:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr "Firefox 브라우저의 사용팁 및 기능을 소개해드립니다."
+
+msgid "Firefox Mobile"
+msgstr "Firefox 모바일"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Firefox 모바일의 새로운 기능 및 추천 부가 기능을 알려드립니다."
+
+msgid "Beta News"
+msgstr "베타 뉴스"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr "Firefox 데스크톱 및 모바일 버전에 대한 다양한 기능을 미리 알려드립니다."
+
+msgid "Let’s Be Friends!"
+msgstr "친구가 되어 주세요!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr "Firefox는 여러분의 소셜네트워크 사이트에도 계정이 있습니다. 함께 연결하여 대화를 나누어 주십시오."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "<span>뉴스레터 구독</span> 설정하기"
+
+msgid "Subscribe"
+msgstr "구독하기"
+
+msgid "Unsubscribe"
+msgstr "구독 취소"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Mozilla 이메일을 받지 않으시려면 여기를 선택"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Mozilla 이메일 구독 취소"
+
+msgid "Save Preferences"
+msgstr "설정 저장"
+
+msgid "Thanks for updating your email preferences."
+msgstr "이메일 주소 설정을 업데이트해 주셔서 감사합니다."
+
+msgid "You've been unsubscribed."
+msgstr "구독 취소가 완료되었습니다."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "왜 구독을 취소하시는지 알려 주시면 매우 도움이 될 것입니다."
+
+msgid "You send too many emails."
+msgstr "너무 많은 메일을 자주 보냅니다."
+
+msgid "Your content wasn't relevant to me."
+msgstr "콘텐츠가 저에게 맞지 않습니다."
+
+msgid "Your email design was too hard to read."
+msgstr "메일 디자인이 읽기가 어렵습니다."
+
+msgid "I didn't sign up for this."
+msgstr "메일링리스트 구독을 직접 신청하지 않았습니다."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "대신 페이스북과 트위터로 Mozilla의 뉴스를 받겠습니다."
+
+msgid "Submit"
+msgstr "보내기"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "왜 구독을 중단하는지 알려주셔서 감사합니다."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla 뉴스레터"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "감사합니다. 메일함에 구독 확인 메일을 살펴봐 주세요."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"mozilla@e.mozilla.org로 부터 구독 확인 메일이 도착했을 것입니다. 스팸 필터에 들어가 있는지 확인해 보시기 바랍니다."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr "뉴스레터 메일이 스팸함에 들어가지 않도록 mozilla@e.mozilla.org 메일을 확인해 주십시오."

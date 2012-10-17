@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/he/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "הידד! דפדפן Firefox שברשותך עדכני."
+
+msgid "Your Firefox is out of date."
+msgstr "דפדפן Firefox שברשותך אינו עדכני."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr "מטעמי אבטחה, אנו ממליצים לשדרג <a href=\"{url}\">לגרסה החדשה ביותר</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "הינכם משתמשים בגרסה לא ידועה של Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"מטעמי אבטחה, אנו ממליצים להוריד את <a href=\"{url}\">הגרסה החדשה ביותר</a>."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "בצעו את המשימה הבאה שלכם<br/>מהר יותר מבעבר"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr "ראו כיצד התכונות החדשות של Firefox מסייעות לכם לגלוש מהר יותר וביעילות."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "מידע נוסף על <a href=\"{url}\">תכונת הלשונית החדשה »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "מידע נוסף על <a href=\"{url}\">העיצוב מחדש של דף הבית »</a>"
+
+msgid "Keep in touch"
+msgstr "שמרו על קשר"
+
+msgid "Keep it moving"
+msgstr "קחו אותו איתכם"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "קבלת Firefox » <b>עבור Android</b>"
+
+msgid "Keep it going"
+msgstr "העבירו את זה הלאה"
+
+msgid "Join Mozilla"
+msgstr "הצטרפו ל־Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"הרובוט של Android נגזר  מעבודה שנוצרה <a href=\"%s\">ושותפה על־ידי Google</a> "
+"ונעשה בה שימוש בהתאם להנחיות שמתוארות ב<a href=\"%s\">רישיון Creative Commons "
+"ייחוס 3.0</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Now get the mobile browser that’s got your back"
+
+msgid "Firefox Features"
+msgstr "Firefox Features"
+
+msgid "Welcome to Firefox"
+msgstr "Welcome to Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox Help"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox for Android artwork"
+
+msgid "Fast. Smart. Safe."
+msgstr "Fast. Smart. Safe."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Get the mobile browser that’s got your back."

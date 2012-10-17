@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ko/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "여러분의 Firefox는 최신 버전입니다!"
+
+msgid "Your Firefox is out of date."
+msgstr "Firefox 예전 버전을 사용중입니다."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr "보안상 이유로 Firefox <a href=\"{url}\">최신 버전</a>로 업데이트하시기를 권장합니다."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "알 수 없는 Firefox 버전을 사용 중입니다."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr "보안상 이유로 Firefox <a href=\"{url}\">최신 버전</a>을 다운로드하시기를 권장합니다."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "웹 작업 속도를<br/>좀 더 빠르게!"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr "더 빠르고 효율적인 웹 브라우징을 위한 Firefox 도움말을 참고하세요."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "<a href=\"{url}\">새 탭 기능</a>에 대해 알아보기 »"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "<a href=\"{url}\">새 홈페이지</a>에 대해 알아보기 »"
+
+msgid "Keep in touch"
+msgstr "구독하기"
+
+msgid "Keep it moving"
+msgstr "무료 다운로드"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Firefox 다운르도 » <b>안드로이드용</b>"
+
+msgid "Keep it going"
+msgstr "참여하기"
+
+msgid "Join Mozilla"
+msgstr "Mozilla 참여하기"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Android Robot은 <a href=\"%s\">Creative Commons 3.0 Attribution License</a>하에서 "
+"사용된 <a href=\"%s\">Google 공유항목</a> 및 파생 작업에서 만들어졌습니다."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Firefox 안드로이드 버전</a>을 통해 웹의 마력을 손 안에서 느끼세요. 빠르고 똑똑하고 안전합니다!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "다시 되돌아온 모바일 브라우저를 사용해 보세요"
+
+msgid "Firefox Features"
+msgstr "Firefox 주요 기능"
+
+msgid "Welcome to Firefox"
+msgstr "Firefox에 오신 것을 환영합니다"
+
+msgid "Firefox Help"
+msgstr "Firefox 도움말"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox 안드로이드 예술품"
+
+msgid "Fast. Smart. Safe."
+msgstr "빠르고 똑똑하고 안전한"
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "되돌아온 모바일 브라우저를 받으세요."

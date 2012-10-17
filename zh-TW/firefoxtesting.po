@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/zh-TW/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "下載 Android 版本的 Firefox Beta 測試版 - 免費"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "下載 Firefox Beta 測試版 - 免費"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr "下載並搶先測試將在未來發行的 Firefox，體驗 Aurora 或 Beta 測試版當中的最新技術。"
+
+msgid "Firefox Beta"
+msgstr "Firefox Beta {ok}"
+
+msgid "Firefox Beta for:"
+msgstr "不同裝置的 Firefox Beta 測試版:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefox Beta 行動測試版"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "下載 Beta 測試版，成為使用新一代版本的 Firefox 的一員。"
+
+msgid "1. Test Features"
+msgstr "1. 測試新功能"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr "在第一時間嘗試體驗新版瀏覽器即將完成的效能、自定性，以及安全性改善。"
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. 琢磨並改善"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr "送交臭蟲報告給我們，幫助我們在穩定環境當中的效能、功能上做出最終調整。"
+
+msgid "3. Do Your Part"
+msgstr "3. 加上您的功勞"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr "讓每天都有超過超過四億五千萬人使用中的 Firefox 當中也包含您所做出的貢獻。"
+
+msgid "Supported devices"
+msgstr "支援裝置"
