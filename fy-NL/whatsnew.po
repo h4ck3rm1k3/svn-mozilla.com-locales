@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/fy-NL/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Hoera! Jo Firefox is by de tiid."
+
+msgid "Your Firefox is out of date."
+msgstr "Jo Firefox is út 'e tiid."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Om feilichheidsredenen rikkemandearje wy jo oan om te fernijen nei de <a "
+"href=\"{url}\">lêste en bêste ferzje</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Jo brûke in ûnbekende ferzje fan Firefox."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Om feilichheidsredenen rikkemandearje wy jo oan de <a href=\"{url}\">lêste en "
+"bêste ferzje</a> yn te laden."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Gean nei jo folgjende taak<br/>flugger as ea"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Sjoch hoe de nije funksjes yn Firefox jo helpe flugger en effisjenter te "
+"blêdzjen."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Lês mear oer <a href=\"{url}\">de nije ljepblêdfunksje »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Lês mear oer ús <a href=\"{url}\">nije startside »</a>"
+
+msgid "Keep in touch"
+msgstr "Bliuw yn ferbining"
+
+msgid "Keep it moving"
+msgstr "Hâld it yn beweging"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Krij Firefox » <b>foar Android</b>"
+
+msgid "Keep it going"
+msgstr "Hâld it oan 'e gong"
+
+msgid "Join Mozilla"
+msgstr "Doch mei mei Mozilla"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"De Android Robot is reprodusearre út wurk makke en <a href=\"%s\">dield troch "
+"Google</a> en brûkt neffens de betingsten beskreaun yn de <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Krij Firefox foar Android</a> en bring de krêft fan it ynternet "
+"yn jo hannen. It is fluch, tûk en feilich!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Krij no de mobile browser dy't jo beskermt"
+
+msgid "Firefox Features"
+msgstr "Firefox funksjes"
+
+msgid "Welcome to Firefox"
+msgstr "Wolkom by Firefox"
+
+msgid "Firefox Help"
+msgstr "Firefox Help {ok}"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox foar Android keunstwurk"
+
+msgid "Fast. Smart. Safe."
+msgstr "Fluch. Tûk. Feilich."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Krij de mobile browser dy't jo beskermt."

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ar/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "نزّل فيَرفُكس بيتا لأندرويد - مجانيّ"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "نزّل فيَرفُكس بيتا لسطح المكتب - مجانيّ"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"نزّل واختبر إصدارات فيَرفُكس القادمة. تعرّف على آخر الإبداعات في إصدارات "
+"أرورا وبيتا."
+
+msgid "Firefox Beta"
+msgstr "فيَرفُكس بيتا"
+
+msgid "Firefox Beta for:"
+msgstr "فيَرفُكس بيتا ل‍:"
+
+msgid "Firefox Beta for Mobile"
+msgstr "فيَرفُكس بيتا للجوّال"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr "نزّل بيتا وانضم إلى إصدارة فيَرفُكس التالية."
+
+msgid "1. Test Features"
+msgstr "1. جرّب الخصائص"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr "جرّب آخر تحسينات الأداء والأمان والتخصيص."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. حسّن واصقل"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr "أبلغ عن المشاكل لمساعدتنا في وضع اللمسات النهائية على الأداء والخصائص."
+
+msgid "3. Do Your Part"
+msgstr "3. شارِك"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr "أثّر في الإصدارة التالية من فيَرفُكس و 450 مليون شخص يستخدمونه."
+
+msgid "Supported devices"
+msgstr "الأجهزة المدعومة"

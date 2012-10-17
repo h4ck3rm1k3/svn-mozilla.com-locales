@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/fy-NL/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Krij eltse moanne nijs"
+
+msgid "Your Email Address"
+msgstr "Jo e-mailares"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Available Languages"
+msgstr "Beskikbere talen"
+
+msgid "Select country"
+msgstr "Selektearje lân"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Blinder! Wês wis dat jo in korrekt e-mailadres ynfolje."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Lês it Mozilla Privacy-belied en gean akkoard troch it fekje oan te finken."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Ik gean akkoard mei it <a href=\"%s\">Privacybelied</a>"
+
+msgid "Sign me up!"
+msgstr "Abonnearje!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Wy sille jo allinnich Mozilla-relatearre ynformaasje stjoere."
+
+msgid "Thanks for Subscribing!"
+msgstr "Tank foar abonnearjen!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Wy sjogge der nei út ynkoarten te starten mei it dielen fan tips &amp; trúks "
+"om it measte út Firefox te krijen, en ek opwinend nijs oer Mozilla en hoe "
+"we wurkje om in better ynternet te meitsjen."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Meld jo oan foar moanliks nijs en bliuw o 'e hichte mei Mozilla nijs, "
+"ynklusyf de lêste tips en trúks om it bêste út joFirefox browser te krijen. "
+"It is de perfekte manier foar ús om yn kontakt te bliuwenh!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Wy hawwe jo krekt in befestigingse-mail stjoerd. Klik op de "
+"befestigingskeppeling yn dizze e-mail om jo oanmelding te falidearjen."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Lês alles hjiroer yn ús <span>nijsbrief</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Jo nijsbrief oanmelding is befestige."
+
+msgid "Format"
+msgstr "Formaat {OK}"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Jo binne klear! <span>Mar Wacht, der is mear</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Wolle jo de meast relevante ynfo krije? Fertel ús wat mear oer josels. En "
+"wylst jo hjir binne, meld jo oan foar oar Mozilla nijs."
+
+msgid "Firefox & You"
+msgstr "Firefox & Jo"
+
+msgid "Our Other Newsletters:"
+msgstr "Us oare Nijsbrieven:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr "Krij de lêste tips en trúks o it bêste út jo browser t heljen."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Mobyl"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Lear oer de moaiste nije add-ons en fuksjes foar Firefox mobyl."
+
+msgid "Beta News"
+msgstr "Bètanijs"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Lês oer de lêste funksjes foar Firefox desktop en mobyl foar de finale "
+"útjefte."
+
+msgid "Let’s Be Friends!"
+msgstr "Litte wy freonen wurde!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox is ek op jo favorite sosjal netwurksiden. Ferbyn mei ús n doch mei "
+"ús mei."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Behear jo <span>Nijsbrief abonneminten</span>"
+
+msgid "Subscribe"
+msgstr "Oanmelde"
+
+msgid "Unsubscribe"
+msgstr "Ofmelde"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Klik hjir as jo jo ôfmelde wolle foar alle Mozilla e-mails"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Meld my ôf foar alle Mozilla e-mails"
+
+msgid "Save Preferences"
+msgstr "Bewarje foarkarren"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Tank foar it fernijen fan jo e-mailfoarkarren."
+
+msgid "You've been unsubscribed."
+msgstr "Jo binne ôfmelden."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Wy fine it spitch. Wolle jo ús miskien fertelle wêrom jo jo ôfmelde?"
+
+msgid "You send too many emails."
+msgstr "Jim stjoere te folle e-mails."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Jim ynhâld wie net relevant foar my."
+
+msgid "Your email design was too hard to read."
+msgstr "Jim e-mail wie te swier om te lêzen."
+
+msgid "I didn't sign up for this."
+msgstr "Ik haw my hjir net foar oanmelden."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Ik bliuw op 'e hichte mei Mozilla op Facebook en Twitter."
+
+msgid "Submit"
+msgstr "Ynstjoere"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Tank foar jo kommentaar wêrom't jo jo ôfmelde."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla nijsbrieven"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Tank! Sjoch yn jo postfek yn om jo oanmelding te befestigjen."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Jo ûntfange in e-mail fan mozilla@e.mozilla.org om de oanmelding te "
+"befestigjen. As jo it net sjogge, kontrolearje jo spamfilter. Jo moatte jo "
+"oanmelding befestigje om de nijsbrief te ûntfangen."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Wês wis om ús e-mailadres: mozilla@e.mozilla.org ta te efoegjen oan jo "
+"adresboek om wis te wêzen dat wy yn jo postfek yn te rjochte komme."

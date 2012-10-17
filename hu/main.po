@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/hu/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "Navigáció"
+
+msgid "Press area"
+msgstr "Sajtóoldal"
+
+msgid "About"
+msgstr "Bemutatkozás"
+
+msgid "Store"
+msgstr "Áruház"
+
+msgid "Donate"
+msgstr "Hozzájárulás"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Products"
+msgstr "Termékek"
+
+msgid "Add-ons"
+msgstr "Kiegészítők"
+
+msgid "About Us"
+msgstr "Rólunk"
+
+msgid "Developers"
+msgstr "Fejlesztők"
+
+msgid "Labs"
+msgstr "Labs {ok}"
+
+msgid "skip to Navigation"
+msgstr "ugrás a Navigációra"
+
+msgid "switch language"
+msgstr "nyelvválasztás"
+
+msgid "Back to home page"
+msgstr "Vissza a kezdőlapra"
+
+msgid "About Mozilla"
+msgstr "A Mozilláról"
+
+msgid "Get Involved"
+msgstr "Csatlakozás"
+
+msgid "Licensing"
+msgstr "Licencelés"
+
+msgid "Careers"
+msgstr "Álláslehetőségek"
+
+msgid "Press Center"
+msgstr "Sajtóoldal"
+
+msgid "Contact Us"
+msgstr "Kapcsolat"
+
+msgid "Site contact"
+msgstr "Kapcsolat"
+
+msgid "Other languages:"
+msgstr "Más nyelvek:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y.%m.%d."
+
+msgid "All rights reserved."
+msgstr "Minden jog fenntartva"
+
+msgid "Legal Notices"
+msgstr "Jogi nyilatkozatok"
+
+msgid "Privacy Policy"
+msgstr "Adatvédelmi irányelvek"
+
+msgid "Visit Mozilla.com"
+msgstr "Látogassa meg a mozilla.com oldalt"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Látogassa meg a mozilla.com oldalt (angol)"
+
+msgid "Download Firefox - Free"
+msgstr "Ingyenes letöltés"
+
+msgid "Release Notes"
+msgstr "Kiadási megjegyzések"
+
+msgid "Other Systems and Languages"
+msgstr "Más nyelvek és operációs rendszerek"
+
+msgid "Get Firefox"
+msgstr "Firefox letöltése"
+
+msgid "Free Download"
+msgstr "Ingyenes letöltés"
+
+msgid "Help us make Firefox even better!"
+msgstr "Segítsen a Firefoxot még jobbá tenni!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Szánjon rá egy kis időt a kérdőív kitöltésére és ossza meg velünk "
+"gondoldatait."
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "(in English)"
+msgstr "(angolul)"
+
+msgid "Download Now - Free"
+msgstr "Ingyenes letöltés"
+
+msgid "Return to top"
+msgstr "Vissza a tetejére"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"Most frissítenie kell az <a href=\"http://get.adobe.com/flashplayer/\">Adobe "
+"Flash Player</a>-t."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"A legfrissebb Firefox verziót használja, de a jelenleg használt Flash Player "
+"biztonsági és stabilitási problémákat okozhat. Kérjük, amint lehetséges <a "
+"href=\"http://get.adobe.com/flashplayer/\">telepítse az ingyenes "
+"frissítést</a>."
+
+msgid "Features"
+msgstr "Funkciók"
+
+msgid "Customize"
+msgstr "Testreszabás"
+
+msgid "Synchronize"
+msgstr "Szinkronizálás"
+
+msgid "Develop for Mobile"
+msgstr "Fejlesztés mobilra"
+
+msgid "Other Supported Platforms"
+msgstr "Más támogatott platformok"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Más platformok és nyelvek"
+
+msgid "Choose your location"
+msgstr "Válassza ki, hogy hol van"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Töltse le a Firefox böngészőt közvetlenül a telefonjára"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "MB"
+msgstr "MB {ok}"
+
+msgid "MegaBytes"
+msgstr "megabyte"
+
+msgid "FAQ"
+msgstr "GYIK"
+
+msgid "Videos"
+msgstr "Videók"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Ezen oldal tartalma, kivéve, ahol az <a href=\"%s\">jelezve</a> van,<br />a <a "
+"href=\"%s\">Creative Commons Attribution Share-Alike License v3.0</a> vagy "
+"ennél frissebb verzió alá tartozik."
+
+msgid "Report Trademark Abuse"
+msgstr "Védjeggyel való visszaélés jelentése"
+
+msgid "Free Upgrade"
+msgstr "Ingyenes frissítés"
+
+msgid "Follow us on:"
+msgstr "Kövessen minket:"
+
+msgid "Customize with Add-ons"
+msgstr "Testreszabás a kiegészítőkkel"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Számítógép és telefon szinkronizációja"
+
+msgid "Learn More"
+msgstr "Tudjon meg többet"
+
+msgid "Watch the video"
+msgstr "Videó megtekintése"
+
+msgid "WebM format"
+msgstr "WebM formátum"
+
+msgid "Ogg Theora format"
+msgstr "Ogg Theora formátum"
+
+msgid "MPEG-4 format"
+msgstr "MPEG-4 formátum"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Győződjön meg róla, hogy valós e-mail címet adott meg."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "Olvassa el és fogadja el a Mozilla Adatvédelmi irányelveit."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Adja meg az e-mail címét és tekintse meg a Mozilla Adatvédelmi irányelveit."
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Firefox Updated"
+msgstr "A Firefox frissítése megtörtént"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Nézzen szét a jövő internetén"
+
+msgid "Journey to the Future with Firefox"
+msgstr "Utazás a jövőbe a Firefox segítségével"
+
+msgid "Join the Beta Program"
+msgstr "Csatlakozzon a Beta programhoz"
+
+msgid "Experience Firefox"
+msgstr "Ismerje meg a Firefox böngészőt"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "A jövő internete csak Önre vár!"
+
+msgid "The future of the Web starts now."
+msgstr "Az internet jövője most kezdődik."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Próbálja ki az új megjelenésű Firefox böngészőt."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Tapasztalja meg a holnap internetét még ma."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "Tekintse meg az új megjelenésű Firefox böngészőt."
+
+msgid "Browse the future of the Web."
+msgstr "Tekintse meg a jövő internetét."
+
+msgid "See Firefox with a new look and feel."
+msgstr "Tekintse meg az új megjelenésű Firefox böngészőt."
+
+msgid "Download Beta Now."
+msgstr "Beta verzió letöltése"
+
+msgid "All Systems & Languages"
+msgstr "Összes nyelv és operációs rendszer"
+
+msgid "View Full Site"
+msgstr "Teljes oldal megtekintése"
+
+msgid "Get Firefox for Android"
+msgstr "Töltse le a Firefoxot Androidhoz"
+
+msgid "Download for <span>Android</span>"
+msgstr "Töltse le <span>Androidhoz</span>"
+
+msgid "Free from the Android Market"
+msgstr "Ingyenes az Android Market-ben"
+
+msgid "Desktop"
+msgstr "Számítógép"
+
+msgid "Firefox Beta for mobile"
+msgstr "Firefox Beta for mobile {ok}"
+
+msgid "Firefox for mobile"
+msgstr "Firefox for mobile {ok}"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "Mozilla Firefox. Elhozza a modern internetet az XP-re."
+
+msgid "Super speed"
+msgstr "Szupergyors"
+
+msgid "Stunning graphics"
+msgstr "Lenyűgöző grafika"
+
+msgid "The latest technologies"
+msgstr "A legújabb technológiák"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"Egy régi Firefox böngészőt használ. Töltse le a frissítést, hogy továbbra is "
+"biztonságban maradjon! <br/> Az <a href=\"%s\">ingyenes frissítés "
+"letöltése</a> alig egy percet vesz igénybe és máris használhatja a legújabb "
+"funkciókat, élvezheti a sebességet és a biztonsági javításokat."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"Frissítésre van szüksége! Maradjon biztonságban. <br/> Használja az új "
+"Firefoxot, amely a legjobb a böngészésben és az internet testreszabásában. "
+"<br/>   Gyors és ingyenes!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"Egy régi Firefox böngészőt használ. Töltse le a <a href=\"%s\">frissítést</a> "
+"és maradjon biztonságban! <br/> Ismerje meg a legújabb funkciókat, "
+"biztonsági javításokat és az eddigi leggyorsabb Firefoxot. Töltse le a "
+"legújabb frissítést kevesebb, mint egy perc alatt."
+
+msgid "Upgrade now"
+msgstr "Frissítsen most"
+
+msgid "Update now"
+msgstr "Frissítsen most"
+
+msgid "Supported Devices"
+msgstr "Támogatott eszközök"
+
+msgid "What’s New"
+msgstr "Újdonságok"
+
+msgid "Privacy"
+msgstr "Adatvédelem"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők "
+"készítették. A tartalom <a href=\"%(url)s\">Creative Commons licenc</a> alatt "
+"érhető el."
+
+msgid "Contribute to this page"
+msgstr "Legyen közreműködő"
+
+msgid "Mission"
+msgstr "Küldetés"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/ar/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Navigation"
+msgstr "تصفح"
+
+msgid "Press area"
+msgstr "منطقة الصحافة"
+
+msgid "About"
+msgstr "عن"
+
+msgid "Store"
+msgstr "المتجر"
+
+msgid "Donate"
+msgstr "تبرع"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "Products"
+msgstr "المنتجات"
+
+msgid "Add-ons"
+msgstr "الإضافات"
+
+msgid "About Us"
+msgstr "معلومات عنا"
+
+msgid "Developers"
+msgstr "المطوّرون"
+
+msgid "Labs"
+msgstr "المختبرات"
+
+msgid "skip to Navigation"
+msgstr "تجاوز إلى التصفح"
+
+msgid "switch language"
+msgstr "غيّر اللغة"
+
+msgid "Back to home page"
+msgstr "عودة إلى الصفحة الرئيسية"
+
+msgid "About Mozilla"
+msgstr "عن موزيلا"
+
+msgid "Get Involved"
+msgstr "كيفية المساهمة"
+
+msgid "Licensing"
+msgstr "الترخيص"
+
+msgid "Careers"
+msgstr "وظائف"
+
+msgid "Press Center"
+msgstr "مركز الصحافة"
+
+msgid "Contact Us"
+msgstr "الاتصال بنا"
+
+msgid "Site contact"
+msgstr "الاتصال بالموقع"
+
+msgid "Other languages:"
+msgstr "لغات أخرى:"
+
+msgid "%Y-%m-%d"
+msgstr "%d-%m-%Y"
+
+msgid "All rights reserved."
+msgstr "جميع الحقوق محفوظة."
+
+msgid "Legal Notices"
+msgstr "ملاحظات قانونية"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Visit Mozilla.com"
+msgstr "زُر Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "زُر Mozilla.com (باللغة الإنجليزية)"
+
+msgid "Download Firefox - Free"
+msgstr "نزّل فَيَرفُكس - مجانيّ"
+
+msgid "Release Notes"
+msgstr "ملاحظات الإصدار"
+
+msgid "Other Systems and Languages"
+msgstr "أنظمة و لغات أخرى"
+
+msgid "Get Firefox"
+msgstr "احصل على فَيَرفُكس"
+
+msgid "Free Download"
+msgstr "تنزيل مجانيّ"
+
+msgid "Help us make Firefox even better!"
+msgstr "ساهِم معنا في تحسين فَيَرفُكس!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr "اقتطع لحظات قليلة من وقتك لتجيب على استفتاء سريع وتشاركنا أفكارك."
+
+msgid "Close"
+msgstr "أغلِق"
+
+msgid "(in English)"
+msgstr "(بالإنجليزية)"
+
+msgid "Download Now - Free"
+msgstr "نزّل الآن - مجانيّ"
+
+msgid "Return to top"
+msgstr "عُد إلى الأعلى"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"ينبغي عليك <a href=\"http://get.adobe.com/flashplayer/\">تحديث مشغل أدوبي "
+"فلاش</a> على الفور."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"فَيَرفُكس مُحدَّث، ولكن نسختك الحالية من مشغل فلاش قد تسبب مشكلات في الأمن "
+"والثبات. نرجو منك <a href=\"http://get.adobe.com/flashplayer/\">تثبيت التحديث "
+"المجاني</a> في أقرب فرصة."
+
+msgid "Features"
+msgstr "الميزات"
+
+msgid "Customize"
+msgstr "خصِّص"
+
+msgid "Synchronize"
+msgstr "زامِن"
+
+msgid "Develop for Mobile"
+msgstr "طوِّر من أجل الجوّال"
+
+msgid "Other Supported Platforms"
+msgstr "المنصات الأخرى المدعومة"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "منصات تشغيل ولغات أخرى"
+
+msgid "Choose your location"
+msgstr "اختر مكانك"
+
+msgid "Download Firefox directly from your phone"
+msgstr "نزّل فَيَرفُكس مباشرة من جوّالك"
+
+msgid "Download"
+msgstr "نزّل"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "MB"
+msgstr "م.ب."
+
+msgid "MegaBytes"
+msgstr "ميجا بايت"
+
+msgid "FAQ"
+msgstr "الأسئلة المتكررة"
+
+msgid "Videos"
+msgstr "فيديو"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"ما لم <a href=\"%s\">يُشَر</a> إلى غير ذلك،كل المحتوى في هذا الموقع مرخص وفق "
+"رخصة <br /><a href=\"%s\">المشاع الإبداعي المشاركة بالمثل 3.0</a> أو الإصدارات "
+"الأحدث منها."
+
+msgid "Report Trademark Abuse"
+msgstr "بلّغ عن إساءة استخدام للعلامات التجارية"
+
+msgid "Free Upgrade"
+msgstr "ترقية مجانية"
+
+msgid "Follow us on:"
+msgstr "تابِعنا في:"
+
+msgid "Customize with Add-ons"
+msgstr "خصّص باستخدام الإضافات"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "زامِن حاسوبك وجوّالك"
+
+msgid "Learn More"
+msgstr "اعرف المزيد"
+
+msgid "Watch the video"
+msgstr "شاهد الفيديو"
+
+msgid "WebM format"
+msgstr "صيغة WebM"
+
+msgid "Ogg Theora format"
+msgstr "صيغة Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "صيغة MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "أخ! تأكد من إدخالك لعنوان بريد إلكتروني صالح."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr "اقرأ رجاءً سياسة خصوصية موزيلا وأشّر على المربع للموافقة عليها."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr "أدخِل رجاءً بريدك الإلكتروني وراجع سياسة خصوصية موزيلا."
+
+msgid "Mobile"
+msgstr "الجوّال"
+
+msgid "Firefox Updated"
+msgstr "حُدّث فَيَرفُكس"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "ألقِ نظرة على وِب الغد"
+
+msgid "Journey to the Future with Firefox"
+msgstr "سافِر إلى المستقبل مع فَيَرفُكس"
+
+msgid "Join the Beta Program"
+msgstr "شارك في برنامج البيتا"
+
+msgid "Experience Firefox"
+msgstr "جرّب فَيَرفُكس"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "مستقبل الوب ينتظرك!"
+
+msgid "The future of the Web starts now."
+msgstr "مستقبل الوب يبدأ الآن."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "جرّب فَيَرفُكس بمظهر جديد ومتألق."
+
+msgid "Experience tomorrow's Web today."
+msgstr "جرّب وب الغد اليوم."
+
+msgid "Check out the new look and feel of Firefox."
+msgstr "ألق نظرة على مظهر فَيَرفُكس الجديد."
+
+msgid "Browse the future of the Web."
+msgstr "تصفح مستقبل الوب."
+
+msgid "See Firefox with a new look and feel."
+msgstr "شاهد فَيَرفُكس بمظهر جديد."
+
+msgid "Download Beta Now."
+msgstr "نزّل البيتا الآن."
+
+msgid "All Systems & Languages"
+msgstr "جميع الأنظمة واللغات"
+
+msgid "View Full Site"
+msgstr "شاهد الموقع كاملًا"
+
+msgid "Get Firefox for Android"
+msgstr "احصل على فَيَرفُكس لأندرويد"
+
+msgid "Download for <span>Android</span>"
+msgstr "نزّل على <span>أندرويد</span>"
+
+msgid "Free from the Android Market"
+msgstr "مجانًا من سوق أندرويد"
+
+msgid "Desktop"
+msgstr "سطح المكتب"
+
+msgid "Firefox Beta for mobile"
+msgstr "فَيَرفُكس بيتا للجوال"
+
+msgid "Firefox for mobile"
+msgstr "فَيَرفُكس للجوال"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Mozilla Firefox. Bringing the modern Web to XP."
+msgstr "موزيلا فَيَرفُكس. يجلب الوب الحديثة إلى وندوز إكس بي."
+
+msgid "Super speed"
+msgstr "سرعة خارقة"
+
+msgid "Stunning graphics"
+msgstr "رسوميات مذهلة"
+
+msgid "The latest technologies"
+msgstr "أحدث التقنيات"
+
+msgid ""
+"You're using an old version of Firefox. Get your update to stay safe! <br/> "
+"<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
+"latest features, speed and security fixes."
+msgstr ""
+"تستخدم إصدارة قديمة من فَيَرفُكس. احصل على التحديث كي تبقى آمنًا! <br/> <a "
+"href=\"%s\">نزّل التحديث المجاني</a> في أقل من دقيقة لتحصل على آخر المزايا "
+"وسرعة أكبر وإصلاحات أمنية."
+
+msgid ""
+"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
+"new Firefox for the best in browsing and customization on the Web. <br/>   "
+"It’s fast and free!"
+msgstr ""
+"يحتاج متصفحك للتحديث! زِد أمان متصفحك في أقل من دقيقة. <br/> ابدأ باستخدام "
+"فَيَرفُكس الجديد لتتصفح الوب وتخصصه بشكل أفضل. <br/> التحديث سريع ومجاني!"
+
+msgid ""
+"You're using an older version of Firefox. Get <a href=\"%s\">your update</a> "
+"to stay safe! <br/> Experience the latest features, security fixes and the "
+"fastest Firefox yet. Download the free upgrade in less than a minute."
+msgstr ""
+"تستخدم إصدارة أقدم من فَيَرفُكس. احصل على <a href=\"%s\">التحديث</a> لتبقى "
+"آمنًا! <br/> استكشف آخر المزايا والتحديثات الأمنية وأسرع فَيَرفُكس حتى الآن. "
+"قُم بالترقية المجانية في أقل من دقيقة."
+
+msgid "Upgrade now"
+msgstr "رقِّ الآن"
+
+msgid "Update now"
+msgstr "حدّث الآن"
+
+msgid "Supported Devices"
+msgstr "الأجهزة المدعومة"
+
+msgid "What’s New"
+msgstr "ما الجديد"
+
+msgid "Privacy"
+msgstr "الخصوصية"
+
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
+msgstr ""
+"حقوق بعض هذا المحتوى محفوظة لمساهمي موزيلا ©1998–%(current_year)s. المحتوى "
+"مرخص وفق <a href=\"%(url)s\">رخصة المشاع الإبداعي</a>."
+
+msgid "Contribute to this page"
+msgstr "ساهم في هذه الصفحة"
+
+msgid "Mission"
+msgstr "المهمة"
+
+msgid "Systems Administration"
+msgstr "Systems Administration"
+
+msgid "User Research"
+msgstr "User Research"
+
+msgid "Localization and Translation"
+msgstr "Localization and Translation"
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Get Firefox news"
+msgstr "Get Firefox news"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "YOUR EMAIL HERE"
+msgstr "YOUR EMAIL HERE"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\">download directly from Google Play.</a>"
+
+msgid "Area of interest?"
+msgstr "Area of interest?"
+
+msgid "I need help with a Firefox issue"
+msgstr "I need help with a Firefox issue"
+
+msgid "An error occurred in our system. Please try again later."
+msgstr "An error occurred in our system. Please try again later."
+
+msgid "I have a suggestion for Firefox"
+msgstr "I have a suggestion for Firefox"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Firefox Affiliates"
+msgstr "Firefox Affiliates"
+
+msgid "Developer Documentation"
+msgstr "Developer Documentation"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+msgstr ""
+"Sorry. This number isn't valid. Please enter a U.S. phone number or <a "
+"href=\"%s\" onclick=\"%s\">download directly from Google Play.</a>"
+
+msgid "Thank you for signing up!"
+msgstr "Thank you for signing up!"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Web Development"
+msgstr "Web Development"
+
+msgid "You must agree to the privacy policy"
+msgstr "You must agree to the privacy policy"
+
+msgid "Visual Design"
+msgstr "Visual Design"
+
+msgid ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+msgstr ""
+"I’m okay with you handling this info as you explain in your <a href=\"%"
+"s\">Privacy Policy</a>"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Testing and QA"
+msgstr "Testing and QA"

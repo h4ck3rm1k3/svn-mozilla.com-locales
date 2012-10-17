@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/hu/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Olvassa a Havi Hírlevelet"
+
+msgid "Your Email Address"
+msgstr "E-mail cím"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid "Available Languages"
+msgstr "Elérhető nyelvek"
+
+msgid "Select country"
+msgstr "Válasszon országot"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Hoppá! Győződjön meg róla, hogy jó e-mail címet adott-e meg."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Kérjük olvassa el a Mozilla Adatvédelmi irányelveit és fogadja el azokat."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Elfogadom az <a href=\"%s\">Adatvédelmi irányelveket</a>"
+
+msgid "Sign me up!"
+msgstr "Feliratkozom!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Csak a Mozillával kapcsolatos információt fogunk küldeni."
+
+msgid "Thanks for Subscribing!"
+msgstr "Köszönjük, hogy feliratkozott!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Alig várjuk, hogy elkezdhessünk küldeni a Firefox böngészővel kapcsolatos "
+"tippeket, trükköket és izgalmas Mozilla-híreket, valamint információkat "
+"arról, hogy hogyan dolgozunk egy jobb világhálóért."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Iratkozzon fel a havonta megjelenő hírlevélre, amelyben a Mozilla-híreken "
+"túl, a Firefox használatával kapcsolatos tippeket és trükköket is tartalmaz. "
+"Ez a legjobb módja annak, hogy tartsuk a kapcsolatot!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Elküldtük e-mailben a visszaigazoló üzenetet. Kattintson a levélben "
+"található hivatkozásra a levelezőlistára történő feliratkozás "
+"megerősítéshez."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Olvasson erről a <span>hírlevelünkben</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "A hírlevél-előfizetés jóváhagyása megtörtént."
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Minden készen áll! <span>De várjunk, van itt még valami</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Szeretne további információt kapni? Mondjon magáról egy kicsivel többet és "
+"addig is, iratkozzon fel további Mozilla hírlevelekre."
+
+msgid "Firefox & You"
+msgstr "A Firefox és én"
+
+msgid "Our Other Newsletters:"
+msgstr "További hírleveleim:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Ismerje meg a legújabb tippeket és trükköket és hozza ki a legtöbbet a "
+"kedvenc böngészőjéből."
+
+msgid "Firefox Mobile"
+msgstr "Firefox Mobile {ok}"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr "Ismerje meg a Firefox mobil legújabb kiegészítőit és funkcióit."
+
+msgid "Beta News"
+msgstr "Beta hírek"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr "Olvasson a Firefox legújabb funkcióiról még a megjelenés előtt."
+
+msgid "Let’s Be Friends!"
+msgstr "Legyünk barátok!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"A Firefox megtalálható a legtöbb közösségi oldalon. Csatlakozzon hozzánk."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Hírlevelek <span>kezelése</span>"
+
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+msgid "Unsubscribe"
+msgstr "Lemondás"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Jelölje be, ha le szeretne iratkozni az összes Mozilla hírlevélről"
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Leiratkozás az összes Mozilla hírlevélről"
+
+msgid "Save Preferences"
+msgstr "Beállítások mentése"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Köszönjük, hogy frissítette e-mailbeállításait."
+
+msgid "You've been unsubscribed."
+msgstr "Leiratkozása megtörtént."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr "Sajnáljuk, hogy nem marad velünk. Megosztaná velünk távozásának okát?"
+
+msgid "You send too many emails."
+msgstr "Túl sok e-mailt kapok."
+
+msgid "Your content wasn't relevant to me."
+msgstr "A tartalom nem érdekes számomra."
+
+msgid "Your email design was too hard to read."
+msgstr "Az e-mail a design miatt nehezen olvasható."
+
+msgid "I didn't sign up for this."
+msgstr "Nem iratkoztam fel."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Inkább a Facebookon és a Twitteren tartom a kapcsolatot a Mozillával."
+
+msgid "Submit"
+msgstr "Elküld"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Köszönjük, hogy megosztotta velünk leiratkozásának okát."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla Hírlevél"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Köszönjük! Keresse meg postafiókjában a jóváhagyó levelet."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"A jóváhagyó levél a mozilla@e.mozilla.org e-mail cmíről fog érkezik. "
+"Amennyiben nem találja, nézzen szét a levélszemét között. Ahhoz, hogy "
+"hírlevelet kapjon, jóvé kell hagynia a feliratkozást."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Győződjön meg arról, hogy a levél küldője, a mozilla@e.mozilla.org "
+"szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket."

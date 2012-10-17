@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/et/mobile.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Firefox for Android"
+msgstr "Hangi Firefox Androidile"
+
+msgid "Download for <span>Android</span>"
+msgstr "Laadi alla <span>Androidile</span>"
+
+msgid "Free from the Android Market"
+msgstr "Tasuta Android Marketist"
+
+msgid "Or visit <a %s>Firefox.com/m</a> on your phone."
+msgstr "Või ava <a %s>Firefox.com/m</a> oma telefonis."
+
+msgid "Supported Devices"
+msgstr "Toetatud seadmed"
+
+msgid "Get it from iTunes - FREE"
+msgstr "Laadi alla iTunes'ist - TASUTA"
+
+msgid "Firefox Home for <span>iPhone</span>"
+msgstr "Firefox Home <span>iPhone'le</span>"
+
+msgid "Access your Firefox history, bookmarks and open tabs on your iPhone."
+msgstr "Kasuta Firefoxi ajalugu, järjehoidjaid ja avatud kaarte iPhone's."
+
+msgid "Download Firefox to <span>Your Mobile</span>"
+msgstr "Hangi Firefox <span>oma mobiilile</span>"
+
+msgid "Want to test the latest features?"
+msgstr "Soovid testida uusimaid võimalusi?"
+
+msgid "Get Firefox Home for iPhone"
+msgstr "Hangi Firefox Home iPhone'le"
+
+msgid "Download Beta for Android"
+msgstr "Laadi alla beeta versioon Androidile"
+
+msgid "Download"
+msgstr "Laadi alla"
+
+msgid "for"
+msgstr "platvormile"
+
+msgid "Free from iTunes"
+msgstr "Tasuta iTunes'ist"
+
+msgid ""
+"You’ll get to experience cutting-edge features and provide feedback to help "
+"refine and polish what will be in the final release."
+msgstr ""
+"Sa saad katsetada verivärskeid võimalusi ja anda tagasisidet, et aidata "
+"lihvida lõppversiooni."
+
+msgid "Developer Tools"
+msgstr "Tööriistad arendajatele"
+
+msgid ""
+"You can install the mobile version of Firefox to our desktop computer in "
+"order to test, provide feedback, and build add-ons."
+msgstr ""
+"Sa võid paigaldada mobiilse Firefoxi oma töölauaarvutisse, et testida, anda "
+"tagasisidet ja arendada lisasid."
+
+msgid "Connect With Firefox for Mobile:"
+msgstr "Hoia end toimuvaga kursis:"
+
+msgid "Monthly newsletter"
+msgstr "Igakuine uudiskiri"
+
+msgid "Follow us"
+msgstr "Jälgi meid"
+
+msgid "Become a fan"
+msgstr "Hakka fänniks"
+
+msgid ""
+"Firefox is full of innovations that let you type less, browse more and get "
+"to the Web quickly and easily."
+msgstr ""
+"Firefox on täis innovatsiooni, mis võimaldab sul vähem kirjutada ning "
+"kiiremini ja lihtsamini veebi lehitseda."
+
+msgid "Freedom from typing"
+msgstr "Vabane kirjutamisest"
+
+msgid ""
+"The Awesome Screen learns your favorite sites so you can browse with little "
+"or no typing."
+msgstr ""
+"Awesome Screen õpib ära sinu lemmiklehed, nii et võid veebi lehitseda pea "
+"kirjutamata."
+
+msgid "Best of both worlds"
+msgstr "Parim mõlemast maailmast"
+
+msgid ""
+"Firefox for Android is now redesigned and optimized for the way you browse "
+"on phones and tablets."
+msgstr ""
+"Firefox Androidile on nüüd värske kujundusega ning optimeeritud telefonides "
+"ja tahvelarvutites kasutamiseks."
+
+msgid "Browse quick and easy"
+msgstr "Lehitse veebi kiiresti ja lihtsalt"
+
+msgid ""
+"Features like Sync, tabbed browsing and one-touch bookmarking mean "
+"everything you want is close at hand."
+msgstr ""
+"Tänu Sync'ile, kaartidega veebilehitsemisele ning ühe puudutusega "
+"järjehoidja lisamisele on kõik, mida soovid, ligidal."
+
+msgid "<a %s>Need help?</a> Visit our Firefox for Android Support site."
+msgstr "<a %s>Vajad abi?</a> Külasta meie Firefox Androidile kasutajatuge."
+
+msgid "Download and test the build that’s right for you."
+msgstr "Laadi alla ning testi just sulle sobivat väljalaset."
+
+msgid "See all our channels for mobile »"
+msgstr "Vaata kõiki mobiiliversiooni kanaleid »"
+
+msgid "Free from the Google Play Store"
+msgstr "Tasuta saadaval Google Playst"

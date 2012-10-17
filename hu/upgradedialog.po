@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/hu/upgradedialog.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get the Newest Firefox"
+msgstr "Töltse le a legújabb Firefoxot"
+
+msgid "The Newest Firefox is Here!"
+msgstr "Megérkezett a legújabb Firefox!"
+
+msgid "<a %s>Quick, easy and free update</a>"
+msgstr "<a %s>Gyors, egyszerű és ingyenes frissítés</a>"
+
+msgid "Fresh new look"
+msgstr "Új megjelenés"
+
+msgid "Much faster than Firefox 3.6"
+msgstr "Sokkal gyorsabb, mint a Firefox 3.6"
+
+msgid "More awesomeness than ever"
+msgstr "Sokkal jobb, mint valaha"
+
+msgid ""
+"There’s a new version of Firefox that can better protect you against online "
+"attacks."
+msgstr ""
+"Egy újabb Firefox verzió érhető el, amely jobb védelmet nyújt az online "
+"támadások ellen."
+
+msgid "<a %s>Get the upgrade</a> — it’s fast & free!"
+msgstr "<a %s>Töltse le a frissítést</a> — Gyors és ingyenes!"
+
+msgid "get the latest in security"
+msgstr "töltse le a legbiztonságosabbat"
+
+msgid "experience faster performance"
+msgstr "ismerje meg a nagyobb teljesítményt"
+
+msgid "enjoy greater customization"
+msgstr "élvezze a nagyobb testreszabhatóságot"
+
+msgid "Your version of Firefox will soon be vulnerable to online attacks."
+msgstr ""
+"Ez a Firefox verzió hamarosan sebezhetővé válik az online támadásokkal "
+"szemben."
+
+msgid "Stay safe online"
+msgstr "Legyen biztonságban az interneten"
+
+msgid "Enjoy new features"
+msgstr "Élvezze az új funkciókat"
+
+msgid "URGENT!"
+msgstr "SÜRGŐS!"
+
+msgid "Your version of Firefox is no longer protected against online attacks."
+msgstr ""
+"A jelenleg használt Firefox verzió nem nyújt védelmet az online támadások "
+"ellen."
+
+msgid ""
+"This is your last reminder before you will be automatically updated to the "
+"latest version"
+msgstr ""
+"Ez az utolsó emlékeztető mielőtt automatikusan frissítjük a legfrissebb "
+"verzióra"
+
+msgid ""
+"Firefox no longer supports your operating system version and will be "
+"vulnerable to online attacks."
+msgstr ""
+"A Firefox a továbbiakban nem támogatja ezt az operációs rendszert és "
+"hamarosan sebezhetővé válik az online támadásokkal szemben."
+
+msgid "We recommend:"
+msgstr "Javaslatunk:"
+
+msgid "Upgrading your <a %s>operating system</a>"
+msgstr "Frissítse az <a %s>operációs rendszert</a>"
+
+msgid "Downloading a compatible browser"
+msgstr "Töltsön le egy kompatibilis böngészőt"
+
+msgid "Installing a free upgrade to your <a %s>operating system</a>"
+msgstr "Telepítse fel az <a %s>operációs rendszer</a> ingyenes frissítését"
+
+msgid "You will be prompted once more before being automatically updated."
+msgstr ""
+"Az automatikus frissítés elindítása előtt még egyszer emlékeztetni fogjuk."

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/et/whatsnew.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Hooray! Your Firefox is up to date."
+msgstr "Hurraa! Sinu Firefox on ajakohane."
+
+msgid "Your Firefox is out of date."
+msgstr "Sinu Firefox on aegunud."
+
+msgid ""
+"For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Soovitame turvakaalutlustel tungivalt uuendamist <a href=\"{url}\">viimasele "
+"versioonile</a>."
+
+msgid "You’re running an unknown version of Firefox."
+msgstr "Kasutad tundmatut Firefoxi versiooni."
+
+msgid ""
+"For security reasons, we recommend downloading to the <a href=\"{url}\">latest "
+"and greatest version</a>."
+msgstr ""
+"Soovitame turvakaalutlustel tungivalt <a href=\"{url}\">uusima versiooni</a> "
+"allalaadimist."
+
+msgid "Get to your next task<br/>faster than ever"
+msgstr "Asu järgmise ülesande kallale<br/>kiiremini kui kunagi varem"
+
+msgid ""
+"See how the new features in Firefox help you browse faster and more "
+"efficiently."
+msgstr ""
+"Vaata, kuidas uued Firefoxi võimalused aitavad kiiremini ja tõhusamalt veebi "
+"sirvida."
+
+msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
+msgstr "Rohkem teavet <a href=\"{url}\">uue kaardi lehest »</a>"
+
+msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
+msgstr "Rohkem teavet <a href=\"{url}\">värskendatud kujundusega avalehest »</a>"
+
+msgid "Keep in touch"
+msgstr "Ole ühenduses"
+
+msgid "Keep it moving"
+msgstr "Ole mobiilne"
+
+msgid "Get Firefox » <b>for Android</b>"
+msgstr "Firefoxi hankimine » <b>Androidile</b>"
+
+msgid "Keep it going"
+msgstr "Ole aktiivne"
+
+msgid "Join Mozilla"
+msgstr "Liitu Mozillaga"
+
+msgid ""
+"The Android Robot was reproduced from work created and <a href=\"%s\">shared "
+"by Google</a> and used according to terms described in the <a href=\"%"
+"s\">Creative Commons 3.0 Attribution License</a>."
+msgstr ""
+"Androidi robot on reprodutseeritud Google'i poolt loodud ja <a href=\"%"
+"s\">jagatud</a> teose põhjal ning seda on kasutatud <a href=\"%s\">Creative "
+"Commons'i autorile viitamise litsentsi (versioon 3.0)</a> tingimustel."
+
+msgid ""
+"<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
+"your hands. It’s fast, smart and safe!"
+msgstr ""
+"<a href=\"%s\">Hangi Firefox Androidile</a> ja pane veebi jõud oma kätesse. "
+"See on kiire, nutikas ja turvaline!"
+
+msgid "Now get the mobile browser that’s got your back"
+msgstr "Nüüd hangi endale mobiilne brauser, mis toetab sind igas olukorras"
+
+msgid "Firefox Features"
+msgstr "Firefoxi omadused"
+
+msgid "Welcome to Firefox"
+msgstr "Tere tulemast Firefoxi!"
+
+msgid "Firefox Help"
+msgstr "Firefoxi abi"
+
+msgid "Firefox for Android artwork"
+msgstr "Firefox Androidile kujundus"
+
+msgid "Fast. Smart. Safe."
+msgstr "Kiire. Nutikas. Turvaline."
+
+msgid "Get the mobile browser that’s got your back."
+msgstr "Hangi mobiilne brauser, mis toetab sind igas olukorras."

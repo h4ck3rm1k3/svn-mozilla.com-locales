@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/et/newsletter.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Get Monthly News"
+msgstr "Telli igakuised uudised"
+
+msgid "Your Email Address"
+msgstr "Sinu e-posti aadress"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Available Languages"
+msgstr "Saadaval olevad keeled"
+
+msgid "Select country"
+msgstr "Vali riik"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Ups! Veendu, et sisestatud e-posti aadress on korrektne."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Palun loe Mozilla privaatsuspoliitikat ja märgista nõustumisel märkeruut."
+
+msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
+msgstr "Nõustun <a href=\"%s\">privaatsuspoliitika</a> tingimustega"
+
+msgid "Sign me up!"
+msgstr "Tellin!"
+
+msgid "We will only send you Mozilla-related information."
+msgstr "Saadame sulle vaid Mozillaga seotud infot."
+
+msgid "Thanks for Subscribing!"
+msgstr "Täname tellimise eest!"
+
+msgid ""
+"We look forward to soon begin sharing tips &amp; tricks on getting the most "
+"out of Firefox, as well as exciting news about Mozilla and how we’re working "
+"to create a better Web."
+msgstr ""
+"Ootame kannatamatult sinuga nippide ja trikkide jagamist, mis aitavad sul "
+"Firefoxist parimat võtta. Samuti jagame põnevaid uudiseid Mozillast ning "
+"sellest, kuidas parema veebi loomise kallal töötame."
+
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Telli igakuine uudiskiri ning ole kursis Mozilla uudistega, kaasa arvatud "
+"uusimate nippide ja trikkidega Firefoxi veebilehitsejast parima võtmiseks. "
+"See on ideaalne võimalus meiega ühenduses olla!"
+
+msgid ""
+"We just sent you a confirmation message by email. Click on the confirmation "
+"link in this email to validate your subscription to this mailing list."
+msgstr ""
+"Saatsime sulle äsja e-postiga kontrollsõnumi. Klõpsa kirjas olevale "
+"kontroll-lingile ning kinnita postiloendi tellimus."
+
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Loe rohkem meie <span>uudiskirjast</span>"
+
+msgid "Your newsletter subscription has been confirmed."
+msgstr "Uudiskirja tellimus on kinnitatud."
+
+msgid "Format"
+msgstr "Vorming"
+
+msgid "You’re All Set! <span>But Wait, There’s More</span>"
+msgstr "Seadistamine on lõppenud! <span>Kuid oota, see polnud kõik.</span>"
+
+msgid ""
+"Want to get the most relevant info? Tell us a little more about yourself. "
+"And while you’re here, sign up for other Mozilla news."
+msgstr ""
+"Soovid saada kõige asjakohasemat infot? Räägi meile endast veidi rohkem ning "
+"telli veel teisigi Mozilla uudiseid."
+
+msgid "Firefox & You"
+msgstr "Firefox & sina"
+
+msgid "Our Other Newsletters:"
+msgstr "Meie teised uudiskirjad:"
+
+msgid ""
+"Get the latest tips and tricks for getting the most out of your favorite "
+"browser."
+msgstr ""
+"Saa teada uutest nippidest ja trikkidest, mis aitavad sul oma "
+"lemmikbrauserist parima võtta."
+
+msgid "Firefox Mobile"
+msgstr "Firefoxi mobiiliversioon"
+
+msgid "Learn about the hottest new add-ons and features for Firefox mobile."
+msgstr ""
+"Õpi tundma Firefoxi mobiiliversiooni ägedamaid uusi lisasid ja võimalusi."
+
+msgid "Beta News"
+msgstr "Beeta uudised"
+
+msgid ""
+"Read about the latest features for Firefox desktop and mobile before the "
+"final release."
+msgstr ""
+"Loe Firefoxi töölaua- ja mobiiliversiooni uute võimaluste kohta enne nende "
+"lõplikku väljalaset."
+
+msgid "Let’s Be Friends!"
+msgstr "Oleme sõbrad!"
+
+msgid ""
+"Firefox is also on your favorite social networking sites. Connect with us "
+"and join the conversation."
+msgstr ""
+"Firefox on esindatud ka sinu lemmiksuhtlusvõrgustikes. Ole meiega ühenduses "
+"ning võta vestlustest osa."
+
+msgid "Manage your <span>Newsletter Subscriptions</span>"
+msgstr "Halda <span>uudiskirjade tellimusi</span>"
+
+msgid "Subscribe"
+msgstr "Telli"
+
+msgid "Unsubscribe"
+msgstr "Lõpeta tellimine"
+
+msgid "Check here if you’d like to be removed from all Mozilla emails"
+msgstr "Klõpsa siia, kui soovid loobuda kõigist Mozilla kirjadest."
+
+msgid "Remove me from all Mozilla emails"
+msgstr "Eemaldage mind kõigi Mozilla kirjade saajate hulgast"
+
+msgid "Save Preferences"
+msgstr "Salvesta eelistused"
+
+msgid "Thanks for updating your email preferences."
+msgstr "Täname eelistuste uuendamise eest."
+
+msgid "You've been unsubscribed."
+msgstr "Sinu tellimus on lõpetatud."
+
+msgid ""
+"We’re sorry to see you go. Would you mind telling us why you’re leaving?"
+msgstr ""
+"Meil on kahju, et loobusid uudiskirjast. Kas ütleksid meile, miks sa nii "
+"otsustasid?"
+
+msgid "You send too many emails."
+msgstr "Te saadate liiga palju kirju."
+
+msgid "Your content wasn't relevant to me."
+msgstr "Teie saadetud sisu polnud minu jaoks asjakohane."
+
+msgid "Your email design was too hard to read."
+msgstr "Kirjade kujundus oli raskesti loetav."
+
+msgid "I didn't sign up for this."
+msgstr "Ma pole neid tellinud."
+
+msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
+msgstr "Jälgin Mozilla tegemisi hoopis Facebookis ja Twitteris."
+
+msgid "Submit"
+msgstr "Valmis"
+
+msgid "Thanks for telling us why you’re leaving."
+msgstr "Täname, et avaldasid lahkumise põhjuse."
+
+msgid "Mozilla Newsletters"
+msgstr "Mozilla uudiskirjad"
+
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "Täname! Palun vaata tellimuse kinnitamiseks oma postkasti."
+
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Saadame sulle tellimuse kinnitamiseks aadressilt mozilla@e.mozilla.org "
+"kirja. Kui sa ei leia seda, siis kontrolli ka rämpsposti. Uudiskirja "
+"saamiseks pead tellimuse kinnitama."
+
+msgid ""
+"Please be sure to add our sending address: mozilla@e.mozilla.org to your "
+"address book to ensure we always reach your inbox."
+msgstr ""
+"Palun lisa aadress mozilla@e.mozilla.org oma aadressiraamatusse, siis "
+"jõuavad meie kirjad alati sinuni."

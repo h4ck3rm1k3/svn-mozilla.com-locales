@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/lg/home.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Personalize"
+msgstr "Kifule Ekikyo"
+
+msgid "One size doesn’t fit all."
+msgstr "Sayizi emu tetuka boona."
+
+msgid "Go Fast"
+msgstr "Genda Mangu"
+
+msgid "Accelerate the way you use the web."
+msgstr "Tekamu obwangu mungeri jjo okozesa omutimbagano."
+
+msgid "Stay Safe"
+msgstr "Sigala nga Okumibwa"
+
+msgid "We’ve got your back."
+msgstr "Tukukuma ku mugongo."
+
+msgid "Get Firefox on your phone!"
+msgstr "Funa Firefox ku simu yo!"
+
+msgid "Made for sharing."
+msgstr "Ekoledwa nga ya kugabana."
+
+msgid "Create <br/> dedicated <br/> tabs for it"
+msgstr "Tondawo awaddirira nga <br/> watongozeddwa <br/>"
+
+msgid "Customize <br/> to make <br/> it faster"
+msgstr "Kyusa nga bwo kyagala <br/> okukyongeramu <br/> obwangu"
+
+msgid "Get add-ons <br/> and make <br/> it easier"
+msgstr "Funa ebyongrwako <br/> era okifule <br/> ekyangu"
+
+msgid "Works harder so <br /> you don't have to."
+msgstr "Kikola nyo <br /> oleme obuta kola."
+
+msgid "Increased <br/> speed"
+msgstr "Embiro <br/> enyingi"
+
+msgid "Easy to <br/> access tabs"
+msgstr "Kyangu okutuka <br/> awaddirira"
+
+msgid "Productivity <br/> add-ons"
+msgstr "Ebyongerwako <br/> ebiyamba mumirimu jjo"
+
+msgid "Made for <br/> the way you play."
+msgstr "Ekolebwa <br/> engeri gyo zanya mu."
+
+msgid "3D <br/> graphics"
+msgstr "Ebifananyi mu <br/> 3D"
+
+msgid "Even more <br/> reliable"
+msgstr "Enkola eyisigika <br/> no okusingawo"
+
+msgid "Effortless <br/> customization"
+msgstr "Okwekyusiza <br/> okutaliko kulafubana"
+
+msgid "Advanced <br/> security"
+msgstr "Ebyokwerinda <br/> ebyawagulu"
+
+msgid "Advanced <br/> graphics"
+msgstr "Ebifananyi <br/> ebyawagulu"
+
+msgid "Improved <br/> reliability"
+msgstr "Okukakasibwa <br/> okweyongede"

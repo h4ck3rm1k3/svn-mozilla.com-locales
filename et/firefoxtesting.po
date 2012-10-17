@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/et/firefoxtesting.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Download Firefox Beta for Android - Free"
+msgstr "Laadi alla Firefoxi beeta Androidile - tasuta"
+
+msgid "Download Firefox Beta for Desktop - Free"
+msgstr "Laadi alla Firefoxi beeta töölauale - tasuta"
+
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Aurora or Beta builds."
+msgstr ""
+"Laadi alla ja testi Firefoxi tuleviku väljalaskeid. Tunneta uusi "
+"innovaatilisi lahendusi Aurora või beeta väljalaskeid kasutades."
+
+msgid "Firefox Beta"
+msgstr "Firefoxi beeta"
+
+msgid "Firefox Beta for:"
+msgstr "Firefoxi beeta"
+
+msgid "Firefox Beta for Mobile"
+msgstr "Firefoxi beeta mobiilile"
+
+msgid "Download Beta and be part of the next version of Firefox."
+msgstr ""
+"Laadi alla beetaversioon ja osale Firefoxi järgmise versiooni kujundamisel."
+
+msgid "1. Test Features"
+msgstr "1. Testi uusi võimalusi"
+
+msgid ""
+"Try out the latest performance, customization and security enhancements "
+"almost ready for prime time."
+msgstr ""
+"Proovi järgi, milline on jõudlus ning uued kohandamisvõimalused ja "
+"turvatäiustused, mis on peaaegu valmis."
+
+msgid "2. Refine &amp; Polish"
+msgstr "2. Lihvi ja täiusta"
+
+msgid ""
+"File bugs to help us put the final tweaks on performance and functionality "
+"in a stable environment."
+msgstr ""
+"Anna vigadest teada ning aita meil teha viimaseid parandusi jõudluses ja "
+"funktsionaalsuses stabiilses keskkonnas."
+
+msgid "3. Do Your Part"
+msgstr "3. Anna oma osa"
+
+msgid ""
+"Have an impact on the next version of Firefox and the 450 million people who "
+"use it every day."
+msgstr ""
+"Panusta Firefoxi järgmisesse versiooni ja mõjuta 450 miljonit inimest, kes "
+"seda igapäevaselt kasutavad."
+
+msgid "Supported devices"
+msgstr "Toetatud seadmed"

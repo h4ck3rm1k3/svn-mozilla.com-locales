@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/hu/foundationsection.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "The State of Mozilla <span>Annual Report</span>"
+msgstr "A Mozilla helyzete <span>Éves jelentés</span>"
+
+msgid "Welcome"
+msgstr "Üdvözöljük"
+
+msgid "Opportunities"
+msgstr "Lehetőségek"
+
+msgid "People"
+msgstr "Emberek"
+
+msgid "Ahead"
+msgstr "Előre"
+
+msgid "Download this video:"
+msgstr "Videó letöltése:"
+
+msgid "A Different Kind of Browser"
+msgstr "Egy másmilyen böngésző"
+
+msgid "What’s Mozilla all about? Why are we doing this? We’re glad you asked."
+msgstr "Miről szól a Mozilla? Miért csináljuk ezt? Örülünk, hogy megkérdezte."
+
+msgid "Looking Ahead <span>Mitchell Baker</span>"
+msgstr "Előre tekintve <span>Mitchell Baker</span>"
+
+msgid "Mitchell Baker, Chair discusses the state of Mozilla."
+msgstr "Mitchell Baker, elnök beszél a Mozilla helyzetéről."
+
+msgid "Getting Involved"
+msgstr "Részvétel"
+
+msgid "Mozilla is a fun, diverse community of people from around the world."
+msgstr "A Mozilla az emberek vidám, sokszínű közössége a világ minden tájáról."
+
+msgid "Mozilla Firefox billboard, San Francisco"
+msgstr "Mozilla Firefox hirdetőtábla, San Franciscoban"
+
+msgid "Download PDF"
+msgstr "PDF letöltése"
+
+msgid "2010 Audited Financial Statement"
+msgstr "Auditált pénzügyi kimutatás 2010"
+
+msgid "2010 Form 990"
+msgstr "2010 Form 990 {ok}"
+
+msgid "Celebrating Firefox"
+msgstr "Firefox ünneplése"
+
+msgid "ReMo Work Week in Paris"
+msgstr "ReMo Work Week Párizsban"
+
+msgid "Mozilla Meetup, Brazil"
+msgstr "Mozilla Meetup, Brazília"
+
+msgid "Arabic Mozilla"
+msgstr "Arabic Mozilla {ok}"
+
+msgid "Mozilla Kenya"
+msgstr "Mozilla Kenya {ok}"
+
+msgid "Mozilla Indonesia"
+msgstr "Mozilla Indonézia"
+
+msgid "Other languages & sharing"
+msgstr "Más nyelveken és megosztás"
