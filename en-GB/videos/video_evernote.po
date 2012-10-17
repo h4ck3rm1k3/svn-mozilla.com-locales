@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#. extracted from ../locales/en-GB/videos/video_evernote.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-17 20:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+msgid "Evernote is a service that helps you remember everything."
+msgstr "Evernote is a service that helps you remember everything."
+
+msgid "We have clients on every platform: mobile, desktop, web"
+msgstr "We have clients on every platform: mobile, desktop, web"
+
+msgid "and basically it helps you capture your memories"
+msgstr "and basically it helps you capture your memories"
+
+msgid "and then find them whenever you need them."
+msgstr "and then find them whenever you need them."
+
+msgid "whether they are web pages or notes or things you need to do."
+msgstr "whether they are web pages or notes or things you need to do."
+
+msgid "Pictures, audio clips; anything you want"
+msgstr "Pictures, audio clips; anything you want"
+
+msgid "Evernote is basically everywhere that you need it to be."
+msgstr "Evernote is basically everywhere that you need it to be."
+
+msgid "We’re on mobile, we’re on desktop, we’re on web"
+msgstr "We’re on mobile, we’re on desktop, we’re on web"
+
+msgid "and all of these apps synch together."
+msgstr "and all of these apps synch together."
+
+msgid "The web is a big part of our offering."
+msgstr "The web is a big part of our offering."
+
+msgid "Many, many users use our web clipper as a way"
+msgstr "Many, many users use our web clipper as a way"
+
+msgid "to capture pages that they see and then recall them later,"
+msgstr "to capture pages that they see and then recall them later,"
+
+msgid "even when they are offline and they don’t have access to the Internet."
+msgstr "even when they are offline and they don’t have access to the Internet."
+
+msgid ""
+"Using modern web technologies lets us give the best and richest experience "
+"we can for our users."
+msgstr ""
+"Using modern web technologies lets us give the best and richest experience "
+"we can for our users."
+
+msgid "So HTML5 gave a fast user experience."
+msgstr "So HTML5 gave a fast user experience."
+
+msgid "It has all the things you expect from a desktop application"
+msgstr "It has all the things you expect from a desktop application"
+
+msgid "whether its drag and drop, file manipulation, rich text editing,"
+msgstr "whether its drag and drop, file manipulation, rich text editing,"
+
+msgid ""
+"all of that just inside of the browser without a heavyweight application "
+"installation."
+msgstr ""
+"all of that just inside of the browser without a heavyweight application "
+"installation."
+
+msgid "So Evernote’s goal is to help you remember everything"
+msgstr "So Evernote’s goal is to help you remember everything"
+
+msgid ""
+"and a big part of that is to help you remember things when you’re browsing "
+"around the web."
+msgstr ""
+"and a big part of that is to help you remember things when you’re browsing "
+"around the web."
+
+msgid "You’re trying to find some information."
+msgstr "You’re trying to find some information."
+
+msgid "Working with the Mozilla Marketplace was really easy."
+msgstr "Working with the Mozilla Marketplace was really easy."
+
+msgid ""
+"Making the manifest file was a simple JSON file and then interacting with "
+"the website"
+msgstr ""
+"Making the manifest file was a simple JSON file and then interacting with "
+"the website"
+
+msgid "to actually get our application into the marketplace"
+msgstr "to actually get our application into the marketplace"
+
+msgid "was straightforward and very self-explanatory."
+msgstr "was straightforward and very self-explanatory."
+
+msgid ""
+"The advertising and access to new users from the web is great through the "
+"Mozilla Marketplace."
+msgstr ""
+"The advertising and access to new users from the web is great through the "
+"Mozilla Marketplace."
+
+msgid "distribute your apps"
+msgstr "distribute your apps"
