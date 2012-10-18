@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-17 10:59-0700\n"
+"POT-Creation-Date: 2012-10-18 04:29-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -409,8 +409,8 @@ msgstr ""
 #: apps/firefox/templates/firefox/mobile/sms-base.html:11
 #: apps/firefox/templates/firefox/mobile/sms-base.html:15
 #: apps/firefox/templates/firefox/mobile/sms-send.html:7
-#: apps/mozorg/templates/mozorg/download_button_large_mobile.html:13
-#: apps/mozorg/templates/mozorg/download_button_mobile_small.html:14
+#: apps/mozorg/templates/mozorg/download_button_large_mobile.html:5
+#: apps/mozorg/templates/mozorg/download_button_mobile_small.html:5
 #: apps/mozorg/templates/mozorg/home.html:58
 msgid "Get Firefox for Android"
 msgstr ""
@@ -1467,21 +1467,21 @@ msgstr ""
 msgid "Thank you!"
 msgstr ""
 
-#: apps/mozorg/templates/mozorg/download_button_base.html:43
+#: apps/mozorg/templates/mozorg/download_button_base.html:49
 msgid "Systems & Languages"
 msgstr ""
 
-#: apps/mozorg/templates/mozorg/download_button_base.html:44
+#: apps/mozorg/templates/mozorg/download_button_base.html:50
 #: apps/mozorg/templates/mozorg/download_button_mobile_base.html:8
 msgid "What’s New"
 msgstr ""
 
-#: apps/mozorg/templates/mozorg/download_button_base.html:45
+#: apps/mozorg/templates/mozorg/download_button_base.html:51
 #: apps/mozorg/templates/mozorg/download_button_mobile_base.html:9
 msgid "Privacy"
 msgstr ""
 
-#: apps/mozorg/templates/mozorg/download_button_large_mobile.html:15
+#: apps/mozorg/templates/mozorg/download_button_large_mobile.html:13
 msgid "Free from the Google Play Store"
 msgstr ""
 
